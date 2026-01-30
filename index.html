@@ -1068,9 +1068,7 @@ async function loadNews() {
     // Ограничено на 150 за брзина - промени на RSS_FEEDS за сите
     const feedsToLoad = RSS_FEEDS.slice(0, 150);
 
-    for (const url of feedsToLoad) {
-        const items = await fetchRSS(url);
-        newsItems.push(...items.slice(0, 4)); // По 4 вести од секој (за разновидност)
+    for (const url of RSS_FEEDS) {
     }
 
     // Сортирај по датум (најнови први)
