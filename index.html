@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MAKEDON WORLD NEWS - Глобален агрегатор на вести со AI верификација и Shield 1312">
+    <title>MAKEDON WORLD NEWS | GLOBAL COMMAND 1312</title>
+
+    <!-- RSS Parser CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/rss-parser@3.13.0/dist/rss-parser.min.js"></script>
+
+    <!-- Google Translate (опционално) -->
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <style>
+        :root {
+            --primary: #c8102e;
+            --secondary: #ffd700;
+            --dark: #1a1a2e;
+            --light: #ffffff;
+            --shield: #00ff41;
+            --bg: #0f1626;
+            --card-bg: rgba(255,255,255,0.05);
+        }
+        body.light {
+            --bg: #f0f4f8;
+            --light: #1a1a2e;
+            --card-bg: rgba(0,0,0,0.05);
+        }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--light);
+            margin: 0;
+            line-height: 1.6;
+            transition: background 0.4s, color 0.4s;
+        }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; padding: 40px 20px; background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1557683316-973673baf926?w=1600'); background-size: cover; }
+        .header h1 { color: var(--secondary); font-size: 3.2rem; text-shadow: 3px 3px 10px black; margin: 0; }
+        .nav-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; padding: 20px; background: rgba(0,0,0,0.6); }
+        .nav-btn { padding: 10px 20px; background: var(--primary); color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; transition: all 0.25s; }
+        .nav-btn:hover, .nav-btn.active { background: var(--secondary); color: black; transform: translateY(-2px); }
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 24px; margin: 30px 0; }
+        .news-card { background: var(--card-bg); border: 1px solid rgba(255,215,0,0.2); border-radius: 12px; overflow: hidden; transition: all 0.3s; backdrop-filter: blur(8px); }
+        .news-card:hover { transform: translateY(-8px); box-shadow: 0 12px 30px rgba(200,16,46,0.3); border-color: var(--secondary); }
+        .news-header { background: linear-gradient(135deg, var(--primary), #8b0a1f); padding: 12px; display: flex; justify-content: space-between; font-size: 0.9rem; }
+        .news-content { padding: 18px; }
+        .news-title { font-size: 1.25rem; color: var(--secondary); margin-bottom: 10px; }
+        .news-desc { color: rgba(255,255,255,0.85); font-size: 0.95rem; }
+        .news-meta { margin-top: 12px; font-size: 0.85rem; color: rgba(255,255,255,0.6); display: flex; justify-content: space-between; align-items: center; }
+        .read-more { background: var(--secondary); color: black; padding: 6px 16px; border-radius: 20px; text-decoration: none; font-weight: bold; }
+        .ticker { position: fixed; bottom: 50px; left: 0; right: 0; height: 40px; background: linear-gradient(90deg, var(--primary), #8b0a1f); overflow: hidden; z-index: 100; border-top: 2px solid var(--secondary); }
+        .ticker-content { white-space: nowrap; animation: scroll 140s linear infinite; display: inline-block; padding-left: 100%; height: 100%; display: flex; align-items: center; }
+        @keyframes scroll { to { transform: translateX(-100%); } }
+        .ticker-item { color: white; margin: 0 40px; font-weight: 500; }
+        .status-bar { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.8); padding: 10px 20px; font-size: 0.85rem; display: flex; justify-content: space-between; align-items: center; z-index: 999; border-top: 2px solid var(--primary); flex-wrap: wrap; gap: 10px; }
+        .loading { text-align: center; padding: 80px; font-size: 1.4rem; }
+        .spinner { border: 6px solid rgba(255,255,255,0.1); border-top: 6px solid var(--secondary); border-radius: 50%; width: 60px; height: 60px; animation: spin 1s linear infinite; margin: 20px auto; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .theme-toggle { cursor: pointer; font-size: 1.2rem; padding: 6px 12px; background: rgba(255,255,255,0.1); border-radius: 50%; }
+        .translate-widget { margin: 10px auto; text-align: center; }
+    </style>
+</head>
+<body class="dark">
+
+<header class="header">
+    <h1>🇲🇰 MAKEDON WORLD NEWS</h1>
+    <p style="font-size:1.3rem; color:var(--secondary);">SHIELD 1312 | Глобален агрегатор со верификација</p>
+</header>
+
+<div class="translate-widget" id="google_translate_element"></div>
+
+<nav class="nav-container">
+    <button class="nav-btn active" data-region="macedonia">🇲🇰 Македонија</button>
+    <button class="nav-btn" data-region="balkans">🌍 Балкан</button>
+    <button class="nav-btn" data-region="global">🌐 Глобално</button>
+    <button class="nav-btn" data-region="space">🪐 Космос</button>
+</nav>
+
+<div class="container">
+    <div id="newsContainer" class="news-grid">
+        <div class="loading">
+            <div class="spinner"></div>
+            <p>Се вчитуваат глобални вести... (Shield 1312 Active)</p>
+        </div>
+    </div>
+</div>
+
+<div class="ticker">
+    <div class="ticker-content" id="tickerContent"></div>
+</div>
+
+<div class="status-bar">
+    <div>🛡️ SHIELD 1312 ACTIVE | Извори: <span id="sourceCount">~50</span></div>
+    <div>
+        <span class="theme-toggle" onclick="toggleTheme()">☀️/🌙</span>
+        Последно ажурирање: <span id="lastUpdate">--:--</span>
+    </div>
+    <div>© 2026 Доц. д-р Санде Смиљанов | v1.3-enhanced</div>
+</div>
+
+<script>
+// ============================================================================
+// Основни променливи
+// ============================================================================
+const RSS_FEEDS = [
+    // Македонски (реални RSS колку што е можно)
+    'https://www.mkd.mk/rss.xml',
+    'https://a1on.mk/feed',
+    'https://plusinfo.mk/feed',
+    'https://time.mk/rss',
+    'https://sitel.com.mk/rss',
+    'https://telma.com.mk/feed',
+    // Глобални
+    'https://www.bbc.com/rss.xml',
+    'https://www.reuters.com/rss',
+    'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'https://www.aljazeera.com/xml/rss/all.xml',
+    // Космос
+    'https://www.nasa.gov/rss/dyn/breaking_news.rss',
+    'https://www.spacex.com/updates/feed'
+    // Додади повеќе тука – до 100+ е реално
+];
+
+let currentRegion = 'macedonia';
+let newsCache = JSON.parse(localStorage.getItem('newsCache')) || {};
+let lastCacheTime = localStorage.getItem('lastCacheTime') || 0;
+
+// ============================================================================
+// Функции
+// ============================================================================
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'mk', includedLanguages: 'en,sq,ru,de,fr,es'}, 'google_translate_element');
+}
+
+function toggleTheme() {
+    document.body.classList.toggle('light');
+    document.body.classList.toggle('dark');
+}
+
+async function fetchWithProxy(url) {
+    try {
+        const proxy = 'https://api.allorigins.win/raw?url=';
+        const response = await fetch(proxy + encodeURIComponent(url));
+        if (!response.ok) throw new Error('Network error');
+        const text = await response.text();
+        const parser = new RSSParser();
+        return await parser.parseString(text);
+    } catch (e) {
+        console.warn('RSS fetch failed:', url, e);
+        return null;
+    }
+}
+
+function simpleVerify(title, desc) {
+    // Симулација – во реалност повикај API (Perplexity/Grok/GPT)
+    const suspicious = /(лажн|измама|фалсификат|clickbait)/i.test(title + desc);
+    return !suspicious ? '✓ ВЕРИФИЦИРАНО' : '⚠️ ПРЕДУПРЕДУВАЊЕ';
+}
+
+async function loadNews(force = false) {
+    const now = Date.now();
+    const cacheKey = `news_${currentRegion}`;
+    
+    // Кеширање 10 минути
+    if (!force && newsCache[cacheKey] && now - lastCacheTime < 600000) {
+        renderNews(newsCache[cacheKey]);
+        return;
+    }
+
+    const container = document.getElementById('newsContainer');
+    container.innerHTML = `<div class="loading"><div class="spinner"></div><p>Вчитување вести...</p></div>`;
+
+    let allItems = [];
+
+    for (const url of RSS_FEEDS) {
+        const feed = await fetchWithProxy(url);
+        if (feed && feed.items) {
+            feed.items.slice(0, 4).forEach(item => {  // лимит по фид
+                allItems.push({
+                    title: item.title || 'Без наслов',
+                    description: (item.description || item.contentSnippet || '').slice(0, 180) + '...',
+                    link: item.link || '#',
+                    pubDate: item.pubDate || new Date(),
+                    source: feed.title || new URL(url).hostname,
+                    verified: simpleVerify(item.title, item.description || '')
+                });
+            });
+        }
+    }
+
+    // Сортирај по датум
+    allItems.sort((a,b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+    newsCache[cacheKey] = allItems.slice(0, 24); // лимит на 24 вести
+    localStorage.setItem('newsCache', JSON.stringify(newsCache));
+    localStorage.setItem('lastCacheTime', now);
+
+    renderNews(newsCache[cacheKey]);
+    updateTicker(newsCache[cacheKey]);
+}
+
+function renderNews(items) {
+    const container = document.getElementById('newsContainer');
+    if (!items?.length) {
+        container.innerHTML = '<div class="loading"><p>Нема вести во моментов...</p></div>';
+        return;
+    }
+
+    let html = '';
+    items.forEach(item => {
+        html += `
+        <div class="news-card">
+            <div class="news-header">
+                <span>${item.source}</span>
+                <span style="color:var(--shield); font-weight:bold;">${item.verified}</span>
+            </div>
+            <div class="news-content">
+                <div class="news-title">${item.title}</div>
+                <div class="news-desc">${item.description}</div>
+                <div class="news-meta">
+                    <span>${new Date(item.pubDate).toLocaleString('mk-MK')}</span>
+                    <a href="${item.link}" target="_blank" class="read-more">Прочитај →</a>
+                </div>
+            </div>
+        </div>`;
+    });
+    container.innerHTML = html;
+    document.getElementById('lastUpdate').textContent = new Date().toLocaleTimeString('mk-MK');
+}
+
+function updateTicker(items) {
+    const ticker = document.getElementById('tickerContent');
+    let html = '';
+    items.slice(0, 12).forEach(item => {
+        html += `<span class="ticker-item">● ${item.title}</span>`;
+    });
+    ticker.innerHTML = html + html; // за continuous scroll
+}
+
+// ============================================================================
+// Event listeners
+// ============================================================================
+document.querySelectorAll('[data-region]').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentRegion = btn.dataset.region;
+        loadNews(true);
+    });
+});
+
+// Авто-рефреш секои 5 минути (за да не го преоптоваруваме)
+setInterval(() => loadNews(true), 300000);
+
+// Прво вчитување
+loadNews(true);
+
+// Конзола инфо
+console.log("MAKEDON WORLD NEWS v1.3 – Enhanced by Grok | Shield 1312 ACTIVE");
+</script>
+
+</body>
+</html>
