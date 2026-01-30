@@ -5,41 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MAKEDON WORLD NEWS | GLOBAL COMMAND 1312</title>
     <style>
-        :root {
-            --primary: #c8102e;
-            --secondary: #ffd700;
-            --dark: #0f1626;
-            --light: #ffffff;
-            --shield: #00ff41;
-            --bg: var(--dark);
-        }
-        body.light { --bg: #f4f7fc; --light: #0f1626; }
-        body {
-            margin: 0; font-family: system-ui, sans-serif;
-            background: var(--bg); color: var(--light);
-            transition: all 0.4s;
-        }
-        .header { text-align: center; padding: 40px 20px; background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.4)), url('https://images.unsplash.com/photo-1557683316-973673baf926'); background-size: cover; }
-        .header h1 { color: var(--secondary); font-size: 3rem; margin: 0; text-shadow: 2px 2px 8px black; }
-        .nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 15px; background: rgba(0,0,0,0.6); }
-        .nav button { padding: 10px 18px; background: var(--primary); color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; }
-        .nav button.active, .nav button:hover { background: var(--secondary); color: black; }
-        .categories { padding: 20px; text-align: center; }
-        .categories button { margin: 6px; padding: 10px 16px; background: rgba(255,255,255,0.1); border: 1px solid var(--secondary); color: white; border-radius: 6px; cursor: pointer; }
-        .categories button.active { background: var(--secondary); color: black; }
-        .social, .ai { padding: 20px; text-align: center; }
-        .social button, .ai button { margin: 8px; padding: 12px 20px; border: none; border-radius: 8px; color: white; cursor: pointer; font-weight: bold; }
-        .fb { background: #1877f2; } .insta { background: #e1306c; } .x { background: #000; } .yt { background: #ff0000; }
-        .grok { background: #00ff9f; color: black; }
-        .service { max-width: 500px; margin: 30px auto; padding: 20px; background: rgba(255,255,255,0.08); border-radius: 12px; border: 1px solid var(--secondary); }
-        .service input, .service textarea { width: 100%; padding: 10px; margin: 8px 0; border-radius: 6px; border: 1px solid #666; background: rgba(255,255,255,0.1); color: white; }
-        .service button { width: 100%; padding: 12px; background: var(--secondary); color: black; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; }
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; padding: 20px; }
-        .card { background: rgba(255,255,255,0.08); border: 1px solid rgba(255,215,0,0.3); border-radius: 10px; padding: 16px; }
-        .ticker { position: fixed; bottom: 50px; left: 0; right: 0; height: 36px; background: var(--primary); overflow: hidden; white-space: nowrap; }
-        .ticker span { color: white; padding: 0 40px; font-weight: 500; }
-        .status { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.8); padding: 10px; text-align: center; font-size: 0.9rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
-        .theme { cursor: pointer; font-size: 1.2rem; padding: 0 12px; }
+        :root { --primary:#c8102e; --secondary:#ffd700; --dark:#0f1626; --light:#ffffff; --shield:#00ff41; --bg:var(--dark); }
+        body.light { --bg:#f0f4f8; --light:#0f1626; }
+        body { margin:0; font-family:system-ui,sans-serif; background:var(--bg); color:var(--light); transition:all .4s; line-height:1.5; }
+        .header { text-align:center; padding:50px 20px; background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.4)),url('https://images.unsplash.com/photo-1557683316-973673baf926'); background-size:cover; }
+        .header h1 { color:var(--secondary); font-size:3.2rem; margin:0; text-shadow:3px 3px 10px black; }
+        .nav, .cats, .social, .ai { padding:20px; text-align:center; }
+        .nav button, .cats button, .social button, .ai button { margin:6px; padding:10px 18px; border:none; border-radius:6px; cursor:pointer; font-weight:bold; color:white; }
+        .nav button { background:var(--primary); }
+        .nav button.active, .nav button:hover { background:var(--secondary); color:black; }
+        .cats button { background:rgba(255,255,255,.1); border:1px solid var(--secondary); }
+        .cats button.active { background:var(--secondary); color:black; }
+        .social .fb { background:#1877f2; } .social .insta { background:#e1306c; } .social .x { background:#000; } .social .yt { background:#ff0000; }
+        .ai .grok { background:#00ff9f; color:black; }
+        .form-card { max-width:500px; margin:30px auto; padding:25px; background:rgba(255,255,255,.08); border-radius:12px; border:1px solid var(--secondary); }
+        .form-card input, .form-card textarea { width:100%; padding:12px; margin:10px 0; border-radius:6px; border:1px solid #666; background:rgba(255,255,255,.1); color:var(--light); }
+        .form-card button { width:100%; padding:14px; background:var(--secondary); color:black; border:none; border-radius:6px; font-weight:bold; cursor:pointer; }
+        .news-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); gap:20px; padding:20px; }
+        .card { background:rgba(255,255,255,.08); border:1px solid rgba(255,215,0,.3); border-radius:10px; padding:18px; transition:transform .2s; }
+        .card:hover { transform:translateY(-6px); }
+        .card h3 { color:var(--secondary); margin:0 0 10px; }
+        .ticker { position:fixed; bottom:50px; left:0; right:0; height:38px; background:var(--primary); overflow:hidden; white-space:nowrap; line-height:38px; font-weight:500; }
+        .ticker span { display:inline-block; padding:0 60px; color:white; }
+        .status { position:fixed; bottom:0; left:0; right:0; background:rgba(0,0,0,.85); padding:12px 20px; font-size:.95rem; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; border-top:2px solid var(--primary); }
+        .theme { cursor:pointer; font-size:1.3rem; padding:4px 10px; background:rgba(255,255,255,.1); border-radius:50%; }
     </style>
 </head>
 <body class="dark">
@@ -49,90 +38,102 @@
     <p>SHIELD 1312 | Глобален агрегатор со верификација</p>
 </header>
 
-<div id="google_translate_element" style="text-align:center; padding:10px;"></div>
+<div id="google_translate_element" style="text-align:center;padding:10px;"></div>
 <script>function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'mk'},'google_translate_element');}</script>
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <nav class="nav">
-    <button class="active" onclick="setRegion('mk')">🇲🇰 Македонија</button>
-    <button onclick="setRegion('eu')">🇪🇺 Европа</button>
-    <button onclick="setRegion('us')">🇺🇸 Америка</button>
-    <button onclick="setRegion('asia')">🌏 Азија</button>
-    <button onclick="setRegion('global')">🌐 Глобално</button>
+    <button class="active" data-reg="mk">🇲🇰 Македонија</button>
+    <button data-reg="eu">🇪🇺 Европа</button>
+    <button data-reg="us">🇺🇸 Америка</button>
+    <button data-reg="asia">🌏 Азија</button>
+    <button data-reg="global">🌐 Глобално</button>
 </nav>
 
-<div class="categories">
+<div class="cats">
     <h3>Рубрики</h3>
-    <button class="active" onclick="filterCat('all')">Сите</button>
-    <button onclick="filterCat('politics')">Политика</button>
-    <button onclick="filterCat('economy')">Економија</button>
-    <button onclick="filterCat('security')">Безбедност</button>
-    <button onclick="filterCat('sport')">Спорт</button>
-    <button onclick="filterCat('science')">Наука</button>
+    <button class="active" data-cat="all">Сите</button>
+    <button data-cat="politics">Политика</button>
+    <button data-cat="economy">Економија</button>
+    <button data-cat="security">Безбедност</button>
+    <button data-cat="sport">Спорт</button>
+    <button data-cat="science">Наука</button>
 </div>
 
 <div class="social">
     <h3>Социјални мрежи</h3>
-    <button class="fb" onclick="window.open('https://facebook.com','_blank')">Facebook</button>
-    <button class="insta" onclick="window.open('https://instagram.com','_blank')">Instagram</button>
+    <button class="fb" onclick="window.open('https://www.facebook.com','_blank')">Facebook</button>
+    <button class="insta" onclick="window.open('https://www.instagram.com','_blank')">Instagram</button>
     <button class="x" onclick="window.open('https://x.com','_blank')">X</button>
-    <button class="yt" onclick="window.open('https://youtube.com','_blank')">YouTube</button>
+    <button class="yt" onclick="window.open('https://www.youtube.com','_blank')">YouTube</button>
 </div>
 
 <div class="ai">
     <h3>Вештачка Интелигенција</h3>
-    <button onclick="window.open('https://grok.x.ai','_blank')" class="grok">Grok</button>
+    <button class="grok" onclick="window.open('https://grok.x.ai','_blank')">Grok</button>
     <button onclick="window.open('https://chat.openai.com','_blank')">ChatGPT</button>
     <button onclick="window.open('https://gemini.google.com','_blank')">Gemini</button>
     <button onclick="window.open('https://claude.ai','_blank')">Claude</button>
 </div>
 
-<div class="service">
-    <h3>Makedon Mail / Messenger (симулација)</h3>
+<div class="form-card">
+    <h3>Makedon Messenger / Mail (1312)</h3>
     <input id="to" placeholder="До: име@1312.mk">
-    <input id="subject" placeholder="Наслов">
-    <textarea id="body" placeholder="Порака..."></textarea>
-    <button onclick="sendMail()">Испрати</button>
+    <input id="subject" placeholder="Наслов (опционално)">
+    <textarea id="body" rows="5" placeholder="Вашата порака..."></textarea>
+    <button onclick="sendMsg()">Испрати (Shield 1312)</button>
 </div>
 
-<div class="news-grid" id="news"></div>
+<div class="news-grid" id="newsGrid"></div>
 
-<div class="ticker" id="ticker"><span>● Добредојдовте во MAKEDON WORLD NEWS ● Shield 1312 Active ● Глобални вести во реално време ●</span></div>
+<div class="ticker"><span id="tickerText">● Добредојдовте во MAKEDON WORLD NEWS ● Shield 1312 Active ● Глобални вести 24/7 ● Дипломатија • Безбедност • Економија ● ●</span></div>
 
 <div class="status">
-    <div>🛡️ SHIELD 1312 ACTIVE</div>
+    <div>🛡️ SHIELD 1312 ACTIVE | Извори: 100+</div>
     <div><span class="theme" onclick="document.body.classList.toggle('light')">☀️/🌙</span> © 2026 Доц. д-р Санде Смиљанов</div>
 </div>
 
 <script>
 const sampleNews = [
-    {title:"Нов договор со ЕУ", cat:"politics", region:"eu", desc:"Македонија потпиша стратешки договор..."},
-    {title:"Раст на БДП 4.1%", cat:"economy", region:"mk", desc:"Економијата бележи стабилен раст..."},
-    {title:"НАТО вежба на југ", cat:"security", region:"mk", desc:"Засилени безбедносни мерки..."},
-    {title:"Златен медал во пливање", cat:"sport", region:"global", desc:"Македонски спортист триумфира..."}
+    {title:"Дипломатска посета од Брисел", cat:"politics", reg:"eu", desc:"Висока делегација на ЕУ во Скопје за нови преговори..."},
+    {title:"Раст на извозот за 12%", cat:"economy", reg:"mk", desc:"Македонските компании бележат рекордни резултати во 2026..."},
+    {title:"Засилени гранични контроли", cat:"security", reg:"mk", desc:"МВР воведува нови мерки поради регионални ризици..."},
+    {title:"Златен медал на Европско", cat:"sport", reg:"global", desc:"Македонска репрезентација триумфира во пливање..."},
+    {title:"Нов лек против вирус X", cat:"science", reg:"global", desc:"Македонски научници дел од меѓународен тим..."}
 ];
 
-function setRegion(r) { document.querySelectorAll('.nav button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active'); render(sampleNews); }
-function filterCat(c) { document.querySelectorAll('.categories button').forEach(b=>b.classList.remove('active')); event.target.classList.add('active'); render(sampleNews); }
-
-function render(items) {
+function renderNews() {
+    const grid = document.getElementById('newsGrid');
     let html = '';
-    items.forEach(n=>{
-        html += `<div class="card"><h3>${n.title}</h3><p>${n.desc}</p><small>${n.cat} • ${n.region}</small></div>`;
+    sampleNews.forEach(n => {
+        html += `<div class="card"><h3>${n.title}</h3><p>${n.desc}</p><small>${n.cat.toUpperCase()} • ${n.reg.toUpperCase()}</small></div>`;
     });
-    document.getElementById('news').innerHTML = html || '<p style="text-align:center;padding:40px;">Нема вести за избраното (уште)</p>';
+    grid.innerHTML = html;
 }
 
-function sendMail() {
-    const to = document.getElementById('to').value;
-    const sub = document.getElementById('subject').value;
-    const body = document.getElementById('body').value;
-    if (!to || !body) return alert('Пополни ги полињата!');
-    alert(`✅ Испратено!\nДо: ${to}\nНаслов: ${sub}\nПорака: ${body}\n\n(Shield 1312 енкрипција активна)`);
-    document.getElementById('to').value = ''; document.getElementById('subject').value = ''; document.getElementById('body').value = '';
+function sendMsg() {
+    const to = document.getElementById('to').value.trim();
+    const body = document.getElementById('body').value.trim();
+    if (!to || !body) return alert('Пополни „До“ и „Порака“!');
+    alert(`✅ Порака испратена преку Shield 1312!\n\nДо: ${to}\nНаслов: ${document.getElementById('subject').value || '(без наслов)'}\nПорака: ${body}`);
+    document.getElementById('to').value = '';
+    document.getElementById('subject').value = '';
+    document.getElementById('body').value = '';
 }
 
-render(sampleNews); // почетно
+// Event listeners за филтри (опционално прошири подоцна)
+document.querySelectorAll('[data-reg]').forEach(btn => btn.onclick = () => {
+    document.querySelectorAll('.nav button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderNews(); // за сега само refresh
+});
+document.querySelectorAll('[data-cat]').forEach(btn => btn.onclick = () => {
+    document.querySelectorAll('.cats button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderNews();
+});
+
+renderNews(); // старт
 </script>
 </body>
 </html>
