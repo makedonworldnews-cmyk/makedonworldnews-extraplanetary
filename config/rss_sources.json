@@ -1,16 +1,9 @@
 {
   "last_modified": "2025-02-01",
-  "description": "Конфигурација на RSS извори за Makedon World News.",
+  "description": "Основна конфигурација на извори за Makedon World News.",
   "rss_sources": [
     {
       "url": "https://makfax.com.mk/rss/",
-      "region": "🏔️ Балкан",
-      "category": "Локални Вести",
-      "language": "mk",
-      "country": "Македонија"
-    },
-    {
-      "url": "https://time.mk/rss/all",
       "region": "🏔️ Балкан",
       "category": "Локални Вести",
       "language": "mk",
@@ -22,20 +15,6 @@
       "category": "Меѓународни Вести",
       "language": "en",
       "country": "ВБ"
-    },
-    {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "region": "🌍 Свет",
-      "category": "Меѓународни Вести",
-      "language": "en",
-      "country": "САД"
-    },
-    {
-      "url": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
-      "region": "🌍 Свет",
-      "category": "Меѓународни Вести",
-      "language": "en",
-      "country": "Меѓународна"
     }
   ]
 }
