@@ -339,6 +339,8 @@ function showSystemActivation() {
     // Ја задржувам за компатибилност доколку некој друг код повикува
     resetAllFilters();
 }
+    // Ресетирај ги страниците при нов филтер
+    currentPage = 1;
 function resetAllFilters() {
     // Ресетирај го бескрајното лизгање
     resetInfiniteScroll();
