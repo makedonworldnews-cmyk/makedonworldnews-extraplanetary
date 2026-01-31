@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser pytz requests
+        run: pip install feedparser pytz requests beautifulsoup4
 
       - name: Run RSS Fetcher
         run: python scripts/rss_fetcher.py
