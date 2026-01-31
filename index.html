@@ -1572,5 +1572,38 @@
             alert(`🔄 ${title}\n\n${message}`);
         }
     </script>
+    <!-- ===== RSS NEWS CONTAINER ===== -->
+<section style="padding: 2rem; background: #f8fafc; border-radius: 16px; margin-top: 3rem;">
+    <h2 style="color: #1e40af; border-bottom: 3px solid #3b82f6; padding-bottom: 0.5rem;">
+        🌐 RSS ВЕСТИ ВО ЖИВО
+    </h2>
+    
+    <div style="display: flex; gap: 2rem; background: white; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0; font-size: 0.95rem;">
+        <div style="flex: 1;">
+            <strong>📊 Статус на системот:</strong><br>
+            <span class="system-status status-active">АКТИВЕН</span>
+        </div>
+        <div style="flex: 1;">
+            <strong>📰 Вкупно вести:</strong><br>
+            <span id="article-count">Се вчитува...</span>
+        </div>
+        <div style="flex: 2;">
+            <strong>🕐 Последно ажурирање:</strong><br>
+            <span id="last-update-time">Се вчитува...</span>
+        </div>
+    </div>
+    
+    <!-- NEWS WILL APPEAR HERE AUTOMATICALLY -->
+    <div id="rss-news-live">
+        <p style="text-align: center; padding: 3rem; color: #64748b;">
+            ⏳ Системот се иницијализира и ги вчитува најновите вести...
+        </p>
+    </div>
+</section>
+
+<!-- ===== LINK TO OUR NEW JS & CSS FILES ===== -->
+<!-- Add these lines RIGHT BEFORE the closing </body> tag -->
+<link rel="stylesheet" href="assets/style.css">
+<script src="assets/app.js"></script>
 </body>
 </html>
