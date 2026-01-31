@@ -172,7 +172,7 @@ function showAllNews() {
     }, 300);
 }
 
-// 8. Ресетирање на сите филтри
+// 8. Ресетирање на сите филтри (АЖУРИРАНА ВЕРЗИЈА - БЕЗ автоматско враќање на Балкан)
 function resetAllFilters() {
     // Ресетирај го бескрајното лизгање
     resetInfiniteScroll();
@@ -188,6 +188,7 @@ function resetAllFilters() {
     appState.activeTopic = null;
     appState.activeRegion = null;
     
+    // ПО ПРОМЕНА: Само прикажи ги сите вести, НЕ враќај го автоматски филтерот на Балкан
     showAllNews();
     
     alert('Сите системи се активирани! Филтрите се ресетирани.');
