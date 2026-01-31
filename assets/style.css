@@ -202,3 +202,11 @@
 .news-card {
     animation: fadeIn 0.5s ease-out;
 }
+/* Мазна анимација при промена на филтер */
+.rss-item {
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.rss-item.filtered-out {
+    opacity: 0.3;
+    transform: scale(0.98);
+}
