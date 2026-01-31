@@ -1,63 +1,68 @@
 {
-  "last_modified": "2024-01-31",
-  "description": "Конфигурација на RSS извори за Makedon World News. Додајте, одземете или уредете ги линковите подолу.",
+{
+  "last_modified": "2025-02-01",
+  "description": "Глобална конфигурација на RSS извори за Makedon World News. Фаза 1.",
   "rss_sources": [
+    // === Македонски и регионални извори (Основа) ===
     {
       "url": "https://makfax.com.mk/rss/",
       "region": "🏔️ Балкан",
-      "category": "Новости",
+      "category": "Локални Вести",
       "language": "mk",
       "country": "Македонија"
     },
     {
-      "url": "https://time.mk/rss/",
-      "region": "🏔️ Балкан", 
-      "category": "Новости",
-      "language": "mk",
-      "country": "Македонија"
-    },
-    {
-      "url": "https://plusinfo.mk/feed/",
+      "url": "https://time.mk/rss/all",
       "region": "🏔️ Балкан",
-      "category": "Новости",
+      "category": "Локални Вести",
       "language": "mk",
       "country": "Македонија"
     },
+    // === Глобални вести (Клучни светски медиуми) ===
     {
-      "url": "http://www.mia.mk/rss/",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "language": "mk",
-      "country": "Македонија"
-    },
-    {
-      "url": "https://ba.ba.ba.rss/",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "language": "sr",
-      "country": "Србија",
-      "note": "Пример за регионален извор - заменете со валиден RSS"
-    },
-    {
-      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "🌍 World",
-      "category": "Новости",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "🌍 Свет",
+      "category": "Меѓународни Вести",
       "language": "en",
-      "country": "Меѓународни"
-    },
-    {
-      "url": "https://feeds.nos.nl/nosjournaal",
-      "region": "🇪🇺 Европа",
-      "category": "Новости", 
-      "language": "nl",
-      "country": "Холандија"
+      "country": "ВБ"
     },
     {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "region": "🌎 Америка",
-      "category": "Новости",
+      "region": "🌍 Свет",
+      "category": "Меѓународни Вести",
+      "language": "en",
+      "country": "САД"
+    },
+    {
+      "url": "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best",
+      "region": "🌍 Свет",
+      "category": "Меѓународни Вести",
+      "language": "en",
+      "country": "Меѓународна"
+    },
+    // === Вести за технологија и AI (Од вашата листа) ===
+    {
+      "url": "https://openai.com/rss",
+      "region": "🤖 Технологија",
+      "category": "Вештачка Интелигенција",
+      "language": "en",
+      "country": "САД"
+    },
+    {
+      "url": "https://ai.google/rss",
+      "region": "🤖 Технологија",
+      "category": "Вештачка Интелигенција",
+      "language": "en",
+      "country": "САД"
+    },
+    {
+      "url": "https://www.anthropic.com/rss",
+      "region": "🤖 Технологија",
+      "category": "Вештачка Интелигенција",
       "language": "en",
       "country": "САД"
     }
+    // Овде можете полека да додавате повеќе извори од вашата листа...
   ]
+}
 }
