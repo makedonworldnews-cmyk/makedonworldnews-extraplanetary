@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-01-31 20:36:49",
+  "last_updated": "2026-01-31 20:50:47",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Експлозии пријавени низ Иран",
+      "summary": "Неколку експлозии се пријавени нво Иран денеска, во услови на зголемени стравувања од војна во регионот, јави ДПА. Во пристанишниот град Бандар Абас, ...",
+      "link": "https://makfax.com.mk/svet/%d0%b5%d0%ba%d1%81%d0%bf%d0%bb%d0%be%d0%b7%d0%b8%d0%b8-%d0%bf%d1%80%d0%b8%d1%98%d0%b0%d0%b2%d0%b5%d0%bd%d0%b8-%d0%bd%d0%b8%d0%b7-%d0%b8%d1%80%d0%b0%d0%bd/",
+      "published": "Sat, 31 Jan 2026 19:49:54 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-01-31 20:50:47",
+      "language": "unknown"
+    },
     {
       "title": "Македонија против Украина или Словачка во баражот за СП",
       "summary": "Ракометната репрезентација на Македонија добро помина на ждрепката, која ги одреди двојките за баражот, за пласман на Светското првенство. Македонија ...",
@@ -10,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -21,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -32,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -43,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -54,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -98,18 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
-      "language": "unknown"
-    },
-    {
-      "title": "Тошковски денеска на Пониква ги посетил децата и семејствата на загинатите бранители",
-      "summary": "Министерот за внатрешни работи, Панче Тошковски денеска ги посетил децата и семејствата на загинатите бранители кои традиционално во овој период прест...",
-      "link": "https://makfax.com.mk/makedonija/%d1%82%d0%be%d1%88%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%b4%d0%b5%d0%bd%d0%b5%d1%81%d0%ba%d0%b0-%d0%bd%d0%b0-%d0%bf%d0%be%d0%bd%d0%b8%d0%ba%d0%b2%d0%b0-%d0%b3%d0%b8-%d0%bf%d0%be%d1%81%d0%b5%d1%82/",
-      "published": "Sat, 31 Jan 2026 15:14:17 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -120,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
+      "language": "unknown"
+    },
+    {
+      "title": "Federal judge denies request to block ICE surge in Minnesota",
+      "summary": "A judge said ICE activity could have \"heartbreaking\" effects but said the state hadn't proven its case.",
+      "link": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Jan 2026 18:21:58 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-01-31 20:50:47",
+      "language": "unknown"
+    },
+    {
+      "title": "Five killed in gas explosions in Iran, officials say",
+      "summary": "A four-year-old is among the dead after separate blasts were reported on Saturday.",
+      "link": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Jan 2026 19:31:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -153,29 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
-      "language": "unknown"
-    },
-    {
-      "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
-      "summary": "Analysts believe PM Netanyahu is urging the US towards maximalist strikes.",
-      "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Jan 2026 12:52:08 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
-      "language": "unknown"
-    },
-    {
-      "title": "US government partially shuts down despite last minute funding deal",
-      "summary": "The soonest the US House of Representatives can vote on the funding deal and end the shutdown is Monday.",
-      "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Jan 2026 05:10:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
+      "language": "unknown"
+    },
+    {
+      "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
+      "summary": "Analysts believe PM Netanyahu is urging the US towards maximalist strikes.",
+      "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Jan 2026 12:52:08 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
@@ -197,29 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     },
     {
-      "title": "Israel split over plans to bring back death penalty for deadly attacks",
-      "summary": "In a highly controversial move, some Israeli MPs are trying to introduce the death penalty for Palestinian attackers.",
-      "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Jan 2026 06:09:39 GMT",
+      "title": "US government partially shuts down despite last minute funding deal",
+      "summary": "The soonest the US House of Representatives can vote on the funding deal and end the shutdown is Monday.",
+      "link": "https://www.bbc.com/news/articles/ce8rk33dpvmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Jan 2026 05:10:27 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
-      "language": "unknown"
-    },
-    {
-      "title": "Iran wants to make deal rather than face military action, Trump says",
-      "summary": "Tehran has said it will never negotiate on its missile and defence systems, but that it is open to talks.",
-      "link": "https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Jan 2026 21:43:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-01-31 20:36:49",
+      "fetched_at": "2026-01-31 20:50:47",
       "language": "unknown"
     }
   ]
