@@ -189,7 +189,6 @@ function resetAllFilters() {
     appState.activeRegion = null;
     
     showAllNews();
-    initializeDefaultFilters();
     
     alert('Сите системи се активирани! Филтрите се ресетирани.');
 }
