@@ -199,7 +199,28 @@ function updateNewsCounter() {
         counterElement.textContent = visibleNewsCount;
     }
 }
+// НОВА ФУНКЦИЈА ЗА СОЦИЈАЛНИ МРЕЖИ
+function showSocial(network) {
+    let url;
+    switch(network) {
+        case 'twitter':
+        case 'x':
+            url = 'https://x.com/makedonworldnew';
+            break;
+        // ... и сите други case-ови што ги дадов ...
+        default:
+            alert('Линкот за оваа мрежа сè уште не е конфигуриран.');
+            return;
+    }
+    if (url) {
+        window.open(url, '_blank');
+    }
+}
 
+// (Опционално) 10. Функција за симулирање на акцијата "showSystemActivation"
+function showSystemActivation() {
+    resetAllFilters();
+}
 // (Опционално) 10. Функција за симулирање на акцијата "showSystemActivation"
 function showSystemActivation() {
     // Оваа функција е заменета со resetAllFilters
