@@ -252,7 +252,82 @@ window.addEventListener('scroll', function() {
 document.addEventListener('DOMContentLoaded', function() {
     // ... вашиот постоечки код ...
     loadMoreNews(); // Додади го ова на крајот од постоечкиот DOMContentLoaded
-});
+});// ============================================
+// СИСТЕМ ЗА БЕСКРАЈНО ЛИЗГАЊЕ (INFINITE SCROLL)
+// ============================================
+
+let currentPage = 1;
+const itemsPerPage = 25; // Колку вести се вчитуваат секој пат
+let isLoading = false;   // За да не се вчитуваат повеќе страници истовремено
+
+// Функција за вчитување и приказ на следната страница со вести
+function loadNextPage() {
+    // Ако веќе се вчитува или нема повеќе вести, не прави ништо
+    if (isLoading) return;
+    if ((currentPage - 1) * itemsPerPage >= appState.allNewsItems.length) {
+        // Може да се додаде порака "Нема повеќе вести"
+        console.log('Сите вести се вчитани.');
+        return;
+    }
+    
+    isLoading = true;
+    // Симулирај мала забава за подобро корисничко искуство
+    setTimeout(() => {
+        // Пресметај кои вести да се прикажат
+        const startIndex = (currentPage - 1) * itemsPerPage;
+        const endIndex = startIndex + itemsPerPage;
+        const nextItems = appState.allNewsItems.slice(startIndex, endIndex);
+        
+        // Прикажи ги следните вести
+        nextItems.forEach(item => {
+            item.style.display = 'block';
+        });
+        
+        // Ажурирај го бројачот на видливи вести
+        updateNewsCounter();
+        
+        currentPage++;
+        isLoading = false;
+        console.log(`Вчитана страница ${currentPage - 1}. Вкупно прикажано: ${Math.min(currentPage * itemsPerPage, appState.allNewsItems.length)} вести.`);
+    }, 300); // 300ms забава за "реално" чувство
+}
+
+// Функција за откривање кога корисникот стигнал до дното на страницата
+function setupInfiniteScroll() {
+    // Додади слушач за scroll настан
+    window.addEventListener('scroll', function() {
+        // Пресметка: дали корисникот е близу до дното?
+        const scrollPosition = window.innerHeight + window.scrollY;
+        const pageHeight = document.documentElement.scrollHeight;
+        const threshold = 500; // Почни да вчитуваш кога е на 500px од дното
+        
+        if (pageHeight - scrollPosition < threshold) {
+            loadNextPage();
+        }
+    });
+    
+    // Вчитај ја првата страница веднаш по вчитување
+    loadNextPage();
+}
+
+// Функција за ресетирање на бескрајното лизгање при промена на филтер
+function resetInfiniteScroll() {
+    currentPage = 1;
+    // Прво скриј ги сите вести
+    appState.allNewsItems.forEach(item => {
+        item.style.display = 'none';
+    });
+    // Потоа вчитај ги првите повторно
+    loadNextPage();
+}
+
+// ============================================
+// АКТИВИРАЈ ГО СИСТЕМОТ ЗА БЕСКРАЈНО ЛИЗГАЊЕ
+// ============================================
+
+// Додади ја иницијализацијата во главниот DOMContentLoaded слушач
+// НАЈДЕТЕ ГО ВАШИОТ ПОСТОЕЧКИ 'DOMContentLoaded' слушач и ДОДАДЕТЕ ЈА ОВАА ЛИНИЈА НА КРАЈ ОД НЕГО:
+// setupInfiniteScroll();
 // (Опционално) 10. Функција за симулирање на акцијата "showSystemActivation"
 function showSystemActivation() {
     resetAllFilters();
