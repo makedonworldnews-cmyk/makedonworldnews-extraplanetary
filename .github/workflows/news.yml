@@ -1,0 +1,38 @@
+name: Fetch RSS News
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs at the start of every hour (e.g., 1:00, 2:00...)
+  workflow_dispatch:      # Allows manual triggering
+  push:
+    branches: [ main ]
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser pytz requests
+
+      - name: Run RSS Fetcher
+        run: python scripts/rss_fetcher.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m "🤖 Auto-update: Latest RSS news feed" || echo "No changes to commit"
+          git push
