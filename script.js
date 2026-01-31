@@ -339,3 +339,7 @@ function showSystemActivation() {
     // Ја задржувам за компатибилност доколку некој друг код повикува
     resetAllFilters();
 }
+function resetAllFilters() {
+    // Ресетирај го бескрајното лизгање
+    resetInfiniteScroll();
+    // ... останатиот постоечки код ...
