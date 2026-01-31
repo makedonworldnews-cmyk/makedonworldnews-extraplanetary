@@ -305,7 +305,8 @@ function setupInfiniteScroll() {
             loadNextPage();
         }
     });
-    
+    // Активирај бескрајно лизгање
+setupInfiniteScroll();
     // Вчитај ја првата страница веднаш по вчитување
     loadNextPage();
 }
