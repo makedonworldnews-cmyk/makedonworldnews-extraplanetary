@@ -15,6 +15,27 @@
       "category": "Меѓународни Вести",
       "language": "en",
       "country": "ВБ"
+      {
+  "url": "http://www.xinhuanet.com/english/rss/world.xml",
+  "region": "🌏 Азија (Кина)",
+  "category": "Меѓународни Вести",
+  "language": "en",
+  "country": "Кина"
+},
+{
+  "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+  "region": "🇮🇳 Индија",
+  "category": "Најнови Вести",
+  "language": "en",
+  "country": "Индија"
+},
+{
+  "url": "https://allafrica.com/tools/headlines/rss.cgi?country=et",
+  "region": "🌍 Африка",
+  "category": "Локални Вести",
+  "language": "en",
+  "country": "Етиопија"
+}
     }
   ]
 }
