@@ -216,7 +216,43 @@ function showSocial(network) {
         window.open(url, '_blank');
     }
 }
+// Настройки за бескрајно скролување
+let currentPage = 1;
+const itemsPerPage = 20;
 
+// Функција за вчитување на следната страница
+function loadMoreNews() {
+    // Пресметај кои вести да се прикажат
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
+    const itemsToShow = appState.allNewsItems.slice(startIndex, endIndex);
+    
+    // Прикажи ги тие вести
+    itemsToShow.forEach(item => {
+        item.style.display = 'block';
+    });
+    
+    // Ажурирај го бројачот
+    updateNewsCounter();
+    currentPage++;
+}
+
+// Детектирај кога корисникот стигнал до дното
+window.addEventListener('scroll', function() {
+    const scrollPosition = window.scrollY + window.innerHeight;
+    const pageHeight = document.documentElement.scrollHeight;
+    
+    // Ако е близу до дното (на 100 пиксели), вчитај повеќе
+    if (pageHeight - scrollPosition < 100) {
+        loadMoreNews();
+    }
+});
+
+// При старт, вчитај ја првата страница
+document.addEventListener('DOMContentLoaded', function() {
+    // ... вашиот постоечки код ...
+    loadMoreNews(); // Додади го ова на крајот од постоечкиот DOMContentLoaded
+});
 // (Опционално) 10. Функција за симулирање на акцијата "showSystemActivation"
 function showSystemActivation() {
     resetAllFilters();
