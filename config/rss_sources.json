@@ -1,0 +1,63 @@
+{
+  "last_modified": "2024-01-31",
+  "description": "Конфигурација на RSS извори за Makedon World News. Додајте, одземете или уредете ги линковите подолу.",
+  "rss_sources": [
+    {
+      "url": "https://makfax.com.mk/rss/",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "language": "mk",
+      "country": "Македонија"
+    },
+    {
+      "url": "https://time.mk/rss/",
+      "region": "🏔️ Балкан", 
+      "category": "Новости",
+      "language": "mk",
+      "country": "Македонија"
+    },
+    {
+      "url": "https://plusinfo.mk/feed/",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "language": "mk",
+      "country": "Македонија"
+    },
+    {
+      "url": "http://www.mia.mk/rss/",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "language": "mk",
+      "country": "Македонија"
+    },
+    {
+      "url": "https://ba.ba.ba.rss/",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "language": "sr",
+      "country": "Србија",
+      "note": "Пример за регионален извор - заменете со валиден RSS"
+    },
+    {
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "🌍 World",
+      "category": "Новости",
+      "language": "en",
+      "country": "Меѓународни"
+    },
+    {
+      "url": "https://feeds.nos.nl/nosjournaal",
+      "region": "🇪🇺 Европа",
+      "category": "Новости", 
+      "language": "nl",
+      "country": "Холандија"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "region": "🌎 Америка",
+      "category": "Новости",
+      "language": "en",
+      "country": "САД"
+    }
+  ]
+}
