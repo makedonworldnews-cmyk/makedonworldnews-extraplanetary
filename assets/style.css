@@ -174,6 +174,30 @@
 .rss-item {
     display: none; /* Сите вести се скриени на почеток */
 }
+/* =========================================== */
+/* ПРАВИЛА ЗА БЕСКРАЈНО ЛИЗГАЊЕ (INFINITE SCROLL) */
+/* =========================================== */
+
+/* Сите вести се скриени на почеток. JavaScript ќе ги прикажува. */
+.rss-item {
+    display: none;
+}
+
+/* Дополнителен стил за мазна анимација при вчитување (опционално) */
+.rss-item.loaded {
+    animation: fadeInUp 0.5s ease forwards;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 
 .news-card {
     animation: fadeIn 0.5s ease-out;
