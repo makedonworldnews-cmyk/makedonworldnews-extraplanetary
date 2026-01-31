@@ -1,150 +1,90 @@
-// assets/app.js
-// Main script to load and display news on Makedon World News
+// assets/app.js - Simple Loader for Makedon World News
+console.log('🔧 Makedon World News JS script is loading...');
 
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('🚀 Makedon World News - Initializing...');
+    console.log('🚀 DOM is ready. Starting news loader...');
     
     const newsContainer = document.getElementById('rss-news-live');
-    const lastUpdateEl = document.getElementById('last-update-time');
-    const articleCountEl = document.getElementById('article-count');
     
     if (!newsContainer) {
-        console.error('❌ Could not find element with id "rss-news-live"');
+        console.error('❌ CRITICAL: Could not find HTML element with id="rss-news-live"');
+        alert('Грешка: Не можам да го најдам контејнерот за вести на страницата.');
         return;
     }
     
-    // News data URL (automatically created by the GitHub Action)
-    const NEWS_DATA_URL = 'data/news.json';
+    // TRY 1: Load from the data folder (relative path used by GitHub Pages)
+    const dataUrl = 'data/news.json';
+    // TRY 2: Direct link to the raw JSON file on GitHub (fallback)
+    const rawUrl = 'https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/data/news.json';
     
-    // Categories and regions mapping for filtering
-    const categories = {
-        'Новости': '🌐',
-        'Политика': '🏛️',
-        'Економија': '📈',
-        'Спорт': '⚽',
-        'Култура': '🎭',
-        'Наука': '🔬',
-        'Забава': '🎬'
-    };
+    console.log(`📡 Attempting to fetch news from: ${dataUrl}`);
     
-    const regions = {
-        '🌍 World': '🌍 Свет',
-        '🇪🇺 Европа': '🇪🇺 Европа', 
-        '🏔️ Балкан': '🏔️ Балкан',
-        '🇺🇸 Америка': '🇺🇸 Америка',
-        '🌏 Азија': '🌏 Азија'
-    };
-    
-    // Fetch and display news
-    async function loadNews() {
-        try {
-            console.log(`📡 Fetching news from: ${NEWS_DATA_URL}`);
-            
-            // Add cache-buster to prevent browser caching during development
-            const url = `${NEWS_DATA_URL}?t=${new Date().getTime()}`;
-            const response = await fetch(url);
-            
+    fetch(dataUrl)
+        .then(response => {
             if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
+                console.warn(`⚠️ First attempt failed (${response.status}). Trying fallback URL...`);
+                // If first fails, try the direct raw URL
+                return fetch(rawUrl);
+            }
+            return response;
+        })
+        .then(response => response.json())
+        .then(newsData => {
+            console.log(`✅ SUCCESS! Loaded news data:`, newsData);
+            console.log(`📰 Total articles: ${newsData.articles.length}`);
+            
+            // Update the stats on the page
+            const countEl = document.getElementById('article-count');
+            const timeEl = document.getElementById('last-update-time');
+            if (countEl) countEl.textContent = newsData.articles.length;
+            if (timeEl) timeEl.textContent = newsData.last_updated || 'Неодамна';
+            
+            // Clear the "loading" message
+            newsContainer.innerHTML = '';
+            
+            // Display each article
+            if (newsData.articles.length === 0) {
+                newsContainer.innerHTML = '<p>⚠️ Нема нови вести во моментов.</p>';
+                return;
             }
             
-            const data = await response.json();
-            console.log(`✅ Loaded ${data.articles.length} articles`);
-            
-            // Update stats
-            if (lastUpdateEl) {
-                lastUpdateEl.textContent = data.last_updated || 'Неодамна';
-            }
-            if (articleCountEl) {
-                articleCountEl.textContent = data.article_count || data.articles.length;
-            }
-            
-            // Display articles
-            displayArticles(data.articles);
-            
-        } catch (error) {
-            console.error('❌ Error loading news:', error);
-            newsContainer.innerHTML = `
-                <div class="error-message">
-                    <h3>⚠️ Привремен проблем со вестите</h3>
-                    <p>Системот за вести моментално се ажурира. Ве молиме обидете се повторно за неколку минути.</p>
-                    <p><small>Технички детали: ${error.message}</small></p>
-                </div>
-            `;
-        }
-    }
-    
-    // Display articles in the container
-    function displayArticles(articles) {
-        if (!articles || articles.length === 0) {
-            newsContainer.innerHTML = '<p class="no-news">⚠️ Нема достапни вести во моментов. Проверете подоцна.</p>';
-            return;
-        }
-        
-        let html = '';
-        
-        articles.forEach((article, index) => {
-            // Use Macedonian translations for regions
-            const regionDisplay = regions[article.region] || article.region;
-            const categoryIcon = categories[article.category] || '📰';
-            
-            html += `
-                <article class="news-card" data-index="${index}">
-                    <div class="news-header">
-                        <span class="news-badge region-badge">${regionDisplay}</span>
-                        <span class="news-badge category-badge">${categoryIcon} ${article.category}</span>
-                    </div>
-                    
-                    <h3 class="news-title">
-                        <a href="${article.link}" target="_blank" rel="noopener">
+            newsData.articles.forEach(article => {
+                const articleEl = document.createElement('div');
+                articleEl.style.cssText = `
+                    background: white; border-radius: 8px; padding: 15px; margin-bottom: 15px;
+                    border-left: 5px solid #007acc; box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                `;
+                articleEl.innerHTML = `
+                    <h3 style="margin-top: 0; color: #1a365d;">
+                        <a href="${article.link}" target="_blank" style="color: inherit; text-decoration: none;">
                             ${article.title}
                         </a>
                     </h3>
-                    
-                    <p class="news-summary">${article.summary}</p>
-                    
-                    <div class="news-footer">
-                        <span class="news-source">📰 ${article.source_name}</span>
-                        <span class="news-time">🕐 ${formatTime(article.published)}</span>
-                        <a href="${article.link}" class="read-more" target="_blank" rel="noopener">Прочитај повеќе →</a>
+                    <p>${article.summary}</p>
+                    <div style="font-size: 0.9em; color: #666;">
+                        <strong>Извор:</strong> ${article.source_name} | 
+                        <strong>Регион:</strong> ${article.region} | 
+                        <strong>Објавено:</strong> ${article.published}
                     </div>
-                </article>
+                `;
+                newsContainer.appendChild(articleEl);
+            });
+            
+        })
+        .catch(error => {
+            console.error('❌ FATAL ERROR loading news:', error);
+            newsContainer.innerHTML = `
+                <div style="background: #fee; padding: 20px; border-radius: 8px; border: 1px solid #fcc;">
+                    <h3>⚠️ Грешка при вчитување на вести</h3>
+                    <p>Системот не можеше да ги вчита вестите. Технички детали:</p>
+                    <pre style="background: #fff; padding: 10px; overflow: auto;">${error.message}</pre>
+                    <p><strong>Акции што можете да ги преземете:</strong></p>
+                    <ul>
+                        <li>Проверете дали датотеката <code>data/news.json</code> постои во репозиториумот.</li>
+                        <li>Пуштете го работниот тек "Fetch RSS News" рачно од табот Actions.</li>
+                        <li>Проверете дали има грешки во табот "Console".</li>
+                    </ul>
+                </div>
             `;
         });
-        
-        newsContainer.innerHTML = html;
-        console.log(`📰 Displayed ${articles.length} articles`);
-    }
-    
-    // Format time for display
-    function formatTime(timeString) {
-        if (!timeString) return 'Неодамна';
-        
-        try {
-            const date = new Date(timeString);
-            const now = new Date();
-            const diffMs = now - date;
-            const diffMins = Math.floor(diffMs / (1000 * 60));
-            const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
-            
-            if (diffMins < 60) {
-                return `Пред ${diffMins} мин`;
-            } else if (diffHours < 24) {
-                return `Пред ${diffHours} час${diffHours !== 1 ? 'а' : ''}`;
-            } else {
-                return date.toLocaleDateString('mk-MK', { 
-                    day: 'numeric', 
-                    month: 'short' 
-                });
-            }
-        } catch (e) {
-            return timeString;
-        }
-    }
-    
-    // Initial load
-    loadNews();
-    
-    // Optional: Auto-refresh every 5 minutes
-    setInterval(loadNews, 5 * 60 * 1000);
 });
