@@ -1,41 +1,98 @@
 {
-  "last_modified": "2025-02-01",
-  "description": "Основна конфигурација на извори за Makedon World News.",
-  "rss_sources": [
+  "sources": [
     {
-      "url": "https://makfax.com.mk/rss/",
-      "region": "🏔️ Балкан",
-      "category": "Локални Вести",
+      "name": "МАКФАКС",
+      "url": "https://makfax.com.mk/feed/",
+      "region": "Балкан",
       "language": "mk",
-      "country": "Македонија"
+      "category": "domestic"
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "region": "🌍 Свет",
-      "category": "Меѓународни Вести",
+      "name": "BBC News",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "region": "World",
       "language": "en",
-      "country": "ВБ"
-      {
-  "url": "http://www.xinhuanet.com/english/rss/world.xml",
-  "region": "🌏 Азија (Кина)",
-  "category": "Меѓународни Вести",
-  "language": "en",
-  "country": "Кина"
-},
-{
-  "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-  "region": "🇮🇳 Индија",
-  "category": "Најнови Вести",
-  "language": "en",
-  "country": "Индија"
-},
-{
-  "url": "https://allafrica.com/tools/headlines/rss.cgi?country=et",
-  "region": "🌍 Африка",
-  "category": "Локални Вести",
-  "language": "en",
-  "country": "Етиопија"
-}
+      "category": "international"
+    },
+    {
+      "name": "China Daily",
+      "url": "http://www.chinadaily.com.cn/rss/world.rss",
+      "region": "Азија",
+      "language": "en",
+      "category": "china"
+    },
+    {
+      "name": "央视新闻 (CCTV News)",
+      "url": "https://rss.cctvnews.cn/rss/news.xml",
+      "region": "Азија",
+      "language": "zh",
+      "category": "china"
+    },
+    {
+      "name": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+      "region": "Индија",
+      "language": "en",
+      "category": "india"
+    },
+    {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+      "region": "Индија",
+      "language": "en",
+      "category": "india"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "region": "Африка",
+      "language": "en",
+      "category": "africa"
+    },
+    {
+      "name": "Daily Nation (Kenya)",
+      "url": "https://www.nation.co.ke/ke/rss",
+      "region": "Африка",
+      "language": "en",
+      "category": "africa"
+    },
+    {
+      "name": "南非新闻 (South Africa News)",
+      "url": "https://www.news24.com/feeds/rss",
+      "region": "Африка",
+      "language": "en",
+      "category": "africa"
+    },
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/rss",
+      "region": "Европска",
+      "language": "en",
+      "category": "europe"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reutersagency.com/feed/",
+      "region": "World",
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "name": "AP News",
+      "url": "https://feeds.apnews.com/apnews-topics",
+      "region": "Америка",
+      "language": "en",
+      "category": "america"
+    },
+    {
+      "name": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/feed/45910/rss.xml",
+      "region": "Австралија",
+      "language": "en",
+      "category": "australia"
     }
-  ]
+  ],
+  "updateInterval": 60,
+  "maxItemsPerSource": 20,
+  "enableAutoTranslation": true
 }
