@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     console.log('Makedon World News системот е иницијализиран!');
     
-    // АКТИВИРАЈ БЕСКРАЈНО ЛИЗГАЊЕ ТУКА
+    // АКТИВИРАЈ БЕСКРАЈНО ЛИЗГАЊЕ
     setupInfiniteScroll();
 });
 
@@ -99,7 +99,7 @@ function handleRegionClick(clickedIcon, shouldFilterNews = true) {
     console.log(`Активен регион: ${appState.activeRegion}`);
 }
 
-// 5. Филтрирај ги вестите според регион
+// 5. Филтрирај ги вестите според регион (СО АНИМАЦИИ)
 function filterNewsByRegion(regionName) {
     const regionMap = {
         'Македонија': 'Балкан',
@@ -115,18 +115,34 @@ function filterNewsByRegion(regionName) {
     
     const filterText = regionMap[regionName] || regionName;
     
+    // ЧЕКОР 1: На сите вести додај ја класата 'filtered-out' за да започне анимацијата
     appState.allNewsItems.forEach(newsItem => {
-        const newsText = newsItem.textContent;
-        if (newsText.includes(filterText)) {
-            newsItem.style.display = 'block';
-        } else {
-            newsItem.style.display = 'none';
-        }
+        newsItem.classList.add('filtered-out');
     });
     
-    // Ресетирај ги страниците при нов филтер
-    currentPage = 1;
-    updateNewsCounter();
+    // ЧЕКОР 2: По 300ms, заврши ја анимацијата
+    setTimeout(() => {
+        appState.allNewsItems.forEach(newsItem => {
+            const newsText = newsItem.textContent;
+            
+            if (newsText.includes(filterText)) {
+                // Веста одговара на филтерот
+                newsItem.classList.remove('filtered-out');
+                newsItem.style.display = 'block';
+            } else {
+                // Веста НЕ одговара на филтерот
+                newsItem.classList.remove('filtered-out');
+                newsItem.style.display = 'none';
+            }
+        });
+        
+        // Ресетирај ги страниците при нов филтер
+        currentPage = 1;
+        updateNewsCounter();
+        
+        console.log(`✅ Филтрирано за регион: ${regionName}`);
+        
+    }, 300); // 300ms е половина од времето на CSS анимацијата
 }
 
 // 6. Општа функција за ажурирање на приказот на вести
@@ -138,13 +154,22 @@ function updateNewsDisplay() {
     }
 }
 
-// 7. Прикажи сите вести
+// 7. Прикажи сите вести (СО АНИМАЦИИ)
 function showAllNews() {
+    // ЧЕКОР 1: На сите вести додади 'filtered-out' за да избледат
     appState.allNewsItems.forEach(newsItem => {
+        newsItem.classList.add('filtered-out');
         newsItem.style.display = 'block';
     });
-    updateNewsCounter();
-    console.log('Сите филтри се ресетирани.');
+    
+    // ЧЕКОР 2: По 300ms, отстрани ја класата
+    setTimeout(() => {
+        appState.allNewsItems.forEach(newsItem => {
+            newsItem.classList.remove('filtered-out');
+        });
+        updateNewsCounter();
+        console.log('🔄 Сите филтри се ресетирани.');
+    }, 300);
 }
 
 // 8. Ресетирање на сите филтри
@@ -181,7 +206,7 @@ function updateNewsCounter() {
     }
 }
 
-// 10. Функција за социјални мрежи (дополнета)
+// 10. Функција за социјални мрежи
 function showSocial(network) {
     let url;
     switch(network) {
@@ -267,35 +292,6 @@ function resetInfiniteScroll() {
     });
     loadNextPage();
 }
-// ============================================
-// КРАЕН ЕФЕКТ: ДИНАМИЧЕН СИСТЕМСКИ СТАТУС
-// ============================================
-
-function updateLiveStatus() {
-    const statusElement = document.querySelector('.system-status-message'); // Ќе го создадеме подолу
-    if (!statusElement) return;
-
-    const messages = [
-        "🟢 СИСТЕМОТ Е ЦЕЛОСНО АКТИВЕН И МОНИТОРИРА",
-        "📡 ПРИМАМ ВЕСТИ ОД 1,334+ ИЗВОРИ",
-        "🌍 ФИЛТРИРАМ СПОРЕД РЕГИОН ВО РЕАЛНО ВРЕМЕ",
-        "🔄 АЖУРИРАЊЕТО ТЕЧЕ НОРМАЛНО",
-        "✅ СИТЕ ФУНКЦИИ СЕ ОПЕРАТИВНИ"
-    ];
-    let currentIndex = 0;
-
-    // Смени ја пораката на секои 3 секунди
-    setInterval(() => {
-        statusElement.textContent = messages[currentIndex];
-        currentIndex = (currentIndex + 1) % messages.length;
-    }, 3000);
-}
-
-// Вклучи го динамичниот статус кога страницата се вчита
-document.addEventListener('DOMContentLoaded', function() {
-    // ... (вашиот постоечки код останува) ...
-    updateLiveStatus(); // Додади го ова на крајот
-});
 
 // (Опционално) Функција за симулирање на акцијата "showSystemActivation"
 function showSystemActivation() {
