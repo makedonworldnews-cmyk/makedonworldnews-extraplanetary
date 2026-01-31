@@ -13,7 +13,7 @@ const appState = {
 document.addEventListener('DOMContentLoaded', function() {
     
     // Собира ги сите елементи со вести од DOM
-    appState.allNewsItems = Array.from(document.querySelectorAll('.news-item'));
+    appState.allNewsItems = Array.from(document.querySelectorAll('.rss-item'));
     
     // Постави почетни филтри (Македонија & Најнови Вести)
     initializeDefaultFilters();
