@@ -5,13 +5,22 @@ from datetime import datetime, timezone
 import pytz
 
 # --- CONFIGURATION ---
-# Define your RSS sources here. Add or remove as needed.
-RSS_SOURCES = [
-    {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "region": "🌍 World", "category": "Новости"},
-    {"url": "https://feeds.nos.nl/nosjournaal", "region": "🇪🇺 Европа", "category": "Новости"},
-    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "region": "🇺🇸 Америка", "category": "Новости"},
-    # Add more sources here. Example format:
-    # {"url": "URL_HERE", "region": "🏔️ Балкан", "category": "Политика"},
+# Load RSS sources from external config file
+import json
+CONFIG_PATH = 'config/rss_sources.json'
+
+try:
+    with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+        config = json.load(f)
+        RSS_SOURCES = config['rss_sources']
+    print(f"✅ Loaded {len(RSS_SOURCES)} sources from config file.")
+except Exception as e:
+    print(f"⚠️  Could not load config, using defaults. Error: {e}")
+    # Fallback to defaults if config file is missing
+    RSS_SOURCES = [
+        {"url": "https://makfax.com.mk/rss/", "region": "🏔️ Балкан", "category": "Новости"},
+        {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "region": "🌍 World", "category": "Новости"}
+    ]
 ]
 
 # Define the path to save the news data
