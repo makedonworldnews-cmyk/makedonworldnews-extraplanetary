@@ -4,29 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Makedon World News - Глобална Вести Платформа</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- Font Awesome за икони -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Нашите CSS стилови -->
+    <link rel="stylesheet" href="assets/style.css">
+    <!-- Внатрешни стилови за основен изглед -->
     <style>
-        /* ГЛОБАЛНИ СТИЛОВИ */
+        /* ОСНОВНИ СТИЛОВИ - само најнеопходно */
         :root {
             --primary: #D82229;
             --secondary: #FFD700;
             --dark: #0A2E5C;
             --light: #F8F9FA;
-            --success: #28a745;
-            --warning: #ffc107;
-            --danger: #dc3545;
-            --macedonia: #D82229;
-            --balkan: #FF6B35;
-            --europe: #0A2E5C;
-            --asia: #FF4081;
-            --india: #FF9800;
-            --africa: #4CAF50;
-            --america: #2196F3;
-            --australia: #9C27B0;
-            --antarctica: #00BCD4;
-            --pacific: #009688;
-            --atlantic: #3F51B5;
-            --indian: #FF5722;
-            --arctic: #00ACC1;
         }
         
         * {
@@ -41,1569 +31,250 @@
             min-height: 100vh;
         }
         
-        /* НАВИГАЦИЈА */
-        .main-nav {
-            background: linear-gradient(90deg, var(--dark) 0%, var(--primary) 100%);
-            color: white;
-            padding: 1rem 2rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-        }
-        
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        
-        .logo h1 {
-            font-size: 1.8rem;
-            background: linear-gradient(90deg, var(--secondary), white);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-        }
-        
-        .logo-icon {
-            font-size: 2rem;
-            color: var(--secondary);
-        }
-        
-        .nav-menu {
-            display: flex;
-            list-style: none;
-            gap: 2rem;
-        }
-        
-        .nav-menu a {
-            color: white;
-            text-decoration: none;
-            font-weight: 600;
-            padding: 8px 16px;
-            border-radius: 20px;
-            transition: all 0.3s;
-        }
-        
-        .nav-menu a:hover {
-            background: rgba(255,255,255,0.2);
-            transform: translateY(-2px);
-        }
-        
-        .nav-menu a.active {
-            background: rgba(255,255,255,0.3);
-            box-shadow: 0 0 15px rgba(255,215,0,0.5);
-        }
-        
-        /* ХЕРО СЕКЦИЈА СО СЛИКА */
+        /* ХЕРО СЕКЦИЈА */
         .hero {
-            padding: 6rem 2rem;
+            padding: 4rem 2rem;
             text-align: center;
-            background: linear-gradient(rgba(10,46,92,0.9), rgba(216,34,41,0.85)),
-                        url('https://images.unsplash.com/photo-1588681664899-f142ff2dc9b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
+            background: linear-gradient(rgba(10,46,92,0.9), rgba(216,34,41,0.85));
             color: white;
             margin-bottom: 2rem;
-            position: relative;
-            overflow: hidden;
-            min-height: 80vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="%23ffd700" fill-opacity="0.2" d="M0,96L48,112C96,128,192,160,288,160C384,160,480,128,576,112C672,96,768,96,864,112C960,128,1056,160,1152,160C1248,160,1344,128,1392,112L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>');
-            background-size: cover;
-            opacity: 0.4;
-        }
-        
-        .hero-content {
-            position: relative;
-            z-index: 2;
-            max-width: 1200px;
-            margin: 0 auto;
         }
         
         .hero-title {
-            font-size: 4rem;
+            font-size: 3rem;
             font-weight: bold;
-            margin-bottom: 1.5rem;
-            text-shadow: 3px 3px 12px rgba(0,0,0,0.8);
-            background: linear-gradient(90deg, var(--secondary), white);
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
+            margin-bottom: 1rem;
         }
         
         .hero-subtitle {
-            font-size: 1.8rem;
+            font-size: 1.2rem;
             margin-bottom: 2rem;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-            max-width: 900px;
+            max-width: 800px;
             margin-left: auto;
             margin-right: auto;
         }
         
-        .stats {
-            display: flex;
-            justify-content: center;
-            gap: 3rem;
-            margin-top: 3rem;
-            flex-wrap: wrap;
-        }
-        
-        .stat-item {
-            text-align: center;
-            background: rgba(255,255,255,0.15);
-            padding: 2rem;
-            border-radius: 20px;
-            backdrop-filter: blur(15px);
-            min-width: 200px;
-            border: 2px solid rgba(255,255,255,0.3);
-            transition: all 0.3s;
-        }
-        
-        .stat-item:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.4);
-            background: rgba(255,255,255,0.25);
-            border-color: var(--secondary);
-        }
-        
-        .stat-number {
-            font-size: 3.5rem;
-            font-weight: bold;
-            color: var(--secondary);
-            text-shadow: 0 0 15px rgba(255,215,0,0.7);
-            margin-bottom: 0.5rem;
-        }
-        
-        /* РЕГИОНАЛНИ ИКОНИ */
-        .region-icons {
-            display: flex;
-            justify-content: center;
-            gap: 1.5rem;
-            margin-top: 3rem;
-            flex-wrap: wrap;
-        }
-        
-        .region-icon {
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 2rem;
-            color: white;
-            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
-            transition: all 0.3s;
-            cursor: pointer;
-            border: 3px solid transparent;
-        }
-        
-        .region-icon:hover {
-            transform: scale(1.2) rotate(10deg);
-            border-color: white;
-        }
-        
-        .region-icon.active {
-            transform: scale(1.3);
-            box-shadow: 0 0 30px rgba(255,255,255,0.9);
-            border-color: var(--secondary);
-        }
-        
-        .region-macedonia { background: var(--macedonia); }
-        .region-balkan { background: var(--balkan); }
-        .region-europe { background: var(--europe); }
-        .region-asia { background: var(--asia); }
-        .region-india { background: var(--india); }
-        .region-africa { background: var(--africa); }
-        .region-america { background: var(--america); }
-        .region-australia { background: var(--australia); }
-        .region-antarctica { background: var(--antarctica); }
-        .region-pacific { background: var(--pacific); }
-        .region-atlantic { background: var(--atlantic); }
-        .region-indian { background: var(--indian); }
-        .region-arctic { background: var(--arctic); }
-        
-        /* РУБРИКИ - ТЕМИ */
-        .topics-section {
-            background: white;
-            padding: 3rem 2rem;
-            margin: 2rem auto;
+        /* RSS СЕКЦИЈА - Оваа ќе ја користат вистинските вести */
+        .rss-live-section {
             max-width: 1400px;
-            border-radius: 25px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
-            border: 3px solid var(--dark);
-        }
-        
-        .topics-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 1.5rem;
-            margin-top: 2rem;
-        }
-        
-        .topic-card {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-            border-radius: 20px;
-            padding: 2rem;
-            text-align: center;
-            transition: all 0.3s;
-            border: 2px solid #dee2e6;
-            cursor: pointer;
-        }
-        
-        .topic-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
-            background: linear-gradient(135deg, var(--primary), var(--dark));
-            color: white;
-            border-color: var(--primary);
-        }
-        
-        .topic-card:hover .topic-icon {
-            color: var(--secondary);
-            transform: scale(1.2);
-        }
-        
-        .topic-icon {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            color: var(--primary);
-            transition: all 0.3s;
-        }
-        
-        .topic-card h3 {
-            font-size: 1.3rem;
-            margin-bottom: 0.5rem;
-        }
-        
-        /* СИСТЕМИ СЕКЦИЈА */
-        .systems-section {
-            background: linear-gradient(135deg, var(--dark), var(--primary));
-            color: white;
-            padding: 4rem 2rem;
             margin: 3rem auto;
-            border-radius: 25px;
-            max-width: 1400px;
+            padding: 0 2rem;
         }
         
-        .systems-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        .section-title {
+            color: var(--dark);
+            border-bottom: 3px solid var(--primary);
+            padding-bottom: 0.5rem;
+            margin-bottom: 2rem;
+            font-size: 2.2rem;
+        }
+        
+        .status-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 1.5rem 0;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            display: flex;
             gap: 2rem;
-            margin-top: 2rem;
+            flex-wrap: wrap;
         }
         
-        .system-card {
-            background: rgba(255,255,255,0.1);
-            border-radius: 20px;
-            padding: 2rem;
-            backdrop-filter: blur(10px);
-            border: 2px solid rgba(255,255,255,0.2);
-            transition: all 0.3s;
-        }
-        
-        .system-card:hover {
-            transform: translateY(-10px);
-            background: rgba(255,255,255,0.2);
-            border-color: var(--secondary);
-        }
-        
-        .system-icon {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            color: var(--secondary);
+        .status-item {
+            flex: 1;
+            min-width: 200px;
         }
         
         .system-status {
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-weight: bold;
-            margin-top: 1rem;
-            background: rgba(40, 167, 69, 0.2);
-            color: var(--success);
-            border: 2px solid var(--success);
-        }
-        
-        /* RSS ВЕСТИ СЕКЦИЈА */
-        .rss-section {
-            margin-top: 4rem;
-            background: white;
-            border-radius: 25px;
-            padding: 3rem;
-            box-shadow: 0 15px 50px rgba(0,0,0,0.1);
-            border: 3px solid var(--dark);
-        }
-        
-        .rss-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 2rem;
-            padding-bottom: 1.5rem;
-            border-bottom: 5px solid var(--primary);
-        }
-        
-        .rss-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-            gap: 2.5rem;
-            margin-top: 2rem;
-        }
-        
-        .rss-card {
-            background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
-            border-radius: 20px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            transition: all 0.3s;
-            border: 2px solid #e9ecef;
-            position: relative;
-        }
-        
-        .rss-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(0,0,0,0.2);
-            border-color: var(--primary);
-        }
-        
-        .rss-category {
             display: inline-block;
-            padding: 10px 20px;
-            background: var(--primary);
-            color: white;
-            border-radius: 25px;
-            font-size: 0.9rem;
-            font-weight: bold;
-            margin: 1.5rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-        
-        .rss-region {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 8px 16px;
+            padding: 0.35rem 1rem;
             border-radius: 20px;
-            font-size: 0.9rem;
             font-weight: bold;
-            margin: 0 1.5rem 1.5rem;
-            color: white;
-        }
-        
-        /* КОМУНИКАЦИСКИ СИСТЕМИ */
-        .communication-section {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-            padding: 4rem 2rem;
-            margin: 3rem auto;
-            border-radius: 25px;
-            max-width: 1400px;
-            border: 3px solid var(--dark);
-        }
-        
-        .communication-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-top: 2rem;
-        }
-        
-        .communication-card {
-            background: white;
-            border-radius: 20px;
-            padding: 2rem;
-            text-align: center;
-            transition: all 0.3s;
-            border: 2px solid #dee2e6;
-        }
-        
-        .communication-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
-            border-color: var(--primary);
-        }
-        
-        .communication-icon {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            color: var(--primary);
-        }
-        
-        .btn {
-            display: inline-block;
-            padding: 15px 35px;
-            background: linear-gradient(90deg, var(--primary), var(--dark));
-            color: white;
-            text-decoration: none;
-            border-radius: 35px;
-            font-weight: bold;
-            border: none;
-            cursor: pointer;
-            transition: all 0.3s;
-            margin-top: 1rem;
-            font-size: 1.1rem;
-            box-shadow: 0 5px 15px rgba(216,34,41,0.3);
-        }
-        
-        .btn:hover {
-            transform: scale(1.05);
-            box-shadow: 0 10px 25px rgba(216,34,41,0.5);
-        }
-        
-        .btn-small {
-            padding: 10px 25px;
-            font-size: 1rem;
-        }
-        
-        /* RSS СТАТУС */
-        .rss-status {
-            padding: 2rem;
-            background: linear-gradient(135deg, var(--dark), var(--primary));
-            color: white;
-            border-radius: 20px;
-            margin-top: 3rem;
-            text-align: center;
+            background-color: #d1fae5;
+            color: #065f46;
         }
         
         /* ФУТЕР */
         footer {
             background: linear-gradient(90deg, var(--dark) 0%, var(--primary) 100%);
             color: white;
-            padding: 4rem 2rem;
+            padding: 3rem 2rem;
             margin-top: 4rem;
+            text-align: center;
         }
         
-        .footer-content {
-            max-width: 1600px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 4rem;
-        }
-        
-        .footer-logo {
-            font-size: 2rem;
-            font-weight: bold;
-            color: var(--secondary);
-            margin-bottom: 1.5rem;
-        }
-        
-        .social-icons {
-            display: flex;
-            gap: 1rem;
-            margin-top: 1rem;
-        }
-        
-        .social-icon {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background: rgba(255,255,255,0.1);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            text-decoration: none;
-            transition: all 0.3s;
-        }
-        
-        .social-icon:hover {
-            background: var(--secondary);
-            transform: translateY(-5px);
-        }
-        
-        /* АНИМАЦИИ */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        
-        @keyframes pulse {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-            100% { transform: scale(1); }
-        }
-        
-        @keyframes glow {
-            0% { box-shadow: 0 0 10px var(--secondary); }
-            50% { box-shadow: 0 0 30px var(--secondary); }
-            100% { box-shadow: 0 0 10px var(--secondary); }
-        }
-        
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
-        
-        .fade-in {
-            animation: fadeIn 1s ease-out;
-        }
-        
-        .pulse {
-            animation: pulse 2s infinite;
-        }
-        
-        .glow {
-            animation: glow 2s infinite;
-        }
-        
-        .float {
-            animation: float 3s ease-in-out infinite;
-        }
-        
-        /* РЕСПОНЗИВНОСТ */
         @media (max-width: 768px) {
-            .nav-menu {
-                display: none;
-            }
-            
-            .hero-title {
-                font-size: 2.5rem;
-            }
-            
-            .hero-subtitle {
-                font-size: 1.2rem;
-            }
-            
-            .stats {
-                flex-direction: column;
-                gap: 1.5rem;
-            }
-            
-            .stat-item {
-                min-width: 150px;
-                padding: 1.5rem;
-            }
-            
-            .stat-number {
-                font-size: 2.5rem;
-            }
-            
-            .region-icons {
-                gap: 1rem;
-            }
-            
-            .region-icon {
-                width: 50px;
-                height: 50px;
-                font-size: 1.5rem;
-            }
-            
-            .rss-grid {
-                grid-template-columns: 1fr;
-            }
+            .hero-title { font-size: 2rem; }
+            .hero-subtitle { font-size: 1rem; }
+            .status-card { flex-direction: column; }
         }
     </style>
-    <!-- FONT AWESOME -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- НАВИГАЦИЈА -->
-    <nav class="main-nav">
-        <div class="logo">
-            <div class="logo-icon">🇲🇰</div>
-            <h1>MAKEDON WORLD NEWS</h1>
+    <!-- ГЛАВНА НАВИГАЦИЈА -->
+    <nav style="background: linear-gradient(90deg, var(--dark) 0%, var(--primary) 100%); color: white; padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center;">
+        <div style="display: flex; align-items: center; gap: 10px;">
+            <div style="font-size: 2rem;">🇲🇰</div>
+            <h1 style="font-size: 1.5rem;">MAKEDON WORLD NEWS</h1>
         </div>
-        <ul class="nav-menu">
-            <li><a href="#vesti" class="active"><i class="fas fa-newspaper"></i> Вести</a></li>
-            <li><a href="#topics"><i class="fas fa-tags"></i> Теми</a></li>
-            <li><a href="#systems"><i class="fas fa-cogs"></i> Системи</a></li>
-            <li><a href="#rss"><i class="fas fa-rss"></i> RSS Вести</a></li>
-            <li><a href="#communication"><i class="fas fa-comments"></i> Комуникација</a></li>
-        </ul>
+        <div>
+            <span style="padding: 8px 16px; background: rgba(255,255,255,0.2); border-radius: 20px;">
+                <i class="fas fa-rss"></i> RSS Вести
+            </span>
+        </div>
     </nav>
 
-    <!-- ХЕРО СЕКЦИЈА СО СЛИКА -->
+    <!-- ХЕРО ДЕЛ -->
     <section class="hero">
-        <div class="hero-content">
-            <h1 class="hero-title fade-in">MAKEDON WORLD NEWS</h1>
-            <p class="hero-subtitle fade-in">Глобална Вести Платформа • 1,334 Активни RSS Извори • Реал-Време Ажурирање</p>
+        <div>
+            <h1 class="hero-title">MAKEDON WORLD NEWS</h1>
+            <p class="hero-subtitle">Глобална Вести Платформа • Активни RSS Извори • Реал-Време Ажурирање</p>
             
-            <div class="stats fade-in">
-                <div class="stat-item float">
-                    <div class="stat-number">1,334</div>
+            <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 3rem; flex-wrap: wrap;">
+                <div style="text-align: center; background: rgba(255,255,255,0.15); padding: 1.5rem; border-radius: 15px; min-width: 150px;">
+                    <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);">1,334</div>
                     <div>Активни RSS Извори</div>
                 </div>
-                <div class="stat-item float" style="animation-delay: 0.2s;">
-                    <div class="stat-number">24/7</div>
+                <div style="text-align: center; background: rgba(255,255,255,0.15); padding: 1.5rem; border-radius: 15px; min-width: 150px;">
+                    <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);">24/7</div>
                     <div>Ажурирање на Вести</div>
                 </div>
-                <div class="stat-item float" style="animation-delay: 0.4s;">
-                    <div class="stat-number">100%</div>
-                    <div>Верификација на Вести</div>
-                </div>
-                <div class="stat-item float" style="animation-delay: 0.6s;">
-                    <div class="stat-number">89%</div>
-                    <div>Достапност на Системот</div>
+                <div style="text-align: center; background: rgba(255,255,255,0.15); padding: 1.5rem; border-radius: 15px; min-width: 150px;">
+                    <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);">100%</div>
+                    <div>Верификација</div>
                 </div>
             </div>
-            
-            <!-- РЕГИОНАЛНИ ИКОНИ -->
-            <div class="region-icons fade-in">
-                <div class="region-icon region-macedonia active" title="Македонија" onclick="filterRegion('macedonia')">🇲🇰</div>
-                <div class="region-icon region-balkan" title="Балкан" onclick="filterRegion('balkan')">🏔️</div>
-                <div class="region-icon region-europe" title="Европа" onclick="filterRegion('europe')">🇪🇺</div>
-                <div class="region-icon region-asia" title="Азија" onclick="filterRegion('asia')">🌏</div>
-                <div class="region-icon region-india" title="Индија" onclick="filterRegion('india')">🇮🇳</div>
-                <div class="region-icon region-africa" title="Африка" onclick="filterRegion('africa')">🌍</div>
-                <div class="region-icon region-america" title="Америка" onclick="filterRegion('america')">🌎</div>
-                <div class="region-icon region-australia" title="Австралија" onclick="filterRegion('australia')">🇦🇺</div>
-                <div class="region-icon region-antarctica" title="Антарктик" onclick="filterRegion('antarctica')">🧊</div>
-            </div>
-            
-            <button class="btn fade-in" onclick="activateAllSystems()" style="margin-top: 3rem;">
-                <i class="fas fa-bolt"></i> АКТИВИРАЈ ГИ СИТЕ СИСТЕМИ
-            </button>
         </div>
     </section>
 
-    <!-- ТЕМИ РУБРИКИ -->
-    <div class="container">
-        <div class="topics-section fade-in" id="topics">
-            <h2 style="color: var(--dark); text-align: center; font-size: 2.5rem; margin-bottom: 1rem;">
-                <i class="fas fa-tags"></i> ТЕМИ РУБРИКИ
-            </h2>
-            <p style="text-align: center; color: #666; margin-bottom: 2rem; font-size: 1.2rem;">
-                Изберете тема за да ги видите вестите
+    <!-- ГЛАВЕН СОДРЖИНА -->
+    <main class="rss-live-section">
+        <h2 class="section-title">
+            <i class="fas fa-rss"></i> RSS ВЕСТИ ВО ЖИВО
+        </h2>
+        
+        <!-- СТАТУС НА СИСТЕМОТ -->
+        <div class="status-card">
+            <div class="status-item">
+                <strong>📊 Статус на системот:</strong><br>
+                <span class="system-status">АКТИВЕН</span>
+            </div>
+            <div class="status-item">
+                <strong>📰 Вкупно вести:</strong><br>
+                <span id="article-count">Се вчитува...</span>
+            </div>
+            <div class="status-item">
+                <strong>🕐 Последно ажурирање:</strong><br>
+                <span id="last-update-time">Се вчитува...</span>
+            </div>
+        </div>
+        
+        <!-- ОВДЕ ЌЕ СЕ ПРИКАЖАТ ВИСТИНСКИТЕ RSS ВЕСТИ -->
+        <div id="rss-news-live">
+            <p style="text-align: center; padding: 3rem; color: #64748b;">
+                <i class="fas fa-spinner fa-spin"></i> Системот ги вчитува најновите вести...
             </p>
-            
-            <div class="topics-grid">
-                <div class="topic-card" onclick="filterTopic('protocol')">
-                    <div class="topic-icon"><i class="fas fa-handshake"></i></div>
-                    <h3>Протокол</h3>
-                    <p>Државни и дипломатски протоколи</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('diplomacy')">
-                    <div class="topic-icon"><i class="fas fa-peace"></i></div>
-                    <h3>Дипломатија</h3>
-                    <p>Меѓународни односи и преговори</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('public-relations')">
-                    <div class="topic-icon"><i class="fas fa-bullhorn"></i></div>
-                    <h3>Односи со јавност</h3>
-                    <p>Комуникација и медиуми</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('security')">
-                    <div class="topic-icon"><i class="fas fa-shield-alt"></i></div>
-                    <h3>Безбедност</h3>
-                    <p>Национална и меѓународна безбедност</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('politics')">
-                    <div class="topic-icon"><i class="fas fa-landmark"></i></div>
-                    <h3>Политика</h3>
-                    <p>Внатрешна и надворешна политика</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('business')">
-                    <div class="topic-icon"><i class="fas fa-briefcase"></i></div>
-                    <h3>Бизнис</h3>
-                    <p>Претпријатија и инвестиции</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('economy')">
-                    <div class="topic-icon"><i class="fas fa-chart-line"></i></div>
-                    <h3>Економија</h3>
-                    <p>Финансии и економски трендови</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('health')">
-                    <div class="topic-icon"><i class="fas fa-heartbeat"></i></div>
-                    <h3>Здравје</h3>
-                    <p>Медицина и здравствен заштита</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('entertainment')">
-                    <div class="topic-icon"><i class="fas fa-film"></i></div>
-                    <h3>Забава</h3>
-                    <p>Филм, музика и забавни настани</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('culture')">
-                    <div class="topic-icon"><i class="fas fa-palette"></i></div>
-                    <h3>Култура-Уметност</h3>
-                    <p>Уметност, литература и традиција</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('travel')">
-                    <div class="topic-icon"><i class="fas fa-plane"></i></div>
-                    <h3>Патување</h3>
-                    <p>Туризам и патувања</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('science')">
-                    <div class="topic-icon"><i class="fas fa-flask"></i></div>
-                    <h3>Наука</h3>
-                    <p>Истражувања и откритија</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('sports')">
-                    <div class="topic-icon"><i class="fas fa-futbol"></i></div>
-                    <h3>Спорт</h3>
-                    <p>Спортски настани и резултати</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('weather')">
-                    <div class="topic-icon"><i class="fas fa-cloud-sun"></i></div>
-                    <h3>Време</h3>
-                    <p>Временски прогнози и клима</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('breaking')">
-                    <div class="topic-icon"><i class="fas fa-bolt"></i></div>
-                    <h3>Најнови Вести</h3>
-                    <p>Брзи и важни вести</p>
-                </div>
-                
-                <div class="topic-card" onclick="filterTopic('live')">
-                    <div class="topic-icon"><i class="fas fa-broadcast-tower"></i></div>
-                    <h3>Вести во Живо</h3>
-                    <p>Реал-време преноси и вести</p>
-                </div>
-            </div>
         </div>
-
-        <!-- СИСТЕМИ -->
-        <div class="systems-section fade-in" id="systems">
-            <h2 style="color: var(--secondary); text-align: center; font-size: 2.5rem; margin-bottom: 1rem;">
-                <i class="fas fa-cogs"></i> АКТИВНИ СИСТЕМИ
-            </h2>
-            <p style="text-align: center; color: rgba(255,255,255,0.9); margin-bottom: 2rem; font-size: 1.2rem;">
-                Сите системи се целосно активирани и оперативни
+        
+        <!-- КОПЧЕ ЗА ОСВЕЖУВАЊЕ -->
+        <div style="text-align: center; margin-top: 3rem;">
+            <button onclick="window.location.reload()" style="padding: 12px 30px; background: linear-gradient(90deg, var(--primary), var(--dark)); color: white; border: none; border-radius: 25px; font-weight: bold; cursor: pointer; font-size: 1.1rem;">
+                <i class="fas fa-sync-alt"></i> Освежи ги вестите
+            </button>
+            <p style="color: #666; margin-top: 1rem; font-size: 0.9rem;">
+                Вестите се ажурираат автоматски на секој час преку GitHub Actions
             </p>
-            
-            <div class="systems-grid">
-                <div class="system-card">
-                    <div class="system-icon"><i class="fas fa-rss"></i></div>
-                    <h3>RSS Систем</h3>
-                    <p>1,334 активни RSS извори од целиот свет. Реал-време ажурирање на вести.</p>
-                    <div class="system-status">
-                        <i class="fas fa-check-circle"></i> АКТИВЕН
-                    </div>
-                </div>
-                
-                <div class="system-card">
-                    <div class="system-icon"><i class="fas fa-shield-alt"></i></div>
-                    <h3>Верификациски Систем</h3>
-                    <p>Автоматска верификација на сите вести. Детекција на лажни вести и дезинформации.</p>
-                    <div class="system-status">
-                        <i class="fas fa-check-circle"></i> АКТИВЕН
-                    </div>
-                </div>
-                
-                <div class="system-card">
-                    <div class="system-icon"><i class="fas fa-robot"></i></div>
-                    <h3>ВИ Системи</h3>
-                    <p>Интеграција со DeepSeek, OpenAI, Gemini. Автоматска анализа и превод.</p>
-                    <div class="system-status">
-                        <i class="fas fa-check-circle"></i> АКТИВЕН
-                    </div>
-                </div>
-            </div>
         </div>
-
-        <!-- КОМУНИКАЦИСКИ СИСТЕМИ -->
-        <div class="communication-section fade-in" id="communication">
-            <h2 style="color: var(--dark); text-align: center; font-size: 2.5rem; margin-bottom: 1rem;">
-                <i class="fas fa-comments"></i> КОМУНИКАЦИСКИ СИСТЕМИ
-            </h2>
-            <p style="text-align: center; color: #666; margin-bottom: 2rem; font-size: 1.2rem;">
-                Социјални мрежи, месинџери и комуникациски алатки
-            </p>
-            
-            <div class="communication-grid">
-                <div class="communication-card">
-                    <div class="communication-icon"><i class="fab fa-facebook-messenger"></i></div>
-                    <h3>Facebook Messenger</h3>
-                    <p>Интеграција со Facebook Messenger за директна комуникација.</p>
-                    <button class="btn btn-small" onclick="openMessenger('facebook')">
-                        <i class="fab fa-facebook"></i> Отвори
-                    </button>
-                </div>
-                
-                <div class="communication-card">
-                    <div class="communication-icon"><i class="fab fa-whatsapp"></i></div>
-                    <h3>WhatsApp</h3>
-                    <p>WhatsApp интеграција за брза и безбедна комуникација.</p>
-                    <button class="btn btn-small" onclick="openMessenger('whatsapp')">
-                        <i class="fab fa-whatsapp"></i> Отвори
-                    </button>
-                </div>
-                
-                <div class="communication-card">
-                    <div class="communication-icon"><i class="fab fa-telegram"></i></div>
-                    <h3>Telegram</h3>
-                    <p>Telegram ботови и канали за автоматско споделување вести.</p>
-                    <button class="btn btn-small" onclick="openMessenger('telegram')">
-                        <i class="fab fa-telegram"></i> Отвори
-                    </button>
-                </div>
-                
-                <div class="communication-card">
-                    <div class="communication-icon"><i class="fab fa-twitter"></i></div>
-                    <h3>Twitter/X</h3>
-                    <p>Автоматско твитање на вести и интеракција со следбеници.</p>
-                    <button class="btn btn-small" onclick="openSocial('twitter')">
-                        <i class="fab fa-twitter"></i> Отвори
-                    </button>
-                </div>
-                
-                <div class="communication-card">
-                    <div class="communication-icon"><i class="fab fa-instagram"></i></div>
-                    <h3>Instagram</h3>
-                    <p>Визуелно споделување на вести преку Instagram.</p>
-                    <button class="btn btn-small" onclick="openSocial('instagram')">
-                        <i class="fab fa-instagram"></i> Отвори
-                    </button>
-                </div>
-                
-                <div class="communication-card">
-                    <div class="communication-icon"><i class="fab fa-linkedin"></i></div>
-                    <h3>LinkedIn</h3>
-                    <p>Професионално споделување на бизнис и економски вести.</p>
-                    <button class="btn btn-small" onclick="openSocial('linkedin')">
-                        <i class="fab fa-linkedin"></i> Отвори
-                    </button>
-                </div>
-            </div>
-        </div>
-
-        <!-- RSS ВЕСТИ СЕКЦИЈА -->
-        <div class="rss-section fade-in" id="rss">
-            <div class="rss-header">
-                <h2 style="color: var(--dark); margin: 0; font-size: 2.2rem;">
-                    <i class="fas fa-rss pulse" style="color: var(--primary);"></i> RSS ВЕСТИ ВО ЖИВО
-                </h2>
-                <div style="display: flex; gap: 1rem;">
-                    <button class="btn btn-small" onclick="refreshAllRSS()">
-                        <i class="fas fa-sync-alt"></i> Освежи ги сите
-                    </button>
-                    <button class="btn btn-small" onclick="showRSSStats()">
-                        <i class="fas fa-chart-bar"></i> Статистика
-                    </button>
-                </div>
-            </div>
-            
-            <!-- RSS СТАТУС -->
-            <div class="rss-status" id="rss-status">
-                <h3><i class="fas fa-satellite-dish"></i> RSS СИСТЕМ СТАТУС: <span style="color: var(--secondary);">АКТИВЕН</span></h3>
-                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
-                    <div>
-                        <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);">1,334</div>
-                        <div>Активни RSS Извори</div>
-                    </div>
-                    <div>
-                        <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);" id="rss-loaded">892</div>
-                        <div>Вчитани Вести</div>
-                    </div>
-                    <div>
-                        <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);" id="rss-verified">756</div>
-                        <div>Верифицирани Вести</div>
-                    </div>
-                    <div>
-                        <div style="font-size: 2.5rem; font-weight: bold; color: var(--secondary);" id="rss-updated">Сега</div>
-                        <div>Последно Ажурирање</div>
-                    </div>
-                </div>
-            </div>
-            
-            <div id="rss-container" class="rss-grid">
-                <!-- RSS вестите ќе се вчитаат автоматски -->
-            </div>
-            
-            <div style="text-align: center; margin-top: 4rem;">
-                <button class="btn" onclick="loadMoreRSS()" style="padding: 15px 45px; font-size: 1.2rem;">
-                    <i class="fas fa-plus-circle"></i> Вчитај Повеќе RSS Вести
-                </button>
-                <p style="color: var(--dark); margin-top: 1.5rem; font-size: 1.1rem;">
-                    Прикажани <span id="rss-shown">12</span> од <span id="rss-total">892</span> RSS вести
-                </p>
-            </div>
-        </div>
-    </div>
+    </main>
 
     <!-- ФУТЕР -->
     <footer>
-        <div class="footer-content">
-            <div>
-                <div class="footer-logo">MAKEDON WORLD NEWS</div>
-                <p>Глобална вести платформа со 1,334 RSS извори од целиот свет</p>
-                <p style="margin-top: 1.5rem; font-size: 0.9rem;">© 2026 Сите права се задржани</p>
-                
-                <div class="social-icons">
-                    <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="#" class="social-icon"><i class="fab fa-telegram"></i></a>
-                </div>
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <div style="font-size: 1.8rem; font-weight: bold; color: var(--secondary); margin-bottom: 1.5rem;">
+                MAKEDON WORLD NEWS
             </div>
-            
-            <div>
-                <h4 style="color: var(--secondary); margin-bottom: 1.5rem;">Контакт</h4>
-                <p><i class="fas fa-envelope"></i> makedonworldnews@gmail.com</p>
-                <p><i class="fas fa-envelope"></i> makedonworldnews@outlook.com</p>
-                <p><i class="fas fa-phone"></i> +389 70 XXX XXX</p>
-                
-                <h4 style="color: var(--secondary); margin-top: 2rem; margin-bottom: 1.5rem;">Месинџери</h4>
-                <p><i class="fab fa-whatsapp"></i> WhatsApp: +389 70 XXX XXX</p>
-                <p><i class="fab fa-telegram"></i> Telegram: @makedonworldnews</p>
-                <p><i class="fab fa-facebook-messenger"></i> Messenger: makedonworldnews</p>
-            </div>
-            
-            <div>
-                <h4 style="color: var(--secondary); margin-bottom: 1.5rem;">Развиено од</h4>
-                <p>Доц. д-р Санде Смиљанов</p>
-                <p>Со DeepSeek ВИ асистент</p>
-                <p style="margin-top: 1.5rem; font-size: 0.9rem;">
-                    <i class="fas fa-heart" style="color: var(--secondary);"></i> Создадено со љубов за Македонија
-                </p>
-            </div>
-            
-            <div>
-                <h4 style="color: var(--secondary); margin-bottom: 1.5rem;">RSS Статистика</h4>
-                <div id="live-rss-stats">
-                    <p><i class="fas fa-rss"></i> Вкупно RSS извори: <span>1,334</span></p>
-                    <p><i class="fas fa-newspaper"></i> Активни вести: <span id="footer-news">892</span></p>
-                    <p><i class="fas fa-shield-alt"></i> Верифицирани: <span id="footer-verified">756</span></p>
-                    <p><i class="fas fa-clock"></i> Последно ажурирање: <span>Сега</span></p>
-                </div>
+            <p>Глобална RSS вести платформа развиена со DeepSeek ВИ асистент</p>
+            <p style="margin-top: 1.5rem; font-size: 0.9rem;">© 2026 Сите права се задржани</p>
+            <div style="margin-top: 2rem;">
+                <p><i class="fas fa-heart" style="color: var(--secondary);"></i> Создадено со љубов за Македонија</p>
             </div>
         </div>
     </footer>
 
-    <!-- JAVASCRIPT -->
+    <!-- 
+    =================================================================
+    ЗАБЕЛЕШКА: ГО ИСКЛУЧИВ ОРИГИНАЛНИОТ JAVASCRIPT КОД
+    ШТО ГИ ПРАВЕШЕ ЛАЖНИ RSS ВЕСТИ. СЕГА ЌЕ КОРИСТИМЕ 
+    НАШИОТ ФУНКЦИОНАЛЕН КОД ОД assets/app.js
+    =================================================================
+    -->
+
+    <!-- НАШИОТ ФУНКЦИОНАЛЕН JAVASCRIPT ЗА RSS ВЕСТИ -->
+    <script src="assets/app.js"></script>
+    
+    <!-- МАЛ ДОПОЛНИТЕЛЕН СКРИПТ ЗА ИНТЕРАКЦИЈА -->
     <script>
-        // СИСТЕМСКА КОНФИГУРАЦИЈА
-        const SYSTEM_CONFIG = {
-            rss: {
-                feeds: 1334,
-                active: true,
-                loaded: 892,
-                verified: 756,
-                topics: [
-                    'protocol', 'diplomacy', 'public-relations', 'security', 'politics',
-                    'business', 'economy', 'health', 'entertainment', 'culture',
-                    'travel', 'science', 'sports', 'weather', 'breaking', 'live'
-                ],
-                regions: [
-                    'macedonia', 'balkan', 'europe', 'asia', 'india',
-                    'africa', 'america', 'australia', 'antarctica'
-                ]
-            },
-            ai: {
-                systems: ['DeepSeek', 'OpenAI', 'Gemini', 'Claude', 'Mistral'],
-                active: true
-            },
-            social: {
-                platforms: ['facebook', 'whatsapp', 'telegram', 'twitter', 'instagram', 'linkedin'],
-                active: true
-            }
-        };
-
-        // RSS ВЕСТИ
-        const RSS_NEWS = [];
-        const NEWS_COUNT = 892;
-
-        // ИНИЦИЈАЛИЗАЦИЈА НА СИСТЕМОТ
+        // Едноставни функции за интеракција
         document.addEventListener('DOMContentLoaded', function() {
-            console.log('🚀 MAKEDON WORLD NEWS - Системска иницијализација...');
+            console.log('🌐 Makedon World News е подготвен!');
             
-            // Активирај ги сите системи
-            activateAllSystems();
-            
-            // Генерирај RSS вести
-            generateRSSNews();
-            
-            // Вчитај RSS вести
-            loadRSSNews();
-            
-            // Иницијализирај навигација
-            initNavigation();
-            
-            // Иницијализирај регионални икони
-            initRegionIcons();
-            
-            // Стартувај системски мониторинг
-            startSystemMonitoring();
-            
-            console.log('✅ СИТЕ СИСТЕМИ СЕ АКТИВИРАНИ И ОПЕРАТИВНИ!');
-            
-            // Прикажи системски статус
-            showSystemStatus();
-        });
-
-        // АКТИВИРАЈ ГИ СИТЕ СИСТЕМИ
-        function activateAllSystems() {
-            console.log('⚡ Активација на сите системи...');
-            
-            // RSS систем
-            activateSystem('rss', 'RSS Систем', '✅ 1,334 RSS извори се активни!');
-            
-            // Верификациски систем
-            activateSystem('verification', 'Верификациски Систем', '✅ Системот за верификација е активен!');
-            
-            // ВИ системи
-            activateSystem('ai', 'ВИ Системи', '✅ ВИ системите се активни!');
-            
-            // Социјални системи
-            activateSystem('social', 'Социјални Системи', '✅ Сите социјални платформи се активни!');
-            
-            // Месинџер системи
-            activateSystem('messenger', 'Месинџер Системи', '✅ Сите месинџери се активни!');
-            
-            // Прикажи успешна порака
-            showSuccessMessage('Системска активација', '✅ Сите системи се успешно активирани и оперативни!');
-        }
-
-        // АКТИВИРАЈ ПОЕДИНЕЧЕН СИСТЕМ
-        function activateSystem(system, name, message) {
-            console.log(`✅ ${name}: АКТИВЕН`);
-            
-            // Анимирај картките
-            const cards = document.querySelectorAll('.system-card, .communication-card');
-            cards.forEach((card, index) => {
-                setTimeout(() => {
-                    card.classList.add('pulse');
-                    setTimeout(() => {
-                        card.classList.remove('pulse');
-                    }, 1000);
-                }, index * 200);
-            });
-            
-            // Ажурирај статистика
-            updateRSSStats();
-        }
-
-        // ГЕНЕРИРАЈ RSS ВЕСТИ
-        function generateRSSNews() {
-            const topics = {
-                'protocol': { name: 'Протокол', icon: 'fas fa-handshake', color: '#8B4513' },
-                'diplomacy': { name: 'Дипломатија', icon: 'fas fa-peace', color: '#2E8B57' },
-                'public-relations': { name: 'Односи со јавност', icon: 'fas fa-bullhorn', color: '#FF6347' },
-                'security': { name: 'Безбедност', icon: 'fas fa-shield-alt', color: '#DC143C' },
-                'politics': { name: 'Политика', icon: 'fas fa-landmark', color: '#4682B4' },
-                'business': { name: 'Бизнис', icon: 'fas fa-briefcase', color: '#32CD32' },
-                'economy': { name: 'Економија', icon: 'fas fa-chart-line', color: '#FFD700' },
-                'health': { name: 'Здравје', icon: 'fas fa-heartbeat', color: '#FF69B4' },
-                'entertainment': { name: 'Забава', icon: 'fas fa-film', color: '#9370DB' },
-                'culture': { name: 'Култура-Уметност', icon: 'fas fa-palette', color: '#8A2BE2' },
-                'travel': { name: 'Патување', icon: 'fas fa-plane', color: '#00CED1' },
-                'science': { name: 'Наука', icon: 'fas fa-flask', color: '#20B2AA' },
-                'sports': { name: 'Спорт', icon: 'fas fa-futbol', color: '#228B22' },
-                'weather': { name: 'Време', icon: 'fas fa-cloud-sun', color: '#87CEEB' },
-                'breaking': { name: 'Најнови Вести', icon: 'fas fa-bolt', color: '#FF4500' },
-                'live': { name: 'Вести во Живо', icon: 'fas fa-broadcast-tower', color: '#1E90FF' }
-            };
-            
-            const regions = {
-                'macedonia': { name: 'Македонија', icon: '🇲🇰', color: 'var(--macedonia)' },
-                'balkan': { name: 'Балкан', icon: '🏔️', color: 'var(--balkan)' },
-                'europe': { name: 'Европа', icon: '🇪🇺', color: 'var(--europe)' },
-                'asia': { name: 'Азија', icon: '🌏', color: 'var(--asia)' },
-                'india': { name: 'Индија', icon: '🇮🇳', color: 'var(--india)' },
-                'africa': { name: 'Африка', icon: '🌍', color: 'var(--africa)' },
-                'america': { name: 'Америка', icon: '🌎', color: 'var(--america)' },
-                'australia': { name: 'Австралија', icon: '🇦🇺', color: 'var(--australia)' },
-                'antarctica': { name: 'Антарктик', icon: '🧊', color: 'var(--antarctica)' }
-            };
-            
-            const titles = [
-                "Нова ера во дигиталната дипломатија",
-                "Македонски компании освојуваат нови пазари",
-                "Напредок во здравствената технологија",
-                "Културна размена со соседните земји",
-                "Економски раст во регионот",
-                "Безбедносни соработки меѓу државите",
-                "Научни откритија од македонски истражувачи",
-                "Спортски успеси на меѓународни натпреварувања",
-                "Временски промени и климатски акции",
-                "Бизнис форум за економски развој",
-                "Дипломатски преговори за мировни процеси",
-                "Технолошки иновации кои го менуваат светот",
-                "Образовни реформи за подобро иднина",
-                "Културни манифестации низ цела Македонија",
-                "Забавни настани и фестивали"
-            ];
-            
-            const sources = [
-                'Reuters', 'Associated Press', 'BBC News', 'CNN', 'Al Jazeera',
-                'The Guardian', 'New York Times', 'Washington Post', 'Bloomberg',
-                'Financial Times', 'DW News', 'France 24', 'Euronews',
-                'MKD Вести', 'Телевизија 24', 'Макфакс', 'Ситцел', 'Канал 5'
-            ];
-            
-            for (let i = 0; i < NEWS_COUNT; i++) {
-                const topicKeys = Object.keys(topics);
-                const regionKeys = Object.keys(regions);
-                
-                const topicKey = topicKeys[Math.floor(Math.random() * topicKeys.length)];
-                const regionKey = regionKeys[Math.floor(Math.random() * regionKeys.length)];
-                
-                RSS_NEWS.push({
-                    id: i + 1,
-                    title: titles[Math.floor(Math.random() * titles.length)] + ` #${i + 1}`,
-                    topic: topicKey,
-                    topicName: topics[topicKey].name,
-                    topicIcon: topics[topicKey].icon,
-                    topicColor: topics[topicKey].color,
-                    region: regionKey,
-                    regionName: regions[regionKey].name,
-                    regionIcon: regions[regionKey].icon,
-                    regionColor: regions[regionKey].color,
-                    source: sources[Math.floor(Math.random() * sources.length)],
-                    description: `Ова е вест од RSS извор. Содржината се ажурира во реал-време од ${SYSTEM_CONFIG.rss.feeds} активни RSS извори. Веста е верифицирана и проверена од системот за верификација.`,
-                    timestamp: new Date(Date.now() - Math.floor(Math.random() * 48 * 60 * 60 * 1000)),
-                    isVerified: Math.random() > 0.3,
-                    isBreaking: i % 7 === 0
+            // Прикажи актуелно време
+            function updateTime() {
+                const now = new Date();
+                const timeStr = now.toLocaleTimeString('mk-MK', { 
+                    hour: '2-digit', 
+                    minute: '2-digit',
+                    second: '2-digit'
                 });
-            }
-        }
-
-        // ВЧИТАЈ RSS ВЕСТИ
-        function loadRSSNews() {
-            const container = document.getElementById('rss-container');
-            container.innerHTML = '';
-            
-            // Прикажи 12 вести
-            const newsToShow = RSS_NEWS.slice(0, 12);
-            
-            newsToShow.forEach((news, index) => {
-                const newsCard = createRSSNewsCard(news);
-                container.appendChild(newsCard);
-                
-                // Анимација
-                setTimeout(() => {
-                    newsCard.style.opacity = '1';
-                    newsCard.style.transform = 'translateY(0)';
-                }, index * 100);
-            });
-            
-            // Ажурирај статистика
-            updateRSSStats();
-        }
-
-        // СОЗДАЈ RSS КАРТИЧКА ЗА ВЕСТ
-        function createRSSNewsCard(news) {
-            const card = document.createElement('div');
-            card.className = 'rss-card fade-in';
-            card.style.opacity = '0';
-            card.style.transform = 'translateY(20px)';
-            card.style.transition = 'all 0.5s';
-            
-            const hoursAgo = Math.floor((Date.now() - news.timestamp) / (1000 * 60 * 60));
-            const timeText = hoursAgo < 1 ? 'Пред помалку од час' : 
-                           hoursAgo === 1 ? 'Пред 1 час' : 
-                           `Пред ${hoursAgo} часа`;
-            
-            card.innerHTML = `
-                <div style="display: flex; justify-content: space-between; align-items: start; padding: 1.5rem 1.5rem 0;">
-                    <div class="rss-category" style="background: ${news.topicColor}">
-                        <i class="${news.topicIcon}"></i> ${news.topicName}
-                    </div>
-                    <div class="rss-region" style="background: ${news.regionColor}">
-                        ${news.regionIcon} ${news.regionName}
-                    </div>
-                </div>
-                
-                <div style="padding: 1.5rem;">
-                    <h3 style="margin-bottom: 15px; font-size: 1.3rem; line-height: 1.4; color: var(--dark);">
-                        ${news.isBreaking ? '<i class="fas fa-bolt" style="color: #FF4500; margin-right: 10px;"></i>' : ''}
-                        ${news.title}
-                    </h3>
-                    
-                    <p style="margin-bottom: 20px; line-height: 1.6; color: #555;">
-                        ${news.description}
-                    </p>
-                    
-                    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 1.5rem;">
-                        <div style="display: flex; align-items: center; gap: 15px;">
-                            <span style="color: #666; font-size: 0.9rem;">
-                                <i class="far fa-clock"></i> ${timeText}
-                            </span>
-                            <span style="color: var(--primary); font-weight: bold; font-size: 0.9rem;">
-                                RSS #${news.id}
-                            </span>
-                            ${news.isVerified ? 
-                                '<span style="color: var(--success); font-weight: bold; font-size: 0.9rem;"><i class="fas fa-check-circle"></i> Верифицирано</span>' : 
-                                '<span style="color: var(--warning); font-weight: bold; font-size: 0.9rem;"><i class="fas fa-clock"></i> Во процес</span>'
-                            }
-                        </div>
-                        
-                        <button onclick="viewRSSNews(${news.id})" style="background: var(--primary); color: white; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-weight: bold; display: flex; align-items: center; gap: 8px;">
-                            <i class="fas fa-eye"></i> Види Вест
-                        </button>
-                    </div>
-                </div>
-                
-                <div style="padding: 1rem 1.5rem; background: rgba(216,34,41,0.1); border-top: 1px solid #eee; display: flex; align-items: center; gap: 10px;">
-                    <i class="fas fa-rss" style="color: var(--primary);"></i>
-                    <span style="font-weight: bold; color: var(--dark);">Извор:</span>
-                    <span style="color: #666;">${news.source}</span>
-                </div>
-            `;
-            
-            return card;
-        }
-
-        // ВИДИ RSS ВЕСТ
-        function viewRSSNews(newsId) {
-            const news = RSS_NEWS.find(n => n.id === newsId);
-            const statsMessage = 
-                `📰 RSS Вест #${newsId}\n\n` +
-                `🔖 Тема: ${news.topicName}\n` +
-                `🌍 Регион: ${news.regionName}\n` +
-                `📡 Извор: ${news.source}\n` +
-                `🕒 Време: ${formatTime(news.timestamp)}\n` +
-                `🛡️ Статус: ${news.isVerified ? 'Верифицирано' : 'Во процес'}\n\n` +
-                `✅ Веста е успешно вчитана од RSS системот\n` +
-                `✅ Содржината е проверена\n` +
-                `✅ Информациите се точни и ажурирани`;
-            
-            showSuccessMessage('RSS Вест детали', statsMessage);
-        }
-
-        // ФИЛТРИРАЈ ПО РЕГИОН
-        function filterRegion(region) {
-            const regionNames = {
-                'macedonia': 'Македонија',
-                'balkan': 'Балкан',
-                'europe': 'Европа',
-                'asia': 'Азија',
-                'india': 'Индија',
-                'africa': 'Африка',
-                'america': 'Америка',
-                'australia': 'Австралија',
-                'antarctica': 'Антарктик'
-            };
-            
-            // Активирај регионална икона
-            const icons = document.querySelectorAll('.region-icon');
-            icons.forEach(icon => icon.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            showSuccessMessage('Филтрирање по регион', 
-                `🌍 RSS вести за регион: ${regionNames[region]}\n\n` +
-                `✅ Филтрирањето е успешно активирано\n` +
-                `📡 Се прикажуваат вести од ${regionNames[region]}\n` +
-                `🔄 Ажурирање во реал-време\n` +
-                `📊 RSS извори: активно филтрирање`
-            );
-        }
-
-        // ФИЛТРИРАЈ ПО ТЕМА
-        function filterTopic(topic) {
-            const topicNames = {
-                'protocol': 'Протокол',
-                'diplomacy': 'Дипломатија',
-                'public-relations': 'Односи со јавност',
-                'security': 'Безбедност',
-                'politics': 'Политика',
-                'business': 'Бизнис',
-                'economy': 'Економија',
-                'health': 'Здравје',
-                'entertainment': 'Забава',
-                'culture': 'Култура-Уметност',
-                'travel': 'Патување',
-                'science': 'Наука',
-                'sports': 'Спорт',
-                'weather': 'Време',
-                'breaking': 'Најнови Вести',
-                'live': 'Вести во Живо'
-            };
-            
-            showSuccessMessage('Филтрирање по тема', 
-                `📚 RSS вести за тема: ${topicNames[topic]}\n\n` +
-                `✅ Филтрирањето е успешно активирано\n` +
-                `📖 Се прикажуваат вести за ${topicNames[topic]}\n` +
-                `🔄 Ажурирање во реал-време\n` +
-                `📊 RSS извори: активно филтрирање`
-            );
-        }
-
-        // ОТВОРИ МЕСИНЏЕР
-        function openMessenger(type) {
-            const messengerNames = {
-                'facebook': 'Facebook Messenger',
-                'whatsapp': 'WhatsApp',
-                'telegram': 'Telegram'
-            };
-            
-            showSuccessMessage('Месинџер систем', 
-                `💬 Отворање на ${messengerNames[type]}\n\n` +
-                `✅ Системот е активен и оперативен\n` +
-                `🔒 End-to-end енкрипција: АКТИВНА\n` +
-                `💬 Групни разговори: АКТИВНИ\n` +
-                `📞 Видео/аудио повици: АКТИВНИ\n` +
-                `🛡️ Спам заштита: АКТИВНА\n\n` +
-                `Системот моментално опслужува 1,247 активни корисници.`
-            );
-        }
-
-        // ОТВОРИ СОЦИЈАЛНА МРЕЖА
-        function openSocial(type) {
-            const socialNames = {
-                'twitter': 'Twitter/X',
-                'instagram': 'Instagram',
-                'linkedin': 'LinkedIn'
-            };
-            
-            showSuccessMessage('Социјална мрежа', 
-                `🌐 Отворање на ${socialNames[type]}\n\n` +
-                `✅ Системот е активен и оперативен\n` +
-                `📱 Автоматско споделување: АКТИВНО\n` +
-                `👥 Интеракција со следбеници: АКТИВНА\n` +
-                `📊 Аналитика во реал-време: АКТИВНА\n` +
-                `🔄 Синхронизација со RSS: АКТИВНА\n\n` +
-                `Системот моментално споделува 892 активни вести.`
-            );
-        }
-
-        // ОСВЕЖИ ГИ СИТЕ RSS
-        function refreshAllRSS() {
-            showLoadingMessage('Освежување на RSS вести...', '🔄 Проверка на RSS изворите во тек...');
-            
-            // Симулирај освежување
-            setTimeout(() => {
-                SYSTEM_CONFIG.rss.loaded += Math.floor(Math.random() * 50) + 20;
-                SYSTEM_CONFIG.rss.verified = Math.floor(SYSTEM_CONFIG.rss.loaded * 0.85);
-                
-                updateRSSStats();
-                loadRSSNews();
-                
-                showSuccessMessage('RSS вестите се освежени!', 
-                    `✅ ${SYSTEM_CONFIG.rss.feeds} RSS извори се проверени\n` +
-                    `✅ ${SYSTEM_CONFIG.rss.loaded} вести се вчитани\n` +
-                    `✅ ${SYSTEM_CONFIG.rss.verified} вести се верифицирани\n` +
-                    `⏰ Последно ажурирање: ${formatTime(new Date())}`
-                );
-            }, 1500);
-        }
-
-        // ВЧИТАЈ ПОВЕЌЕ RSS ВЕСТИ
-        function loadMoreRSS() {
-            const container = document.getElementById('rss-container');
-            const currentCount = container.children.length;
-            const moreNews = RSS_NEWS.slice(currentCount, currentCount + 12);
-            
-            moreNews.forEach((news, index) => {
-                const newsCard = createRSSNewsCard(news);
-                container.appendChild(newsCard);
-                
-                // Анимација
-                setTimeout(() => {
-                    newsCard.style.opacity = '1';
-                    newsCard.style.transform = 'translateY(0)';
-                }, index * 100);
-            });
-            
-            // Ажурирај покажани вести
-            const shown = Math.min(currentCount + 12, RSS_NEWS.length);
-            document.getElementById('rss-shown').textContent = shown;
-            document.getElementById('rss-total').textContent = RSS_NEWS.length;
-            
-            // Анимирај копчето
-            const button = event.target;
-            button.innerHTML = '<i class="fas fa-check"></i> Успешно вчитано';
-            button.disabled = true;
-            
-            setTimeout(() => {
-                button.innerHTML = '<i class="fas fa-plus-circle"></i> Вчитај Повеќе RSS Вести';
-                button.disabled = false;
-            }, 2000);
-        }
-
-        // ПРИКАЖИ RSS СТАТИСТИКА
-        function showRSSStats() {
-            const statsMessage = 
-                `📊 RSS СИСТЕМ СТАТИСТИКА\n\n` +
-                `📡 Вкупно RSS извори: ${SYSTEM_CONFIG.rss.feeds.toLocaleString()}\n` +
-                `✅ Активни извори: ${SYSTEM_CONFIG.rss.feeds.toLocaleString()}\n` +
-                `📰 Вчитани вести: ${SYSTEM_CONFIG.rss.loaded.toLocaleString()}\n` +
-                `🛡️ Верифицирани: ${SYSTEM_CONFIG.rss.verified.toLocaleString()}\n` +
-                `⏰ Последно ажурирање: ${formatTime(new Date())}\n` +
-                `🌍 Региони: ${SYSTEM_CONFIG.rss.regions.length}\n` +
-                `📑 Теме: ${SYSTEM_CONFIG.rss.topics.length}\n\n` +
-                `🚀 Системска достапност: 89%\n` +
-                `⚡ Просечно време на одговор: 0.2 секунди`;
-            
-            showSuccessMessage('RSS Системска Статистика', statsMessage);
-        }
-
-        // АЖУРИРАЈ RSS СТАТИСТИКА
-        function updateRSSStats() {
-            document.getElementById('rss-loaded').textContent = SYSTEM_CONFIG.rss.loaded.toLocaleString();
-            document.getElementById('rss-verified').textContent = SYSTEM_CONFIG.rss.verified.toLocaleString();
-            document.getElementById('rss-updated').textContent = 'Сега';
-            
-            document.getElementById('footer-news').textContent = SYSTEM_CONFIG.rss.loaded.toLocaleString();
-            document.getElementById('footer-verified').textContent = SYSTEM_CONFIG.rss.verified.toLocaleString();
-            
-            document.getElementById('rss-shown').textContent = Math.min(12, RSS_NEWS.length);
-            document.getElementById('rss-total').textContent = RSS_NEWS.length;
-        }
-
-        // ИНИЦИЈАЛИЗАЦИЈА НА НАВИГАЦИЈА
-        function initNavigation() {
-            const navLinks = document.querySelectorAll('.nav-menu a');
-            navLinks.forEach(link => {
-                link.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    
-                    // Отстрани активна класа
-                    navLinks.forEach(l => l.classList.remove('active'));
-                    
-                    // Додај активна класа
-                    this.classList.add('active');
-                    
-                    // Скролувај до секцијата
-                    const targetId = this.getAttribute('href').substring(1);
-                    const targetElement = document.getElementById(targetId);
-                    if (targetElement) {
-                        targetElement.scrollIntoView({ behavior: 'smooth' });
-                    }
+                const dateStr = now.toLocaleDateString('mk-MK', {
+                    weekday: 'long',
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
                 });
-            });
-        }
-
-        // ИНИЦИЈАЛИЗАЦИЈА НА РЕГИОНАЛНИ ИКОНИ
-        function initRegionIcons() {
-            const regionIcons = document.querySelectorAll('.region-icon');
-            regionIcons.forEach(icon => {
-                icon.addEventListener('click', function(event) {
-                    // Отстрани активна класа
-                    regionIcons.forEach(i => i.classList.remove('active'));
-                    
-                    // Додај активна класа
-                    this.classList.add('active');
-                    
-                    // Анимација
-                    this.classList.add('pulse');
-                    setTimeout(() => {
-                        this.classList.remove('pulse');
-                    }, 1000);
-                });
-            });
-        }
-
-        // СТАРТУВАЈ СИСТЕМСКИ МОНИТОРИНГ
-        function startSystemMonitoring() {
-            setInterval(() => {
-                // Симулирај системска активност
-                if (Math.random() < 0.3) {
-                    SYSTEM_CONFIG.rss.loaded += Math.floor(Math.random() * 5);
-                    SYSTEM_CONFIG.rss.verified = Math.floor(SYSTEM_CONFIG.rss.loaded * 0.85);
-                    updateRSSStats();
+                
+                // Ажурирај во футерот
+                const timeElement = document.getElementById('current-time');
+                if (timeElement) {
+                    timeElement.textContent = `${dateStr} - ${timeStr}`;
                 }
-                
-                // Анимирај статистика
-                const stats = document.querySelectorAll('.stat-number');
-                stats.forEach(stat => {
-                    stat.classList.add('pulse');
-                    setTimeout(() => {
-                        stat.classList.remove('pulse');
-                    }, 1000);
-                });
-            }, 10000);
-        }
-
-        // ПОКАЖИ СИСТЕМСКИ СТАТУС
-        function showSystemStatus() {
-            console.log(`
-            ╔══════════════════════════════════════════════════════════╗
-            ║                                                          ║
-            ║  🚀 MAKEDON WORLD NEWS - СИСТЕМСКИ СТАТУС               ║
-            ║                                                          ║
-            ║  📡 RSS Систем: ✅ АКТИВЕН (${SYSTEM_CONFIG.rss.feeds} извори)         ║
-            ║  🤖 ВИ Системи: ✅ АКТИВНИ (${SYSTEM_CONFIG.ai.systems.length} модели) ║
-            ║  💬 Месинџери: ✅ АКТИВНИ (${SYSTEM_CONFIG.social.platforms.length} платформи) ║
-            ║  🌐 Социјални: ✅ АКТИВНИ                                ║
-            ║  🛡️ Верификација: ✅ АКТИВНА                            ║
-            ║                                                          ║
-            ║  ✅ СИТЕ СИСТЕМИ СЕ ОПЕРАТИВНИ                          ║
-            ║                                                          ║
-            ╚══════════════════════════════════════════════════════════╝
-            `);
-        }
-
-        // ПОМОШНИ ФУНКЦИИ
-        function formatTime(date) {
-            const now = new Date();
-            const diff = now - date;
+            }
             
-            if (diff < 60000) return 'Пред < 1 минута';
-            if (diff < 3600000) return `Пред ${Math.floor(diff / 60000)} минути`;
-            if (diff < 86400000) return `Пред ${Math.floor(diff / 3600000)} часа`;
-            return date.toLocaleTimeString('mk-MK', { hour: '2-digit', minute: '2-digit' });
-        }
-
-        function showSuccessMessage(title, message) {
-            alert(`✅ ${title}\n\n${message}`);
-        }
-
-        function showErrorMessage(title, message) {
-            alert(`❌ ${title}\n\n${message}`);
-        }
-
-        function showLoadingMessage(title, message) {
-            alert(`🔄 ${title}\n\n${message}`);
-        }
+            // Создај елемент за време во футерот ако не постои
+            if (!document.getElementById('current-time')) {
+                const timeElement = document.createElement('p');
+                timeElement.id = 'current-time';
+                timeElement.style.marginTop = '1rem';
+                timeElement.style.fontSize = '0.85rem';
+                timeElement.style.opacity = '0.8';
+                document.querySelector('footer div').appendChild(timeElement);
+            }
+            
+            updateTime();
+            setInterval(updateTime, 1000);
+            
+            // Анимација за статусот
+            const statusElement = document.querySelector('.system-status');
+            if (statusElement) {
+                setInterval(() => {
+                    statusElement.classList.toggle('pulse-animation');
+                }, 2000);
+            }
+        });
+        
+        // Додај CSS за анимација
+        const style = document.createElement('style');
+        style.textContent = `
+            .pulse-animation {
+                animation: pulse 2s infinite;
+            }
+            @keyframes pulse {
+                0% { opacity: 1; }
+                50% { opacity: 0.7; }
+                100% { opacity: 1; }
+            }
+        `;
+        document.head.appendChild(style);
     </script>
-    <!-- ===== RSS NEWS CONTAINER ===== -->
-<section style="padding: 2rem; background: #f8fafc; border-radius: 16px; margin-top: 3rem;">
-    <h2 style="color: #1e40af; border-bottom: 3px solid #3b82f6; padding-bottom: 0.5rem;">
-        🌐 RSS ВЕСТИ ВО ЖИВО
-    </h2>
-    
-    <div style="display: flex; gap: 2rem; background: white; padding: 1.5rem; border-radius: 12px; margin: 1.5rem 0; font-size: 0.95rem;">
-        <div style="flex: 1;">
-            <strong>📊 Статус на системот:</strong><br>
-            <span class="system-status status-active">АКТИВЕН</span>
-        </div>
-        <div style="flex: 1;">
-            <strong>📰 Вкупно вести:</strong><br>
-            <span id="article-count">Се вчитува...</span>
-        </div>
-        <div style="flex: 2;">
-            <strong>🕐 Последно ажурирање:</strong><br>
-            <span id="last-update-time">Се вчитува...</span>
-        </div>
-    </div>
-    
-    <!-- NEWS WILL APPEAR HERE AUTOMATICALLY -->
-    <div id="rss-news-live">
-        <p style="text-align: center; padding: 3rem; color: #64748b;">
-            ⏳ Системот се иницијализира и ги вчитува најновите вести...
-        </p>
-    </div>
-</section>
-
-<!-- ===== LINK TO OUR NEW JS & CSS FILES ===== -->
-<!-- Add these lines RIGHT BEFORE the closing </body> tag -->
-<link rel="stylesheet" href="assets/style.css">
-<script src="assets/app.js"></script>
 </body>
 </html>
