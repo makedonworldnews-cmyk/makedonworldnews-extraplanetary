@@ -1,5 +1,4 @@
 {
- {
   "last_modified": "2025-02-01",
   "description": "Конфигурација на RSS извори за Makedon World News.",
   "rss_sources": [
@@ -39,5 +38,4 @@
       "country": "Меѓународна"
     }
   ]
-} 
 }
