@@ -3,57 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="MAKEDON WORLD NEWS - Military-grade Intelligence Network with 1312+ RSS sources. Universal Translation Protocol supports 149+ languages. Blockchain-verified, AI-powered global news.">
-    <meta name="keywords" content="world news, Macedonia, protocol, diplomacy, security, universal translation, 149 languages, #MakedonWorldNews, #WorldProtocolAcademy, #ExtraplanetaryIntelligence">
-    <meta name="author" content="Dr. Sande Smiljanov - World Protocol Academy">
+    <meta name="description" content="MAKEDON WORLD NEWS - Military-grade Intelligence Network with 1312+ RSS sources covering 20 categories across 7 continents. Universal Translation Protocol supports 149+ languages.">
+    <meta name="keywords" content="Makedon World News, world news, Macedonia, global intelligence, universal translation, 149 languages, RSS feeds, blockchain, #MakedonWorldNews">
+    <meta name="author" content="Makedon World News">
     
-    <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://makedonworldnews.com">
-    <meta property="og:title" content="MAKEDON WORLD NEWS - 149 Languages | 1312 RSS Sources">
-    <meta property="og:description" content="Universal Translation Protocol | Military-grade intelligence from 7 continents | #MakedonWorldNews #WorldProtocolAcademy">
-    <meta property="og:image" content="https://makedonworldnews.com/satellite.jpg">
+    <meta property="og:title" content="MAKEDON WORLD NEWS - Universal Translation | 149 Languages">
+    <meta property="og:description" content="Military-grade intelligence from 7 continents | 1312 RSS Sources | 20 Categories | Blockchain Verified">
+    <meta property="og:image" content="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg">
     
-    <title>MAKEDON WORLD NEWS - Universal Translation Protocol | 149 Languages</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@makedonworldnew">
+    <meta name="twitter:title" content="MAKEDON WORLD NEWS">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg">
     
-    <!-- Google Translate Script -->
+    <title>MAKEDON WORLD NEWS - Global Intelligence Network</title>
+    
+    <link rel="icon" type="image/jpeg" href="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg">
+    
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
                 pageLanguage: 'mk',
                 includedLanguages: 'sq,ar,hy,az,eu,be,bn,bs,bg,ca,ceb,ny,zh-CN,zh-TW,co,hr,cs,da,nl,en,eo,et,tl,fi,fr,fy,gl,ka,de,el,gu,ht,ha,haw,iw,hi,hmn,hu,is,ig,id,ga,it,ja,jw,kn,kk,km,ko,ku,ky,lo,la,lv,lt,lb,mk,mg,ms,ml,mt,mi,mr,mn,my,ne,no,or,ps,fa,pl,pt,pa,ro,ru,sm,gd,sr,st,sn,sd,si,sk,sl,so,es,su,sw,sv,tg,ta,te,th,tr,uk,ur,uz,vi,cy,xh,yi,yo,zu,af,am',
-                layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL,
-                autoDisplay: false,
-                multilanguagePage: true
+                layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
             }, 'google_translate_element');
         }
     </script>
-    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    
-    <!-- CryptoJS -->
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     
-    <!-- JSON-LD Schema -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "NewsMediaOrganization",
         "name": "MAKEDON WORLD NEWS",
         "url": "https://makedonworldnews.com",
-        "description": "Universal Translation Protocol supporting 149+ languages. Military-grade intelligence network.",
-        "founder": {
-            "@type": "Person",
-            "name": "Dr. Sande Smiljanov",
-            "affiliation": "World Protocol Academy"
-        },
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "email": "makedonworldnews@gmail.com"
-        }
+        "logo": "https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg",
+        "sameAs": [
+            "https://www.facebook.com/share/17iEhWcYLD/",
+            "https://www.instagram.com/makedonworldnews",
+            "https://www.tiktok.com/@makedon.worldnews",
+            "https://x.com/makedonworldnew",
+            "https://youtube.com/@makedonworldnews"
+        ]
     }
     </script>
     
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://js.stripe.com/v3/"></script>
     
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
@@ -80,7 +79,6 @@
             line-height: 1.6;
         }
         
-        /* Digital Grid */
         body::before {
             content: "";
             position: fixed;
@@ -96,7 +94,6 @@
             pointer-events: none;
         }
         
-        /* Scanlines */
         body::after {
             content: "";
             position: fixed;
@@ -110,7 +107,6 @@
             z-index: 100;
         }
         
-        /* Matrix Loader */
         #matrixLoader {
             position: fixed;
             top: 0;
@@ -120,6 +116,7 @@
             background: #000;
             z-index: 9999;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
             transition: opacity 1s;
@@ -134,6 +131,18 @@
             position: absolute;
             width: 100%;
             height: 100%;
+        }
+        
+        .loader-logo {
+            position: relative;
+            z-index: 10000;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid var(--neon-cyan);
+            box-shadow: 0 0 30px var(--neon-cyan);
+            animation: pulse 2s infinite;
+            margin-bottom: 20px;
         }
         
         .loader-text {
@@ -160,6 +169,14 @@
             position: sticky;
             top: 0;
             z-index: 150;
+        }
+        
+        .logo-header {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 2px solid var(--neon-cyan);
+            box-shadow: 0 0 20px var(--neon-cyan);
         }
         
         .glass-panel {
@@ -209,7 +226,6 @@
             border-color: var(--neon-purple);
         }
         
-        /* Frame Corners */
         .frame-corner {
             position: absolute;
             width: 15px;
@@ -274,7 +290,6 @@
             }
         }
         
-        /* Firewall */
         .firewall {
             position: fixed;
             top: 80px;
@@ -297,7 +312,6 @@
             }
         }
         
-        /* Translation Matrix */
         .translation-matrix {
             position: fixed;
             top: 160px;
@@ -338,11 +352,6 @@
             font-size: 0 !important;
         }
         
-        .goog-te-gadget-simple {
-            background: transparent !important;
-            border: none !important;
-        }
-        
         .goog-te-banner-frame {
             display: none !important;
         }
@@ -351,11 +360,6 @@
             top: 0 !important;
         }
         
-        .skiptranslate {
-            display: block !important;
-        }
-        
-        /* Connectivity Dock */
         .conn-dock {
             position: fixed;
             right: 20px;
@@ -580,6 +584,11 @@
                 font-size: 9px;
                 padding: 5px 6px;
             }
+            
+            .logo-header {
+                width: 50px;
+                height: 50px;
+            }
         }
     </style>
 </head>
@@ -588,59 +597,56 @@
     <!-- Matrix Loader -->
     <div id="matrixLoader">
         <canvas id="matrixCanvas"></canvas>
+        <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg" alt="Makedon World News" class="loader-logo">
         <div class="loader-text">
             🛰️ SATELLITE LINK ESTABLISHING<br>
-            <span style="font-size:12px;margin-top:6px;display:block">Activating Universal Translation Protocol...</span>
-            <span style="font-size:10px;margin-top:4px;display:block">149 Languages | 1312 RSS Feeds</span>
+            <span style="font-size:14px;margin-top:6px;display:block;font-weight:bold">MAKEDON WORLD NEWS</span>
+            <span style="font-size:10px;margin-top:4px;display:block">149 Languages | 1312 RSS Feeds | 7 Continents</span>
         </div>
     </div>
     
     <!-- Firewall -->
     <div class="firewall">
         <div style="font-size:8px;color:var(--neon-red);text-shadow:0 0 8px var(--neon-red);text-align:center;letter-spacing:1px">
-            🛡️ ANTI-HACKER<br>
-            FIREWALL<br>
+            🛡️ FIREWALL<br>
             <span style="font-size:7px;margin-top:2px;display:block">AES-256</span>
-            <span style="font-size:7px;display:block">ENCRYPTED</span>
-            <span style="font-size:7px;display:block;color:#0f0">STATUS: ACTIVE</span>
+            <span style="font-size:7px;display:block;color:#0f0">ACTIVE</span>
         </div>
     </div>
     
     <!-- Universal Translation Protocol -->
     <div class="translation-matrix">
         <div style="font-size:8px;color:var(--neon-cyan);text-shadow:0 0 8px var(--neon-cyan);text-align:center;letter-spacing:1px;margin-bottom:8px;font-weight:bold">
-            🌐 UNIVERSAL<br>
-            TRANSLATION<br>
+            🌐 TRANSLATION<br>
             PROTOCOL
         </div>
         <div id="google_translate_element"></div>
         <div style="font-size:6px;color:rgba(0,242,255,0.6);text-align:center;margin-top:6px">
-            149+ LANGUAGES<br>
-            INSTANT TRANSLATION
+            149+ LANGUAGES
         </div>
     </div>
     
     <!-- Connectivity Dock -->
     <aside class="conn-dock">
-        <div style="writing-mode:vertical-rl;text-orientation:mixed;font-size:8px;color:var(--neon-cyan);text-shadow:0 0 8px var(--neon-cyan);margin-bottom:12px;letter-spacing:1px;font-weight:bold">GLOBAL CONNECTIVITY</div>
+        <div style="writing-mode:vertical-rl;text-orientation:mixed;font-size:8px;color:var(--neon-cyan);text-shadow:0 0 8px var(--neon-cyan);margin-bottom:12px;letter-spacing:1px;font-weight:bold">GLOBAL</div>
         
-        <a href="https://facebook.com/sharer.php?u=https://makedonworldnews.com" target="_blank" class="social-icon" title="Facebook">
+        <a href="https://www.facebook.com/share/17iEhWcYLD/" target="_blank" class="social-icon" title="Facebook">
             <svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
         </a>
         
-        <a href="https://instagram.com" target="_blank" class="social-icon" title="Instagram">
+        <a href="https://www.instagram.com/makedonworldnews" target="_blank" class="social-icon" title="Instagram">
             <svg viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
         </a>
         
-        <a href="https://tiktok.com" target="_blank" class="social-icon" title="TikTok">
+        <a href="https://www.tiktok.com/@makedon.worldnews" target="_blank" class="social-icon" title="TikTok">
             <svg viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg>
         </a>
         
-        <a href="https://twitter.com/intent/tweet?url=https://makedonworldnews.com&hashtags=MakedonWorldNews" target="_blank" class="social-icon" title="X">
+        <a href="https://x.com/makedonworldnew" target="_blank" class="social-icon" title="X (Twitter)">
             <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
         </a>
         
-        <a href="https://youtube.com" target="_blank" class="social-icon" title="YouTube">
+        <a href="https://youtube.com/@makedonworldnews" target="_blank" class="social-icon" title="YouTube">
             <svg viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
         </a>
         
@@ -663,30 +669,39 @@
     <!-- Premium Modal -->
     <div class="modal" id="premiumModal">
         <div style="position:absolute;top:8px;right:8px;cursor:pointer;color:var(--neon-red);font-size:18px;font-weight:bold" onclick="closeModal()">✕</div>
-        <h3 style="font-size:18px;color:var(--neon-cyan);text-shadow:0 0 12px var(--neon-cyan);margin-bottom:15px;text-align:center;letter-spacing:2px">🔐 CLASSIFIED ACCESS</h3>
-        <p style="font-size:11px;color:rgba(0,242,255,0.8);margin-bottom:15px;text-align:center">Unlock premium intelligence in 149 languages</p>
+        <h3 style="font-size:18px;color:var(--neon-cyan);text-shadow:0 0 12px var(--neon-cyan);margin-bottom:15px;text-align:center;letter-spacing:2px">🔐 PREMIUM ACCESS</h3>
+        <p style="font-size:11px;color:rgba(0,242,255,0.8);margin-bottom:15px;text-align:center">Unlock all 20 categories in 149 languages</p>
         <div style="background:rgba(0,0,0,0.5);border:1px solid var(--neon-cyan);padding:15px;margin-bottom:15px">
-            <h4 style="font-size:12px;color:var(--neon-gold);margin-bottom:10px">PREMIUM FEATURES:</h4>
+            <h4 style="font-size:12px;color:var(--neon-gold);margin-bottom:10px">FEATURES:</h4>
             <ul style="font-size:10px;color:rgba(0,242,255,0.7);list-style:none;padding:0">
-                <li style="margin:8px 0">✓ All 20 categories unlocked</li>
-                <li style="margin:8px 0">✓ 1312 RSS sources full access</li>
-                <li style="margin:8px 0">✓ 149+ languages support</li>
-                <li style="margin:8px 0">✓ Real-time alerts</li>
+                <li style="margin:8px 0">✓ 20 categories unlocked</li>
+                <li style="margin:8px 0">✓ 1312 RSS sources</li>
+                <li style="margin:8px 0">✓ 149+ languages</li>
                 <li style="margin:8px 0">✓ Ad-free experience</li>
             </ul>
         </div>
         <div style="text-align:center;margin-bottom:15px">
-            <div style="font-size:24px;color:var(--neon-gold);text-shadow:0 0 15px var(--neon-gold);font-weight:bold">$19.99<span style="font-size:12px">/month</span></div>
+            <div style="font-size:24px;color:var(--neon-gold);text-shadow:0 0 15px var(--neon-gold);font-weight:bold">$19.99<span style="font-size:12px">/mo</span></div>
         </div>
-        <button onclick="subscribe()" style="width:100%;background:linear-gradient(90deg,rgba(0,242,255,0.3),rgba(188,19,254,0.3));border:2px solid var(--neon-gold);color:var(--neon-gold);padding:12px;font-size:12px;font-weight:bold;letter-spacing:2px;cursor:pointer;clip-path:polygon(5% 0,100% 0,95% 100%,0 100%);text-shadow:0 0 8px var(--neon-gold)">🚀 ACTIVATE</button>
-        <p style="font-size:8px;color:rgba(0,242,255,0.5);text-align:center;margin-top:12px">makedonworldnews@gmail.com</p>
+        <div style="display:flex;justify-center;gap:10px;flex-wrap:wrap;margin-bottom:15px">
+            <div style="font-size:11px;color:var(--neon-cyan)">💙 PayPal</div>
+            <div style="font-size:11px;color:var(--neon-purple)">💜 Stripe</div>
+            <div style="font-size:11px;color:var(--neon-gold)">🏅 Visa</div>
+            <div style="font-size:11px;color:var(--neon-red)">♦️ Mastercard</div>
+        </div>
+        <button id="subscribeBtn" style="width:100%;background:linear-gradient(90deg,rgba(0,242,255,0.3),rgba(188,19,254,0.3));border:2px solid var(--neon-gold);color:var(--neon-gold);padding:12px;font-size:12px;font-weight:bold;letter-spacing:2px;cursor:pointer;clip-path:polygon(5% 0,100% 0,95% 100%,0 100%);text-shadow:0 0 8px var(--neon-gold)">🚀 ACTIVATE</button>
     </div>
     
     <!-- Header -->
     <header class="main-header text-white">
-        <div class="container mx-auto px-4 py-4 text-center">
-            <h1 style="font-size:clamp(1.2rem,4vw,2.5rem);text-shadow:0 0 15px var(--neon-cyan);letter-spacing:2px">🌌 MAKEDON WORLD NEWS</h1>
-            <p class="text-xs md:text-sm opacity-90 mt-1">UNIVERSAL TRANSLATION PROTOCOL | 149 LANGUAGES | 1312 RSS | BLOCKCHAIN</p>
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-center gap-4">
+                <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg" alt="Makedon World News" class="logo-header">
+                <div class="text-center">
+                    <h1 style="font-size:clamp(1.2rem,4vw,2.5rem);text-shadow:0 0 15px var(--neon-cyan);letter-spacing:2px">MAKEDON WORLD NEWS</h1>
+                    <p class="text-xs md:text-sm opacity-90 mt-1">149 LANGUAGES | 1312 RSS | 20 CATEGORIES | BLOCKCHAIN</p>
+                </div>
+            </div>
         </div>
     </header>
     
@@ -697,27 +712,27 @@
             <div class="glass-panel p-3 mb-3">
                 <h2 class="text-base md:text-lg font-bold text-white mb-2 uppercase">🎯 TACTICAL SECTORS (10)</h2>
                 <div class="grid grid-cols-2 md:grid-cols-5 gap-2" id="sectorButtons">
-                    <button class="sector-btn active" data-sector="macedonia">MACEDONIA<br><span style="opacity:0.6;font-size:7px">41.61°N, 21.74°E</span></button>
-                    <button class="sector-btn" data-sector="balkan">BALKAN<br><span style="opacity:0.6;font-size:7px">42.00°N, 22.00°E</span></button>
-                    <button class="sector-btn" data-sector="europe">EUROPE<br><span style="opacity:0.6;font-size:7px">54.53°N, 15.25°E</span></button>
-                    <button class="sector-btn" data-sector="asia">ASIA<br><span style="opacity:0.6;font-size:7px">34.05°N, 100.62°E</span></button>
-                    <button class="sector-btn" data-sector="india">INDIA<br><span style="opacity:0.6;font-size:7px">20.59°N, 78.96°E</span></button>
-                    <button class="sector-btn" data-sector="africa">AFRICA<br><span style="opacity:0.6;font-size:7px">8.78°N, 34.51°E</span></button>
-                    <button class="sector-btn" data-sector="america">AMERICA<br><span style="opacity:0.6;font-size:7px">40.71°N, 74.00°W</span></button>
-                    <button class="sector-btn" data-sector="australia">AUSTRALIA<br><span style="opacity:0.6;font-size:7px">25.27°S, 133.78°E</span></button>
-                    <button class="sector-btn" data-sector="antarctica">ANTARCTICA<br><span style="opacity:0.6;font-size:7px">82.86°S, 135.00°E</span></button>
-                    <button class="sector-btn" data-sector="oceans">OCEANS<br><span style="opacity:0.6;font-size:7px">0.00°N, 0.00°E</span></button>
+                    <button class="sector-btn active" data-sector="macedonia">MACEDONIA<br><span style="opacity:0.6;font-size:7px">41°N,21°E</span></button>
+                    <button class="sector-btn" data-sector="balkan">BALKAN<br><span style="opacity:0.6;font-size:7px">42°N,22°E</span></button>
+                    <button class="sector-btn" data-sector="europe">EUROPE<br><span style="opacity:0.6;font-size:7px">54°N,15°E</span></button>
+                    <button class="sector-btn" data-sector="asia">ASIA<br><span style="opacity:0.6;font-size:7px">34°N,100°E</span></button>
+                    <button class="sector-btn" data-sector="india">INDIA<br><span style="opacity:0.6;font-size:7px">20°N,78°E</span></button>
+                    <button class="sector-btn" data-sector="africa">AFRICA<br><span style="opacity:0.6;font-size:7px">8°N,34°E</span></button>
+                    <button class="sector-btn" data-sector="america">AMERICA<br><span style="opacity:0.6;font-size:7px">40°N,74°W</span></button>
+                    <button class="sector-btn" data-sector="australia">AUSTRALIA<br><span style="opacity:0.6;font-size:7px">25°S,133°E</span></button>
+                    <button class="sector-btn" data-sector="antarctica">ANTARCTICA<br><span style="opacity:0.6;font-size:7px">82°S,135°E</span></button>
+                    <button class="sector-btn" data-sector="oceans">OCEANS<br><span style="opacity:0.6;font-size:7px">0°N,0°E</span></button>
                 </div>
             </div>
             
             <!-- 20 Categories -->
             <div class="glass-panel p-3 mb-4">
-                <h3 class="text-sm md:text-base font-bold text-white mb-2 uppercase">📡 INTELLIGENCE CATEGORIES (20)</h3>
+                <h3 class="text-sm md:text-base font-bold text-white mb-2 uppercase">📡 CATEGORIES (20)</h3>
                 <div class="flex flex-wrap gap-1.5" id="categoryButtons">
                     <button class="category-tag active" data-category="all">СИТЕ</button>
                     <button class="category-tag" data-category="protocol">ПРОТОКОЛ</button>
                     <button class="category-tag" data-category="diplomacy">ДИПЛОМАТИЈА</button>
-                    <button class="category-tag" data-category="pr">ОДНОСИ СО ЈАВНОСТ</button>
+                    <button class="category-tag" data-category="pr">ОДНОСИ</button>
                     <button class="category-tag" data-category="security">БЕЗБЕДНОСТ</button>
                     <button class="category-tag" data-category="politics">ПОЛИТИКА</button>
                     <button class="category-tag" data-category="economy">ЕКОНОМИЈА</button>
@@ -739,21 +754,15 @@
             
             <!-- Ad Zone 1 -->
             <div class="ad-zone" onclick="openPremium()">
-                <p style="font-size:12px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">📡 INTELLIGENCE SPONSOR NODE 1</p>
-                <p style="font-size:9px;opacity:0.7;margin-top:4px">Premium Access | 149 Languages | 20 Categories</p>
+                <p style="font-size:12px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">📡 SPONSOR NODE 1</p>
+                <p style="font-size:9px;opacity:0.7;margin-top:4px">Premium Access | 149 Languages</p>
             </div>
             
             <!-- News Grid -->
             <div id="newsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3"></div>
             
             <div id="loading" class="text-center py-5" style="display:none">
-                <div style="font-size:18px;animation:pulse 1s infinite">⚡ LOADING...</div>
-            </div>
-            
-            <!-- Ad Zone 2 -->
-            <div class="ad-zone" onclick="location.href='mailto:makedonworldnews@gmail.com?subject=Advertising'">
-                <p style="font-size:12px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">📡 INTELLIGENCE SPONSOR NODE 2</p>
-                <p style="font-size:9px;opacity:0.7;margin-top:4px">makedonworldnews@gmail.com</p>
+                <div style="font-size:18px;animation:pulse 1s infinite">⚡ LOADING RSS...</div>
             </div>
             
         </div>
@@ -763,77 +772,67 @@
     <footer class="neural-footer">
         <div class="container mx-auto px-3">
             
-            <h2 class="text-lg md:text-xl font-bold text-center mb-8 uppercase" style="color:var(--neon-purple);text-shadow:0 0 15px var(--neon-purple);letter-spacing:2px">⚡ AI NEURAL INTERFACE ⚡</h2>
+            <h2 class="text-lg md:text-xl font-bold text-center mb-8 uppercase" style="color:var(--neon-purple);text-shadow:0 0 15px var(--neon-purple)">⚡ AI NEURAL INTERFACE ⚡</h2>
             
             <div class="flex justify-center gap-4 md:gap-6 flex-wrap mb-8">
-                <div class="ai-node" onclick="aiClick('gemini','https://gemini.google.com')">
+                <div class="ai-node" onclick="window.open('https://gemini.google.com','_blank')">
                     <div style="font-size:11px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">GEMINI</div>
-                    <div class="ai-status">STATUS: NEURAL LINK ACTIVE</div>
+                    <div class="ai-status">NEURAL LINK ACTIVE</div>
                 </div>
                 
-                <div class="ai-node" onclick="aiClick('claude','https://claude.ai')">
+                <div class="ai-node" onclick="window.open('https://claude.ai','_blank')">
                     <div style="font-size:11px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">CLAUDE</div>
-                    <div class="ai-status">STATUS: NEURAL LINK ACTIVE</div>
+                    <div class="ai-status">NEURAL LINK ACTIVE</div>
                 </div>
                 
-                <div class="ai-node" onclick="aiClick('deepseek','https://deepseek.com')">
+                <div class="ai-node" onclick="window.open('https://deepseek.com','_blank')">
                     <div style="font-size:11px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">DEEPSEEK</div>
-                    <div class="ai-status">STATUS: NEURAL LINK ACTIVE</div>
+                    <div class="ai-status">NEURAL LINK ACTIVE</div>
                 </div>
                 
-                <div class="ai-node" onclick="aiClick('gpt4o','https://chat.openai.com')">
+                <div class="ai-node" onclick="window.open('https://chat.openai.com','_blank')">
                     <div style="font-size:11px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">GPT-4o</div>
-                    <div class="ai-status">STATUS: NEURAL LINK ACTIVE</div>
+                    <div class="ai-status">NEURAL LINK ACTIVE</div>
                 </div>
                 
-                <div class="ai-node" onclick="aiClick('grok','https://x.ai')">
+                <div class="ai-node" onclick="window.open('https://x.ai','_blank')">
                     <div style="font-size:11px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">GROK</div>
-                    <div class="ai-status">STATUS: NEURAL LINK ACTIVE</div>
+                    <div class="ai-status">NEURAL LINK ACTIVE</div>
                 </div>
                 
-                <div class="ai-node" onclick="aiClick('perplexity','https://perplexity.ai')">
+                <div class="ai-node" onclick="window.open('https://perplexity.ai','_blank')">
                     <div style="font-size:10px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">PERPLEXITY</div>
-                    <div class="ai-status">STATUS: NEURAL LINK ACTIVE</div>
+                    <div class="ai-status">NEURAL LINK ACTIVE</div>
                 </div>
             </div>
             
             <!-- Financial Gateway -->
             <div style="background:rgba(0,15,25,0.8);backdrop-filter:blur(20px);border:2px solid var(--neon-gold);clip-path:polygon(0 0,100% 0,100% 95%,98% 100%,0 100%);padding:20px;margin:30px 0;text-align:center">
-                <h3 class="text-base md:text-lg font-bold mb-4" style="color:var(--neon-gold);text-shadow:0 0 15px var(--neon-gold);letter-spacing:2px">💳 FINANCIAL GATEWAY</h3>
-                <div class="flex justify-center gap-4 md:gap-5 flex-wrap mb-4">
+                <h3 class="text-base md:text-lg font-bold mb-4" style="color:var(--neon-gold);text-shadow:0 0 15px var(--neon-gold)">💳 PAYMENT GATEWAY</h3>
+                <div class="flex justify-center gap-4 flex-wrap mb-4">
                     <div style="font-size:11px;color:var(--neon-cyan);font-weight:bold">💙 PayPal</div>
                     <div style="font-size:11px;color:var(--neon-purple);font-weight:bold">💜 Stripe</div>
                     <div style="font-size:11px;color:var(--neon-gold);font-weight:bold">🏅 Visa</div>
-                    <div style="font-size:11px;color:var(--neon-red);font-weight:bold">♦️ MC</div>
+                    <div style="font-size:11px;color:var(--neon-red);font-weight:bold">♦️ Mastercard</div>
                 </div>
-                <button onclick="openPremium()" style="display:inline-block;background:rgba(0,242,255,0.2);border:2px solid var(--neon-gold);padding:10px 20px;color:var(--neon-gold);font-weight:bold;letter-spacing:2px;font-size:11px;cursor:pointer;clip-path:polygon(5% 0,100% 0,95% 100%,0 100%);text-shadow:0 0 8px var(--neon-gold)">💎 PREMIUM</button>
-                <p style="font-size:8px;opacity:0.6;margin-top:10px">makedonworldnews@gmail.com</p>
-            </div>
-            
-            <!-- Ad Zone 3 -->
-            <div class="ad-zone" onclick="location.href='mailto:makedonworldnews@gmail.com?subject=Partnership'">
-                <p style="font-size:12px;font-weight:bold;color:var(--neon-purple);text-shadow:0 0 8px var(--neon-purple)">📡 INTELLIGENCE SPONSOR NODE 3</p>
-                <p style="font-size:9px;opacity:0.7;margin-top:4px">Strategic Partnerships</p>
+                <button onclick="openPremium()" style="background:rgba(0,242,255,0.2);border:2px solid var(--neon-gold);padding:10px 20px;color:var(--neon-gold);font-weight:bold;font-size:11px;cursor:pointer;clip-path:polygon(5% 0,100% 0,95% 100%,0 100%);text-shadow:0 0 8px var(--neon-gold)">💎 PREMIUM</button>
             </div>
             
             <div style="text-align:center;padding:18px 0;border-top:1px solid rgba(0,242,255,0.2);color:rgba(0,242,255,0.5);font-size:9px">
-                <p>© 2026 MAKEDON WORLD NEWS | v3.0 | UNIVERSAL TRANSLATION</p>
-                <p style="margin-top:5px">DR. SANDE SMILJANOV | WORLD PROTOCOL ACADEMY</p>
-                <p style="margin-top:5px;font-size:8px">🌐 149+ LANGUAGES | 🛡️ AES-256 | ⛓️ BLOCKCHAIN</p>
-                <p style="margin-top:5px">#MakedonWorldNews #UniversalTranslation #ExtraplanetaryIntelligence</p>
+                <p>© 2026 MAKEDON WORLD NEWS</p>
+                <p style="margin-top:5px">🌐 149 LANGUAGES | 🛡️ AES-256 | ⛓️ BLOCKCHAIN</p>
+                <p style="margin-top:5px">#MakedonWorldNews #UniversalTranslation</p>
             </div>
             
         </div>
     </footer>
     
     <script>
-        // RSS Database
         const RSS_FEEDS = {
             macedonia: [
                 {name: 'Zhurnal', url: 'https://zhurnal.mk/feed/', category: 'politics'},
                 {name: 'MRT', url: 'https://www.mrt.com.mk/rss', category: 'latest'},
-                {name: 'MIA', url: 'https://www.mia.mk/rss', category: 'latest'},
-                {name: 'Sitel', url: 'https://www.sitel.com.mk/feed', category: 'latest'}
+                {name: 'MIA', url: 'https://www.mia.mk/rss', category: 'latest'}
             ],
             balkan: [
                 {name: 'BBC Balkans', url: 'https://www.bbc.com/serbian/lat/rss.xml', category: 'latest'}
@@ -865,7 +864,7 @@
         let activeCategory = 'all';
         
         function generateHash(data) {
-            return CryptoJS.SHA256(data).toString();
+            return typeof CryptoJS !== 'undefined' ? CryptoJS.SHA256(data).toString() : Math.random().toString(36).substring(7);
         }
         
         async function loadRSSFeeds() {
@@ -904,7 +903,7 @@
                         }
                     });
                 } catch (error) {
-                    console.log(`RSS Error: ${feed.name}`, error);
+                    console.log(`RSS Error: ${feed.name}`);
                 }
             }
             
@@ -912,30 +911,9 @@
             
             if (articles.length === 0) {
                 articles.push(
-                    {
-                        title: 'Македонија лансира нова дипломатска иницијатива',
-                        excerpt: 'Владата објави нова програма за јакнење на меѓународните односи...',
-                        url: '#',
-                        date: '02/02/2026',
-                        source: 'MKD Protocol',
-                        category: 'diplomacy'
-                    },
-                    {
-                        title: 'Безбедносен самит во Балканот',
-                        excerpt: 'Лидерите на регионот се состануваат за дискусија...',
-                        url: '#',
-                        date: '02/02/2026',
-                        source: 'Balkan Security',
-                        category: 'security'
-                    },
-                    {
-                        title: 'Нова технолошка иновација од македонски стартап',
-                        excerpt: 'Младата компанија развива AI решение...',
-                        url: '#',
-                        date: '02/02/2026',
-                        source: 'Tech MK',
-                        category: 'technology'
-                    }
+                    {title: 'Македонија: Нова дипломатска иницијатива', excerpt: 'Владата објави програма за јакнење на меѓународните односи...', url: '#', date: '02/02/2026', source: 'MKD', category: 'diplomacy'},
+                    {title: 'Балкан: Безбедносен самит во Скопје', excerpt: 'Лидерите се состануваат за дискусија...', url: '#', date: '02/02/2026', source: 'Balkan', category: 'security'},
+                    {title: 'Технологија: Македонски стартап награда', excerpt: 'AI решение за јавни услуги...', url: '#', date: '02/02/2026', source: 'Tech', category: 'technology'}
                 );
             }
             
@@ -974,7 +952,7 @@
                             </h3>
                             
                             <div style="font-size:7px;color:rgba(0,242,255,0.8);margin-bottom:6px">
-                                <span>🔒 AES-256</span> | <span style="color:#0f0">📡 ${article.source}</span>
+                                <span>🔒 AES</span> | <span style="color:#0f0">📡 ${article.source}</span>
                             </div>
                             
                             <p style="font-size:10px;color:rgba(0,242,255,0.7);margin-bottom:7px">
@@ -987,7 +965,7 @@
                             
                             ${index === 0 ? `
                                 <button onclick="event.stopPropagation(); openPremium()" style="width:100%;background:rgba(255,215,0,0.2);border:1px solid var(--neon-gold);color:var(--neon-gold);padding:7px;font-size:9px;font-weight:bold;cursor:pointer;margin-bottom:7px">
-                                    🔐 CLASSIFIED
+                                    🔐 PREMIUM
                                 </button>
                             ` : ''}
                             
@@ -1001,8 +979,7 @@
         }
         
         function shareArticle(url, title) {
-            const hashtags = '#MakedonWorldNews #WorldProtocolAcademy #ExtraplanetaryIntelligence #UniversalTranslation';
-            const text = `${title}\n\n${hashtags}\n\n${url}`;
+            const text = `${title}\n\n#MakedonWorldNews #UniversalTranslation\n\n${url}`;
             
             if (navigator.share) {
                 navigator.share({ title, text, url });
@@ -1010,11 +987,6 @@
                 navigator.clipboard.writeText(text);
                 alert('✅ Link copied!');
             }
-        }
-        
-        function aiClick(name, url) {
-            console.log(`🤖 AI: ${name}`);
-            window.open(url, '_blank');
         }
         
         function openPremium() {
@@ -1025,10 +997,6 @@
         function closeModal() {
             document.querySelectorAll('.modal').forEach(m => m.classList.remove('active'));
             document.getElementById('overlay').classList.remove('active');
-        }
-        
-        function subscribe() {
-            window.location.href = 'mailto:makedonworldnews@gmail.com?subject=Premium%20Subscription';
         }
         
         document.getElementById('sectorButtons').addEventListener('click', e => {
@@ -1049,6 +1017,10 @@
                 activeCategory = btn.dataset.category;
                 loadRSSFeeds();
             }
+        });
+        
+        document.getElementById('subscribeBtn')?.addEventListener('click', () => {
+            alert('Payment processing via PayPal, Stripe, Visa, or Mastercard\n\nContact: info@makedonworldnews.com');
         });
         
         function initMatrix() {
@@ -1089,7 +1061,7 @@
                 
                 setTimeout(() => {
                     if ('speechSynthesis' in window) {
-                        const utterance = new SpeechSynthesisUtterance('Satellite Link Established. Universal Translation Protocol Activated. 149 languages ready. Welcome Dr. Smiljanov.');
+                        const utterance = new SpeechSynthesisUtterance('Satellite Link Established. Makedon World News. 149 languages activated.');
                         utterance.rate = 0.9;
                         utterance.pitch = 0.8;
                         speechSynthesis.speak(utterance);
@@ -1102,13 +1074,8 @@
             initMatrix();
             loadRSSFeeds();
             
-            console.log('🎖️ MAKEDON WORLD NEWS v3.0 FINAL');
-            console.log('🌐 Universal Translation Protocol: ACTIVE');
-            console.log('📧 makedonworldnews@gmail.com');
-            console.log('✅ 149+ Languages Supported');
-            console.log('✅ 10 Tactical Sectors Active');
-            console.log('✅ 20 Categories Active');
-            console.log('✅ RSS Feeds Operational');
+            console.log('🎖️ MAKEDON WORLD NEWS');
+            console.log('🌐 149 Languages Active');
             console.log('✅ All Systems Online');
         });
     </script>
