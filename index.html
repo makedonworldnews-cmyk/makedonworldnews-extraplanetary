@@ -215,7 +215,7 @@ a{text-decoration:none;color:inherit}
 <body>
 
 <!-- ALERT -->
-<div class="alert" id="alertBar">🚨 LIVE: Global Intelligence • 1,313 Sources • 193 Countries • 149 Languages • Auto-Update Every 5 Min</div>
+<div class="alert" id="alertBar" style="position:relative">🚨 LIVE: Global Intelligence • 1,313 Sources • 193 Countries • 149 Languages • Auto-Update Every 5 Min<a href="mailto:makedonworldnews@gmail.com" style="position:absolute;right:20px;top:8px;background:#d4af37;color:#0a0e27;padding:6px 14px;border-radius:6px;text-decoration:none;font-weight:800;font-size:12px;display:flex;align-items:center;gap:6px;transition:all .2s;z-index:99" onmouseover="this.style.background='#fff';this.style.transform='scale(1.05)'" onmouseout="this.style.background='#d4af37';this.style.transform='scale(1)'">📧 Contact</a></div>
 
 <!-- TOPBAR -->
 <div class="topbar">
@@ -484,8 +484,8 @@ a{text-decoration:none;color:inherit}
         <p>Extraplanetary intelligence aggregation connecting 7 continents and 193 countries. Real-time global news from 1,313 verified sources in 149 languages.</p>
         <p class="em">📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a6cbc7cdc3c2c9c8d1c9d4cac2c8c3d1d5e6c1cbc7cfca88c5c9cb">[email&#160;protected]</a></p>
       </div>
-      <div class="fs"><h4>Continents</h4><ul><li><a href="#">Macedonia</a></li><li><a href="#">Balkan</a></li><li><a href="#">Europe</a></li><li><a href="#">Asia</a></li><li><a href="#">India</a></li><li><a href="#">Africa</a></li><li><a href="#">Americas</a></li><li><a href="#">Australia</a></li></ul></div>
-      <div class="fs"><h4>Categories</h4><ul><li><a href="#">Protocol</a></li><li><a href="#">Diplomacy</a></li><li><a href="#">Security</a></li><li><a href="#">Politics</a></li><li><a href="#">Economy</a></li><li><a href="#">Technology</a></li><li><a href="#">Health</a></li><li><a href="#">Sport</a></li></ul></div>
+      <div class="fs"><h4>Continents</h4><ul><li><a href="#" onclick="event.preventDefault();switchSector('macedonia');return false">Macedonia</a></li><li><a href="#" onclick="event.preventDefault();switchSector('balkan');return false">Balkan</a></li><li><a href="#" onclick="event.preventDefault();switchSector('europe');return false">Europe</a></li><li><a href="#" onclick="event.preventDefault();switchSector('asia');return false">Asia</a></li><li><a href="#" onclick="event.preventDefault();switchSector('india');return false">India</a></li><li><a href="#" onclick="event.preventDefault();switchSector('africa');return false">Africa</a></li><li><a href="#" onclick="event.preventDefault();switchSector('america');return false">Americas</a></li><li><a href="#" onclick="event.preventDefault();switchSector('australia');return false">Australia</a></li></ul></div>
+      <div class="fs"><h4>Categories</h4><ul><li><a href="#" onclick="event.preventDefault();switchCategory('protocol');return false">Protocol</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('diplomacy');return false">Diplomacy</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('security');return false">Security</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('politics');return false">Politics</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('economy');return false">Economy</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('technology');return false">Technology</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('health');return false">Health</a></li><li><a href="#" onclick="event.preventDefault();switchCategory('sport');return false">Sport</a></li></ul></div>
       <div class="fs"><h4>Connect</h4><ul><li><a href="/cdn-cgi/l/email-protection#9af7fbf1fffef5f4edf5e8f6fef4ffede9dafdf7fbf3f6b4f9f5f7">Contact</a></li><li><a href="#">Subscribe</a></li><li><a href="#">About</a></li><li><a href="#">Privacy</a></li><li><a href="#">Terms</a></li><li><a href="#">Advertise</a></li></ul></div>
     </div>
     <div class="fbot">
@@ -800,8 +800,8 @@ function getFallback(){
   const isAustralia=(sector==='australia');
   let set;
   if(isMK) set=[
-    {title:'time.mk: Македонија Инициирува Историски Дипломатски Текст',excerpt:'Владата на Македонија ја покренува нова инициатива за зајакнување на меѓународсорработка, со акцент на протоколот и регионалната стабилност во Јутоисточна Европа.',src:'time.mk',cat:'diplomacy'},
-    {title:'grid.mk: Балкански Самит За Безбедност Роди Историска Спогодба',excerpt:'Високониво функционери од осум нации се собираат за да создадат заеднички рамки за безбедност и координирани протокули за одговор во регионот.',src:'GRID.mk',cat:'security'},
+    {title:'time.mk: Македонија Инициирува Историски Дипломатски Текст',excerpt:'Влаката на Македонија ја покренува нова инициатива за зајакнување на меѓународсорработка, со акцент на протоколот и регионалната стабилност во Јутоисточна Европа.',src:'time.mk',cat:'diplomacy'},
+    {title:'grid.mk: Балкањски Самит За Безбедност Роди Историска Спогодба',excerpt:'Високониво функционери од осум нации се собираат за да создадат заеднички рамки за безбедност и координирани протокули за одговор во регионот.',src:'GRID.mk',cat:'security'},
     {title:'MIA: Скопје Стартап Освоева Награда За Иновација В АИ',excerpt:'Млада компанија од Скопје развива модерни АИ решения за подобување на ефикасностот на јавните услуги во целата регија.',src:'MIA',cat:'technology'},
     {title:'MRT: Регионалните Економски Индикатори Покажуваат Силен Раст',excerpt:'Податоците од ЕЦБ потврдуваат робустен раст на пазарите во регионот, со странскиот директен инвестиционен на ниво на декада.',src:'MRT',cat:'economy'},
     {title:'Netpress: Академија За Светски Протокол Стартува Нов Мастер Програма',excerpt:'Академијата покренува образователен програма фокусиран на меѓународпротокол, дипломација и медиумска интелигенција за глобални професионали.',src:'Netpress',cat:'protocol'},
@@ -941,7 +941,66 @@ function openModal(){document.getElementById('modal').classList.add('on')}
 function closeModal(){document.getElementById('modal').classList.remove('on')}
 document.getElementById('modal').addEventListener('click',e=>{if(e.target.id==='modal')closeModal()});
 function subscribe(){
-  window.location.href='mailto:makedonworldnews@gmail.com?subject=Premium%20Subscription%20%2419.99%20-%20'+encodeURIComponent(chosenModalPay)+'&body=Hello%2C%0A%0AI%20would%20like%20to%20subscribe%20to%20MAKEDON%20WORLD%20NEWS%20Premium.%0A%0APayment%20method%3A%20'+encodeURIComponent(chosenModalPay)+'%0A%0AThank%20you!';
+  const method = chosenModalPay || 'paypal';
+  const subject = 'Premium Subscription $19.99 - ' + method.toUpperCase();
+  const body = `Hello MAKEDON WORLD NEWS Team,
+
+I would like to subscribe to Premium Access.
+
+Payment Method: ${method.toUpperCase()}
+Plan: $19.99/month
+Email: [Your Email]
+Name: [Your Name]
+
+Please send payment instructions.
+
+Thank you!`;
+  
+  window.location.href = 'mailto:makedonworldnews@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+  
+  // Visual feedback
+  const btn = event.target;
+  const orig = btn.textContent;
+  btn.textContent = '✅ Opening Email...';
+  btn.style.background = '#4ade80';
+  setTimeout(() => {
+    btn.textContent = orig;
+    btn.style.background = 'var(--gd)';
+  }, 2000);
+}
+
+
+function switchSector(s){
+  sector = s;
+  // Update nav button visual state
+  document.querySelectorAll('.nav-btn').forEach(b => {
+    if(b.dataset.s === s) b.classList.add('on');
+    else b.classList.remove('on');
+  });
+  // Update section label
+  const NAMES={latest:'Најнови Вести',live:'Вести во Живо',macedonia:'Macedonia',balkan:'Balkan',europe:'Europe',asia:'Asia',india:'India',africa:'Africa',america:'America',australia:'Australia',antarctica:'Antarctica',oceans:'Oceans'};
+  const ICONS={latest:'🔥',live:'📡',macedonia:'🇲🇰',balkan:'🏔️',europe:'🇪🇺',asia:'🌏',india:'🇮🇳',africa:'🌍',america:'🌎',australia:'🦘',antarctica:'🐧',oceans:'🌊'};
+  document.getElementById('secLbl').textContent = NAMES[s] || s;
+  document.getElementById('secIco').textContent = ICONS[s] || '🌍';
+  // Scroll to top
+  window.scrollTo({top:0, behavior:'smooth'});
+  // Fetch
+  secs = 300;
+  fetchFeeds();
+}
+
+
+function switchCategory(c){
+  cat = c;
+  // Update sidebar category visual state
+  document.querySelectorAll('.cat-li').forEach(li => {
+    if(li.dataset.cat === c) li.classList.add('on');
+    else li.classList.remove('on');
+  });
+  // Scroll to grid
+  document.getElementById('grid').scrollIntoView({behavior:'smooth'});
+  // Re-render with category filter
+  fetchFeeds();
 }
 
 /* ═══ NAV ═══ */
