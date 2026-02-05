@@ -4,67 +4,82 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="refresh" content="4">
-<meta name="description" content="MAKEDON WORLD NEWS — 1,313 RSS | 193 countries | 149 languages | Real-time 5-min">
-<meta property="og:title" content="MAKEDON WORLD NEWS – Extraplanetary Intelligence Network">
-<meta property="og:image" content="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg">
+<meta name="description" content="MAKEDON WORLD NEWS — Real-time news">
 <title>MAKEDON WORLD NEWS – Extraplanetary Intelligence Network</title>
 <link rel="icon" href="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--pk:#0a0e27;--sk:#131a2e;--ac:#d4af37;--rd:#c41e3a;--t1:#0f1117;--t2:#6b7280;--bd:#dfe2e7;--bg:#f6f7f9;--g1:linear-gradient(138deg,#667eea,#764ba2);--g2:linear-gradient(138deg,#f093fb,#f5576c);--g3:linear-gradient(138deg,#4facfe,#00f2fe);--g4:linear-gradient(138deg,#43e97b,#38f9d7);--g5:linear-gradient(138deg,#fa709a,#fee140);--gd:linear-gradient(135deg,#f2a900,#d4af37 50%,#c49a2c);--s1:0 2px 8px rgba(0,0,0,.07);--s2:0 8px 24px rgba(0,0,0,.12);--s3:0 18px 50px rgba(0,0,0,.18)}*{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}body{font-family:'Inter',system-ui,sans-serif;background:#fff;color:var(--t1);line-height:1.6;overflow-x:hidden}a{text-decoration:none;color:inherit}
-
-.alert{background:var(--rd);color:#fff;padding:10px 20px;text-align:center;font-size:13px;font-weight:700;letter-spacing:.5px;position:relative;overflow:hidden}.alert::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.1),transparent);animation:shim 3s linear infinite}@keyframes shim{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
-
-.topbar{background:var(--pk);color:#fff;padding:12px 0;font-size:12px;border-bottom:2px solid var(--ac)}.topbar-in{max-width:1480px;margin:0 auto;padding:0 28px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}.topbar-l{display:flex;gap:18px;align-items:center;flex-wrap:wrap}.live{display:flex;align-items:center;gap:8px;font-weight:800;font-size:13px;color:var(--ac)}.dot{width:10px;height:10px;border-radius:50%;background:var(--ac);animation:pulse 1.5s infinite}@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(1.2)}}
-
-.ticker{background:var(--sk);border-bottom:3px solid var(--ac);overflow:hidden;height:48px;position:relative}.tick-lbl{position:absolute;left:0;top:0;bottom:0;background:var(--gd);color:var(--pk);padding:0 22px;display:flex;align-items:center;font-weight:900;font-size:12px;letter-spacing:2px;z-index:5}.tick-track{display:flex;align-items:center;height:100%;animation:scroll 60s linear infinite;white-space:nowrap;padding-left:140px}.tick-i{color:#fff;padding:0 40px;font-size:14px;font-weight:500}.tick-d{width:6px;height:6px;background:var(--ac);border-radius:50%}@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
-
-.hdr{background:#fff;border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:100;box-shadow:var(--s2)}.hdr-in{max-width:1480px;margin:0 auto;padding:20px 28px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}.lg-grp{display:flex;align-items:center;gap:20px}.logo{width:70px;height:70px;border-radius:14px;object-fit:cover;border:3px solid var(--ac);box-shadow:0 4px 16px rgba(212,175,55,.3)}.brand h1{font-family:'Playfair Display',serif;font-size:32px;font-weight:900;background:var(--gd);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}.brand .tag{font-size:11px;color:var(--t2);text-transform:uppercase;letter-spacing:2.5px;margin-top:4px;font-weight:700}.btn-sub{background:var(--gd);color:var(--pk);border:none;padding:12px 26px;font-size:14px;font-weight:800;border-radius:8px;cursor:pointer;letter-spacing:.5px;text-transform:uppercase;box-shadow:var(--s1);transition:transform .2s}.btn-sub:hover{transform:translateY(-2px)}
-
-.nav{background:var(--bg);border-bottom:2px solid var(--bd);position:sticky;top:110px;z-index:99}.nav-in{max-width:1480px;margin:0 auto;padding:0 28px;display:flex;overflow-x:auto}.nav-btn{padding:14px 18px;font-size:13px;font-weight:700;color:var(--t2);text-transform:uppercase;letter-spacing:.6px;border:none;background:none;cursor:pointer;white-space:nowrap;border-bottom:3px solid transparent;transition:all .2s}.nav-btn:hover{color:var(--rd)}.nav-btn.on{color:var(--rd);border-bottom-color:var(--rd);background:rgba(196,30,58,.05)}.nbdg{background:var(--ac);color:var(--pk);font-size:9px;padding:2px 6px;border-radius:6px;font-weight:900;margin-right:6px}
-
-.wrap{max-width:1480px;margin:0 auto;padding:40px 28px;display:grid;grid-template-columns:280px 1fr 300px;gap:36px}
-
-.sc{background:#fff;border:1px solid var(--bd);border-radius:14px;padding:22px;margin-bottom:20px;box-shadow:var(--s1)}.sc-t{font-family:'Playfair Display',serif;font-size:16px;font-weight:900;color:var(--t1);margin-bottom:16px;padding-bottom:10px;border-bottom:3px solid var(--ac);text-transform:uppercase;letter-spacing:.5px}.cat-ul{list-style:none}.cat-li{padding:10px 0;font-size:14px;color:var(--t2);cursor:pointer;border-bottom:1px solid #f0f0f3;display:flex;justify-content:space-between;align-items:center;font-weight:500;transition:all .2s}.cat-li:hover,.cat-li.on{color:var(--rd);font-weight:700;padding-left:8px;background:rgba(196,30,58,.04)}.cat-n{font-size:11px;color:#fff;background:var(--ac);padding:2px 8px;border-radius:8px;font-weight:700}
-
-.ai-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.ai-card{display:flex;flex-direction:column;align-items:center;background:var(--bg);border:2px solid var(--bd);border-radius:10px;padding:14px 6px 10px;text-decoration:none;transition:all .2s}.ai-card:hover{transform:translateY(-3px);border-color:var(--ac);box-shadow:var(--s2)}.ai-ico{font-size:24px;margin-bottom:4px}.ai-nm{font-size:10px;font-weight:800;color:var(--t1);text-transform:uppercase}
-
-.sec-hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:28px;padding-bottom:16px;border-bottom:4px solid var(--pk)}.sec-t{font-family:'Playfair Display',serif;font-size:28px;font-weight:900;color:var(--t1);display:flex;align-items:center;gap:12px}.sec-ico{width:40px;height:40px;background:var(--gd);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:18px}.upd{font-size:12px;color:var(--t2);font-weight:600;background:var(--bg);border:1px solid var(--bd);padding:6px 12px;border-radius:16px}.upd strong{color:var(--rd)}
-
-.ng{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:24px}
-
-.nc{background:#fff;border:2px solid var(--bd);border-radius:14px;overflow:hidden;transition:all .3s;cursor:pointer}.nc:hover{transform:translateY(-6px);box-shadow:var(--s3);border-color:var(--ac)}.nc-img{width:100%;height:180px;position:relative;display:flex;align-items:center;justify-content:center}.nc-img .emo{font-size:50px;opacity:.15}.nc-bdg{position:absolute;top:12px;left:12px;background:var(--gd);color:var(--pk);padding:5px 12px;font-size:10px;font-weight:900;text-transform:uppercase;letter-spacing:.5px;border-radius:6px}.nc-src-badge{position:absolute;top:12px;right:12px;background:#fff;color:var(--t1);padding:4px 10px;font-size:10px;font-weight:800;border-radius:6px;box-shadow:var(--s1)}.nc-body{padding:20px}.nc-meta{display:flex;gap:10px;font-size:10px;color:var(--t2);margin-bottom:10px;text-transform:uppercase;letter-spacing:.3px;font-weight:700;flex-wrap:wrap}.nc-ttl{font-family:'Playfair Display',serif;font-size:17px;font-weight:900;color:var(--t1);line-height:1.4;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.nc-exc{font-size:13px;color:var(--t2);line-height:1.6;margin-bottom:14px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.nc-ft{display:flex;justify-content:space-between;align-items:center;padding-top:12px;border-top:1px solid var(--bd)}.nc-src{font-size:12px;font-weight:700;color:var(--t2)}.nc-link{background:var(--pk);color:#fff;border:none;border-radius:6px;padding:6px 14px;font-size:11px;font-weight:700;cursor:pointer;transition:background .2s}.nc-link:hover{background:var(--rd)}
-
-.trd{padding:14px 0;border-bottom:1px solid var(--bd);cursor:pointer;transition:all .2s}.trd:hover{padding-left:10px;background:var(--bg)}.trd-n{font-family:'Playfair Display',serif;font-size:28px;font-weight:900;background:var(--g1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:6px}.trd-t{font-size:14px;font-weight:700;color:var(--t1);line-height:1.4}
-
-.prem{background:var(--g1);color:#fff;border-radius:14px;padding:28px;text-align:center;box-shadow:var(--s3)}.prem-ico{font-size:44px;margin-bottom:10px}.prem h3{font-family:'Playfair Display',serif;font-size:22px;font-weight:900;margin-bottom:10px}.prem>p{font-size:13px;opacity:.9;line-height:1.6;margin-bottom:16px}.prem-px{font-size:36px;font-weight:900;margin-bottom:16px}.prem-px small{font-size:16px;font-weight:400;opacity:.8}.prem-btn{background:#fff;color:var(--pk);border:none;padding:12px 28px;font-size:14px;font-weight:900;border-radius:8px;cursor:pointer;width:100%;transition:transform .2s}.prem-btn:hover{transform:translateY(-2px)}
-
-.footer{background:var(--pk);color:#fff;padding:50px 28px 30px;margin-top:60px}.footer-in{max-width:1480px;margin:0 auto}.fgrid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:40px;margin-bottom:30px}.fb h3{font-family:'Playfair Display',serif;font-size:22px;margin-bottom:12px;color:var(--ac)}.fb p{font-size:13px;line-height:1.7;opacity:.8}.fs h4{font-size:12px;font-weight:900;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:14px;color:var(--ac)}.fs ul{list-style:none}.fs li{margin-bottom:10px}.fs a{color:rgba(255,255,255,.7);font-size:13px;transition:color .2s}.fs a:hover{color:#fff}.fbot{padding-top:24px;border-top:1px solid rgba(255,255,255,.1);text-align:center;font-size:12px;opacity:.6}
-
-.refresh-bar{position:fixed;bottom:16px;right:16px;background:var(--pk);color:#fff;padding:10px 18px;border-radius:24px;font-size:12px;font-weight:700;box-shadow:var(--s3);z-index:1000;display:flex;align-items:center;gap:8px}.refresh-dot{width:8px;height:8px;background:#4ade80;border-radius:50%;animation:blink 1s infinite}@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
-
-.modal{display:none;position:fixed;inset:0;background:rgba(10,14,39,.9);z-index:1000;align-items:center;justify-content:center}.modal.on{display:flex}.mbox{background:#fff;border-radius:16px;padding:40px;max-width:500px;width:90%;position:relative}.mcl{position:absolute;top:14px;right:14px;background:var(--bg);border:none;width:32px;height:32px;border-radius:50%;font-size:20px;cursor:pointer;font-weight:700}.mcl:hover{background:var(--pk);color:#fff}
-
-.empty{grid-column:1/-1;text-align:center;padding:60px 20px}.empty-ico{font-size:64px;margin-bottom:16px;opacity:.5}.empty h3{font-size:22px;margin-bottom:10px;color:var(--t1)}.empty p{color:var(--t2);font-size:14px}
-
-@media(max-width:1100px){.wrap{grid-template-columns:1fr;gap:24px}}
-@media(max-width:600px){.hdr-in{flex-direction:column;text-align:center}.brand h1{font-size:26px}.ng{grid-template-columns:1fr}.fgrid{grid-template-columns:1fr}.refresh-bar{bottom:10px;right:10px;padding:8px 12px;font-size:11px}}
+:root{--pk:#0a0e27;--ac:#d4af37;--rd:#c41e3a;--t1:#0f1117;--t2:#6b7280;--bd:#dfe2e7;--bg:#f6f7f9;--g1:linear-gradient(138deg,#667eea,#764ba2);--g2:linear-gradient(138deg,#f093fb,#f5576c);--g3:linear-gradient(138deg,#4facfe,#00f2fe);--g4:linear-gradient(138deg,#43e97b,#38f9d7);--g5:linear-gradient(138deg,#fa709a,#fee140);--gd:linear-gradient(135deg,#f2a900,#d4af37,#c49a2c)}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',sans-serif;background:#fff;color:var(--t1);line-height:1.6}
+a{text-decoration:none;color:inherit}
+.alert{background:var(--rd);color:#fff;padding:10px;text-align:center;font-size:13px;font-weight:700}
+.topbar{background:var(--pk);color:#fff;padding:12px 20px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;border-bottom:2px solid var(--ac)}
+.live{display:flex;align-items:center;gap:8px;font-weight:800;color:var(--ac)}
+.dot{width:10px;height:10px;border-radius:50%;background:var(--ac);animation:pulse 1.5s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.ticker{background:#131a2e;height:44px;overflow:hidden;border-bottom:2px solid var(--ac);position:relative}
+.tick-lbl{position:absolute;left:0;top:0;bottom:0;background:var(--gd);color:var(--pk);padding:0 18px;display:flex;align-items:center;font-weight:900;font-size:11px;letter-spacing:1px;z-index:2}
+.tick-track{display:flex;align-items:center;height:100%;animation:scroll 50s linear infinite;padding-left:120px}
+.tick-i{color:#fff;padding:0 30px;font-size:13px;white-space:nowrap}
+@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.hdr{background:#fff;padding:16px 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:100;box-shadow:0 2px 10px rgba(0,0,0,.1)}
+.logo{width:60px;height:60px;border-radius:12px;border:3px solid var(--ac)}
+.brand h1{font-family:'Playfair Display',serif;font-size:26px;background:var(--gd);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.brand .tag{font-size:10px;color:var(--t2);text-transform:uppercase;letter-spacing:2px}
+.btn-sub{background:var(--gd);color:var(--pk);border:none;padding:10px 20px;font-size:13px;font-weight:800;border-radius:6px;cursor:pointer}
+.nav{background:var(--bg);padding:0 20px;display:flex;overflow-x:auto;border-bottom:2px solid var(--bd);position:sticky;top:92px;z-index:99}
+.nav-btn{padding:12px 16px;font-size:12px;font-weight:700;color:var(--t2);border:none;background:none;cursor:pointer;border-bottom:3px solid transparent;white-space:nowrap}
+.nav-btn.on{color:var(--rd);border-bottom-color:var(--rd)}
+.nbdg{background:var(--ac);color:var(--pk);font-size:9px;padding:2px 5px;border-radius:4px;margin-right:4px}
+.wrap{max-width:1400px;margin:0 auto;padding:30px 20px;display:grid;grid-template-columns:1fr;gap:30px}
+@media(min-width:900px){.wrap{grid-template-columns:250px 1fr 280px}}
+.sc{background:#fff;border:1px solid var(--bd);border-radius:12px;padding:20px;margin-bottom:16px}
+.sc-t{font-family:'Playfair Display',serif;font-size:15px;font-weight:900;margin-bottom:14px;padding-bottom:10px;border-bottom:2px solid var(--ac)}
+.cat-ul{list-style:none}
+.cat-li{padding:8px 0;font-size:13px;color:var(--t2);cursor:pointer;display:flex;justify-content:space-between;border-bottom:1px solid #f0f0f0}
+.cat-li:hover,.cat-li.on{color:var(--rd);font-weight:700}
+.cat-n{background:var(--ac);color:var(--pk);font-size:10px;padding:2px 6px;border-radius:6px}
+.sec-hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;padding-bottom:14px;border-bottom:3px solid var(--pk)}
+.sec-t{font-family:'Playfair Display',serif;font-size:24px;font-weight:900}
+.ng{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+.nc{background:#fff;border:2px solid var(--bd);border-radius:12px;overflow:hidden;cursor:pointer;transition:all .3s}
+.nc:hover{transform:translateY(-4px);box-shadow:0 10px 30px rgba(0,0,0,.15);border-color:var(--ac)}
+.nc-img{height:160px;display:flex;align-items:center;justify-content:center;position:relative}
+.nc-img .emo{font-size:40px;opacity:.2}
+.nc-bdg{position:absolute;top:10px;left:10px;background:var(--gd);color:var(--pk);padding:4px 10px;font-size:10px;font-weight:900;border-radius:4px}
+.nc-src-badge{position:absolute;top:10px;right:10px;background:#fff;padding:4px 8px;font-size:10px;font-weight:700;border-radius:4px}
+.nc-body{padding:16px}
+.nc-meta{font-size:10px;color:var(--t2);margin-bottom:8px}
+.nc-ttl{font-family:'Playfair Display',serif;font-size:16px;font-weight:900;line-height:1.4;margin-bottom:8px}
+.nc-exc{font-size:13px;color:var(--t2);line-height:1.5;margin-bottom:12px}
+.nc-ft{display:flex;justify-content:space-between;align-items:center;padding-top:10px;border-top:1px solid var(--bd)}
+.nc-src{font-size:11px;color:var(--t2)}
+.nc-link{background:var(--pk);color:#fff;border:none;padding:6px 12px;font-size:10px;font-weight:700;border-radius:4px;cursor:pointer}
+.trd{padding:12px 0;border-bottom:1px solid var(--bd);cursor:pointer}
+.trd:hover{background:var(--bg)}
+.trd-n{font-family:'Playfair Display',serif;font-size:24px;font-weight:900;background:var(--g1);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.trd-t{font-size:13px;font-weight:700;line-height:1.4}
+.prem{background:var(--g1);color:#fff;border-radius:12px;padding:24px;text-align:center}
+.prem h3{font-size:20px;margin-bottom:8px}
+.prem-px{font-size:32px;font-weight:900;margin:12px 0}
+.prem-btn{background:#fff;color:var(--pk);border:none;padding:12px;font-weight:900;border-radius:6px;width:100%;cursor:pointer}
+.footer{background:var(--pk);color:#fff;padding:40px 20px;margin-top:40px;text-align:center}
+.footer h3{color:var(--ac);margin-bottom:10px}
+.refresh-bar{position:fixed;bottom:12px;right:12px;background:var(--pk);color:#fff;padding:8px 14px;border-radius:20px;font-size:11px;font-weight:700;display:flex;align-items:center;gap:6px;z-index:1000}
+.refresh-dot{width:8px;height:8px;background:#4ade80;border-radius:50%;animation:blink 1s infinite}
+@keyframes blink{50%{opacity:.3}}
+.empty{grid-column:1/-1;text-align:center;padding:60px}
+.empty-ico{font-size:50px;margin-bottom:12px}
 </style>
 </head>
 <body>
 
-<div class="alert">🚨 LIVE: Makedon World News • Auto-Update 5 мин • Auto-Refresh 4 сек • <span id="articleCount">0</span> вести</div>
+<div class="alert">🚨 LIVE: Makedon World News • Auto-Refresh 4 сек • <span id="articleCount">0</span> вести</div>
 
 <div class="topbar">
-<div class="topbar-in">
-<div class="topbar-l">
-<div class="live"><div class="dot"></div> LIVE</div>
-<span id="clock">--:--:--</span>
-<span style="opacity:.4">|</span>
+<div class="live"><div class="dot"></div> LIVE <span id="clock">--:--</span></div>
 <span id="lastUpdate">⏱️ Loading...</span>
-</div>
-<div style="font-size:11px;opacity:.7">🌍 193 Countries • 149 Languages</div>
-</div>
 </div>
 
 <div class="ticker">
@@ -73,239 +88,138 @@
 </div>
 
 <header class="hdr">
-<div class="hdr-in">
-<div class="lg-grp">
+<div style="display:flex;align-items:center;gap:14px">
 <img src="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg" alt="MWN" class="logo">
 <div class="brand">
 <h1>MAKEDON WORLD NEWS</h1>
 <div class="tag">Extraplanetary Intelligence Network</div>
 </div>
 </div>
-<button class="btn-sub" onclick="openModal()">👑 Subscribe</button>
-</div>
+<button class="btn-sub">👑 Subscribe</button>
 </header>
 
-<nav class="nav">
-<div class="nav-in" id="navBar">
+<nav class="nav" id="navBar">
 <button class="nav-btn on" data-r="all"><span class="nbdg">ALL</span>🔥 Сите</button>
 <button class="nav-btn" data-r="🏔️ Балкан"><span class="nbdg">BLK</span>🏔️ Балкан</button>
 <button class="nav-btn" data-r="🌍 World"><span class="nbdg">WLD</span>🌍 World</button>
-</div>
 </nav>
 
 <div class="wrap">
 
-<aside class="left-sb">
+<aside>
 <div class="sc">
 <h3 class="sc-t">📂 Категории</h3>
 <ul class="cat-ul" id="catList">
-<li class="cat-li on" data-cat="all"><span>Сите Вести</span><span class="cat-n" id="countAll">0</span></li>
+<li class="cat-li on" data-cat="all"><span>Сите</span><span class="cat-n" id="countAll">0</span></li>
 <li class="cat-li" data-cat="Новости"><span>Новости</span><span class="cat-n" id="countNews">0</span></li>
-<li class="cat-li" data-cat="Политика"><span>Политика</span><span class="cat-n" id="countPol">0</span></li>
-<li class="cat-li" data-cat="Економија"><span>Економија</span><span class="cat-n" id="countEco">0</span></li>
-<li class="cat-li" data-cat="Спорт"><span>Спорт</span><span class="cat-n" id="countSport">0</span></li>
 </ul>
-</div>
-
-<div class="sc">
-<h3 class="sc-t">🤖 AI Assistants</h3>
-<div class="ai-grid">
-<a href="https://claude.ai" target="_blank" class="ai-card"><div class="ai-ico">🟣</div><div class="ai-nm">Claude</div></a>
-<a href="https://gemini.google.com" target="_blank" class="ai-card"><div class="ai-ico">💎</div><div class="ai-nm">Gemini</div></a>
-<a href="https://chat.openai.com" target="_blank" class="ai-card"><div class="ai-ico">🟢</div><div class="ai-nm">ChatGPT</div></a>
-<a href="https://www.deepseek.com" target="_blank" class="ai-card"><div class="ai-ico">🌊</div><div class="ai-nm">DeepSeek</div></a>
-<a href="https://x.ai/grok" target="_blank" class="ai-card"><div class="ai-ico">⚡</div><div class="ai-nm">Grok</div></a>
-<a href="https://www.perplexity.ai" target="_blank" class="ai-card"><div class="ai-ico">🔍</div><div class="ai-nm">Perplexity</div></a>
-</div>
 </div>
 </aside>
 
 <main>
 <div class="sec-hd">
-<h2 class="sec-t"><span class="sec-ico">📰</span><span id="secTitle">Најнови Вести</span></h2>
-<div class="upd">🔄 Refresh: <strong>4 сек</strong></div>
+<h2 class="sec-t">📰 Најнови Вести</h2>
+<span style="font-size:12px;color:var(--t2)">🔄 4 сек</span>
 </div>
 <div id="newsGrid" class="ng">
-<div class="empty"><div class="empty-ico">⏳</div><h3>Се вчитуваат вести...</h3><p>Страницата автоматски се освежува</p></div>
+<div class="empty"><div class="empty-ico">⏳</div><h3>Се вчитуваат...</h3></div>
 </div>
 </main>
 
-<aside class="right-sb">
+<aside>
 <div class="sc">
 <h3 class="sc-t">🔥 Trending</h3>
 <div id="trending"></div>
 </div>
-
 <div class="prem">
-<div class="prem-ico">👑</div>
-<h3>Premium Access</h3>
-<p>Сите извори • Ad-free • Real-time alerts</p>
-<div class="prem-px">$19.99 <small>/month</small></div>
-<button class="prem-btn" onclick="openModal()">Subscribe Now</button>
+<h3>👑 Premium</h3>
+<div class="prem-px">$19.99</div>
+<button class="prem-btn">Subscribe</button>
 </div>
 </aside>
 
 </div>
 
-<div class="refresh-bar">
-<div class="refresh-dot"></div>
-<span>Live • Auto-refresh 4s</span>
-</div>
+<div class="refresh-bar"><div class="refresh-dot"></div>Live 4s</div>
 
 <footer class="footer">
-<div class="footer-in">
-<div class="fgrid">
-<div class="fb">
 <h3>MAKEDON WORLD NEWS</h3>
-<p>Extraplanetary intelligence aggregation. Real-time global news in 149 languages.</p>
-<p style="margin-top:12px;color:var(--ac)">📧 makedonworldnews@gmail.com</p>
-</div>
-<div class="fs"><h4>Regions</h4><ul><li><a href="#">Балкан</a></li><li><a href="#">World</a></li><li><a href="#">Europe</a></li></ul></div>
-<div class="fs"><h4>Categories</h4><ul><li><a href="#">Новости</a></li><li><a href="#">Политика</a></li><li><a href="#">Спорт</a></li></ul></div>
-<div class="fs"><h4>Connect</h4><ul><li><a href="mailto:makedonworldnews@gmail.com">Contact</a></li><li><a href="#" onclick="openModal()">Subscribe</a></li></ul></div>
-</div>
-<div class="fbot">© 2026 MAKEDON WORLD NEWS · All Rights Reserved</div>
-</div>
+<p>📧 makedonworldnews@gmail.com</p>
+<p style="margin-top:20px;opacity:.5;font-size:12px">© 2026 All Rights Reserved</p>
 </footer>
 
-<div class="modal" id="modal">
-<div class="mbox">
-<button class="mcl" onclick="closeModal()">×</button>
-<div style="text-align:center">
-<div style="font-size:50px;margin-bottom:14px">👑</div>
-<h2 style="font-family:'Playfair Display',serif;font-size:26px;margin-bottom:20px">Premium Subscription</h2>
-<div style="font-size:40px;font-weight:900;color:var(--ac);margin-bottom:20px">$19.99<span style="font-size:16px;color:var(--t2)">/month</span></div>
-<button onclick="window.location.href='mailto:makedonworldnews@gmail.com?subject=Premium Subscription'" style="width:100%;background:var(--gd);color:var(--pk);border:none;padding:14px;font-size:15px;font-weight:900;border-radius:8px;cursor:pointer">🚀 Subscribe Now</button>
-</div>
-</div>
-</div>
-
 <script>
-// ========== CONFIGURATION ==========
-const NEWS_JSON_URL = 'data/news.json';
 const GRADIENTS = ['var(--g1)','var(--g2)','var(--g3)','var(--g4)','var(--g5)'];
-
-// ========== STATE ==========
 let allArticles = [];
 let currentRegion = 'all';
 let currentCategory = 'all';
 
-// ========== CLOCK ==========
 setInterval(() => {
-    const now = new Date();
-    document.getElementById('clock').textContent = now.toLocaleTimeString('mk-MK');
+    document.getElementById('clock').textContent = new Date().toLocaleTimeString('mk-MK',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
 }, 1000);
 
-// ========== LOAD NEWS ==========
 async function loadNews() {
     try {
-        const res = await fetch(NEWS_JSON_URL + '?t=' + Date.now());
-        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const res = await fetch('data/news.json?t=' + Date.now());
         const data = await res.json();
-        
         allArticles = data.articles || [];
         
-        // Update counts
         document.getElementById('articleCount').textContent = allArticles.length;
         document.getElementById('countAll').textContent = allArticles.length;
-        document.getElementById('lastUpdate').textContent = '⏱️ ' + (data.last_updated || 'N/A');
-        
-        // Category counts
-        const cats = {};
-        allArticles.forEach(a => {
-            const c = a.category || 'Новости';
-            cats[c] = (cats[c] || 0) + 1;
-        });
-        document.getElementById('countNews').textContent = cats['Новости'] || 0;
-        document.getElementById('countPol').textContent = cats['Политика'] || 0;
-        document.getElementById('countEco').textContent = cats['Економија'] || 0;
-        document.getElementById('countSport').textContent = cats['Спорт'] || 0;
+        document.getElementById('countNews').textContent = allArticles.length;
+        document.getElementById('lastUpdate').textContent = '⏱️ ' + (data.last_updated || '');
         
         renderNews();
         renderTicker();
         renderTrending();
-        
-        console.log('✅ Loaded ' + allArticles.length + ' articles');
-        
     } catch (err) {
-        console.error('❌ Error:', err);
-        document.getElementById('newsGrid').innerHTML = '<div class="empty"><div class="empty-ico">⚠️</div><h3>Грешка при вчитување</h3><p>Проверете дали постои data/news.json</p></div>';
+        document.getElementById('newsGrid').innerHTML = '<div class="empty"><div class="empty-ico">⚠️</div><h3>Грешка</h3><p>Нема data/news.json</p></div>';
     }
 }
 
-// ========== RENDER NEWS CARDS ==========
 function renderNews() {
     let filtered = allArticles;
+    if (currentRegion !== 'all') filtered = filtered.filter(a => a.region === currentRegion);
+    if (currentCategory !== 'all') filtered = filtered.filter(a => a.category === currentCategory);
     
-    if (currentRegion !== 'all') {
-        filtered = filtered.filter(a => a.region === currentRegion);
-    }
-    if (currentCategory !== 'all') {
-        filtered = filtered.filter(a => a.category === currentCategory);
-    }
-    
-    if (filtered.length === 0) {
-        document.getElementById('newsGrid').innerHTML = '<div class="empty"><div class="empty-ico">📭</div><h3>Нема вести</h3><p>Изберете друга категорија</p></div>';
+    if (!filtered.length) {
+        document.getElementById('newsGrid').innerHTML = '<div class="empty"><div class="empty-ico">📭</div><h3>Нема вести</h3></div>';
         return;
     }
     
     document.getElementById('newsGrid').innerHTML = filtered.map((a, i) => {
-        const title = (a.title || 'Без наслов').substring(0, 120);
-        const summary = (a.summary || '').substring(0, 150);
+        const title = (a.title || '').substring(0, 100);
+        const summary = (a.summary || '').substring(0, 120);
         const source = a.source_name || 'Извор';
-        const region = a.region || '🌍';
-        const category = a.category || 'Новости';
         const link = a.link || '#';
-        
         let dateStr = '';
-        try {
-            const d = new Date(a.published || a.fetched_at);
-            if (!isNaN(d)) dateStr = d.toLocaleString('mk-MK', {day:'numeric', month:'short', hour:'2-digit', minute:'2-digit'});
-        } catch(e) {}
+        try { dateStr = new Date(a.published).toLocaleString('mk-MK',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}); } catch(e){}
         
-        return `
-        <div class="nc" onclick="window.open('${link.replace(/'/g,"\\'")}','_blank')">
-            <div class="nc-img" style="background:${GRADIENTS[i % 5]}">
-                <span class="emo">📰</span>
-                <div class="nc-bdg">${category}</div>
-                <div class="nc-src-badge">${source}</div>
-            </div>
-            <div class="nc-body">
-                <div class="nc-meta">
-                    <span>📅 ${dateStr}</span>
-                    <span>${region}</span>
-                </div>
-                <h3 class="nc-ttl">${title}</h3>
-                <p class="nc-exc">${summary}</p>
-                <div class="nc-ft">
-                    <span class="nc-src">📡 ${source}</span>
-                    <button class="nc-link" onclick="event.stopPropagation();window.open('${link.replace(/'/g,"\\'")}','_blank')">Прочитај →</button>
-                </div>
-            </div>
-        </div>`;
+        return '<div class="nc" onclick="window.open(\'' + link + '\',\'_blank\')">' +
+            '<div class="nc-img" style="background:' + GRADIENTS[i%5] + '"><span class="emo">📰</span>' +
+            '<div class="nc-bdg">' + (a.category||'News') + '</div>' +
+            '<div class="nc-src-badge">' + source + '</div></div>' +
+            '<div class="nc-body"><div class="nc-meta">📅 ' + dateStr + ' • ' + (a.region||'') + '</div>' +
+            '<h3 class="nc-ttl">' + title + '</h3>' +
+            '<p class="nc-exc">' + summary + '</p>' +
+            '<div class="nc-ft"><span class="nc-src">📡 ' + source + '</span>' +
+            '<button class="nc-link">Прочитај →</button></div></div></div>';
     }).join('');
 }
 
-// ========== TICKER ==========
 function renderTicker() {
-    const items = allArticles.slice(0, 8).map(a => 
-        `<span class="tick-i">📰 ${a.title}</span><span class="tick-d"></span>`
-    ).join('');
+    const items = allArticles.slice(0,6).map(a => '<span class="tick-i">📰 ' + a.title + '</span>').join('');
     document.getElementById('ticker').innerHTML = items + items;
 }
 
-// ========== TRENDING ==========
 function renderTrending() {
-    const top = allArticles.slice(0, 4);
-    document.getElementById('trending').innerHTML = top.map((a, i) => `
-        <div class="trd" onclick="window.open('${a.link}','_blank')">
-            <div class="trd-n">${String(i+1).padStart(2,'0')}</div>
-            <div class="trd-t">${a.title}</div>
-        </div>
-    `).join('');
+    document.getElementById('trending').innerHTML = allArticles.slice(0,4).map((a,i) => 
+        '<div class="trd" onclick="window.open(\'' + a.link + '\',\'_blank\')">' +
+        '<div class="trd-n">' + String(i+1).padStart(2,'0') + '</div>' +
+        '<div class="trd-t">' + a.title + '</div></div>'
+    ).join('');
 }
 
-// ========== FILTERS ==========
 document.getElementById('navBar').addEventListener('click', e => {
     const btn = e.target.closest('.nav-btn');
     if (!btn) return;
@@ -322,14 +236,7 @@ document.getElementById('catList').addEventListener('click', e => {
     renderNews();
 });
 
-// ========== MODAL ==========
-function openModal() { document.getElementById('modal').classList.add('on'); }
-function closeModal() { document.getElementById('modal').classList.remove('on'); }
-document.getElementById('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
-
-// ========== INIT ==========
 loadNews();
-console.log('%c MAKEDON WORLD NEWS %c LIVE', 'background:#0a0e27;color:#d4af37;padding:8px 16px;font-size:14px;font-weight:bold', 'background:#c41e3a;color:#fff;padding:8px 16px;font-size:14px');
 </script>
 
 </body>
