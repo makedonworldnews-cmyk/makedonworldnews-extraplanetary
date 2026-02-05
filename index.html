@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="4">
 <meta name="description" content="MAKEDON WORLD NEWS — 1,313 RSS | 193 countries | 149 languages | Real-time 5-min">
 <meta property="og:title" content="MAKEDON WORLD NEWS – Extraplanetary Intelligence Network">
 <meta property="og:image" content="https://raw.githubusercontent.com/makedonworldnews-cmyk/makedonworldnews-extraplanetary/main/hero.jpg">
@@ -11,12 +12,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--pk:#0a0e27;--sk:#131a2e;--ac:#d4af37;--rd:#c41e3a;--t1:#0f1117;--t2:#6b7280;--bd:#dfe2e7;--bg:#f6f7f9;--g1:linear-gradient(138deg,#667eea,#764ba2);--g2:linear-gradient(138deg,#f093fb,#f5576c);--g3:linear-gradient(138deg,#4facfe,#00f2fe);--g4:linear-gradient(138deg,#43e97b,#38f9d7);--g5:linear-gradient(138deg,#fa709a,#fee140);--gd:linear-gradient(135deg,#f2a900,#d4af37 50%,#c49a2c);--s1:0 2px 8px rgba(0,0,0,.07);--s2:0 8px 24px rgba(0,0,0,.12);--s3:0 18px 50px rgba(0,0,0,.18)}*{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}body{font-family:'Inter',system-ui,sans-serif;background:#fff;color:var(--t1);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}a{text-decoration:none;color:inherit}.alert{background:var(--rd);color:#fff;padding:9px 0;text-align:center;font-size:13px;font-weight:700;letter-spacing:.7px;overflow:hidden;position:relative}.alert::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.09),transparent);animation:shim 2.8s linear infinite}@keyframes shim{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}.topbar{background:var(--pk);color:#fff;padding:10px 0;font-size:12px;border-bottom:2px solid var(--ac)}.topbar-in{max-width:1480px;margin:0 auto;padding:0 28px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}.topbar-l{display:flex;gap:18px;align-items:center;flex-wrap:wrap}.live{display:flex;align-items:center;gap:8px;font-weight:800;font-size:13px;color:var(--ac);text-transform:uppercase}.dot{width:10px;height:10px;border-radius:50%;background:#fff;position:relative}.dot::before,.dot::after{content:'';position:absolute;inset:0;border-radius:50%;background:var(--ac);animation:rp 2s infinite}.dot::after{animation-delay:.6s}@keyframes rp{0%{transform:scale(1);opacity:.75}100%{transform:scale(2.5);opacity:0}}.tr-zone{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);padding:6px 12px;border-radius:6px}.tr-sel{appearance:none;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.28);color:#fff;padding:5px 28px 5px 10px;border-radius:4px;font-size:12px;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='white'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 8px center;outline:none}.tr-sel:hover{background-color:rgba(255,255,255,.2)}.tr-sel option{background:#131a2e;color:#fff}.tr-status{font-size:11px;color:var(--ac);font-weight:700;display:none;margin-left:4px}.tr-status.vis{display:inline}.ticker{background:var(--sk);border-bottom:3px solid var(--ac);overflow:hidden;position:relative;height:48px}.tick-lbl{position:absolute;left:0;top:0;bottom:0;background:var(--gd);color:var(--pk);padding:0 22px;display:flex;align-items:center;font-weight:900;font-size:12px;letter-spacing:2px;z-index:5;box-shadow:4px 0 12px rgba(0,0,0,.25)}.tick-track{display:flex;align-items:center;height:100%;animation:march 95s linear infinite;white-space:nowrap;padding-left:130px}.tick-i{color:#fff;padding:0 44px;font-size:14px;font-weight:500;display:inline-flex;align-items:center;gap:10px}.tick-d{width:5px;height:5px;background:var(--ac);border-radius:50%;display:inline-block}@keyframes march{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}.hdr{background:#fff;border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:100;box-shadow:var(--s2)}.hdr-in{max-width:1480px;margin:0 auto;padding:20px 28px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}.lg-grp{display:flex;align-items:center;gap:20px}.logo{width:72px;height:72px;border-radius:15px;object-fit:cover;border:3px solid var(--ac);box-shadow:0 4px 18px rgba(212,175,55,.35);transition:transform .35s}.logo:hover{transform:scale(1.05) rotate(2deg)}.brand h1{font-family:'Playfair Display',serif;font-size:36px;font-weight:900;line-height:1.05;background:var(--gd);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}.brand .tag{font-size:11px;color:var(--t2);text-transform:uppercase;letter-spacing:2.8px;margin-top:4px;font-weight:700}.btn-sub{background:var(--gd);color:var(--pk);border:none;padding:13px 28px;font-size:14px;font-weight:800;border-radius:8px;cursor:pointer;letter-spacing:.8px;text-transform:uppercase;box-shadow:var(--s1);transition:transform .25s}.btn-sub:hover{transform:translateY(-3px);box-shadow:var(--s3)}.nav{background:var(--bg);border-bottom:2px solid var(--bd);position:sticky;top:108px;z-index:99}.nav-in{max-width:1480px;margin:0 auto;padding:0 28px;display:flex;overflow-x:auto;scrollbar-width:thin;scrollbar-color:var(--ac) transparent}.nav-btn{padding:15px 20px;font-size:13px;font-weight:700;color:var(--t2);text-transform:uppercase;letter-spacing:.8px;border:none;background:none;cursor:pointer;white-space:nowrap;transition:all .25s;border-bottom:4px solid transparent;position:relative}.nav-btn:hover{color:var(--rd);background:rgba(196,30,58,.05)}.nav-btn.on{color:var(--rd);border-bottom-color:var(--rd);background:rgba(196,30,58,.07)}.nbdg{position:absolute;top:7px;right:5px;background:var(--ac);color:var(--pk);font-size:9px;padding:2px 6px;border-radius:8px;font-weight:900}.wrap{max-width:1480px;margin:0 auto;padding:40px 28px;display:grid;grid-template-columns:284px 1fr 320px;gap:40px}.sc{background:#fff;border:1px solid var(--bd);border-radius:14px;padding:24px;margin-bottom:22px;box-shadow:var(--s1);transition:box-shadow .3s}.sc:hover{box-shadow:var(--s2)}.sc-t{font-family:'Playfair Display',serif;font-size:17px;font-weight:900;color:var(--t1);margin-bottom:18px;padding-bottom:12px;border-bottom:3px solid var(--ac);text-transform:uppercase;letter-spacing:.6px}.cat-ul{list-style:none}.cat-li{padding:11px 0;font-size:14px;color:var(--t2);cursor:pointer;transition:all .2s;border-bottom:1px solid #f0f0f3;display:flex;justify-content:space-between;align-items:center;font-weight:500;border-radius:0 7px 7px 0}.cat-li:hover,.cat-li.on{color:var(--rd);font-weight:700;padding-left:10px;background:rgba(196,30,58,.06)}.cat-li.on{background:rgba(196,30,58,.09)}.cat-n{font-size:11px;color:#fff;background:var(--ac);padding:3px 8px;border-radius:9px;font-weight:700}.ai-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.ai-card{display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--bg);border:2px solid var(--bd);border-radius:12px;padding:16px 8px 12px;cursor:pointer;transition:all .28s;position:relative;overflow:hidden;text-decoration:none}.ai-card::before{content:'';position:absolute;inset:0;background:var(--pk);transform:scale(0);transition:transform .35s;border-radius:10px;z-index:0}.ai-card:hover{transform:translateY(-4px);box-shadow:var(--s2);border-color:var(--ac)}.ai-card:hover::before{transform:scale(1)}.ai-card:hover .ai-nm{color:#fff}.ai-ico{font-size:28px;position:relative;z-index:1;margin-bottom:6px}.ai-nm{font-size:11px;font-weight:800;color:var(--t1);text-transform:uppercase;letter-spacing:.6px;position:relative;z-index:1;transition:color .3s;text-align:center}.sg{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.sl{aspect-ratio:1;display:flex;align-items:center;justify-content:center;background:var(--bg);border-radius:11px;border:2px solid var(--bd);position:relative;overflow:hidden;transition:transform .3s,box-shadow .3s,border-color .3s;text-decoration:none}.sl::before{content:'';position:absolute;inset:0;background:var(--pk);transform:scale(0);transition:transform .35s;border-radius:9px}.sl:hover{transform:translateY(-4px);box-shadow:var(--s2);border-color:var(--ac)}.sl:hover::before{transform:scale(1)}.sl svg{width:20px;height:20px;fill:var(--t2);position:relative;z-index:1;transition:fill .3s,transform .3s}.sl:hover svg{fill:#fff;transform:scale(1.18)}.sec-hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:32px;padding-bottom:18px;border-bottom:4px solid var(--pk)}.sec-t{font-family:'Playfair Display',serif;font-size:30px;font-weight:900;color:var(--t1);display:flex;align-items:center;gap:14px}.sec-ico{width:44px;height:44px;background:var(--gd);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:var(--s1)}.upd{font-size:13px;color:var(--t2);font-weight:600;background:var(--bg);border:1px solid var(--bd);padding:7px 14px;border-radius:18px;display:flex;align-items:center;gap:7px}.upd strong{color:var(--rd)}.ng{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:26px}.nc{background:#fff;border:2px solid var(--bd);border-radius:14px;overflow:hidden;transition:transform .35s,box-shadow .35s,border-color .35s;cursor:pointer}.nc:hover{transform:translateY(-9px);box-shadow:var(--s3);border-color:var(--ac)}.nc-img{width:100%;height:210px;position:relative;display:flex;align-items:center;justify-content:center}.nc-img .emo{font-size:64px;opacity:.16;position:relative;z-index:1}.nc-bdg{position:absolute;top:15px;left:15px;background:var(--gd);color:var(--pk);padding:6px 13px;font-size:11px;font-weight:900;text-transform:uppercase;letter-spacing:.8px;border-radius:7px;box-shadow:var(--s1);z-index:2}.nc-vfy{position:absolute;top:15px;right:15px;background:#fff;color:var(--ac);padding:5px 10px;font-size:11px;font-weight:800;border-radius:7px;box-shadow:var(--s1);z-index:2}.nc-body{padding:22px}.nc-meta{display:flex;gap:12px;font-size:11px;color:var(--t2);margin-bottom:11px;text-transform:uppercase;letter-spacing:.4px;font-weight:700;flex-wrap:wrap}.nc-ttl{font-family:'Playfair Display',serif;font-size:18px;font-weight:900;color:var(--t1);line-height:1.4;margin-bottom:10px}.nc-exc{font-size:14px;color:var(--t2);line-height:1.7;margin-bottom:15px}.nc-ft{display:flex;justify-content:space-between;align-items:center;padding-top:14px;border-top:2px solid var(--bd)}.nc-src{font-size:13px;font-weight:700;color:var(--t2)}.sh-btn{background:var(--bg);border:2px solid var(--bd);border-radius:7px;padding:7px 15px;font-size:12px;font-weight:700;color:var(--t1);cursor:pointer;transition:all .25s}.sh-btn:hover{background:var(--pk);color:#fff;border-color:var(--pk)}.trd{padding:17px 0;border-bottom:2px solid var(--bd);cursor:pointer;transition:all .25s}.trd:hover{padding-left:12px;background:var(--bg)}.trd-n{font-family:'Playfair Display',serif;font-size:34px;font-weight:900;background:var(--g1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:7px}.trd-t{font-size:15px;font-weight:700;color:var(--t1);line-height:1.45}.prem{background:var(--g1);color:#fff;border-radius:15px;padding:34px;text-align:center;box-shadow:var(--s3);position:relative;overflow:hidden}.prem::before{content:'';position:absolute;top:-40px;right:-40px;width:130px;height:130px;background:rgba(255,255,255,.07);border-radius:50%}.prem::after{content:'';position:absolute;bottom:-30px;left:-30px;width:100px;height:100px;background:rgba(255,255,255,.05);border-radius:50%}.prem *{position:relative;z-index:1}.prem-ico{font-size:50px;margin-bottom:12px;animation:bob 3s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}.prem h3{font-family:'Playfair Display',serif;font-size:24px;font-weight:900;margin-bottom:12px}.prem>p{font-size:14px;opacity:.92;line-height:1.65;margin-bottom:20px}.prem-px{font-size:42px;font-weight:900;margin-bottom:6px}.prem-px small{font-size:18px;font-weight:400;opacity:.8}.prem-btn{background:#fff;color:var(--pk);border:none;padding:14px 32px;font-size:15px;font-weight:900;border-radius:9px;cursor:pointer;transition:transform .25s,box-shadow .25s;text-transform:uppercase;letter-spacing:.8px;width:100%}.prem-btn:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(0,0,0,.25)}.pay-row{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:18px}.pay-btn{background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.3);color:#fff;padding:9px 14px;border-radius:8px;font-size:13px;font-weight:700;cursor:pointer;transition:all .22s;display:inline-flex;align-items:center;gap:5px}.pay-btn:hover{background:rgba(255,255,255,.22);transform:translateY(-2px)}.pay-btn.sel{background:#fff;color:var(--pk);box-shadow:0 4px 12px rgba(0,0,0,.2);transform:translateY(-2px)}.mpay-row{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:18px 0 22px}.mpay-btn{background:var(--bg);border:2px solid var(--bd);color:var(--t1);padding:10px 18px;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer;transition:all .22s;display:inline-flex;align-items:center;gap:6px}.mpay-btn:hover{border-color:var(--ac);background:#fff8e0}.mpay-btn.sel{background:var(--pk);color:#fff;border-color:var(--pk);box-shadow:0 4px 14px rgba(0,0,0,.2)}.footer{background:var(--pk);color:#fff;padding:62px 28px 34px;margin-top:84px}.footer-in{max-width:1480px;margin:0 auto}.fgrid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:50px;margin-bottom:42px}.fb h3{font-family:'Playfair Display',serif;font-size:24px;margin-bottom:14px;color:var(--ac);font-weight:900}.fb p{font-size:14px;line-height:1.8;opacity:.82}.fb .em{margin-top:14px;font-weight:700;font-size:15px;color:var(--ac)}.fs h4{font-size:13px;font-weight:900;text-transform:uppercase;letter-spacing:1.8px;margin-bottom:18px;color:var(--ac)}.fs ul{list-style:none}.fs li{margin-bottom:11px}.fs a{color:rgba(255,255,255,.72);font-size:14px;transition:color .25s;font-weight:500}.fs a:hover{color:#fff}.fbot{padding-top:30px;border-top:2px solid rgba(255,255,255,.11);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px}.fbot .cp{font-size:13px;opacity:.7}.fbot .py span{font-size:13px;opacity:.7;font-weight:600;margin-right:14px}.modal{display:none;position:fixed;inset:0;background:rgba(10,14,39,.88);z-index:1000;align-items:center;justify-content:center;backdrop-filter:blur(6px)}.modal.on{display:flex}.mbox{background:#fff;border-radius:18px;padding:48px;max-width:640px;width:92%;position:relative;box-shadow:var(--s3);max-height:90vh;overflow-y:auto}.mcl{position:absolute;top:18px;right:18px;background:var(--bg);border:none;width:36px;height:36px;border-radius:50%;font-size:22px;cursor:pointer;transition:all .25s;font-weight:700;line-height:36px;text-align:center}.mcl:hover{background:var(--pk);color:#fff;transform:rotate(90deg)}.mf{background:var(--bg);padding:26px;border-radius:12px;margin-bottom:26px;text-align:left}.mf h4{font-weight:800;margin-bottom:16px;font-size:16px}.mf ul{list-style:none;font-size:14px;line-height:2.1}.sk{background:var(--bg);border-radius:16px;overflow:hidden;border:1px solid var(--bd);animation:skpulse 1.8s ease-in-out infinite}.sk-img{height:140px;background:linear-gradient(110deg,var(--bd) 25%,rgba(255,255,255,0.15) 37%,var(--bd) 63%);background-size:200% 100%;animation:skshine 1.4s ease-in-out infinite}.sk-body{padding:18px}.sk-line{height:12px;background:var(--bd);border-radius:6px;margin-bottom:10px}.sk-line.w90{width:90%}.sk-line.w70{width:70%}.sk-line.w80{width:80%}.sk-line.w50{width:50%}.sk-line.w60{width:60%}.sk-line.w40{width:40%}.sk-badge{width:90px;height:22px;background:var(--bd);border-radius:11px;margin-bottom:12px}@keyframes skpulse{0%,100%{opacity:1}50%{opacity:.7}}@keyframes skshine{0%{background-position:200% 0}100%{background-position:-200% 0}}@media(max-width:1180px){.wrap{grid-template-columns:260px 1fr 280px;gap:28px}}@media(max-width:940px){.wrap{grid-template-columns:1fr;gap:24px}.left-sb,.right-sb{position:static}.left-sb{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}.fgrid{grid-template-columns:1fr 1fr;gap:30px}}@media(max-width:620px){.hdr-in{flex-direction:column;text-align:center}.brand h1{font-size:28px}.ng{grid-template-columns:1fr}.wrap{padding:28px 16px}.fgrid{grid-template-columns:1fr}.pay-row{flex-direction:column;align-items:center}}
+:root{--pk:#0a0e27;--sk:#131a2e;--ac:#d4af37;--rd:#c41e3a;--t1:#0f1117;--t2:#6b7280;--bd:#dfe2e7;--bg:#f6f7f9;--g1:linear-gradient(138deg,#667eea,#764ba2);--g2:linear-gradient(138deg,#f093fb,#f5576c);--g3:linear-gradient(138deg,#4facfe,#00f2fe);--g4:linear-gradient(138deg,#43e97b,#38f9d7);--g5:linear-gradient(138deg,#fa709a,#fee140);--gd:linear-gradient(135deg,#f2a900,#d4af37 50%,#c49a2c);--s1:0 2px 8px rgba(0,0,0,.07);--s2:0 8px 24px rgba(0,0,0,.12);--s3:0 18px 50px rgba(0,0,0,.18)}*{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}body{font-family:'Inter',system-ui,sans-serif;background:#fff;color:var(--t1);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}a{text-decoration:none;color:inherit}.alert{background:var(--rd);color:#fff;padding:9px 0;text-align:center;font-size:13px;font-weight:700;letter-spacing:.7px;overflow:hidden;position:relative}.alert::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.09),transparent);animation:shim 2.8s linear infinite}@keyframes shim{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}.topbar{background:var(--pk);color:#fff;padding:10px 0;font-size:12px;border-bottom:2px solid var(--ac)}.topbar-in{max-width:1480px;margin:0 auto;padding:0 28px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}.topbar-l{display:flex;gap:18px;align-items:center;flex-wrap:wrap}.live{display:flex;align-items:center;gap:8px;font-weight:800;font-size:13px;color:var(--ac);text-transform:uppercase}.dot{width:10px;height:10px;border-radius:50%;background:#fff;position:relative}.dot::before,.dot::after{content:'';position:absolute;inset:0;border-radius:50%;background:var(--ac);animation:rp 2s infinite}.dot::after{animation-delay:.6s}@keyframes rp{0%{transform:scale(1);opacity:.75}100%{transform:scale(2.5);opacity:0}}.tr-zone{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);padding:6px 12px;border-radius:6px}.tr-sel{appearance:none;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.28);color:#fff;padding:5px 28px 5px 10px;border-radius:4px;font-size:12px;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='white'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 8px center;outline:none}.tr-sel:hover{background-color:rgba(255,255,255,.2)}.tr-sel option{background:#131a2e;color:#fff}.tr-status{font-size:11px;color:var(--ac);font-weight:700;display:none;margin-left:4px}.tr-status.vis{display:inline}.ticker{background:var(--sk);border-bottom:3px solid var(--ac);overflow:hidden;position:relative;height:48px}.tick-lbl{position:absolute;left:0;top:0;bottom:0;background:var(--gd);color:var(--pk);padding:0 22px;display:flex;align-items:center;font-weight:900;font-size:12px;letter-spacing:2px;z-index:5;box-shadow:4px 0 12px rgba(0,0,0,.25)}.tick-track{display:flex;align-items:center;height:100%;animation:march 95s linear infinite;white-space:nowrap;padding-left:130px}.tick-i{color:#fff;padding:0 44px;font-size:14px;font-weight:500;display:inline-flex;align-items:center;gap:10px}.tick-d{width:5px;height:5px;background:var(--ac);border-radius:50%;display:inline-block}@keyframes march{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}.hdr{background:#fff;border-bottom:1px solid var(--bd);position:sticky;top:0;z-index:100;box-shadow:var(--s2)}.hdr-in{max-width:1480px;margin:0 auto;padding:20px 28px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap}.lg-grp{display:flex;align-items:center;gap:20px}.logo{width:72px;height:72px;border-radius:15px;object-fit:cover;border:3px solid var(--ac);box-shadow:0 4px 18px rgba(212,175,55,.35);transition:transform .35s}.logo:hover{transform:scale(1.05) rotate(2deg)}.brand h1{font-family:'Playfair Display',serif;font-size:36px;font-weight:900;line-height:1.05;background:var(--gd);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}.brand .tag{font-size:11px;color:var(--t2);text-transform:uppercase;letter-spacing:2.8px;margin-top:4px;font-weight:700}.btn-sub{background:var(--gd);color:var(--pk);border:none;padding:13px 28px;font-size:14px;font-weight:800;border-radius:8px;cursor:pointer;letter-spacing:.8px;text-transform:uppercase;box-shadow:var(--s1);transition:transform .25s}.btn-sub:hover{transform:translateY(-3px);box-shadow:var(--s3)}.nav{background:var(--bg);border-bottom:2px solid var(--bd);position:sticky;top:108px;z-index:99}.nav-in{max-width:1480px;margin:0 auto;padding:0 28px;display:flex;overflow-x:auto;scrollbar-width:thin;scrollbar-color:var(--ac) transparent}.nav-btn{padding:15px 20px;font-size:13px;font-weight:700;color:var(--t2);text-transform:uppercase;letter-spacing:.8px;border:none;background:none;cursor:pointer;white-space:nowrap;transition:all .25s;border-bottom:4px solid transparent;position:relative}.nav-btn:hover{color:var(--rd);background:rgba(196,30,58,.05)}.nav-btn.on{color:var(--rd);border-bottom-color:var(--rd);background:rgba(196,30,58,.07)}.nbdg{position:absolute;top:7px;right:5px;background:var(--ac);color:var(--pk);font-size:9px;padding:2px 6px;border-radius:8px;font-weight:900}.wrap{max-width:1480px;margin:0 auto;padding:40px 28px;display:grid;grid-template-columns:284px 1fr 320px;gap:40px}.sc{background:#fff;border:1px solid var(--bd);border-radius:14px;padding:24px;margin-bottom:22px;box-shadow:var(--s1);transition:box-shadow .3s}.sc:hover{box-shadow:var(--s2)}.sc-t{font-family:'Playfair Display',serif;font-size:17px;font-weight:900;color:var(--t1);margin-bottom:18px;padding-bottom:12px;border-bottom:3px solid var(--ac);text-transform:uppercase;letter-spacing:.6px}.cat-ul{list-style:none}.cat-li{padding:11px 0;font-size:14px;color:var(--t2);cursor:pointer;transition:all .2s;border-bottom:1px solid #f0f0f3;display:flex;justify-content:space-between;align-items:center;font-weight:500;border-radius:0 7px 7px 0}.cat-li:hover,.cat-li.on{color:var(--rd);font-weight:700;padding-left:10px;background:rgba(196,30,58,.06)}.cat-li.on{background:rgba(196,30,58,.09)}.cat-n{font-size:11px;color:#fff;background:var(--ac);padding:3px 8px;border-radius:9px;font-weight:700}.ai-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.ai-card{display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--bg);border:2px solid var(--bd);border-radius:12px;padding:16px 8px 12px;cursor:pointer;transition:all .28s;position:relative;overflow:hidden;text-decoration:none}.ai-card::before{content:'';position:absolute;inset:0;background:var(--pk);transform:scale(0);transition:transform .35s;border-radius:10px;z-index:0}.ai-card:hover{transform:translateY(-4px);box-shadow:var(--s2);border-color:var(--ac)}.ai-card:hover::before{transform:scale(1)}.ai-card:hover .ai-nm{color:#fff}.ai-ico{font-size:28px;position:relative;z-index:1;margin-bottom:6px}.ai-nm{font-size:11px;font-weight:800;color:var(--t1);text-transform:uppercase;letter-spacing:.6px;position:relative;z-index:1;transition:color .3s;text-align:center}.sg{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.sl{aspect-ratio:1;display:flex;align-items:center;justify-content:center;background:var(--bg);border-radius:11px;border:2px solid var(--bd);position:relative;overflow:hidden;transition:transform .3s,box-shadow .3s,border-color .3s;text-decoration:none}.sl::before{content:'';position:absolute;inset:0;background:var(--pk);transform:scale(0);transition:transform .35s;border-radius:9px}.sl:hover{transform:translateY(-4px);box-shadow:var(--s2);border-color:var(--ac)}.sl:hover::before{transform:scale(1)}.sl svg{width:20px;height:20px;fill:var(--t2);position:relative;z-index:1;transition:fill .3s,transform .3s}.sl:hover svg{fill:#fff;transform:scale(1.18)}.sec-hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:32px;padding-bottom:18px;border-bottom:4px solid var(--pk)}.sec-t{font-family:'Playfair Display',serif;font-size:30px;font-weight:900;color:var(--t1);display:flex;align-items:center;gap:14px}.sec-ico{width:44px;height:44px;background:var(--gd);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:var(--s1)}.upd{font-size:13px;color:var(--t2);font-weight:600;background:var(--bg);border:1px solid var(--bd);padding:7px 14px;border-radius:18px;display:flex;align-items:center;gap:7px}.upd strong{color:var(--rd)}.ng{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:26px}.nc{background:#fff;border:2px solid var(--bd);border-radius:14px;overflow:hidden;transition:transform .35s,box-shadow .35s,border-color .35s;cursor:pointer}.nc:hover{transform:translateY(-9px);box-shadow:var(--s3);border-color:var(--ac)}.nc-img{width:100%;height:210px;position:relative;display:flex;align-items:center;justify-content:center}.nc-img .emo{font-size:64px;opacity:.16;position:relative;z-index:1}.nc-bdg{position:absolute;top:15px;left:15px;background:var(--gd);color:var(--pk);padding:6px 13px;font-size:11px;font-weight:900;text-transform:uppercase;letter-spacing:.8px;border-radius:7px;box-shadow:var(--s1);z-index:2}.nc-vfy{position:absolute;top:15px;right:15px;background:#fff;color:var(--ac);padding:5px 10px;font-size:11px;font-weight:800;border-radius:7px;box-shadow:var(--s1);z-index:2}.nc-body{padding:22px}.nc-meta{display:flex;gap:12px;font-size:11px;color:var(--t2);margin-bottom:11px;text-transform:uppercase;letter-spacing:.4px;font-weight:700;flex-wrap:wrap}.nc-ttl{font-family:'Playfair Display',serif;font-size:18px;font-weight:900;color:var(--t1);line-height:1.4;margin-bottom:10px}.nc-exc{font-size:14px;color:var(--t2);line-height:1.7;margin-bottom:15px}.nc-ft{display:flex;justify-content:space-between;align-items:center;padding-top:14px;border-top:2px solid var(--bd)}.nc-src{font-size:13px;font-weight:700;color:var(--t2)}.sh-btn{background:var(--bg);border:2px solid var(--bd);border-radius:7px;padding:7px 15px;font-size:12px;font-weight:700;color:var(--t1);cursor:pointer;transition:all .25s}.sh-btn:hover{background:var(--pk);color:#fff;border-color:var(--pk)}.trd{padding:17px 0;border-bottom:2px solid var(--bd);cursor:pointer;transition:all .25s}.trd:hover{padding-left:12px;background:var(--bg)}.trd-n{font-family:'Playfair Display',serif;font-size:34px;font-weight:900;background:var(--g1);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:7px}.trd-t{font-size:15px;font-weight:700;color:var(--t1);line-height:1.45}.prem{background:var(--g1);color:#fff;border-radius:15px;padding:34px;text-align:center;box-shadow:var(--s3);position:relative;overflow:hidden}.prem::before{content:'';position:absolute;top:-40px;right:-40px;width:130px;height:130px;background:rgba(255,255,255,.07);border-radius:50%}.prem::after{content:'';position:absolute;bottom:-30px;left:-30px;width:100px;height:100px;background:rgba(255,255,255,.05);border-radius:50%}.prem *{position:relative;z-index:1}.prem-ico{font-size:50px;margin-bottom:12px;animation:bob 3s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}.prem h3{font-family:'Playfair Display',serif;font-size:24px;font-weight:900;margin-bottom:12px}.prem>p{font-size:14px;opacity:.92;line-height:1.65;margin-bottom:20px}.prem-px{font-size:42px;font-weight:900;margin-bottom:6px}.prem-px small{font-size:18px;font-weight:400;opacity:.8}.prem-btn{background:#fff;color:var(--pk);border:none;padding:14px 32px;font-size:15px;font-weight:900;border-radius:9px;cursor:pointer;transition:transform .25s,box-shadow .25s;text-transform:uppercase;letter-spacing:.8px;width:100%}.prem-btn:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(0,0,0,.25)}.pay-row{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:18px}.pay-btn{background:rgba(255,255,255,.12);border:2px solid rgba(255,255,255,.3);color:#fff;padding:9px 14px;border-radius:8px;font-size:13px;font-weight:700;cursor:pointer;transition:all .22s;display:inline-flex;align-items:center;gap:5px}.pay-btn:hover{background:rgba(255,255,255,.22);transform:translateY(-2px)}.pay-btn.sel{background:#fff;color:var(--pk);box-shadow:0 4px 12px rgba(0,0,0,.2);transform:translateY(-2px)}.mpay-row{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:18px 0 22px}.mpay-btn{background:var(--bg);border:2px solid var(--bd);color:var(--t1);padding:10px 18px;border-radius:8px;font-size:14px;font-weight:700;cursor:pointer;transition:all .22s;display:inline-flex;align-items:center;gap:6px}.mpay-btn:hover{border-color:var(--ac);background:#fff8e0}.mpay-btn.sel{background:var(--pk);color:#fff;border-color:var(--pk);box-shadow:0 4px 14px rgba(0,0,0,.2)}.footer{background:var(--pk);color:#fff;padding:62px 28px 34px;margin-top:84px}.footer-in{max-width:1480px;margin:0 auto}.fgrid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:50px;margin-bottom:42px}.fb h3{font-family:'Playfair Display',serif;font-size:24px;margin-bottom:14px;color:var(--ac);font-weight:900}.fb p{font-size:14px;line-height:1.8;opacity:.82}.fb .em{margin-top:14px;font-weight:700;font-size:15px;color:var(--ac)}.fs h4{font-size:13px;font-weight:900;text-transform:uppercase;letter-spacing:1.8px;margin-bottom:18px;color:var(--ac)}.fs ul{list-style:none}.fs li{margin-bottom:11px}.fs a{color:rgba(255,255,255,.72);font-size:14px;transition:color .25s;font-weight:500}.fs a:hover{color:#fff}.fbot{padding-top:30px;border-top:2px solid rgba(255,255,255,.11);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px}.fbot .cp{font-size:13px;opacity:.7}.fbot .py span{font-size:13px;opacity:.7;font-weight:600;margin-right:14px}.modal{display:none;position:fixed;inset:0;background:rgba(10,14,39,.88);z-index:1000;align-items:center;justify-content:center;backdrop-filter:blur(6px)}.modal.on{display:flex}.mbox{background:#fff;border-radius:18px;padding:48px;max-width:640px;width:92%;position:relative;box-shadow:var(--s3);max-height:90vh;overflow-y:auto}.mcl{position:absolute;top:18px;right:18px;background:var(--bg);border:none;width:36px;height:36px;border-radius:50%;font-size:22px;cursor:pointer;transition:all .25s;font-weight:700;line-height:36px;text-align:center}.mcl:hover{background:var(--pk);color:#fff;transform:rotate(90deg)}.mf{background:var(--bg);padding:26px;border-radius:12px;margin-bottom:26px;text-align:left}.mf h4{font-weight:800;margin-bottom:16px;font-size:16px}.mf ul{list-style:none;font-size:14px;line-height:2.1}.sk{background:var(--bg);border-radius:16px;overflow:hidden;border:1px solid var(--bd);animation:skpulse 1.8s ease-in-out infinite}.sk-img{height:140px;background:linear-gradient(110deg,var(--bd) 25%,rgba(255,255,255,0.15) 37%,var(--bd) 63%);background-size:200% 100%;animation:skshine 1.4s ease-in-out infinite}.sk-body{padding:18px}.sk-line{height:12px;background:var(--bd);border-radius:6px;margin-bottom:10px}.sk-line.w90{width:90%}.sk-line.w70{width:70%}.sk-line.w80{width:80%}.sk-line.w50{width:50%}.sk-line.w60{width:60%}.sk-line.w40{width:40%}.sk-badge{width:90px;height:22px;background:var(--bd);border-radius:11px;margin-bottom:12px}@keyframes skpulse{0%,100%{opacity:1}50%{opacity:.7}}@keyframes skshine{0%{background-position:200% 0}100%{background-position:-200% 0}}.refresh-bar{position:fixed;bottom:20px;right:20px;background:var(--pk);color:#fff;padding:10px 20px;border-radius:30px;font-size:13px;font-weight:700;box-shadow:var(--s3);z-index:1000;display:flex;align-items:center;gap:10px}.refresh-dot{width:8px;height:8px;background:#4ade80;border-radius:50%;animation:blink 1s infinite}@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}@media(max-width:1180px){.wrap{grid-template-columns:260px 1fr 280px;gap:28px}}@media(max-width:940px){.wrap{grid-template-columns:1fr;gap:24px}.left-sb,.right-sb{position:static}.left-sb{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}.fgrid{grid-template-columns:1fr 1fr;gap:30px}}@media(max-width:620px){.hdr-in{flex-direction:column;text-align:center}.brand h1{font-size:28px}.ng{grid-template-columns:1fr}.wrap{padding:28px 16px}.fgrid{grid-template-columns:1fr}.pay-row{flex-direction:column;align-items:center}.refresh-bar{bottom:10px;right:10px;padding:8px 14px;font-size:11px}}
 </style>
 </head>
 <body>
 
-<div class="alert" id="alertBar" style="position:relative">🚨 LIVE: Global Intelligence • 1,313 Sources • 193 Countries • 149 Languages • Auto-Update Every 5 Min<a href="mailto:makedonworldnews@gmail.com" style="position:absolute;right:20px;top:8px;background:#d4af37;color:#0a0e27;padding:6px 14px;border-radius:6px;text-decoration:none;font-weight:800;font-size:12px;display:flex;align-items:center;gap:6px;transition:all .2s;z-index:99">📧 Contact</a></div>
+<div class="alert" id="alertBar">🚨 LIVE: Global Intelligence • 1,313 Sources • 193 Countries • 149 Languages • Auto-Update Every 5 Min • Auto-Refresh 4 Sec<a href="mailto:makedonworldnews@gmail.com" style="position:absolute;right:20px;top:8px;background:#d4af37;color:#0a0e27;padding:6px 14px;border-radius:6px;text-decoration:none;font-weight:800;font-size:12px;display:flex;align-items:center;gap:6px;transition:all .2s;z-index:99">📧 Contact</a></div>
 
 <div class="topbar">
 <div class="topbar-in">
@@ -24,9 +25,11 @@
 <div class="live"><div class="dot"></div>LIVE</div>
 <span id="dtNow"></span>
 <span style="opacity:.32">|</span>
-<span>📊 1,313 Sources</span>
+<span>📊 <span id="sourceCount">1,313</span> Sources</span>
 <span style="opacity:.32">|</span>
 <span>🌍 193 Countries</span>
+<span style="opacity:.32">|</span>
+<span id="lastUpdate">⏱️ Loading...</span>
 </div>
 <div class="tr-zone">
 <span style="font-size:16px">🌐</span>
@@ -43,7 +46,6 @@
 <option value="ru">Русский</option>
 <option value="uk">Українська</option>
 <option value="pl">Polski</option>
-<option value="cs">Čeština</option>
 <option value="de">Deutsch</option>
 <option value="fr">Français</option>
 <option value="es">Español</option>
@@ -52,23 +54,19 @@
 <option value="nl">Nederlands</option>
 <option value="el">Ελληνικά</option>
 <option value="ro">Română</option>
-<option value="hu">Magyar</option>
 <option value="tr">Türkçe</option>
 <option value="ar">العربية</option>
 <option value="he">עברית</option>
 <option value="fa">فارسی</option>
-<option value="ur">اردو</option>
 <option value="hi">हिन्दी</option>
 <option value="bn">বাংলা</option>
-<option value="ta">தமிழ்</option>
+<option value="zh-CN">中文简体</option>
+<option value="ja">日本語</option>
+<option value="ko">한국어</option>
 <option value="th">ไทย</option>
 <option value="vi">Tiếng Việt</option>
 <option value="id">Bahasa Indonesia</option>
 <option value="ms">Bahasa Melayu</option>
-<option value="zh-CN">中文简体</option>
-<option value="zh-TW">中文繁體</option>
-<option value="ja">日本語</option>
-<option value="ko">한국어</option>
 <option value="sw">Kiswahili</option>
 <option value="af">Afrikaans</option>
 </select>
@@ -79,20 +77,7 @@
 
 <div class="ticker">
 <div class="tick-lbl">⚡ BREAKING</div>
-<div class="tick-track" id="tickTrack">
-<span class="tick-i">🌍 Global summit addresses climate action — 150+ nations commit</span><span class="tick-d"></span>
-<span class="tick-i">💼 International markets surge on sweeping economic reforms</span><span class="tick-d"></span>
-<span class="tick-i">🔬 Breakthrough in next-gen renewable energy storage</span><span class="tick-d"></span>
-<span class="tick-i">🏛️ Historic peace agreement signed between regional powers</span><span class="tick-d"></span>
-<span class="tick-i">📱 AI platform unveiled at World Technology Summit 2026</span><span class="tick-d"></span>
-<span class="tick-i">⚕️ WHO launches global health initiative across 120 nations</span><span class="tick-d"></span>
-<span class="tick-i">🇲🇰 Macedonia hosts landmark international protocol conference</span><span class="tick-d"></span>
-<span class="tick-i">🤖 Claude, Gemini & GPT power next-gen media intelligence</span><span class="tick-d"></span>
-<span class="tick-i">🌍 Global summit addresses climate action — 150+ nations commit</span><span class="tick-d"></span>
-<span class="tick-i">💼 International markets surge on sweeping economic reforms</span><span class="tick-d"></span>
-<span class="tick-i">🔬 Breakthrough in next-gen renewable energy storage</span><span class="tick-d"></span>
-<span class="tick-i">🏛️ Historic peace agreement signed between regional powers</span><span class="tick-d"></span>
-</div>
+<div class="tick-track" id="tickTrack"></div>
 </div>
 
 <header class="hdr">
@@ -110,21 +95,16 @@
 
 <nav class="nav">
 <div class="nav-in" id="navBar">
-<button class="nav-btn on" data-s="latest"><span class="nbdg">NEW</span>🔥 Најнови</button>
-<button class="nav-btn" data-s="live"><span class="nbdg">LIVE</span>📡 Живо</button>
-<button class="nav-btn" data-s="macedonia"><span class="nbdg">24</span>🇲🇰 Macedonia</button>
-<button class="nav-btn" data-s="balkan"><span class="nbdg">21</span>🏔️ Balkan</button>
-<button class="nav-btn" data-s="europe"><span class="nbdg">27</span>🇪🇺 Europe</button>
-<button class="nav-btn" data-s="asia"><span class="nbdg">19</span>🌏 Asia</button>
-<button class="nav-btn" data-s="india"><span class="nbdg">11</span>🇮🇳 India</button>
-<button class="nav-btn" data-s="africa"><span class="nbdg">10</span>🌍 Africa</button>
-<button class="nav-btn" data-s="america"><span class="nbdg">13</span>🌎 America</button>
-<button class="nav-btn" data-s="australia"><span class="nbdg">7</span>🦘 Australia</button>
-<button class="nav-btn" data-s="antarctica"><span class="nbdg">1</span>🐧 Antarctica</button>
-<button class="nav-btn" data-s="pacific"><span class="nbdg">2</span>🌊 Pacific Ocean</button>
-<button class="nav-btn" data-s="atlantic"><span class="nbdg">2</span>🌊 Atlantic Ocean</button>
-<button class="nav-btn" data-s="indian"><span class="nbdg">2</span>🌊 Indian Ocean</button>
-<button class="nav-btn" data-s="arctic"><span class="nbdg">1</span>🌊 Arctic Ocean</button>
+<button class="nav-btn on" data-r="all"><span class="nbdg" id="bdgAll">NEW</span>🔥 Сите</button>
+<button class="nav-btn" data-r="🇲🇰 Македонија"><span class="nbdg">MK</span>🇲🇰 Македонија</button>
+<button class="nav-btn" data-r="🏔️ Балкан"><span class="nbdg">BLK</span>🏔️ Балкан</button>
+<button class="nav-btn" data-r="🇪🇺 Европа"><span class="nbdg">EU</span>🇪🇺 Европа</button>
+<button class="nav-btn" data-r="🌍 World"><span class="nbdg">WLD</span>🌍 World</button>
+<button class="nav-btn" data-r="🌏 Азија"><span class="nbdg">AS</span>🌏 Азија</button>
+<button class="nav-btn" data-r="🇮🇳 Индија"><span class="nbdg">IN</span>🇮🇳 Индија</button>
+<button class="nav-btn" data-r="🌍 Африка"><span class="nbdg">AF</span>🌍 Африка</button>
+<button class="nav-btn" data-r="🌎 Америка"><span class="nbdg">AM</span>🌎 Америка</button>
+<button class="nav-btn" data-r="🦘 Австралија"><span class="nbdg">AU</span>🦘 Австралија</button>
 </div>
 </nav>
 
@@ -134,21 +114,14 @@
 <div class="sc">
 <h3 class="sc-t">📂 Категории</h3>
 <ul class="cat-ul" id="catList">
-<li class="cat-li on" data-cat="all"><span>Сите Вести</span><span class="cat-n">1,313</span></li>
-<li class="cat-li" data-cat="protocol"><span>Protocol</span><span class="cat-n">42</span></li>
-<li class="cat-li" data-cat="diplomacy"><span>Diplomacy</span><span class="cat-n">89</span></li>
-<li class="cat-li" data-cat="security"><span>Security</span><span class="cat-n">156</span></li>
-<li class="cat-li" data-cat="politics"><span>Politics</span><span class="cat-n">278</span></li>
-<li class="cat-li" data-cat="economy"><span>Economy</span><span class="cat-n">234</span></li>
-<li class="cat-li" data-cat="business"><span>Business</span><span class="cat-n">198</span></li>
-<li class="cat-li" data-cat="health"><span>Health</span><span class="cat-n">145</span></li>
-<li class="cat-li" data-cat="technology"><span>Technology</span><span class="cat-n">187</span></li>
-<li class="cat-li" data-cat="sport"><span>Sport</span><span class="cat-n">124</span></li>
-<li class="cat-li" data-cat="science"><span>Science</span><span class="cat-n">98</span></li>
-<li class="cat-li" data-cat="environment"><span>Environment</span><span class="cat-n">76</span></li>
-<li class="cat-li" data-cat="culture"><span>Culture</span><span class="cat-n">54</span></li>
-<li class="cat-li" data-cat="education"><span>Education</span><span class="cat-n">45</span></li>
-<li class="cat-li" data-cat="entertainment"><span>Entertainment</span><span class="cat-n">38</span></li>
+<li class="cat-li on" data-cat="all"><span>Сите Вести</span><span class="cat-n" id="catAll">0</span></li>
+<li class="cat-li" data-cat="Новости"><span>Новости</span><span class="cat-n" id="catNews">0</span></li>
+<li class="cat-li" data-cat="Политика"><span>Политика</span><span class="cat-n" id="catPol">0</span></li>
+<li class="cat-li" data-cat="Економија"><span>Економија</span><span class="cat-n" id="catEco">0</span></li>
+<li class="cat-li" data-cat="Спорт"><span>Спорт</span><span class="cat-n" id="catSport">0</span></li>
+<li class="cat-li" data-cat="Технологија"><span>Технологија</span><span class="cat-n" id="catTech">0</span></li>
+<li class="cat-li" data-cat="Здравје"><span>Здравје</span><span class="cat-n" id="catHealth">0</span></li>
+<li class="cat-li" data-cat="Култура"><span>Култура</span><span class="cat-n" id="catCulture">0</span></li>
 </ul>
 </div>
 
@@ -175,9 +148,6 @@
 <a href="https://www.linkedin.com/in/makedon-world-news-3404153aa" target="_blank" class="sl" title="LinkedIn"><svg viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
 <a href="https://wa.me/?text=MAKEDON+WORLD+NEWS" target="_blank" class="sl" title="WhatsApp"><svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.890-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg></a>
 <a href="https://t.me/makedonworldnews" target="_blank" class="sl" title="Telegram"><svg viewBox="0 0 24 24"><path d="M11.944 0A12 12 0 000 12a12 12 0 0012 12 12 12 0 0012-12A12 12 0 0012 0a12 12 0 00-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 01.171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg></a>
-<a href="https://signal.org" target="_blank" class="sl" title="Signal"><svg viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 21.75c-5.385 0-9.75-4.365-9.75-9.75S6.615 2.25 12 2.25s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75z"/></svg></a>
-<a href="https://rumble.com" target="_blank" class="sl" title="Rumble"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 14.5V7.5l6 4.5-6 4.5z"/></svg></a>
-<a href="https://truthsocial.com" target="_blank" class="sl" title="Truth Social"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/></svg></a>
 <a href="mailto:makedonworldnews@gmail.com" class="sl" title="Email"><svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
 </div>
 </div>
@@ -186,27 +156,19 @@
 <main>
 <div class="sec-hd">
 <h2 class="sec-t"><span class="sec-ico" id="secIco">🔥</span><span id="secLbl">Најнови Вести</span></h2>
-<div class="upd">🔄 Next update: <strong id="timer">5:00</strong></div>
+<div class="upd">🔄 Auto-refresh: <strong>4 сек</strong> | Update: <strong>5 мин</strong></div>
 </div>
 <div id="grid" class="ng">
 <div class="sk"><div class="sk-img"></div><div class="sk-body"><div class="sk-badge"></div><div class="sk-line w90"></div><div class="sk-line w80"></div><div class="sk-line w70"></div><div class="sk-line w50"></div></div></div>
 <div class="sk"><div class="sk-img"></div><div class="sk-body"><div class="sk-badge"></div><div class="sk-line w80"></div><div class="sk-line w90"></div><div class="sk-line w60"></div><div class="sk-line w40"></div></div></div>
 <div class="sk"><div class="sk-img"></div><div class="sk-body"><div class="sk-badge"></div><div class="sk-line w70"></div><div class="sk-line w80"></div><div class="sk-line w90"></div><div class="sk-line w50"></div></div></div>
-<div class="sk"><div class="sk-img"></div><div class="sk-body"><div class="sk-badge"></div><div class="sk-line w90"></div><div class="sk-line w70"></div><div class="sk-line w60"></div><div class="sk-line w40"></div></div></div>
-<div class="sk"><div class="sk-img"></div><div class="sk-body"><div class="sk-badge"></div><div class="sk-line w80"></div><div class="sk-line w90"></div><div class="sk-line w70"></div><div class="sk-line w50"></div></div></div>
-<div class="sk"><div class="sk-img"></div><div class="sk-body"><div class="sk-badge"></div><div class="sk-line w70"></div><div class="sk-line w80"></div><div class="sk-line w50"></div><div class="sk-line w60"></div></div></div>
 </div>
 </main>
 
 <aside class="right-sb">
 <div class="sc">
 <h3 class="sc-t">🔥 Trending</h3>
-<div id="trendingBox">
-<div class="trd"><div class="trd-n">01</div><div class="trd-t">Global leaders convene for unprecedented climate summit</div></div>
-<div class="trd"><div class="trd-n">02</div><div class="trd-t">Tech breakthrough promises revolutionary energy advances</div></div>
-<div class="trd"><div class="trd-n">03</div><div class="trd-t">Markets react to sweeping economic policy reforms</div></div>
-<div class="trd"><div class="trd-n">04</div><div class="trd-t">Historic diplomatic deal reshapes Balkan cooperation</div></div>
-</div>
+<div id="trendingBox"></div>
 </div>
 
 <div class="prem">
@@ -215,15 +177,20 @@
 <p>Unlock all 1,313 sources • 193 countries • Ad-free • 149 languages • Real-time alerts</p>
 <div class="prem-px">$19.99 <small>/month</small></div>
 <button class="prem-btn" onclick="openModal()">Subscribe Now</button>
-<div class="pay-row" id="sidePayRow">
-<div class="pay-btn sel" onclick="pickPay(this,'paypal')">💙 PayPal</div>
-<div class="pay-btn" onclick="pickPay(this,'stripe')">💜 Stripe</div>
-<div class="pay-btn" onclick="pickPay(this,'visa')">🏅 Visa</div>
-<div class="pay-btn" onclick="pickPay(this,'mastercard')">♦️ Master</div>
+<div class="pay-row">
+<div class="pay-btn sel">💙 PayPal</div>
+<div class="pay-btn">💜 Stripe</div>
+<div class="pay-btn">🏅 Visa</div>
+<div class="pay-btn">♦️ Master</div>
 </div>
 </div>
 </aside>
 
+</div>
+
+<div class="refresh-bar">
+<div class="refresh-dot"></div>
+<span>Live • Auto-refresh 4s</span>
 </div>
 
 <footer class="footer">
@@ -234,18 +201,13 @@
 <p>Extraplanetary intelligence aggregation connecting 7 continents and 193 countries. Real-time global news from 1,313 verified sources in 149 languages.</p>
 <p class="em">📧 <a href="mailto:makedonworldnews@gmail.com" style="color:#d4af37;text-decoration:none">makedonworldnews@gmail.com</a></p>
 </div>
-<div class="fs"><h4>Continents</h4><ul><li><a href="#" onclick="event.preventDefault();switchSector('macedonia')">Macedonia</a></li><li><a href="#" onclick="event.preventDefault();switchSector('balkan')">Balkan</a></li><li><a href="#" onclick="event.preventDefault();switchSector('europe')">Europe</a></li><li><a href="#" onclick="event.preventDefault();switchSector('asia')">Asia</a></li><li><a href="#" onclick="event.preventDefault();switchSector('india')">India</a></li><li><a href="#" onclick="event.preventDefault();switchSector('africa')">Africa</a></li><li><a href="#" onclick="event.preventDefault();switchSector('america')">Americas</a></li><li><a href="#" onclick="event.preventDefault();switchSector('australia')">Australia</a></li><li><a href="#" onclick="event.preventDefault();switchSector('antarctica')">Antarctica</a></li></ul></div>
-<div class="fs"><h4>Oceans</h4><ul><li><a href="#" onclick="event.preventDefault();switchSector('pacific')">Pacific Ocean</a></li><li><a href="#" onclick="event.preventDefault();switchSector('atlantic')">Atlantic Ocean</a></li><li><a href="#" onclick="event.preventDefault();switchSector('indian')">Indian Ocean</a></li><li><a href="#" onclick="event.preventDefault();switchSector('arctic')">Arctic Ocean</a></li></ul></div>
-<div class="fs"><h4>Connect</h4><ul><li><a href="mailto:makedonworldnews@gmail.com">Contact</a></li><li><a href="#" onclick="event.preventDefault();openModal()">Subscribe</a></li><li><a href="#">About</a></li><li><a href="#">Privacy</a></li><li><a href="#">Terms</a></li></ul></div>
+<div class="fs"><h4>Regions</h4><ul><li><a href="#" onclick="event.preventDefault();filterRegion('🇲🇰 Македонија')">Македонија</a></li><li><a href="#" onclick="event.preventDefault();filterRegion('🏔️ Балкан')">Балкан</a></li><li><a href="#" onclick="event.preventDefault();filterRegion('🇪🇺 Европа')">Европа</a></li><li><a href="#" onclick="event.preventDefault();filterRegion('🌏 Азија')">Азија</a></li><li><a href="#" onclick="event.preventDefault();filterRegion('🌍 Африка')">Африка</a></li><li><a href="#" onclick="event.preventDefault();filterRegion('🌎 Америка')">Америка</a></li></ul></div>
+<div class="fs"><h4>Categories</h4><ul><li><a href="#">Новости</a></li><li><a href="#">Политика</a></li><li><a href="#">Економија</a></li><li><a href="#">Спорт</a></li><li><a href="#">Технологија</a></li></ul></div>
+<div class="fs"><h4>Connect</h4><ul><li><a href="mailto:makedonworldnews@gmail.com">Contact</a></li><li><a href="#" onclick="event.preventDefault();openModal()">Subscribe</a></li><li><a href="#">About</a></li><li><a href="#">Privacy</a></li></ul></div>
 </div>
 <div class="fbot">
 <div class="cp">© 2026 MAKEDON WORLD NEWS · Extraplanetary Intelligence Network · All Rights Reserved</div>
-<div class="py">
-<a href="mailto:makedonworldnews@gmail.com?subject=Premium%20Payment%20-%20PayPal" style="color:inherit;text-decoration:none;cursor:pointer" title="Subscribe via PayPal"><span>💙 PayPal</span></a>
-<a href="mailto:makedonworldnews@gmail.com?subject=Premium%20Payment%20-%20Stripe" style="color:inherit;text-decoration:none;cursor:pointer" title="Subscribe via Stripe"><span>💜 Stripe</span></a>
-<a href="mailto:makedonworldnews@gmail.com?subject=Premium%20Payment%20-%20Visa" style="color:inherit;text-decoration:none;cursor:pointer" title="Subscribe via Visa"><span>🏅 Visa</span></a>
-<a href="mailto:makedonworldnews@gmail.com?subject=Premium%20Payment%20-%20Mastercard" style="color:inherit;text-decoration:none;cursor:pointer" title="Subscribe via Mastercard"><span>♦️ Mastercard</span></a>
-</div>
+<div class="py"><span>💙 PayPal</span><span>💜 Stripe</span><span>🏅 Visa</span><span>♦️ Mastercard</span></div>
 </div>
 </div>
 </footer>
@@ -261,24 +223,16 @@
 <h4>What you get</h4>
 <ul>
 <li>✅ All 1,313 RSS sources unlocked</li>
-<li>✅ 193 countries · 7 continents · 4 oceans</li>
-<li>✅ 15+ categories full access</li>
+<li>✅ 193 countries · 7 continents</li>
+<li>✅ All categories full access</li>
 <li>✅ 149 languages</li>
 <li>✅ Ad-free experience</li>
 <li>✅ Real-time 5-min alerts</li>
-<li>✅ Blockchain verification</li>
-<li>✅ PDF article downloads</li>
 <li>✅ Priority support</li>
 </ul>
 </div>
 <div style="font-size:46px;font-weight:900;color:var(--ac);margin-bottom:6px">$19.99 <span style="font-size:18px;font-weight:400;color:var(--t2)">/month</span></div>
-<p style="font-size:13px;color:var(--t2);margin-bottom:4px">Cancel anytime · Secure · Instant activation</p>
-<div class="mpay-row" id="modalPayRow">
-<div class="mpay-btn sel" onclick="pickModalPay(this,'paypal')">💙 PayPal</div>
-<div class="mpay-btn" onclick="pickModalPay(this,'stripe')">💜 Stripe</div>
-<div class="mpay-btn" onclick="pickModalPay(this,'visa')">🏅 Visa</div>
-<div class="mpay-btn" onclick="pickModalPay(this,'mastercard')">♦️ Mastercard</div>
-</div>
+<p style="font-size:13px;color:var(--t2);margin-bottom:20px">Cancel anytime · Secure · Instant activation</p>
 <button onclick="subscribe()" style="width:100%;background:var(--gd);color:var(--pk);border:none;padding:16px;font-size:16px;font-weight:900;border-radius:9px;cursor:pointer;text-transform:uppercase;letter-spacing:1.2px">🚀 Subscribe Now</button>
 <p style="font-size:13px;color:var(--t2);margin-top:18px">Questions? <a href="mailto:makedonworldnews@gmail.com" style="color:#d4af37;text-decoration:underline">makedonworldnews@gmail.com</a></p>
 </div>
@@ -286,89 +240,235 @@
 </div>
 
 <script>
-const DB={
-macedonia:[{n:'time.mk',u:'https://time.mk/feed/',c:'news'},{n:'GRID.mk',u:'https://grid.mk/feed/',c:'news'},{n:'MIA',u:'https://mia.mk/rss.xml',c:'news'},{n:'MRT',u:'https://www.mrt.com.mk/rss.xml',c:'news'},{n:'Netpress',u:'https://netpress.com.mk/feed/',c:'news'},{n:'Makfax',u:'https://makfax.com.mk/feed.rss',c:'news'},{n:'Sitel',u:'https://www.sitel.com.mk/feed',c:'news'},{n:'Telma',u:'https://telma.com.mk/feed',c:'news'},{n:'Kanal 5',u:'https://kanal5.com.mk/feed',c:'politics'},{n:'Nova TV',u:'https://novatv.mk/feed',c:'news'},{n:'Alfa TV',u:'https://alfa.mk/feed',c:'news'},{n:'TV21',u:'https://tv21.tv/feed',c:'news'},{n:'Zhurnal.mk',u:'https://zhurnal.mk/feed/',c:'politics'},{n:'Sloboden Pechat',u:'https://www.slobodenpechat.mk/feed',c:'politics'},{n:'Fokus',u:'https://fokus.mk/feed',c:'politics'},{n:'Ekonomski',u:'https://ekonomski.mk/feed',c:'economy'},{n:'Kapital',u:'https://kapital.mk/feed',c:'economy'},{n:'SportalMK',u:'https://sportalmk.com/feed',c:'sport'},{n:'FFM',u:'https://ffm.mk/feed',c:'sport'}],
-balkan:[{n:'Balkan Insight',u:'https://balkaninsight.com/feed/',c:'diplomacy'},{n:'Exit News',u:'https://exit.al/en/feed/',c:'politics'},{n:'B92',u:'https://www.b92.net/rss/info.xml',c:'news'},{n:'N1 Serbia',u:'https://rs.n1info.com/rss/',c:'politics'},{n:'RTS',u:'https://www.rts.rs/page/stories/sr/rss.html',c:'news'},{n:'Blic',u:'https://www.blic.rs/rss',c:'news'},{n:'Politika',u:'https://www.politika.rs/rss/',c:'politics'},{n:'Index.hr',u:'https://www.index.hr/rss',c:'news'},{n:'24sata',u:'https://www.24sata.hr/feeds/latest.xml',c:'news'},{n:'HRT',u:'https://vijesti.hrt.hr/rss',c:'news'},{n:'Klix',u:'https://www.klix.ba/rss',c:'news'},{n:'Oslobodjenje',u:'https://www.oslobodjenje.ba/rss',c:'politics'},{n:'Vijesti MNE',u:'https://www.vijesti.me/rss',c:'news'},{n:'RTCG',u:'https://www.rtcg.me/rss/',c:'news'},{n:'Koha Ditore',u:'https://www.koha.net/rss/',c:'news'},{n:'Telegrafi',u:'https://telegrafi.com/feed/',c:'news'},{n:'Panorama ALB',u:'https://www.panorama.com.al/feed/',c:'news'},{n:'RTSH',u:'https://www.rtsh.al/rss/',c:'news'},{n:'RTV SLO',u:'https://www.rtvslo.si/feeds/rss',c:'news'},{n:'24ur',u:'https://www.24ur.com/rss',c:'news'}],
-europe:[{n:'BBC World',u:'https://feeds.bbci.co.uk/news/world/rss.xml',c:'news'},{n:'Reuters',u:'https://feeds.reuters.com/reuters/topNews',c:'diplomacy'},{n:'Guardian',u:'https://www.theguardian.com/world/rss',c:'news'},{n:'FT',u:'https://www.ft.com/rss/home',c:'economy'},{n:'Sky News',u:'https://feeds.skynews.com/feeds/rss/world.xml',c:'news'},{n:'DW',u:'https://rss.dw.com/xml/rss-en-all',c:'news'},{n:'Spiegel',u:'https://www.spiegel.de/schlagzeilen/index.rss',c:'politics'},{n:'France 24',u:'https://www.france24.com/en/rss/world',c:'news'},{n:'RFI',u:'https://www.rfi.fr/en/rss',c:'news'},{n:'Corriere',u:'https://www.corriere.it/rss/homepage.xml',c:'news'},{n:'Repubblica',u:'https://www.repubblica.it/rss/homepage/rss2.0.xml',c:'politics'},{n:'ANSA',u:'https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml',c:'news'},{n:'NOS',u:'https://feeds.nos.nl/nosnieuwsalgemeen',c:'news'},{n:'SWI',u:'https://www.swissinfo.ch/eng/rss',c:'diplomacy'},{n:'ORF',u:'https://rss.orf.at/news.xml',c:'news'},{n:'Euronews',u:'https://www.euronews.com/rss',c:'news'}],
-asia:[{n:'Al Jazeera',u:'https://www.aljazeera.com/xml/rss/all.xml',c:'diplomacy'},{n:'SCMP',u:'https://www.scmp.com/rss/section/world-news',c:'news'},{n:'Japan Times',u:'https://www.japantimes.co.jp/feed/',c:'news'},{n:'NHK',u:'https://www.nhk.com/rss/',c:'news'},{n:'Korea Herald',u:'https://www.koreaherald.com/rss',c:'news'},{n:'Yonhap',u:'https://english.yna.co.kr/RSS/all.xml',c:'news'},{n:'Bangkok Post',u:'https://www.bangkokpost.com/rss',c:'news'},{n:'Straits Times',u:'https://www.straitstimes.com/news/rss.xml',c:'news'},{n:'Jakarta Post',u:'https://www.thejakartapost.com/rss',c:'news'},{n:'Dawn',u:'https://www.dawn.com/feeds/home',c:'news'},{n:'Gulf News',u:'https://gulfnews.com/rss',c:'business'},{n:'Arab News',u:'https://www.arabnews.com/rss.xml',c:'news'},{n:'TRT World',u:'https://www.trtworld.com/rss',c:'news'}],
-india:[{n:'Times of India',u:'https://timesofindia.indiatimes.com/rssfeedstopstories.cms',c:'news'},{n:'The Hindu',u:'https://www.thehindu.com/news/feeder/default.rss',c:'politics'},{n:'Indian Express',u:'https://indianexpress.com/feed/',c:'news'},{n:'NDTV',u:'https://feeds.feedburner.com/ndtvnews-top-stories',c:'news'},{n:'Hindustan Times',u:'https://www.hindustantimes.com/rss/topnews/rssfeed.xml',c:'news'},{n:'Economic Times',u:'https://economictimes.indiatimes.com/rssfeedstopstories.cms',c:'economy'},{n:'India Today',u:'https://www.indiatoday.in/rss',c:'news'},{n:'The Wire',u:'https://thewire.in/rss.xml',c:'politics'},{n:'News18',u:'https://www.news18.com/rss',c:'news'},{n:'Mint',u:'https://www.livemint.com/rss',c:'economy'}],
-africa:[{n:'Africa News',u:'https://www.africanews.com/api/rss/',c:'news'},{n:'AllAfrica',u:'https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf',c:'diplomacy'},{n:'News24 SA',u:'https://feeds.news24.com/articles/news24/topstories/rss',c:'news'},{n:'Daily Maverick',u:'https://www.dailymaverick.co.za/rss',c:'politics'},{n:'Nation KE',u:'https://www.nation.co.ke/news/rss',c:'news'},{n:'Egypt Indep',u:'https://www.egyptindependent.com/feed/',c:'news'},{n:'Al Ahram',u:'https://english.ahram.org.eg/rss',c:'politics'},{n:'Premium Times',u:'https://www.premiumtimesng.com/feed',c:'news'},{n:'Vanguard',u:'https://www.vanguardngr.com/rss',c:'news'},{n:'The Punch',u:'https://punchng.com/rss',c:'news'}],
-america:[{n:'New York Times',u:'https://rss.nytimes.com/services/xml/rss/nyt/World.xml',c:'diplomacy'},{n:'CNN',u:'http://rss.cnn.com/rss/edition.rss',c:'news'},{n:'Washington Post',u:'https://feeds.washingtonpost.com/rss/world',c:'politics'},{n:'AP News',u:'https://feeds.apnews.com/f2e270e26e/rss.xml',c:'news'},{n:'USA Today',u:'https://rssfeeds.usatoday.com/usatoday-NewsTopStories',c:'news'},{n:'Fox News',u:'https://moxie.foxnews.com/google-publisher/world.xml',c:'politics'},{n:'ABC News',u:'https://feeds.abcnews.com/abcnews/topHeadlines',c:'news'},{n:'LA Times',u:'https://www.latimes.com/world-nation/rss2.0.xml',c:'news'},{n:'CBC',u:'https://www.cbc.ca/cmlink/rss-topstories',c:'news'},{n:'Globe & Mail',u:'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/',c:'news'}],
-australia:[{n:'ABC AU',u:'https://www.abc.net.au/news/feed/2942460/rss.xml',c:'news'},{n:'SBS',u:'https://www.sbs.com.au/news/feed/rss',c:'news'},{n:'SMH',u:'https://www.smh.com.au/rss/feed.xml',c:'news'},{n:'Guardian AU',u:'https://www.theguardian.com/australia-news/rss',c:'news'},{n:'The Australian',u:'https://www.theaustralian.com.au/rss',c:'news'},{n:'NZ Herald',u:'https://www.nzherald.co.nz/arc/outboundfeeds/rss/',c:'news'},{n:'Stuff NZ',u:'https://www.stuff.co.nz/rss',c:'news'}],
-antarctica:[{n:'Antarctic Sun',u:'https://antarcticsun.usap.gov/rss.xml',c:'science'}],
-pacific:[{n:'Pacific Islands News',u:'https://www.pina.com.fj/rss',c:'news'},{n:'Pacific Beat',u:'https://www.abc.net.au/pacific/rss/news.xml',c:'news'}],
-atlantic:[{n:'Maritime Exec Atlantic',u:'https://www.maritimeexecutive.com/rss',c:'business'},{n:'Ocean News Atlantic',u:'https://oceannews.com/feed',c:'environment'}],
-indian:[{n:'Indian Ocean Times',u:'https://www.sundaytimes.lk/rss',c:'news'},{n:'Maritime Indian',u:'https://www.maritimegateway.com/feed',c:'business'}],
-arctic:[{n:'Arctic Today',u:'https://www.arctictoday.com/feed/',c:'environment'}]
-};
+// ===== GLOBAL STATE =====
+let allArticles = [];
+let currentRegion = 'all';
+let currentCategory = 'all';
 
-let sector='latest',cat='all',secs=300,currentLang='',chosenPay='paypal',chosenModalPay='paypal';
-const origMap=new Map();
+// ===== CLOCK =====
+(function updateClock(){
+    const d = new Date();
+    document.getElementById('dtNow').textContent = d.toLocaleDateString('mk-MK', {weekday:'long', month:'long', day:'numeric', year:'numeric'}) + ' ' + d.toLocaleTimeString('mk-MK', {hour:'2-digit', minute:'2-digit', second:'2-digit'});
+    setTimeout(updateClock, 1000);
+})();
 
-(function clk(){const d=new Date();document.getElementById('dtNow').textContent=d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'})+' '+d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});setTimeout(clk,28000)})();
+// ===== LOAD NEWS FROM JSON =====
+async function loadNews() {
+    try {
+        const response = await fetch('data/news.json?t=' + Date.now());
+        if (!response.ok) throw new Error('Failed to load news.json');
+        const data = await response.json();
+        
+        allArticles = data.articles || [];
+        
+        // Update UI
+        document.getElementById('lastUpdate').textContent = '⏱️ Updated: ' + (data.last_updated || 'N/A');
+        document.getElementById('catAll').textContent = allArticles.length;
+        document.getElementById('sourceCount').textContent = allArticles.length > 0 ? '1,313' : '0';
+        
+        // Count categories
+        const catCounts = {};
+        allArticles.forEach(a => {
+            const cat = a.category || 'Новости';
+            catCounts[cat] = (catCounts[cat] || 0) + 1;
+        });
+        
+        // Update category badges
+        document.getElementById('catNews').textContent = catCounts['Новости'] || 0;
+        document.getElementById('catPol').textContent = catCounts['Политика'] || 0;
+        document.getElementById('catEco').textContent = catCounts['Економија'] || 0;
+        document.getElementById('catSport').textContent = catCounts['Спорт'] || 0;
+        document.getElementById('catTech').textContent = catCounts['Технологија'] || 0;
+        document.getElementById('catHealth').textContent = catCounts['Здравје'] || 0;
+        document.getElementById('catCulture').textContent = catCounts['Култура'] || 0;
+        
+        renderNews();
+        updateTicker();
+        updateTrending();
+        
+        console.log('✅ Loaded', allArticles.length, 'articles');
+        
+    } catch (err) {
+        console.error('❌ Error loading news:', err);
+        showFallback();
+    }
+}
 
-setInterval(()=>{secs--;if(secs<0){secs=300;fetchFeeds()}const m=Math.floor(secs/60),s=secs%60;document.getElementById('timer').textContent=m+':'+(s<10?'0':'')+s},1000);
+// ===== RENDER NEWS CARDS =====
+function renderNews() {
+    const G = ['var(--g1)','var(--g2)','var(--g3)','var(--g4)','var(--g5)'];
+    
+    let filtered = allArticles;
+    
+    if (currentRegion !== 'all') {
+        filtered = filtered.filter(a => a.region === currentRegion);
+    }
+    if (currentCategory !== 'all') {
+        filtered = filtered.filter(a => a.category === currentCategory);
+    }
+    
+    if (filtered.length === 0) {
+        document.getElementById('grid').innerHTML = '<p style="grid-column:1/-1;text-align:center;padding:60px;color:var(--t2);font-size:18px">📭 Нема вести за избраниот филтер. Пробајте друга категорија или регион.</p>';
+        return;
+    }
+    
+    document.getElementById('grid').innerHTML = filtered.map((a, i) => {
+        const title = (a.title || 'Без наслов').substring(0, 100);
+        const summary = (a.summary || a.excerpt || 'Кликнете за повеќе...').substring(0, 180);
+        const source = a.source_name || 'Извор';
+        const region = a.region || '🌍 World';
+        const category = a.category || 'Новости';
+        const link = a.link || '#';
+        const published = a.published || a.fetched_at || '';
+        
+        let dateStr = '';
+        try {
+            const d = new Date(published);
+            if (!isNaN(d)) {
+                dateStr = d.toLocaleDateString('mk-MK', {day:'numeric', month:'short'}) + ' ' + d.toLocaleTimeString('mk-MK', {hour:'2-digit', minute:'2-digit'});
+            }
+        } catch(e) { dateStr = published; }
+        
+        const hash = hashCode(title).toString(16).toUpperCase().substring(0,8);
+        
+        return `<div class="nc" onclick="window.open('${link.replace(/'/g,"\\'")}','_blank')">
+            <div class="nc-img" style="background:${G[i%5]}">
+                <span class="emo">📰</span>
+                <div class="nc-bdg">${category}</div>
+                <div class="nc-vfy">✓ ${hash}</div>
+            </div>
+            <div class="nc-body">
+                <div class="nc-meta">
+                    <span>📅 ${dateStr}</span>
+                    <span>📍 ${region}</span>
+                </div>
+                <h3 class="nc-ttl">${title}</h3>
+                <p class="nc-exc">${summary}...</p>
+                <div class="nc-ft">
+                    <span class="nc-src">📡 ${source}</span>
+                    <button class="sh-btn" onclick="event.stopPropagation();shareArticle('${title.replace(/'/g,"\\'")}','${link.replace(/'/g,"\\'")}')">Share</button>
+                </div>
+            </div>
+        </div>`;
+    }).join('');
+}
 
-function H(s){try{return CryptoJS.SHA256(s).toString().substring(0,12).toUpperCase()}catch(e){return'A1B2C3D4'}}
+// ===== TICKER =====
+function updateTicker() {
+    const track = document.getElementById('tickTrack');
+    const top = allArticles.slice(0, 10);
+    
+    if (top.length === 0) {
+        track.innerHTML = '<span class="tick-i">⏳ Се вчитуваат вести...</span>';
+        return;
+    }
+    
+    const items = top.map(a => `<span class="tick-i">${getEmoji(a.category)} ${a.title}</span><span class="tick-d"></span>`).join('');
+    track.innerHTML = items + items; // Duplicate for seamless loop
+}
 
-function getFeeds(){const keys=Object.keys(DB);if(sector==='latest')return keys.reduce((a,k)=>a.concat(DB[k]),[]);if(sector==='live')return DB.macedonia.slice(0,11).concat(DB.europe.slice(0,3),DB.asia.slice(0,3),DB.america.slice(0,3),DB.balkan.slice(0,3));return DB[sector]||[]}
+// ===== TRENDING =====
+function updateTrending() {
+    const box = document.getElementById('trendingBox');
+    const top = allArticles.slice(0, 4);
+    
+    if (top.length === 0) {
+        box.innerHTML = '<p style="color:var(--t2);font-size:14px">Нема trending вести</p>';
+        return;
+    }
+    
+    box.innerHTML = top.map((a, i) => `<div class="trd" onclick="window.open('${a.link}','_blank')">
+        <div class="trd-n">${String(i+1).padStart(2,'0')}</div>
+        <div class="trd-t">${a.title}</div>
+    </div>`).join('');
+}
 
-const R2J='https://api.rss2json.com/v1/api.json?rss_url=';
-function ms(n){return new Promise((_,r)=>setTimeout(()=>r('T'),n))}
+// ===== FALLBACK =====
+function showFallback() {
+    document.getElementById('grid').innerHTML = `
+        <div style="grid-column:1/-1;text-align:center;padding:60px">
+            <div style="font-size:64px;margin-bottom:20px">⏳</div>
+            <h3 style="font-size:24px;margin-bottom:12px">Се вчитуваат вести...</h3>
+            <p style="color:var(--t2)">Ако ова трае повеќе од 10 секунди, проверете дали постои data/news.json фајл.</p>
+            <p style="color:var(--t2);margin-top:10px">Страницата автоматски се освежува секои 4 секунди.</p>
+        </div>
+    `;
+}
 
-async function fetchOne(f){try{const r=await Promise.race([fetch(R2J+encodeURIComponent(f.u)),ms(5000)]);if(!r||!r.ok)throw'err';const j=await r.json();if(j.status!=='ok'||!j.items)throw'no items';return j.items.slice(0,5).map(it=>({title:(it.title||'').replace(/<[^>]*>/g,'').trim().substring(0,140),excerpt:(it.description||it.content||'').replace(/<[^>]*>/g,'').trim().substring(0,220),url:it.link||'#',date:new Date(it.pubDate||it.published||Date.now()),src:f.n,cat:f.c})).filter(a=>a.title.length>3)}catch(e){return[]}}
+// ===== HELPERS =====
+function hashCode(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        hash = ((hash << 5) - hash) + str.charCodeAt(i);
+        hash |= 0;
+    }
+    return Math.abs(hash);
+}
 
-function updateTrending(articles){const top=articles.slice(0,4);const trendHTML=top.map((a,i)=>`<div class="trd" onclick="window.open('${a.url}','_blank')"><div class="trd-n">${String(i+1).padStart(2,'0')}</div><div class="trd-t">${a.title}</div></div>`).join('');const container=document.getElementById('trendingBox');if(container)container.innerHTML=trendHTML}
+function getEmoji(cat) {
+    const map = {
+        'Новости': '📰', 'Политика': '🏛️', 'Економија': '💼', 
+        'Спорт': '⚽', 'Технологија': '💻', 'Здравје': '🏥',
+        'Култура': '🎭', 'Наука': '🔬', 'Забава': '🎬'
+    };
+    return map[cat] || '🌍';
+}
 
-async function fetchFeeds(){const feeds=getFeeds();renderCards(getFallback());updateTrending(getFallback());const toFetch=feeds.slice(0,Math.min(feeds.length,15));const results=await Promise.allSettled(toFetch.map(f=>fetchOne(f)));const real=[];results.forEach(r=>{if(r.status==='fulfilled'&&r.value)real.push(...r.value)});real.sort((a,b)=>b.date-a.date);if(real.length>=3){renderCards(real);updateTrending(real)}if(currentLang&&currentLang!=='mk')applyTranslation(currentLang)}
+function shareArticle(title, url) {
+    const text = title + '\n\n#MakedonWorldNews\n\n' + url;
+    if (navigator.share) {
+        navigator.share({title: title, text: text, url: url});
+    } else {
+        navigator.clipboard.writeText(text).then(() => alert('✅ Копирано!'));
+    }
+}
 
-function getFallback(){const now=new Date();return[{title:'Global Leaders Unite For Climate Summit',excerpt:'Over 150 nations participate in the largest climate-action gathering in history, committing to binding emissions targets and renewable investments.',src:'Reuters',cat:'diplomacy',date:now,url:'#'},{title:'Markets Surge on Economic Reforms',excerpt:'Major stock indices reached record highs as investors responded positively to coordinated fiscal reforms across G20 nations.',src:'FT',cat:'economy',date:now,url:'#'},{title:'Breakthrough in Renewable Energy Storage',excerpt:'Scientists announce a revolutionary battery technology capable of storing solar and wind energy at unprecedented scale and efficiency.',src:'BBC',cat:'technology',date:now,url:'#'},{title:'Historic Peace Agreement Signed',excerpt:'A landmark treaty was signed today, ending decades of territorial disputes and establishing a new framework for lasting cooperation.',src:'Al Jazeera',cat:'diplomacy',date:now,url:'#'},{title:'WHO Launches Global Health Initiative',excerpt:'The World Health Organization unveils its most ambitious coordinated health programme, targeting infectious disease prevention worldwide.',src:'CNN',cat:'health',date:now,url:'#'},{title:'AI Platform Unveiled at Tech Summit',excerpt:'Next-generation artificial-intelligence platform demonstrates real-time translation and analysis capabilities across 200 languages.',src:'Guardian',cat:'technology',date:now,url:'#'},{title:'Macedonia Hosts Protocol Conference',excerpt:'Skopje welcomes diplomats from 42 nations for landmark discussions on international protocol and regional cooperation frameworks.',src:'MIA',cat:'protocol',date:now,url:'#'},{title:'Claude 4.5 Powers Media Intelligence',excerpt:'Anthropic introduces advanced AI capabilities for real-time news analysis and multilingual content aggregation at global scale.',src:'Claude',cat:'technology',date:now,url:'#'},{title:'Regional Economic Growth Hits Decade High',excerpt:'GDP figures across the Balkans show strongest growth in a decade, driven by EU pre-accession reforms and foreign investment.',src:'Balkan Insight',cat:'economy',date:now,url:'#'},{title:'Arctic Research Station Opens',excerpt:'New international facility established to monitor climate change impacts in the Arctic region with advanced sensor technology.',src:'Arctic Today',cat:'science',date:now,url:'#'},{title:'Pacific Island Nations Climate Pact',excerpt:'Historic agreement among Pacific nations establishes unified approach to sea-level rise and climate adaptation strategies.',src:'Pacific News',cat:'environment',date:now,url:'#'},{title:'Indian Ocean Maritime Security Enhanced',excerpt:'Regional cooperation agreement strengthens anti-piracy measures and environmental protection across shipping lanes.',src:'Maritime Gateway',cat:'security',date:now,url:'#'}]}
+// ===== FILTERS =====
+function filterRegion(region) {
+    currentRegion = region;
+    document.querySelectorAll('.nav-btn').forEach(b => {
+        b.classList.toggle('on', b.dataset.r === region);
+    });
+    renderNews();
+}
 
-function renderCards(arr){const G=['var(--g1)','var(--g2)','var(--g3)','var(--g4)','var(--g5)'];const list=cat==='all'?arr:arr.filter(a=>a.cat===cat);document.getElementById('grid').innerHTML=list.map((a,i)=>{const d=a.date instanceof Date?a.date:new Date(a.date);const ds=d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});const ts=d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});const su=a.url.replace(/'/g,"\\'"),st=a.title.replace(/'/g,"\\'");return`<div class="nc" onclick="window.open('${su}','_blank')"><div class="nc-img" style="background:${G[i%5]}"><span class="emo">🌍</span><div class="nc-bdg">${a.cat.toUpperCase()}</div><div class="nc-vfy">✓ ${H(a.title+ds)}</div></div><div class="nc-body"><div class="nc-meta"><span>📅 ${ds}</span><span>⏰ ${ts}</span><span>📡 ${a.src}</span></div><h3 class="nc-ttl">${a.title}</h3><p class="nc-exc">${a.excerpt}…</p><div class="nc-ft"><span class="nc-src">🔒 Blockchain Verified</span><button class="sh-btn" onclick="event.stopPropagation();shareIt('${su}','${st}')">Share</button></div></div></div>`}).join('')}
+function filterCategory(cat) {
+    currentCategory = cat;
+    document.querySelectorAll('.cat-li').forEach(li => {
+        li.classList.toggle('on', li.dataset.cat === cat);
+    });
+    renderNews();
+}
 
-function shareIt(u,t){const txt=t.trim()+'\\n\\n#MakedonWorldNews #GlobalIntelligence\\n\\n'+u;navigator.share?navigator.share({title:t.trim(),text:txt,url:u}):navigator.clipboard.writeText(txt).then(()=>alert('✅ Copied!'))}
+// ===== EVENT LISTENERS =====
+document.getElementById('navBar').addEventListener('click', e => {
+    const btn = e.target.closest('.nav-btn');
+    if (!btn) return;
+    filterRegion(btn.dataset.r);
+});
 
-function pickPay(el,m){chosenPay=m;document.querySelectorAll('#sidePayRow .pay-btn').forEach(b=>b.classList.remove('sel'));el.classList.add('sel');el.style.transform='scale(0.95)';setTimeout(()=>el.style.transform='scale(1)',150)}
-function pickModalPay(el,m){chosenModalPay=m;document.querySelectorAll('#modalPayRow .mpay-btn').forEach(b=>b.classList.remove('sel'));el.classList.add('sel')}
+document.getElementById('catList').addEventListener('click', e => {
+    const li = e.target.closest('.cat-li');
+    if (!li) return;
+    filterCategory(li.dataset.cat);
+});
 
-function openModal(){document.getElementById('modal').classList.add('on')}
-function closeModal(){document.getElementById('modal').classList.remove('on')}
-document.getElementById('modal').addEventListener('click',e=>{if(e.target.id==='modal')closeModal()});
+// ===== MODAL =====
+function openModal() { document.getElementById('modal').classList.add('on'); }
+function closeModal() { document.getElementById('modal').classList.remove('on'); }
+document.getElementById('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
 
-function subscribe(){const method=chosenModalPay||'paypal';const subject='Premium Subscription $19.99 - '+method.toUpperCase();const body=`Hello MAKEDON WORLD NEWS Team,
+function subscribe() {
+    const subject = 'Premium Subscription $19.99';
+    const body = 'Hello MAKEDON WORLD NEWS Team,\n\nI would like to subscribe to Premium Access.\n\nPlan: $19.99/month\nEmail: [Your Email]\nName: [Your Name]\n\nPlease send payment instructions.\n\nThank you!';
+    window.location.href = 'mailto:makedonworldnews@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+}
 
-I would like to subscribe to Premium Access.
-
-Payment Method: ${method.toUpperCase()}
-Plan: $19.99/month
-Email: [Your Email]
-Name: [Your Name]
-
-Please send payment instructions.
-
-Thank you!`;window.location.href='mailto:makedonworldnews@gmail.com?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(body);const btn=event.target;const orig=btn.textContent;btn.textContent='✅ Opening Email...';btn.style.background='#4ade80';setTimeout(()=>{btn.textContent=orig;btn.style.background='var(--gd)'},2000)}
-
-function switchSector(s){sector=s;document.querySelectorAll('.nav-btn').forEach(b=>{if(b.dataset.s===s)b.classList.add('on');else b.classList.remove('on')});const NAMES={latest:'Најнови Вести',live:'Вести во Живо',macedonia:'Macedonia',balkan:'Balkan',europe:'Europe',asia:'Asia',india:'India',africa:'Africa',america:'America',australia:'Australia',antarctica:'Antarctica',pacific:'Pacific Ocean',atlantic:'Atlantic Ocean',indian:'Indian Ocean',arctic:'Arctic Ocean'};const ICONS={latest:'🔥',live:'📡',macedonia:'🇲🇰',balkan:'🏔️',europe:'🇪🇺',asia:'🌏',india:'🇮🇳',africa:'🌍',america:'🌎',australia:'🦘',antarctica:'🐧',pacific:'🌊',atlantic:'🌊',indian:'🌊',arctic:'🌊'};document.getElementById('secLbl').textContent=NAMES[s]||s;document.getElementById('secIco').textContent=ICONS[s]||'🌍';window.scrollTo({top:0,behavior:'smooth'});secs=300;fetchFeeds()}
-
-function switchCategory(c){cat=c;document.querySelectorAll('.cat-li').forEach(li=>{if(li.dataset.cat===c)li.classList.add('on');else li.classList.remove('on')});document.getElementById('grid').scrollIntoView({behavior:'smooth'});fetchFeeds()}
-
-document.getElementById('navBar').addEventListener('click',e=>{const btn=e.target.closest('.nav-btn');if(!btn)return;switchSector(btn.dataset.s)});
-
-document.getElementById('catList').addEventListener('click',e=>{const li=e.target.closest('.cat-li');if(!li)return;document.querySelectorAll('.cat-li').forEach(i=>i.classList.remove('on'));li.classList.add('on');cat=li.dataset.cat;fetchFeeds()});
-
-function grabCurrentTexts(){document.querySelectorAll('.nc-ttl,.nc-exc,.nc-bdg,.nc-src,.trd-t,#alertBar,.tick-i,.cat-li>span:first-child,.sc-t').forEach(el=>{if(!origMap.has(el))origMap.set(el,el.textContent)});for(const[el]of origMap){if(!document.contains(el))origMap.delete(el)}}
-
-async function myTr(text,tl){try{const r=await fetch('https://api.mymemory.translated.net/get?q='+encodeURIComponent(text.substring(0,500))+'&langpair=en|'+tl);const j=await r.json();return j.responseStatus===200?j.responseData.translatedText:text}catch(e){return text}}
-
-async function applyTranslation(lang){if(lang==='mk')return restoreOriginals();grabCurrentTexts();const entries=[...origMap.entries()];for(let i=0;i<entries.length;i+=5){const batch=entries.slice(i,i+5);const res=await Promise.all(batch.map(([el,orig])=>myTr(orig,lang)));batch.forEach(([el],idx)=>{el.textContent=res[idx]})}}
-
-function restoreOriginals(){grabCurrentTexts();for(const[el,orig]of origMap)el.textContent=orig}
-
-async function doTranslate(){const lang=document.getElementById('trSel').value;if(!lang)return;currentLang=lang;const st=document.getElementById('trStatus');st.textContent='⟳';st.classList.add('vis');if(lang==='mk'){restoreOriginals();st.textContent='✓ MK';setTimeout(()=>st.classList.remove('vis'),1200);return}grabCurrentTexts();await applyTranslation(lang);st.textContent='✓';st.classList.add('vis');setTimeout(()=>st.classList.remove('vis'),2000)}
-
-document.getElementById('trSel').addEventListener('change',doTranslate);
-
-window.addEventListener('load',()=>{fetchFeeds();console.log('%c MAKEDON WORLD NEWS %c Extraplanetary Intelligence','background:#0a0e27;color:#d4af37;font-size:14px;padding:6px 14px;border-radius:4px','background:#c41e3a;color:#fff;font-size:14px;padding:6px 14px;border-radius:4px;margin-left:4px')});
+// ===== INIT =====
+window.addEventListener('load', () => {
+    loadNews();
+    console.log('%c MAKEDON WORLD NEWS %c Live Feed Active', 'background:#0a0e27;color:#d4af37;font-size:14px;padding:6px 14px;border-radius:4px', 'background:#c41e3a;color:#fff;font-size:14px;padding:6px 14px;border-radius:4px');
+});
 </script>
 
 </body>
