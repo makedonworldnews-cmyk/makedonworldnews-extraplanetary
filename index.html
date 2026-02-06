@@ -6,115 +6,115 @@
     <title>MAKEDON WORLD NEWS | Shield Protocol</title>
     <style>
         :root { --gold: #d4af37; --bg: #05070a; --panel: #0f1218; }
-        body { background: var(--bg); color: #e2e8f0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
-        header { border-bottom: 2px solid var(--gold); padding: 20px; text-align: center; background: var(--panel); }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px 0; }
-        .card { background: var(--panel); border: 1px solid #1e293b; padding: 15px; border-radius: 8px; transition: 0.3s; cursor: pointer; }
-        .card:hover { border-color: var(--gold); transform: translateY(-3px); }
-        .meta { color: var(--gold); font-size: 0.75rem; font-weight: bold; margin-bottom: 10px; display: block; }
-        h3 { font-size: 1.1rem; margin: 5px 0; line-height: 1.4; }
-        p { color: #94a3b8; font-size: 0.9rem; }
-        #status-bar { font-family: monospace; font-size: 0.8rem; color: #64748b; margin-top: 10px; }
-        .error-msg { color: #ef4444; font-size: 0.8rem; }
+        body { background: var(--bg); color: #e2e8f0; font-family: 'Inter', sans-serif; margin: 0; padding: 0; }
+        header { background: var(--panel); border-bottom: 2px solid var(--gold); padding: 20px; text-align: center; }
+        .status-bar { font-family: monospace; font-size: 0.8rem; color: var(--gold); margin-top: 10px; border-top: 1px solid #1e293b; padding-top: 10px; }
+        .container { padding: 20px; max-width: 1200px; margin: 0 auto; }
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .card { background: var(--panel); border: 1px solid #1e293b; padding: 20px; border-radius: 12px; cursor: pointer; transition: 0.3s; }
+        .card:hover { border-color: var(--gold); transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.5); }
+        .source-tag { color: var(--gold); font-size: 0.7rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
+        h3 { font-size: 1.1rem; margin: 10px 0; line-height: 1.4; color: white; }
+        p { color: #94a3b8; font-size: 0.9rem; line-height: 1.6; }
+        #loader { text-align: center; padding: 100px; color: var(--gold); font-family: monospace; font-size: 1.2rem; }
+        .pulse { animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
     </style>
 </head>
 <body>
 
 <header>
-    <h1 style="margin:0; letter-spacing:2px;">MAKEDON WORLD NEWS</h1>
-    <div id="status-bar">
-        STATUS: <span id="sys-stat" style="color:var(--gold)">INITIALIZING...</span> | 
-        FOUND: <span id="news-count">0</span>
+    <h1 style="margin:0; letter-spacing:4px; font-weight:900;">MAKEDON WORLD NEWS</h1>
+    <div class="status-bar">
+        TIME: <span id="clock">00:00:00</span> | 
+        SATELLITE: <span id="sys-status" style="color:#22c55e">SCANNING</span> | 
+        INTEL: <span id="count">0</span> ARTICLES
     </div>
 </header>
 
-<div id="news-grid" class="grid">
-    <div style="grid-column: 1/-1; text-align: center; padding: 50px;">
-        📡 ВРШИТЕ СКЕНИРАЊЕ НА ГЛОБАЛНИТЕ RSS ФРЕКВЕНЦИИ...
-    </div>
+<div class="container">
+    <div id="loader" class="pulse">📡 ИНИЦИЈАЛИЗАЦИЈА НА ГЛОБАЛЕН СКЕНЕР...</div>
+    <div id="news-grid" class="news-grid"></div>
 </div>
 
 <script>
-    // Користиме нов, посигурен прокси метод
+    // Твоите клучни извори
     const SOURCES = [
-        { name: "Sitel", url: "https://www.sitel.com.mk/feed" },
-        { name: "MIA", url: "https://www.mia.mk/rss" },
-        { name: "Telma", url: "https://telma.com.mk/feed" },
-        { name: "BBC News", url: "https://feeds.bbci.co.uk/news/world/rss.xml" }
+        { name: "Сител", url: "https://www.sitel.com.mk/feed" },
+        { name: "МИА", url: "https://www.mia.mk/rss" },
+        { name: "Телма", url: "https://telma.com.mk/feed" },
+        { name: "BBC News", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+        { name: "CNN", url: "https://feeds.cnn.com/rss/edition.rss" }
     ];
 
-    // Обид со неколку различни прокси сервери ако едниот не работи
-    const PROXIES = [
-        "https://api.allorigins.win/get?url=",
-        "https://corsproxy.io/?",
-        "https://thingproxy.freeboard.io/fetch/"
-    ];
+    // Користиме ПОСИГУРЕН прокси за GitHub Pages
+    const PROXY = "https://corsproxy.io/?";
 
-    async function fetchWithFallback(targetUrl) {
-        // Прво пробуваме со corsproxy.io (најстабилен за GitHub)
-        try {
-            const response = await fetch("https://corsproxy.io/?" + encodeURIComponent(targetUrl));
-            if (!response.ok) throw new Error();
-            return await response.text();
-        } catch (e) {
-            // Ако не работи, пробуваме со AllOrigins
-            const res = await fetch("https://api.allorigins.win/get?url=" + encodeURIComponent(targetUrl));
-            const json = await res.json();
-            return json.contents;
-        }
+    function updateClock() {
+        const el = document.getElementById('clock');
+        if(el) el.innerText = new Date().toLocaleTimeString('mk-MK');
     }
+    setInterval(updateClock, 1000);
 
-    async function startSystem() {
+    async function loadNews() {
         const grid = document.getElementById('news-grid');
-        const countEl = document.getElementById('news-count');
-        const statEl = document.getElementById('sys-stat');
-        let totalArticles = [];
+        const countEl = document.getElementById('count');
+        const loader = document.getElementById('loader');
+        let allArticles = [];
 
         for (let src of SOURCES) {
             try {
-                const xmlContent = await fetchWithFallback(src.url);
+                // Новиот прокси метод кој не блокира
+                const response = await fetch(PROXY + encodeURIComponent(src.url));
+                if (!response.ok) throw new Error('Network error');
+                
+                const text = await response.text();
                 const parser = new DOMParser();
-                const xml = parser.parseFromString(xmlContent, "text/xml");
+                const xml = parser.parseFromString(text, "text/xml");
                 const items = xml.querySelectorAll("item");
 
                 items.forEach((item, i) => {
-                    if (i < 5) {
-                        totalArticles.push({
+                    if (i < 6) { // Топ 6 вести од секој
+                        allArticles.push({
                             title: item.querySelector("title")?.textContent || "Breaking News",
                             link: item.querySelector("link")?.textContent || "#",
-                            desc: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 100),
+                            desc: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 150),
                             source: src.name
                         });
                     }
                 });
-                
-                // Ажурирај веднаш за корисникот да гледа напредок
-                countEl.innerText = totalArticles.length;
-                render(totalArticles);
-                
+
+                // Веднаш ажурирај го бројчаникот
+                if(countEl) countEl.innerText = allArticles.length;
+                render(allArticles);
+
             } catch (err) {
-                console.log("Failed source: " + src.name);
+                console.warn("Lost signal from: " + src.name);
             }
         }
 
-        statEl.innerText = "SATELLITE LINK STABLE";
-        statEl.style.color = "#22c55e";
+        if(loader) loader.style.display = 'none';
+        const sysStat = document.getElementById('sys-status');
+        if(sysStat) sysStat.innerText = "ONLINE";
     }
 
     function render(data) {
         const grid = document.getElementById('news-grid');
-        if (data.length === 0) return;
+        if(!grid) return;
         
         grid.innerHTML = data.map(a => `
             <div class="card" onclick="window.open('${a.link}', '_blank')">
-                <span class="meta">${a.source}</span>
+                <span class="source-tag">📡 ${a.source}</span>
                 <h3>${a.title}</h3>
                 <p>${a.desc}...</p>
             </div>
         `).join('');
     }
 
-    window.onload = startSystem;
+    // Стартувај безбедно
+    window.onload = () => {
+        loadNews().catch(console.error);
+    };
 </script>
 
 </body>
