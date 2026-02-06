@@ -3,94 +3,118 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS | Satellite Feed</title>
+    <title>MAKEDON WORLD NEWS | Shield Protocol</title>
     <style>
-        :root { --gold: #d4af37; --bg: #05070a; --card: #0f1218; }
-        body { background: var(--bg); color: white; font-family: sans-serif; margin: 0; padding: 20px; }
-        header { border-bottom: 2px solid var(--gold); padding: 20px; text-align: center; margin-bottom: 30px; }
-        .status { color: var(--gold); font-family: monospace; font-size: 0.8em; margin-top: 10px; }
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-        .card { background: var(--card); border: 1px solid #1e293b; padding: 20px; border-radius: 10px; cursor: pointer; transition: 0.3s; }
-        .card:hover { border-color: var(--gold); transform: translateY(-5px); }
-        .src-tag { color: var(--gold); font-weight: bold; font-size: 0.7em; text-transform: uppercase; }
-        h3 { font-size: 1.1em; margin: 10px 0; color: #e2e8f0; }
-        p { color: #94a3b8; font-size: 0.9em; line-height: 1.5; }
-        #loader { text-align: center; padding: 50px; color: var(--gold); font-family: monospace; }
+        :root { --gold: #d4af37; --bg: #05070a; --panel: #0f1218; }
+        body { background: var(--bg); color: #e2e8f0; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
+        header { border-bottom: 2px solid var(--gold); padding: 20px; text-align: center; background: var(--panel); }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px 0; }
+        .card { background: var(--panel); border: 1px solid #1e293b; padding: 15px; border-radius: 8px; transition: 0.3s; cursor: pointer; }
+        .card:hover { border-color: var(--gold); transform: translateY(-3px); }
+        .meta { color: var(--gold); font-size: 0.75rem; font-weight: bold; margin-bottom: 10px; display: block; }
+        h3 { font-size: 1.1rem; margin: 5px 0; line-height: 1.4; }
+        p { color: #94a3b8; font-size: 0.9rem; }
+        #status-bar { font-family: monospace; font-size: 0.8rem; color: #64748b; margin-top: 10px; }
+        .error-msg { color: #ef4444; font-size: 0.8rem; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1 style="margin:0; letter-spacing:3px;">MAKEDON WORLD NEWS</h1>
-    <div class="status">
-        <span id="clock">00:00:00</span> | 📡 SATELLITE: <span id="stat">CONNECTING...</span> | 🌐 SOURCES: <span id="count">0</span>
+    <h1 style="margin:0; letter-spacing:2px;">MAKEDON WORLD NEWS</h1>
+    <div id="status-bar">
+        STATUS: <span id="sys-stat" style="color:var(--gold)">INITIALIZING...</span> | 
+        FOUND: <span id="news-count">0</span>
     </div>
 </header>
 
-<div id="loader">СЦЕНИРАЊЕ НА ГЛОБАЛНИ ФРЕКВЕНЦИИ...</div>
-<div id="newsGrid" class="news-grid"></div>
+<div id="news-grid" class="grid">
+    <div style="grid-column: 1/-1; text-align: center; padding: 50px;">
+        📡 ВРШИТЕ СКЕНИРАЊЕ НА ГЛОБАЛНИТЕ RSS ФРЕКВЕНЦИИ...
+    </div>
+</div>
 
 <script>
-    // Твоите 100% сигурни RSS извори
+    // Користиме нов, посигурен прокси метод
     const SOURCES = [
         { name: "Sitel", url: "https://www.sitel.com.mk/feed" },
         { name: "MIA", url: "https://www.mia.mk/rss" },
         { name: "Telma", url: "https://telma.com.mk/feed" },
-        { name: "BBC News", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-        { name: "CNN World", url: "https://feeds.cnn.com/rss/edition.rss" }
+        { name: "BBC News", url: "https://feeds.bbci.co.uk/news/world/rss.xml" }
     ];
 
-    const PROXY = "https://api.allorigins.win/get?url=";
+    // Обид со неколку различни прокси сервери ако едниот не работи
+    const PROXIES = [
+        "https://api.allorigins.win/get?url=",
+        "https://corsproxy.io/?",
+        "https://thingproxy.freeboard.io/fetch/"
+    ];
 
-    // 1. Саат
-    setInterval(() => {
-        document.getElementById('clock').innerText = new Date().toLocaleTimeString('mk-MK');
-    }, 1000);
+    async function fetchWithFallback(targetUrl) {
+        // Прво пробуваме со corsproxy.io (најстабилен за GitHub)
+        try {
+            const response = await fetch("https://corsproxy.io/?" + encodeURIComponent(targetUrl));
+            if (!response.ok) throw new Error();
+            return await response.text();
+        } catch (e) {
+            // Ако не работи, пробуваме со AllOrigins
+            const res = await fetch("https://api.allorigins.win/get?url=" + encodeURIComponent(targetUrl));
+            const json = await res.json();
+            return json.contents;
+        }
+    }
 
-    // 2. Главна функција за вчитување
-    async function syncSystem() {
-        const grid = document.getElementById('newsGrid');
-        const stat = document.getElementById('stat');
-        let allData = [];
+    async function startSystem() {
+        const grid = document.getElementById('news-grid');
+        const countEl = document.getElementById('news-count');
+        const statEl = document.getElementById('sys-stat');
+        let totalArticles = [];
 
         for (let src of SOURCES) {
             try {
-                const res = await fetch(PROXY + encodeURIComponent(src.url));
-                const json = await res.json();
+                const xmlContent = await fetchWithFallback(src.url);
                 const parser = new DOMParser();
-                const xml = parser.parseFromString(json.contents, "text/xml");
+                const xml = parser.parseFromString(xmlContent, "text/xml");
                 const items = xml.querySelectorAll("item");
 
                 items.forEach((item, i) => {
-                    if (i < 4) { // Земи топ 4 од секој
-                        allData.push({
+                    if (i < 5) {
+                        totalArticles.push({
                             title: item.querySelector("title")?.textContent || "Breaking News",
                             link: item.querySelector("link")?.textContent || "#",
-                            desc: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 120),
+                            desc: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 100),
                             source: src.name
                         });
                     }
                 });
-            } catch (e) { console.warn("Lost signal: " + src.name); }
+                
+                // Ажурирај веднаш за корисникот да гледа напредок
+                countEl.innerText = totalArticles.length;
+                render(totalArticles);
+                
+            } catch (err) {
+                console.log("Failed source: " + src.name);
+            }
         }
 
-        // Рендирање на екранот
-        document.getElementById('loader').style.display = 'none';
-        document.getElementById('count').innerText = allData.length;
-        stat.innerText = "ACTIVE";
-        stat.style.color = "#22c55e";
+        statEl.innerText = "SATELLITE LINK STABLE";
+        statEl.style.color = "#22c55e";
+    }
 
-        grid.innerHTML = allData.map(a => `
+    function render(data) {
+        const grid = document.getElementById('news-grid');
+        if (data.length === 0) return;
+        
+        grid.innerHTML = data.map(a => `
             <div class="card" onclick="window.open('${a.link}', '_blank')">
-                <span class="src-tag">${a.source}</span>
+                <span class="meta">${a.source}</span>
                 <h3>${a.title}</h3>
                 <p>${a.desc}...</p>
             </div>
         `).join('');
     }
 
-    // Стартувај кога ќе се вчита страната
-    window.onload = syncSystem;
+    window.onload = startSystem;
 </script>
 
 </body>
