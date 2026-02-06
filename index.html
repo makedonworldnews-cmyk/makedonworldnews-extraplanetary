@@ -3,150 +3,212 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAKEDON WORLD NEWS - Сателитски Систем</title>
+    <title>MAKEDON WORLD NEWS | Intelligence Network</title>
     <style>
         :root {
             --bg: #05070a;
-            --card: #0f1218;
-            --gold: #d4af37;
+            --panel: #0f1218;
+            --accent: #d4af37;
             --text: #e2e8f0;
-            --gray: #94a3b8;
+            --dim: #64748b;
+            --neon: #00f2fe;
         }
-        body { 
-            background: var(--bg); 
-            color: var(--text); 
-            font-family: 'Inter', sans-serif; 
-            margin: 0; 
-            padding: 20px;
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            overflow-x: hidden;
         }
+
+        /* МАП И ДИЗАЈН НА ПОЗАДИНА */
+        .grid-bg {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: radial-gradient(circle at 2px 2px, rgba(212, 175, 55, 0.05) 1px, transparent 0);
+            background-size: 40px 40px;
+            z-index: -1;
+        }
+
+        /* HEADER / COMMAND BAR */
         header {
-            text-align: center;
-            border-bottom: 2px solid var(--gold);
-            padding-bottom: 20px;
-            margin-bottom: 30px;
-        }
-        .status-bar {
+            background: rgba(15, 18, 24, 0.95);
+            border-bottom: 1px solid var(--accent);
+            padding: 15px 5%;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(10px);
             display: flex;
-            justify-content: space-around;
-            background: rgba(212, 175, 55, 0.1);
-            padding: 10px;
-            border-radius: 5px;
-            font-family: monospace;
-            font-size: 0.9em;
-            color: var(--gold);
+            justify-content: space-between;
+            align-items: center;
         }
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        .news-card {
-            background: var(--card);
-            border: 1px solid #1e293b;
-            border-radius: 12px;
-            padding: 20px;
-            transition: 0.3s;
-            cursor: pointer;
-            position: relative;
-        }
-        .news-card:hover {
-            border-color: var(--gold);
-            transform: translateY(-5px);
-        }
-        .badge {
-            background: var(--gold);
-            color: black;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 0.7em;
-            font-weight: bold;
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            letter-spacing: 2px;
+            color: var(--accent);
             text-transform: uppercase;
         }
-        .source { color: var(--gold); font-size: 0.8em; margin-top: 10px; display: block; }
-        h3 { font-size: 1.1em; margin: 10px 0; line-height: 1.4; }
-        p { color: var(--gray); font-size: 0.9em; line-height: 1.5; }
-        .loading { text-align: center; padding: 100px; font-size: 1.5em; color: var(--gold); }
+
+        .sys-status {
+            font-family: monospace;
+            font-size: 0.8rem;
+            color: var(--accent);
+        }
+
+        /* MAIN CONTENT */
+        main { padding: 30px 5%; }
+
+        .dashboard-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-box {
+            background: var(--panel);
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 3px solid var(--accent);
+        }
+
+        .stat-label { font-size: 0.7rem; color: var(--dim); text-transform: uppercase; }
+        .stat-value { font-size: 1.2rem; font-weight: bold; display: block; margin-top: 5px; }
+
+        /* ВЕСТИ КАРТИЧКИ */
+        .news-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+        }
+
+        .news-card {
+            background: var(--panel);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid #1e293b;
+            cursor: pointer;
+        }
+
+        .news-card:hover {
+            transform: translateY(-8px);
+            border-color: var(--accent);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        .news-content { padding: 20px; }
+        .news-source { color: var(--accent); font-size: 0.75rem; font-weight: bold; text-transform: uppercase; }
+        .news-title { font-size: 1.1rem; margin: 10px 0; line-height: 1.4; height: 3em; overflow: hidden; }
+        .news-excerpt { color: var(--dim); font-size: 0.9rem; line-height: 1.5; }
+
+        /* LOADER */
+        #loader {
+            position: fixed;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            font-family: monospace;
+        }
+
+        .pulse { animation: pulse 2s infinite; color: var(--accent); }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
     </style>
 </head>
 <body>
 
+    <div class="grid-bg"></div>
+
     <header>
-        <h1>🎖️ MAKEDON WORLD NEWS</h1>
-        <div class="status-bar">
-            <span id="clock">00:00:00</span>
-            <span>📡 СИСТЕМ: ОНЛАЈН</span>
-            <span>🌍 ИЗВОРИ: <span id="count">0</span></span>
+        <div class="logo">📡 MAKEDON NEWS</div>
+        <div class="sys-status">
+            <span id="clock">00:00:00</span> | 
+            SATELLITE LINK: <span style="color:#22c55e">ACTIVE</span>
         </div>
     </header>
 
-    <div id="loader" class="loading">📡 Иницијализација на сателитска врска...</div>
-    <div id="newsGrid" class="news-grid"></div>
+    <main>
+        <div class="dashboard-meta">
+            <div class="stat-box">
+                <span class="stat-label">Вкупно објави</span>
+                <span class="stat-value" id="total-count">0</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-label">Активни јазици</span>
+                <span class="stat-value">149</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-label">Протокол</span>
+                <span class="stat-value">E.P.I.N.</span>
+            </div>
+        </div>
+
+        <div id="loader" class="pulse">ИНИЦИЈАЛИЗАЦИЈА НА САТЕЛИТСКА ВРСКА...</div>
+        <div id="news-grid" class="news-container"></div>
+    </main>
 
     <script>
-        // ТВОЈОТ СПИСОК НА ИЗВОРИ
         const SOURCES = [
             { name: "Сител", url: "https://www.sitel.com.mk/feed" },
             { name: "МИА", url: "https://www.mia.mk/rss" },
             { name: "Телма", url: "https://telma.com.mk/feed" },
             { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
-            { name: "CNN", url: "https://feeds.cnn.com/rss/edition.rss" },
-            { name: "OpenAI", url: "https://openai.com/news/rss.xml" }
+            { name: "CNN", url: "https://feeds.cnn.com/rss/edition.rss" }
         ];
 
         const PROXY = "https://api.allorigins.win/get?url=";
 
-        // Саат во реално време
-        setInterval(() => {
+        function updateClock() {
             document.getElementById('clock').innerText = new Date().toLocaleTimeString('mk-MK');
-        }, 1000);
+        }
+        setInterval(updateClock, 1000);
 
-        async function startEngine() {
-            const grid = document.getElementById('newsGrid');
+        async function fetchFeeds() {
+            const grid = document.getElementById('news-grid');
             const loader = document.getElementById('loader');
-            let allArticles = [];
+            let masterData = [];
 
             for (let src of SOURCES) {
                 try {
-                    const response = await fetch(PROXY + encodeURIComponent(src.url));
-                    const data = await response.json();
-                    
+                    const res = await fetch(PROXY + encodeURIComponent(src.url));
+                    const json = await res.json();
                     const parser = new DOMParser();
-                    const xml = parser.parseFromString(data.contents, "text/xml");
+                    const xml = parser.parseFromString(json.contents, "text/xml");
                     const items = xml.querySelectorAll("item");
 
-                    items.forEach((item, index) => {
-                        if (index < 4) { // Земи топ 4 од секој
-                            allArticles.push({
-                                title: item.querySelector("title")?.textContent || "Без наслов",
-                                link: item.querySelector("link")?.textContent || "#",
+                    items.forEach((item, i) => {
+                        if (i < 5) {
+                            masterData.push({
+                                title: item.querySelector("title")?.textContent,
+                                link: item.querySelector("link")?.textContent,
                                 desc: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 120),
-                                source: src.name,
-                                date: item.querySelector("pubDate")?.textContent || "Денес"
+                                source: src.name
                             });
                         }
                     });
-                } catch (err) {
-                    console.log("Грешка со: " + src.name);
-                }
+                } catch (e) { console.warn('Signal lost for: ' + src.name); }
             }
 
-            // Тргни го лоадерот
             loader.style.display = 'none';
-            document.getElementById('count').innerText = allArticles.length;
+            document.getElementById('total-count').innerText = masterData.length;
 
-            // Цртај ги вестите
-            grid.innerHTML = allArticles.map(a => `
+            grid.innerHTML = masterData.map(a => `
                 <div class="news-card" onclick="window.open('${a.link}', '_blank')">
-                    <span class="badge">ВЕСТ</span>
-                    <h3>${a.title}</h3>
-                    <p>${a.desc}...</p>
-                    <span class="source">📡 ИЗВОР: ${a.source}</span>
+                    <div class="news-content">
+                        <span class="news-source">${a.source}</span>
+                        <h3 class="news-title">${a.title}</h3>
+                        <p class="news-excerpt">${a.desc}...</p>
+                    </div>
                 </div>
             `).join('');
         }
 
-        // КРЕНИ!
-        window.onload = startEngine;
+        window.onload = fetchFeeds;
     </script>
 </body>
 </html>
