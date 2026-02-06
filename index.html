@@ -1,84 +1,75 @@
 <script>
-// Твојот златен список на извори (скратен за пример, додај ги сите твои)
+// Твоите извори
 const RSS_SOURCES = [
-    { "name": "Sitel", "url": "https://www.sitel.com.mk/feed", "region": "🇲🇰 Македонија" },
-    { "name": "Telma", "url": "https://telma.com.mk/feed", "region": "🇲🇰 Македонија" },
-    { "name": "MIA", "url": "https://www.mia.mk/rss", "region": "🇲🇰 Македонија" },
-    { "name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "region": "🌍 World" },
-    { "name": "CNN", "url": "https://feeds.cnn.com/rss/edition.rss", "region": "🌍 World" },
-    { "name": "OpenAI", "url": "https://openai.com/news/rss.xml", "region": "🤖 AI" }
-    // СЛОБОДНО ДОДАЈ ГИ СИТЕ ОСТАНАТИ ОД ТВОЈОТ ЛИСТ ТУКА
+    { name: "Sitel", url: "https://www.sitel.com.mk/feed", region: "🏔️ Балкан" },
+    { name: "MIA", url: "https://www.mia.mk/rss", region: "🏔️ Балкан" },
+    { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml", region: "🌍 World" }
 ];
 
 const GRADIENTS = ['var(--g1)', 'var(--g2)', 'var(--g3)', 'var(--g4)', 'var(--g5)'];
 let allArticles = [];
 let currentRegion = 'all';
 
-// Саат во реално време
+// Безбеден саат (проверува дали постои 'clock' пред да пише)
 setInterval(() => {
-    document.getElementById('clock').textContent = new Date().toLocaleTimeString('mk-MK');
+    const clockEl = document.getElementById('clock');
+    if (clockEl) clockEl.textContent = new Date().toLocaleTimeString('mk-MK');
 }, 1000);
 
-// ГЛАВНА ФУНКЦИЈА ЗА ВЛЕЧЕЊЕ ВЕСТИ
 async function loadNews() {
-    const proxy = "https://api.allorigins.win/get?url=";
     const newsGrid = document.getElementById('newsGrid');
-    
-    // Покажи дека работиме
-    newsGrid.innerHTML = '<div class="empty"><div class="empty-ico">📡</div><h3>Се воспоставува сателитска врска...</h3></div>';
-    
-    allArticles = []; // Чистиме стари вести
+    if (!newsGrid) return; // Ако нема каде да ги црта вестите, не прави ништо
 
-    // Земи ги првите 15 извори (за да не кочи)
-    const activeSources = RSS_SOURCES.slice(0, 15); 
+    const proxy = "https://api.allorigins.win/get?url=";
+    newsGrid.innerHTML = '<div class="empty"><h3>📡 Поврзување со сателит...</h3></div>';
+    
+    allArticles = [];
 
-    for (let source of activeSources) {
+    for (let src of RSS_SOURCES) {
         try {
-            const targetUrl = encodeURIComponent(source.url);
-            const res = await fetch(`${proxy}${targetUrl}`);
+            const res = await fetch(proxy + encodeURIComponent(src.url));
             const data = await res.json();
-            
             const parser = new DOMParser();
             const xml = parser.parseFromString(data.contents, "text/xml");
             const items = xml.querySelectorAll("item");
 
-            items.forEach((item, index) => {
-                if (index > 2) return; // Земи само топ 3 вести од секој сајт
-                
-                allArticles.push({
-                    title: item.querySelector("title")?.textContent || "Без наслов",
-                    link: item.querySelector("link")?.textContent || "#",
-                    summary: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 120) + "...",
-                    source_name: source.name,
-                    region: source.region,
-                    published: item.querySelector("pubDate")?.textContent || new Date().toISOString(),
-                    category: source.category || "News"
-                });
+            items.forEach((item, i) => {
+                if (i < 5) {
+                    allArticles.push({
+                        title: item.querySelector("title")?.textContent || "Без наслов",
+                        link: item.querySelector("link")?.textContent || "#",
+                        summary: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 120),
+                        source_name: src.name,
+                        region: src.region,
+                        published: item.querySelector("pubDate")?.textContent,
+                        category: "ВЕСТИ"
+                    });
+                }
             });
-
-            // Освежи го бројчаникот
-            document.getElementById('articleCount').textContent = allArticles.length;
-            renderNews(); // Цртај ги вестите веднаш штом ќе стигнат
-            
         } catch (e) {
-            console.error("Грешка со изворот: " + source.name);
+            console.log("Грешка со: " + src.name);
         }
     }
+
+    // БЕЗБЕДНО ажурирање на бројчаниците (ако ги нема, нема да закочи кодот)
+    const countEl = document.getElementById('articleCount');
+    if (countEl) countEl.textContent = allArticles.length;
     
-    document.getElementById('lastUpdate').textContent = '⏱️ Последно: ' + new Date().toLocaleTimeString('mk-MK');
+    const nAllEl = document.getElementById('nAll');
+    if (nAllEl) nAllEl.textContent = allArticles.length;
+
+    renderNews();
     renderTicker();
-    renderTrending();
 }
 
 function renderNews() {
     const newsGrid = document.getElementById('newsGrid');
-    let filtered = allArticles;
-    
-    if (currentRegion !== 'all') {
-        filtered = allArticles.filter(a => a.region.includes(currentRegion.replace('🏔️ ', '').replace('🌍 ', '')));
-    }
+    if (!newsGrid) return;
 
-    if (filtered.length === 0) return;
+    let filtered = allArticles;
+    if (currentRegion !== 'all') {
+        filtered = allArticles.filter(a => a.region.includes(currentRegion));
+    }
 
     newsGrid.innerHTML = filtered.map((a, i) => `
         <div class="nc" onclick="window.open('${a.link}', '_blank')">
@@ -88,9 +79,9 @@ function renderNews() {
                 <div class="nc-src-badge">${a.source_name}</div>
             </div>
             <div class="nc-body">
-                <div class="nc-meta">📅 ${new Date(a.published).toLocaleDateString('mk-MK')} • ${a.region}</div>
+                <div class="nc-meta">📅 ${new Date(a.published).toLocaleDateString('mk-MK')}</div>
                 <h3 class="nc-ttl">${a.title}</h3>
-                <p class="nc-exc">${a.summary}</p>
+                <p class="nc-exc">${a.summary}...</p>
                 <div class="nc-ft">
                     <span class="nc-src">📡 ${a.source_name}</span>
                     <button class="nc-link">Прочитај →</button>
@@ -102,31 +93,30 @@ function renderNews() {
 
 function renderTicker() {
     const ticker = document.getElementById('ticker');
-    const items = allArticles.slice(0, 10).map(a => `<span class="tick-i">📰 ${a.title}</span>`).join('');
-    ticker.innerHTML = items + items;
+    if (ticker) {
+        const items = allArticles.slice(0, 8).map(a => `<span class="tick-i">⚡ ${a.title}</span>`).join('');
+        ticker.innerHTML = items + items;
+    }
 }
 
-function renderTrending() {
-    const trend = document.getElementById('trending');
-    trend.innerHTML = allArticles.slice(0, 5).map((a, i) => `
-        <div class="trd" onclick="window.open('${a.link}', '_blank')">
-            <div class="trd-n">${(i + 1).toString().padStart(2, '0')}</div>
-            <div class="trd-t">${a.title}</div>
-        </div>
-    `).join('');
-}
+// БЕЗБЕДНИ ЛИСТЕНЕРИ (addEventListener)
+window.addEventListener('load', () => {
+    const navBar = document.getElementById('navBar');
+    if (navBar) {
+        navBar.addEventListener('click', e => {
+            const btn = e.target.closest('.nav-btn');
+            if (!btn) return;
+            currentRegion = btn.dataset.r;
+            document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('on', b === btn));
+            renderNews();
+        });
+    }
 
-// Филтрирање по регион
-document.getElementById('navBar').addEventListener('click', e => {
-    const btn = e.target.closest('.nav-btn');
-    if (!btn) return;
-    currentRegion = btn.dataset.r;
-    document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('on', b === btn));
-    renderNews();
+    const catList = document.getElementById('catList');
+    if (catList) {
+        catList.addEventListener('click', () => { /* твојата логика */ });
+    }
+
+    loadNews();
 });
-
-// СТАРТУВАЈ!
-loadNews();
-// Автоматско освежување на секои 10 минути (не на 4 секунди!)
-setInterval(loadNews, 600000); 
 </script>
