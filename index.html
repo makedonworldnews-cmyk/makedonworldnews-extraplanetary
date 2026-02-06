@@ -1,122 +1,152 @@
-<script>
-// 1. Твоите извори (Провери дали линковите се точни)
-const RSS_SOURCES = [
-    { name: "Sitel", url: "https://www.sitel.com.mk/feed", region: "🏔️ Балкан" },
-    { name: "MIA", url: "https://www.mia.mk/rss", region: "🏔️ Балкан" },
-    { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml", region: "🌍 World" }
-];
-
-const GRADIENTS = ['var(--g1)', 'var(--g2)', 'var(--g3)', 'var(--g4)', 'var(--g5)'];
-let allArticles = [];
-let currentRegion = 'all';
-
-// 2. БЕЗБЕДЕН СААТ (Не кочи ако нема елемент 'clock')
-setInterval(() => {
-    const clockEl = document.getElementById('clock');
-    if (clockEl) clockEl.textContent = new Date().toLocaleTimeString('mk-MK');
-}, 1000);
-
-async function loadNews() {
-    const newsGrid = document.getElementById('newsGrid');
-    if (!newsGrid) return; // Ако нема каде да црта, прекини тука без грешка
-
-    const proxy = "https://api.allorigins.win/get?url=";
-    newsGrid.innerHTML = '<div class="empty"><h3>📡 Скенирам фреквенции...</h3></div>';
-    
-    allArticles = [];
-
-    for (let src of RSS_SOURCES) {
-        try {
-            const res = await fetch(proxy + encodeURIComponent(src.url));
-            const data = await res.json();
-            const parser = new DOMParser();
-            const xml = parser.parseFromString(data.contents, "text/xml");
-            const items = xml.querySelectorAll("item");
-
-            items.forEach((item, i) => {
-                if (i < 5) { // Топ 5 од секој извор
-                    allArticles.push({
-                        title: item.querySelector("title")?.textContent || "Вест",
-                        link: item.querySelector("link")?.textContent || "#",
-                        summary: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 120),
-                        source_name: src.name,
-                        region: src.region,
-                        published: item.querySelector("pubDate")?.textContent,
-                        category: "ИНФО"
-                    });
-                }
-            });
-        } catch (e) {
-            console.log("Проблем со изворот: " + src.name);
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAKEDON WORLD NEWS - Сателитски Систем</title>
+    <style>
+        :root {
+            --bg: #05070a;
+            --card: #0f1218;
+            --gold: #d4af37;
+            --text: #e2e8f0;
+            --gray: #94a3b8;
         }
-    }
+        body { 
+            background: var(--bg); 
+            color: var(--text); 
+            font-family: 'Inter', sans-serif; 
+            margin: 0; 
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid var(--gold);
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .status-bar {
+            display: flex;
+            justify-content: space-around;
+            background: rgba(212, 175, 55, 0.1);
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            font-size: 0.9em;
+            color: var(--gold);
+        }
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .news-card {
+            background: var(--card);
+            border: 1px solid #1e293b;
+            border-radius: 12px;
+            padding: 20px;
+            transition: 0.3s;
+            cursor: pointer;
+            position: relative;
+        }
+        .news-card:hover {
+            border-color: var(--gold);
+            transform: translateY(-5px);
+        }
+        .badge {
+            background: var(--gold);
+            color: black;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7em;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .source { color: var(--gold); font-size: 0.8em; margin-top: 10px; display: block; }
+        h3 { font-size: 1.1em; margin: 10px 0; line-height: 1.4; }
+        p { color: var(--gray); font-size: 0.9em; line-height: 1.5; }
+        .loading { text-align: center; padding: 100px; font-size: 1.5em; color: var(--gold); }
+    </style>
+</head>
+<body>
 
-    // БЕЗБЕДНО АЖУРИРАЊЕ НА БРОЈКИ
-    const updateEl = (id, val) => {
-        const el = document.getElementById(id);
-        if (el) el.textContent = val;
-    };
-
-    updateEl('articleCount', allArticles.length);
-    updateEl('nAll', allArticles.length);
-    updateEl('countAll', allArticles.length);
-
-    renderNews();
-    renderTicker();
-}
-
-function renderNews() {
-    const newsGrid = document.getElementById('newsGrid');
-    if (!newsGrid) return;
-
-    let filtered = allArticles;
-    if (currentRegion !== 'all') {
-        filtered = allArticles.filter(a => a.region.includes(currentRegion));
-    }
-
-    newsGrid.innerHTML = filtered.map((a, i) => `
-        <div class="nc" onclick="window.open('${a.link}', '_blank')">
-            <div class="nc-img" style="background:${GRADIENTS[i % 5]}">
-                <span class="emo">📰</span>
-                <div class="nc-bdg">${a.category}</div>
-                <div class="nc-src-badge">${a.source_name}</div>
-            </div>
-            <div class="nc-body">
-                <div class="nc-meta">📅 ${new Date(a.published).toLocaleDateString('mk-MK')}</div>
-                <h3 class="nc-ttl">${a.title}</h3>
-                <p class="nc-exc">${a.summary}...</p>
-                <div class="nc-ft">
-                    <span class="nc-src">📡 ${a.source_name}</span>
-                    <button class="nc-link">Прочитај →</button>
-                </div>
-            </div>
+    <header>
+        <h1>🎖️ MAKEDON WORLD NEWS</h1>
+        <div class="status-bar">
+            <span id="clock">00:00:00</span>
+            <span>📡 СИСТЕМ: ОНЛАЈН</span>
+            <span>🌍 ИЗВОРИ: <span id="count">0</span></span>
         </div>
-    `).join('');
-}
+    </header>
 
-function renderTicker() {
-    const ticker = document.getElementById('ticker');
-    if (ticker && allArticles.length > 0) {
-        const items = allArticles.slice(0, 8).map(a => `<span class="tick-i">⚡ ${a.title}</span>`).join('');
-        ticker.innerHTML = items + items;
-    }
-}
+    <div id="loader" class="loading">📡 Иницијализација на сателитска врска...</div>
+    <div id="newsGrid" class="news-grid"></div>
 
-// 3. ГЛАВНО СТАРТУВАЊЕ - ЧЕКА ЦЕЛ HTML ДА СЕ ВКЛУЧИ
-window.onload = () => {
-    // Безбедно додавање на клик за навигација
-    const navBar = document.getElementById('navBar');
-    if (navBar) {
-        navBar.addEventListener('click', e => {
-            const btn = e.target.closest('.nav-btn');
-            if (!btn) return;
-            currentRegion = btn.dataset.r;
-            document.querySelectorAll('.nav-btn').forEach(b => b.classList.toggle('on', b === btn));
-            renderNews();
-        });
-    }
+    <script>
+        // ТВОЈОТ СПИСОК НА ИЗВОРИ
+        const SOURCES = [
+            { name: "Сител", url: "https://www.sitel.com.mk/feed" },
+            { name: "МИА", url: "https://www.mia.mk/rss" },
+            { name: "Телма", url: "https://telma.com.mk/feed" },
+            { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+            { name: "CNN", url: "https://feeds.cnn.com/rss/edition.rss" },
+            { name: "OpenAI", url: "https://openai.com/news/rss.xml" }
+        ];
 
-    // Стартувај ги вестите
-    loadNews();
-};
-</script>
+        const PROXY = "https://api.allorigins.win/get?url=";
+
+        // Саат во реално време
+        setInterval(() => {
+            document.getElementById('clock').innerText = new Date().toLocaleTimeString('mk-MK');
+        }, 1000);
+
+        async function startEngine() {
+            const grid = document.getElementById('newsGrid');
+            const loader = document.getElementById('loader');
+            let allArticles = [];
+
+            for (let src of SOURCES) {
+                try {
+                    const response = await fetch(PROXY + encodeURIComponent(src.url));
+                    const data = await response.json();
+                    
+                    const parser = new DOMParser();
+                    const xml = parser.parseFromString(data.contents, "text/xml");
+                    const items = xml.querySelectorAll("item");
+
+                    items.forEach((item, index) => {
+                        if (index < 4) { // Земи топ 4 од секој
+                            allArticles.push({
+                                title: item.querySelector("title")?.textContent || "Без наслов",
+                                link: item.querySelector("link")?.textContent || "#",
+                                desc: item.querySelector("description")?.textContent?.replace(/<[^>]*>?/gm, '').substring(0, 120),
+                                source: src.name,
+                                date: item.querySelector("pubDate")?.textContent || "Денес"
+                            });
+                        }
+                    });
+                } catch (err) {
+                    console.log("Грешка со: " + src.name);
+                }
+            }
+
+            // Тргни го лоадерот
+            loader.style.display = 'none';
+            document.getElementById('count').innerText = allArticles.length;
+
+            // Цртај ги вестите
+            grid.innerHTML = allArticles.map(a => `
+                <div class="news-card" onclick="window.open('${a.link}', '_blank')">
+                    <span class="badge">ВЕСТ</span>
+                    <h3>${a.title}</h3>
+                    <p>${a.desc}...</p>
+                    <span class="source">📡 ИЗВОР: ${a.source}</span>
+                </div>
+            `).join('');
+        }
+
+        // КРЕНИ!
+        window.onload = startEngine;
+    </script>
+</body>
+</html>
