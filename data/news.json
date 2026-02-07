@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07 05:54:19",
+  "last_updated": "2026-02-07 08:10:24",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -109,18 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
-      "summary": "The order did not specify the rate that could be imposed, but used 25% as an example.",
-      "link": "https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Feb 2026 01:28:56 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -131,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
+      "summary": "The order did not specify the rate that could be imposed, but used 25% as an example.",
+      "link": "https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Feb 2026 01:28:56 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -153,18 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
-      "title": "Russian general shot several times in Moscow",
-      "summary": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff.",
-      "link": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Feb 2026 16:39:38 GMT",
+      "title": "He has the world's biggest stage. What will Bad Bunny do with it?",
+      "summary": "With Super Bowl half-time shows becoming increasingly polarised, how will the Puerto Rican superstar quiet his detractors?",
+      "link": "https://www.bbc.com/news/articles/cd0y18g8g7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Feb 2026 00:00:14 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     },
     {
-      "title": "Fisherman fleeing elephants killed by crocodile in Zambia",
-      "summary": "The fisherman ran into a stream near the river after he and two friends encountered a herd of elephants.",
-      "link": "https://www.bbc.com/news/articles/czx1xl98qkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Feb 2026 14:47:22 GMT",
+      "title": "Russian general shot several times in Moscow",
+      "summary": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff.",
+      "link": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Feb 2026 16:39:38 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-07 05:54:19",
+      "fetched_at": "2026-02-07 08:10:24",
       "language": "unknown"
     }
   ]
