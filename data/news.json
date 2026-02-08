@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09 00:01:03",
+  "last_updated": "2026-02-09 00:57:43",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -54,7 +54,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Голчиште на Собослај, а потоа победа на Сити во дербито",
+      "summary": "Манчестер Сити го доби Ливерпул на „Ефилд“ во 25.коло во Премиер лигата, со 2:1 и остана во трката за шампионската титула. Сè што беше важно се случи ...",
+      "link": "https://makfax.com.mk/sport/video-golchishte-na-soboslaj-a-potoa-pobeda-na-siti-vo-derbito/",
+      "published": "Sun, 08 Feb 2026 18:40:58 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -98,29 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Четири хороскопски знаци добиваат пари до 14 февруари, и тоа не ситни суми",
-      "summary": "Меркур влезе во знакот Риби, а тоа астролошко движење им носи позитивен пресврт на некои знаци кога станува збор за парите. Не само што ќе имаат повеќ...",
-      "link": "https://makfax.com.mk/zanimlivosti/%d1%87%d0%b5%d1%82%d0%b8%d1%80%d0%b8-%d1%85%d0%be%d1%80%d0%be%d1%81%d0%ba%d0%be%d0%bf%d1%81%d0%ba%d0%b8-%d0%b7%d0%bd%d0%b0%d1%86%d0%b8-%d0%b4%d0%be%d0%b1%d0%b8%d0%b2%d0%b0%d0%b0%d1%82-%d0%bf%d0%b0/",
-      "published": "Sun, 08 Feb 2026 18:00:22 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
       "title": "Japan's PM Takaichi on course to win snap election by landslide",
       "summary": "Her ruling coalition is set to clinch a decisive win, taking two-thirds of the seats in the House of Representatives.",
       "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Feb 2026 21:59:59 GMT",
+      "published": "Sun, 08 Feb 2026 23:43:59 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-09 00:01:03",
+      "fetched_at": "2026-02-09 00:57:43",
       "language": "unknown"
     }
   ]
