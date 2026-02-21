@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 19:00:08",
+  "last_updated": "2026-02-21 19:51:05",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:04",
       "language": "unknown"
     },
     {
@@ -120,18 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
       "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
       "summary": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned.",
       "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 00:32:16 GMT",
+      "published": "Sat, 21 Feb 2026 18:11:22 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Nasa astronauts' moon mission likely to be delayed due to rocket issue",
+      "summary": "The mission to the far side of the Moon and back will likely be postponed after problems with were spotted with its rocket, a Nasa official said.",
+      "link": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 17:58:25 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
@@ -164,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Giant tortoises return to Galápagos island after nearly 200 years",
+      "summary": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island.",
+      "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 18:32:37 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump says he is considering limited military strike on Iran",
-      "summary": "Trump's new threat came a day after he appeared to give Iran about 10 days to agree to a deal to curb its nuclear programme.",
-      "link": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 22:38:45 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Avalanches kill five in Austrian Alps, officials say",
-      "summary": "A man skiing with his son was among the victims on Friday, bringing the region's avalanche death toll this season to at least 21.",
-      "link": "https://www.bbc.com/news/articles/c5yqgz2q58lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 08:46:40 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-21 19:00:08",
+      "fetched_at": "2026-02-21 19:51:05",
       "language": "unknown"
     }
   ]
