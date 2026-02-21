@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 00:58:04",
+  "last_updated": "2026-02-21 03:42:28",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
@@ -109,18 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:03",
+      "fetched_at": "2026-02-21 03:42:27",
       "language": "unknown"
     },
     {
-      "title": "Tariffs ruling is major blow to Trump's second-term agenda",
-      "summary": "The Supreme Court has weakened Trump's hand in dealing with other nations, writes Anthony Zurcher.",
-      "link": "https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 19:01:57 GMT",
+      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+      "summary": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade.",
+      "link": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 01:43:05 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump lashes out at Supreme Court justices over tariffs ruling",
+      "summary": "The six justices who voted against the tariffs, dealing a major blow to his signature economic policy, should be \"absolutely ashamed\", Trump said.",
+      "link": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 02:19:29 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -131,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
+      "language": "unknown"
+    },
+    {
+      "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
+      "summary": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned.",
+      "link": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 00:32:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -153,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
-      "language": "unknown"
-    },
-    {
-      "title": "Asos co-founder dies after Thailand apartment block fall",
-      "summary": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
-      "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 14:35:49 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
-      "language": "unknown"
-    },
-    {
-      "title": "Mother and infant burnt to death in Indian state over witchcraft allegations",
-      "summary": "Eyewitnesses say a mob stormed the woman's home after rumours spread that she was practising witchcraft.",
-      "link": "https://www.bbc.com/news/articles/c98q93gdy3do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Feb 2026 10:10:42 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-21 00:58:04",
+      "fetched_at": "2026-02-21 03:42:28",
       "language": "unknown"
     }
   ]
