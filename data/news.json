@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 06:09:20",
+  "last_updated": "2026-02-22 07:05:09",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
+      "language": "unknown"
+    },
+    {
+      "title": "More than 1,500 Venezuelan political prisoners apply for amnesty",
+      "summary": "The announcement by the head of Venezuela's National Assembly comes amid US pressure following the capture of ex-President Nicolás Maduro.",
+      "link": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 05:04:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
-      "summary": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse.",
-      "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 06:33:52 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 06:09:20",
+      "fetched_at": "2026-02-22 07:05:09",
       "language": "unknown"
     }
   ]
