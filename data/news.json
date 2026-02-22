@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 02:12:05",
+  "last_updated": "2026-02-22 04:44:42",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -153,7 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
+      "language": "unknown"
+    },
+    {
+      "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+      "summary": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
+      "link": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 01:49:42 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
-      "language": "unknown"
-    },
-    {
-      "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
-      "summary": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
-      "link": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 17:26:04 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
+      "language": "unknown"
+    },
+    {
+      "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+      "summary": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
+      "link": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 17:26:04 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
-      "language": "unknown"
-    },
-    {
-      "title": "Katseye's Manon to take 'temporary hiatus' to focus on health",
-      "summary": "The six-person girl group say the decision was made following \"open and thoughtful conversations together\".",
-      "link": "https://www.bbc.com/news/articles/c39wxm807v2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 13:27:00 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-22 02:12:05",
+      "fetched_at": "2026-02-22 04:44:42",
       "language": "unknown"
     }
   ]
