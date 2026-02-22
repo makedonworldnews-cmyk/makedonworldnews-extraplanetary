@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 18:35:22",
+  "last_updated": "2026-02-22 18:55:54",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Bones of St Francis of Assisi go on public display in Italy",
+      "summary": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978.",
+      "link": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 17:49:01 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -131,18 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
-      "language": "unknown"
-    },
-    {
-      "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
-      "summary": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds.",
-      "link": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Feb 2026 11:23:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -164,7 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
+      "language": "unknown"
+    },
+    {
+      "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
+      "summary": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds.",
+      "link": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 11:23:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
-      "language": "unknown"
-    },
-    {
-      "title": "Minnesota Vikings receiver Moore dies aged 25",
-      "summary": "The Minnesota Vikings have paid tribute to Rondale Moore after the 25-year-old's death.",
-      "link": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Feb 2026 12:35:57 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-22 18:35:22",
+      "fetched_at": "2026-02-22 18:55:54",
       "language": "unknown"
     }
   ]
