@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23 22:57:58",
+  "last_updated": "2026-02-23 23:52:43",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
+      "language": "unknown"
+    },
+    {
+      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+      "summary": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations.",
+      "link": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Feb 2026 22:15:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
-      "language": "unknown"
-    },
-    {
-      "title": "Robert Mugabe's son charged with attempted murder in South Africa",
-      "summary": "Bellarmine Mugabe and one other man have not commented on the charges after a 23-year-old was shot.",
-      "link": "https://www.bbc.com/news/articles/cz9qk9y4d32o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Feb 2026 12:21:05 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-23 22:57:58",
+      "fetched_at": "2026-02-23 23:52:43",
       "language": "unknown"
     }
   ]
