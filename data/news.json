@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 11:54:09",
+  "last_updated": "2026-02-28 12:19:09",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -76,7 +76,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
+      "language": "unknown"
+    },
+    {
+      "title": "Слот: Поредата на Вирц е удар за него и за клубот",
+      "summary": "Тренерот на Ливерпул, Арне Слот, пред натпреварот со Вест Хем изјави дека десниот бек Џереми Фримпонг е подготвен да се врати на теренот по едномесечн...",
+      "link": "https://makfax.com.mk/sport/slot-poredata-na-virts-e-udar-za-nego-i-za-klubot/",
+      "published": "Sat, 28 Feb 2026 08:53:27 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -98,18 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
-      "language": "unknown"
-    },
-    {
-      "title": "Трамп потврди дека САД започнале напади врз Иран",
-      "summary": "Претседателот на САД, Доналд Трамп, потврди дека САД започнале напади врз Иран во осумминутно видео објавено на неговиот профил на „Truth Social“. Во ...",
-      "link": "https://makfax.com.mk/svet/%d1%82%d1%80%d0%b0%d0%bc%d0%bf-%d0%bf%d0%be%d1%82%d0%b2%d1%80%d0%b4%d0%b8-%d0%b4%d0%b5%d0%ba%d0%b0-%d1%81%d0%b0%d0%b4-%d0%b7%d0%b0%d0%bf%d0%be%d1%87%d0%bd%d0%b0%d0%bb%d0%b5-%d0%bd%d0%b0%d0%bf%d0%b0/",
-      "published": "Sat, 28 Feb 2026 08:45:51 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:08",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 11:54:09",
+      "fetched_at": "2026-02-28 12:19:09",
       "language": "unknown"
     }
   ]
