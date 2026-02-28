@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 02:42:56",
+  "last_updated": "2026-02-28 04:32:41",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:55",
+      "fetched_at": "2026-02-28 04:32:40",
       "language": "unknown"
     },
     {
@@ -120,29 +120,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
-      "title": "At least 11 killed after military cargo plane crashes in Bolivia",
-      "summary": "The Bolivia Air Force plane reportedly hit vehicles on a nearby motorway.",
-      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Feb 2026 01:20:02 GMT",
+      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+      "summary": "The former president told the committe that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\".",
+      "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Feb 2026 01:32:28 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
+      "language": "unknown"
+    },
+    {
+      "title": "At least 11 killed after military plane carrying banknotes crashes in Bolivia",
+      "summary": "The cargo plane crashed while landing in the city of El Alto, reportedly hitting vehicles on a motorway.",
+      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Feb 2026 02:21:31 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
       "title": "Trump orders government to stop using Anthropic in battle over AI use",
       "summary": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.",
       "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Feb 2026 22:52:03 GMT",
+      "published": "Sat, 28 Feb 2026 03:00:25 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
@@ -164,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
+      "language": "unknown"
+    },
+    {
+      "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
+      "summary": "Ex-CNN anchor Don Lemon was one of the original nine defendants arrested last month",
+      "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Feb 2026 02:17:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
-      "language": "unknown"
-    },
-    {
-      "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
-      "summary": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\".",
-      "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Feb 2026 19:58:25 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
-      "language": "unknown"
-    },
-    {
-      "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-      "summary": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
-      "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Feb 2026 04:32:38 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-02-28 02:42:56",
+      "fetched_at": "2026-02-28 04:32:41",
       "language": "unknown"
     }
   ]
