@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05 01:56:12",
+  "last_updated": "2026-03-05 04:30:27",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -131,7 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
+      "language": "unknown"
+    },
+    {
+      "title": "China sets lowest economic growth target since 1991",
+      "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
+      "link": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Mar 2026 03:10:52 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -164,18 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
-      "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
+      "title": "Pentagon identifies six US soldiers killed in Iran conflict",
       "summary": "The US soldiers were killed after a drone evaded air defences to hit a command centre in Port Shuaiba, Kuwait, on Sunday.",
       "link": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 19:08:24 GMT",
+      "published": "Thu, 05 Mar 2026 01:42:40 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
-      "language": "unknown"
-    },
-    {
-      "title": "US Senate vote fails to rein in Trump war powers on Iran",
-      "summary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
-      "link": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Mar 2026 23:42:08 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-05 01:56:12",
+      "fetched_at": "2026-03-05 04:30:27",
       "language": "unknown"
     }
   ]
