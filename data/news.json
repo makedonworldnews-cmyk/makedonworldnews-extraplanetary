@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07 06:52:52",
+  "last_updated": "2026-03-07 07:35:06",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -142,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
+      "language": "unknown"
+    },
+    {
+      "title": "We've been speaking to Iranians during one week of war. Here's what they said",
+      "summary": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next.",
+      "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 06:00:32 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
-      "language": "unknown"
-    },
-    {
-      "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
-      "summary": "The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living.",
-      "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 02:04:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
+      "language": "unknown"
+    },
+    {
+      "title": "Swiss to vote on right-wing push to slash licence fee for public broadcaster",
+      "summary": "The move is backed by the right-wing Swiss People's Party, which says the current fee is unjustified because of the high cost of living.",
+      "link": "https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Mar 2026 02:04:23 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
-      "language": "unknown"
-    },
-    {
-      "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
-      "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife.",
-      "link": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Mar 2026 04:23:12 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-07 06:52:52",
+      "fetched_at": "2026-03-07 07:35:06",
       "language": "unknown"
     }
   ]
