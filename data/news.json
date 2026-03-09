@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09 00:59:44",
+  "last_updated": "2026-03-09 03:54:43",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -120,18 +120,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
-      "title": "War fuels debate in Cyprus over UK military bases",
-      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
-      "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 08:03:40 GMT",
+      "title": "Oil prices surge above $110 and shares slide over Iran war",
+      "summary": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world.",
+      "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 02:19:19 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
+      "language": "unknown"
+    },
+    {
+      "title": "Masked fan unplugs VAR monitor in German match",
+      "summary": "A masked fan unplugged a VAR monitor in a German second division match as the referee was went to the pitchside screen to check a penalty award.",
+      "link": "https://www.bbc.com/sport/football/articles/c0rj2kq978qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 00:13:32 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 03:54:43",
+      "language": "unknown"
+    },
+    {
+      "title": "Spain's migrants welcome amnesty: 'It will help us in every way'",
+      "summary": "Madrid cites humanitarian and economic reasons to give undocumented workers legal status.",
+      "link": "https://www.bbc.com/news/articles/crk8rdz5131o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 00:17:54 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -142,29 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
-      "language": "unknown"
-    },
-    {
-      "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
-      "summary": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses.",
-      "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 01:08:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
-      "language": "unknown"
-    },
-    {
-      "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
-      "summary": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show.",
-      "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 20:47:29 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
@@ -175,51 +175,51 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
-      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-      "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged.",
-      "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 12:21:40 GMT",
+      "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
+      "summary": "A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.",
+      "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 02:13:08 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-      "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 16:53:57 GMT",
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
+      "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 08:03:40 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
-      "title": "Russian strike on Kharkiv apartment block kills ten",
-      "summary": "Ukraine President Volodymyr Zelensky says other people - including children - are injured as rescuers continue to search through rubble.",
-      "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 07:54:22 GMT",
+      "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
+      "summary": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses.",
+      "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 01:08:16 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     },
     {
-      "title": "Armed robots take to the battlefield in Ukraine war",
-      "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces.",
-      "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Mar 2026 00:36:19 GMT",
+      "title": "Swiss reject right-wing plan to cut licence fee for public broadcaster",
+      "summary": "More than 60% voters said they wanted to keep the current licence fee levels, initial projections show.",
+      "link": "https://www.bbc.com/news/articles/c0q32322wq8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Mar 2026 20:47:29 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 00:59:44",
+      "fetched_at": "2026-03-09 03:54:43",
       "language": "unknown"
     }
   ]
