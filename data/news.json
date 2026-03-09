@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-03-09 14:03:23",
+  "last_updated": "2026-03-09 15:11:23",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Рубио ја објави целта на САД во Иран",
+      "summary": "САД објавија дека нивната воена операција против Иран има за цел да ја ослабне способноста на земјата да ја загрози регионалната и глобалната безбедно...",
+      "link": "https://makfax.com.mk/svet/rubio-ja-objavi-czelta-na-sad-vo-iran/",
+      "published": "Mon, 09 Mar 2026 14:07:40 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 15:11:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Тројца албански државјани со чамци илегално влегле во македонска територија и вршеле незаконит риболов",
+      "summary": "Полицијата поднесе кривични пријави против тројца албански државјани. Тие со пловни објекти илегално влегле во македонска територија и вршеле незакони...",
+      "link": "https://makfax.com.mk/crna-hronika/trojcza-albanski-drzhavjani-so-chamczi-ilegalno-vlegle-vo-makedonska-teritorija-i-vrshele-nezakonit-ribolov/",
+      "published": "Mon, 09 Mar 2026 13:57:30 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 15:11:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Мисајловски во касарната „Јане Сандански“ во Штип: Покажуваме дека целосно се грижиме за нова модерна инфраструктура",
+      "summary": "Денеска може да видиме еден целосно готов објект, но и еден објект каде што е речиси 70% завршен и очекувам дека во следниот месец комплетно ќе биде з...",
+      "link": "https://makfax.com.mk/makedonija/misajlovski-vo-kasarnata-jane-sandanski-vo-shtip-pokazhuvame-deka-czelosno-se-grizhime-za-nova-moderna-infrastruktura/",
+      "published": "Mon, 09 Mar 2026 13:37:22 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 15:11:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Божиновска од Солун: Интерконекциите клучни за енергетската безбедност и посилна Европа",
+      "summary": "Министерката за енергетика, рударство и минерални суровини Сања Божиновска учествуваше и се обрати на министерскиот панел на високиот настан „Electric...",
+      "link": "https://makfax.com.mk/ekonomija/bozhinovska-od-solun-interkonekcziite-kluchni-za-energetskata-bezbednost-i-posilna-evropa/",
+      "published": "Mon, 09 Mar 2026 13:34:27 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 15:11:23",
+      "language": "unknown"
+    },
     {
       "title": "Едно лице тешко повредено, паднало со четирицикл на патот кон Козјак",
       "summary": "Едно лице е тешко повредено откако паднало со четирицикл на патот кон Козјан. Во несреќата, со повреди се здобило уште едно лице. Вчера во 10:43 во СВ...",
@@ -10,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -21,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -32,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -43,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -54,62 +98,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
-      "title": "Иранска балистичка ракета прелета над Турција, САД ги советуваат граѓаните да го напуштат југоисточниот дел",
+      "title": "Иранска балистичка ракета прелета над Турција, системите за воздушна одбрана на НАТО ја соборија",
       "summary": "Балистичка ракета испукана од Иран беше соборена во турскиот воздушен простор, објави турското Министерство за одбрана. Според нив, ракетата била собо...",
       "link": "https://makfax.com.mk/svet/iranska-balistichka-raketa-preleta-nad-turczija-sad-gi-sovetuvaat-graganite-da-ja-napushtat-jugoistochna-turczija/",
       "published": "Mon, 09 Mar 2026 12:37:57 +0000",
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
-      "language": "unknown"
-    },
-    {
-      "title": "Жесток одговор на Лапорта: Ханси Флик освојува трофеи, а Чави губеше со истите ирачи",
-      "summary": "Нема мир во Барселона по интервјуто што го даде Чави Ернандез и закое се претпоставуваше дека ќе предизвика тектонски пореметувања на „Камп Ноу“. Особ...",
-      "link": "https://makfax.com.mk/sport/zhestok-odgovor-na-laporta-hansi-flik-osvojuva-trofei-a-chavi-gubeshe-so-istite-irachi/",
-      "published": "Mon, 09 Mar 2026 12:25:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
-      "language": "unknown"
-    },
-    {
-      "title": "Општина Аеродром: Голема акција за уредување на зелените површини",
-      "summary": "Општина Аеродром во соработка со ЈП „Паркови и зеленило“, денеска започна голема заедничка акција за уредување и разубавување на парковите и булеварск...",
-      "link": "https://makfax.com.mk/makedonija/opshtina-aerodrom-golema-akczija-za-ureduvane-na-zelenite-povrshini/",
-      "published": "Mon, 09 Mar 2026 12:23:42 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
-      "language": "unknown"
-    },
-    {
-      "title": "Герасимовски – Варнс: Со САД како партнер, чекор поблиску до нови можности и развој на Општина Центар",
-      "summary": "Градоначалникот на Општина Центар, Горан Герасимовски, денеска одржа средба со вршителката на должност амбасадор на Соединетите Американски Држави во ...",
-      "link": "https://makfax.com.mk/makedonija/gerasimovski-varns-so-sad-kako-partner-chekor-poblisku-do-novi-mozhnosti-i-razvoj-na-opshtina-czentar/",
-      "published": "Mon, 09 Mar 2026 12:21:08 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
-      "language": "unknown"
-    },
-    {
-      "title": "Од полноќ нови цени на горивата, дизелот поскапува за 14,5 денари",
-      "summary": "Регулаторната комисија за енергетика, водни услуги и услуги за управување со комунален отпад на Република Северна Македонија (РКЕ) донесе Одлука со ко...",
-      "link": "https://makfax.com.mk/ekonomija/od-polnok-novi-czeni-na-gorivata/",
-      "published": "Mon, 09 Mar 2026 12:16:46 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:22",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -175,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Guinea opposition leader urges 'direct resistance' after 40 parties dissolved",
+      "summary": "Cellou Dalein Diallo accuses the junta-leader-turned-president of erasing political threats.",
+      "link": "https://www.bbc.com/news/articles/cjrqg80y57po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 12:30:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
@@ -186,40 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
-      "title": "Istanbul's ex-mayor to stand trial on corruption charges",
+      "title": "Istanbul's ex-mayor on trial for corruption charges",
       "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
       "link": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Mar 2026 08:23:41 GMT",
+      "published": "Mon, 09 Mar 2026 13:19:31 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     },
     {
-      "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
-      "summary": "A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say.",
-      "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Mar 2026 03:01:00 GMT",
+      "title": "N Korea cancels Pyongyang Marathon for 'some reasons'",
+      "summary": "The annual event, usually held in April, has been cancelled a month before it was due to take place, a tour agency says.",
+      "link": "https://www.bbc.com/news/articles/crl4wx8ydxeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 13:42:56 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
-      "language": "unknown"
-    },
-    {
-      "title": "Australians must prove they are over 18 to access porn under new laws",
-      "summary": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-      "link": "https://www.bbc.com/news/articles/cwy92qpv424o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Mar 2026 03:02:04 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 14:03:23",
+      "fetched_at": "2026-03-09 15:11:23",
       "language": "unknown"
     }
   ]
