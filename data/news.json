@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-03-09 12:21:51",
+  "last_updated": "2026-03-09 12:54:22",
   "article_count": 20,
   "articles": [
+    {
+      "title": "ДОМ: Вистинската изборна реформа почнува со една изборна единица",
+      "summary": "Во јавноста повторно се отвора прашањето за можни измени на изборното законодавство и за различни идеи поврзани со функционирањето на Собранието. ДОМ ...",
+      "link": "https://makfax.com.mk/makedonija/dom-vistinskata-izborna-reforma-pochnuva-so-edna-izborna-edinicza/",
+      "published": "Mon, 09 Mar 2026 11:52:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Колку и да е мала партиципацијата, повредените во „Пулс“ не треба да ја плаќаат, вели министерот Алиу",
+      "summary": "На само неколку дена од одбележување една година од пожарот во кочанскиот клуб „Пулс“ во кој загинаа 63 лица, а над 200 беа повредни, министерот за зд...",
+      "link": "https://makfax.com.mk/makedonija/kolku-i-da-e-mala-particzipaczijata-povredenite-vo-puls-ne-treba-da-ja-plakaat-veli-ministerot-aliu/",
+      "published": "Mon, 09 Mar 2026 11:52:21 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Муцунски: Евакуацијата е бесплатна, во текот на оваа недела сите македонски граѓани ќе бидат вратени во земјата",
+      "summary": "Сите македонски државјани што се наоѓаат на Блискиот Исток и кои сакаат да се евакуираат, во текот на оваа недела ќе бидат вратени во земјата, изјави ...",
+      "link": "https://makfax.com.mk/makedonija/video-muczunski-evakuaczijata-e-besplatna-vo-tekot-na-ovaa-nedela-site-makedonski-gragani-ke-bidat-vrateni-vo-zemjata/",
+      "published": "Mon, 09 Mar 2026 11:47:26 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
+    {
+      "title": "„Политико“: Расте бунтот против Фон дер Лајен, таа се меша во сè, се занимава со она за што не е одговорна",
+      "summary": "Претседателката на Европската комисија, Урсула фон дер Лајен, во пресрет на денешното обраќање пред амбасадорите на ЕУ, е цел на сè погласни критики о...",
+      "link": "https://makfax.com.mk/svet/politiko-raste-buntot-protiv-fon-der-lajen-taa-se-mesha-vo-se-se-zanimava-so-ona-za-shto-ne-e-odgovorna/",
+      "published": "Mon, 09 Mar 2026 11:30:11 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Навивач среде натпревар го исклучи ВАР системот",
+      "summary": "Неверојатни сцени го одбележаа натпреварот од втората германска лига помеѓу Минстер и Херта Берлин, кој се претвори во хаос откако еден навивач го иск...",
+      "link": "https://makfax.com.mk/sport/navivach-srede-natprevar-go-iskluchi-var-sistemot/",
+      "published": "Mon, 09 Mar 2026 11:26:44 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Навивач среде натпревар го исклучи ВАР системот",
+      "summary": "Неверојатни сцени го одбележаа натпреварот од втората германска лига помеѓу Минстер и Херта Берлин, кој се претвори во хаос откако еден навивач го иск...",
+      "link": "https://makfax.com.mk/sport/navivach-srede-natprevar-go-iskluchi-var-sistemot/",
+      "published": "Mon, 09 Mar 2026 11:26:44 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
+    {
+      "title": "МНТ со нов театарски бран: Внимателно курирана програма со премиери, меѓународни гостувања и отворена сцена за млади",
+      "summary": "На денешната прес-конференција, Македонскиот народен театар ја претстави годишната програма за 2026 година, која опфаќа нови премиери, меѓународни гос...",
+      "link": "https://makfax.com.mk/kultura/mnt-so-nov-teatarski-bran-vnimatelno-kurirana-programa-so-premieri-megunarodni-gostuvana-i-otvorena-sczena-za-mladi/",
+      "published": "Mon, 09 Mar 2026 11:25:18 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:21",
+      "language": "unknown"
+    },
     {
       "title": "Пациентите од Србија би можеле да ја примат руската вакцина против рак до крајот на годината",
       "summary": "Пациентите од Србија би можеле да ја примат вакцината против онколошки заболувања, која ја развиле руски експерти врз основа на напредни технологии на...",
@@ -10,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
+      "fetched_at": "2026-03-09 12:54:21",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
+      "fetched_at": "2026-03-09 12:54:21",
       "language": "unknown"
     },
     {
@@ -32,84 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "„Миланова игра“ – концерт во чест на маестро Милан Завков во Филхармонија",
-      "summary": "На 27 март во Македонската филхармонија ќе се одржи концертот „Миланова игра“, музички омаж посветен на еден од најзначајните македонски композитори и...",
-      "link": "https://makfax.com.mk/zanimlivosti/milanova-igra-konczert-vo-chest-na-maestro-milan-zavkov-vo-filharmonija/",
-      "published": "Mon, 09 Mar 2026 10:56:36 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Жерновски: Мицкоски многу лаже",
-      "summary": "Христијан Мицкоски лаже. Од сите премиери во светот, од сите премиери во Европа има само еден, и тоа е на овој брдовитиот Балкан, поточно во Македониј...",
-      "link": "https://makfax.com.mk/makedonija/video-zhernovski-miczkoski-mnogu-lazhe/",
-      "published": "Mon, 09 Mar 2026 10:52:54 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "Партизан пред четири месеци му врачи отказ на Благојевиќ, сега го врати на работа",
-      "summary": "Фудбалскиот клуб Партизан по само два натпревари го отпушти тренерот Дамир Чакар. Под негово водство, Партизан загуби дома од ОФК Белград (1:2) и вчер...",
-      "link": "https://makfax.com.mk/sport/partizan-pred-chetiri-meseczi-mu-vrachi-otkaz-na-blagojevik-sega-go-vrati-na-rabota/",
-      "published": "Mon, 09 Mar 2026 10:46:47 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "Путин му честита на новиот ирански лидер: Вашата земја се соочува со вооружена агресија",
-      "summary": "Претседателот на Русија, Владимир Путин, испрати честитка до Моџтаба Хамнеи по неговото назначување за врховен лидер на Иран, соопшти Кремљ. „Сега, ко...",
-      "link": "https://makfax.com.mk/svet/putin-mu-chestita-na-noviot-iranski-lider-vashata-zemja-se-soochuva-so-vooruzhena-agresija/",
-      "published": "Mon, 09 Mar 2026 10:46:03 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "Стармер: Колку подолго трае војната, толку е поголема веројатноста за економски последици",
-      "summary": "Британскиот премиер Кир Стармер вели дека Велика Британија разговара со други земји за тоа што може да се направи заедно за да се намалат економските ...",
-      "link": "https://makfax.com.mk/svet/starmer-kolku-podolgo-trae-vojnata-tolku-e-pogolema-verojatnosta-za-ekonomski-poslediczi/",
-      "published": "Mon, 09 Mar 2026 10:44:01 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "Иран: Во моментов нема смисла да се зборува за прекин на огнот",
-      "summary": "Есмаил Багеи, портпарол на иранското Министерство за надворешни работи, на прес-конференција изјави дека во моментов нема простор за разговори за прек...",
-      "link": "https://makfax.com.mk/svet/iran-vo-momentov-nema-smisla-da-se-zboruva-za-prekin-na-ognot/",
-      "published": "Mon, 09 Mar 2026 10:43:25 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
-      "language": "unknown"
-    },
-    {
-      "title": "Халкбанк со континуирана поддршка за родова еднаквост и економско зајакнување на жените",
-      "summary": "Во современото општество, унапредувањето на родовата еднаквост и создавањето еднакви можности за сите, претставуваат основа за одржлив економски и соц...",
-      "link": "https://makfax.com.mk/makedonija/halkbank-so-kontinuirana-poddrshka-za-rodova-ednakvost-i-ekonomsko-zajaknuvane-na-zhenite/",
-      "published": "Mon, 09 Mar 2026 10:37:40 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:50",
+      "fetched_at": "2026-03-09 12:54:21",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -153,18 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Istanbul's ex-mayor to stand trial on corruption charges",
-      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
-      "link": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Mar 2026 08:23:41 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -175,7 +164,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
+      "language": "unknown"
+    },
+    {
+      "title": "Bag of cannabis and cash accidentally donated to NZ charity shop",
+      "summary": "Two teenagers have been arrested after inadvertently leaving the knapsack for staff to find.",
+      "link": "https://www.bbc.com/news/articles/c1w5yq924j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 11:31:34 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:22",
+      "language": "unknown"
+    },
+    {
+      "title": "Istanbul's ex-mayor to stand trial on corruption charges",
+      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
+      "link": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 09 Mar 2026 08:23:41 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
-      "language": "unknown"
-    },
-    {
-      "title": "War fuels debate in Cyprus over UK military bases",
-      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
-      "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 08:03:40 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-09 12:21:51",
+      "fetched_at": "2026-03-09 12:54:22",
       "language": "unknown"
     }
   ]
