@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11 03:32:51",
+  "last_updated": "2026-03-11 05:22:52",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -153,7 +153,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Woman charged with attempted murder after shooting at Rihanna's home",
+      "summary": "The woman posted about the singer online prior to the attack, the BBC's US news partner CBS reports.",
+      "link": "https://www.bbc.com/news/articles/cgjze644wjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Mar 2026 03:10:09 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-11 05:22:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Member of Iranian football delegation granted Australian asylum changes her mind",
+      "summary": "One of the seven women who received visas has reversed her decision after speaking to teammates, minister says",
+      "link": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Mar 2026 04:14:40 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -164,29 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
-      "title": "Two more people connected to Iranian football team choose to stay in Australia",
-      "summary": "It is understood most of the team left Australia on Tuesday night, but that a player and a member of support staff have joined five players who chose ...",
-      "link": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Mar 2026 01:56:05 GMT",
+      "title": "Katy Perry loses trademark case against Australian designer Katie Perry",
+      "summary": "The US singer lost the case in 2023 and later won on appeal, but now judges have ruled against her.",
+      "link": "https://www.bbc.com/news/articles/c9dn8l021l2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Mar 2026 04:13:40 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Meghan to headline 'girls' weekend' in Australia for 300 women",
-      "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
-      "link": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Mar 2026 01:04:53 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
@@ -197,29 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     },
     {
-      "title": "Russia's deportation of Ukrainian children amounts to crime against humanity, UN says",
-      "summary": "Vladimir Putin's direct involvement in the forcible deportation of Ukrainian children has been visible from the outset, the UN says.",
-      "link": "https://www.bbc.com/news/articles/cz7g5xnvl2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Mar 2026 17:50:52 GMT",
+      "title": "Meghan to headline 'girls' weekend' in Australia for 300 women",
+      "summary": "The Duke and Duchess of Sussex are returning to Australia in April, their first visit since 2018.",
+      "link": "https://www.bbc.com/news/articles/cwykl5d02rno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Mar 2026 01:04:53 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Acclaimed Peruvian writer Alfredo Bryce Echenique dies aged 87",
-      "summary": "The author is best known for his novel A World for Julius, which chronicles the frivolous lives of the elite.",
-      "link": "https://www.bbc.com/news/articles/ce82j8j8l25o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Mar 2026 20:10:56 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-11 03:32:51",
+      "fetched_at": "2026-03-11 05:22:52",
       "language": "unknown"
     }
   ]
