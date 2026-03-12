@@ -1,7 +1,117 @@
 {
-  "last_updated": "2026-03-12 12:48:47",
-  "article_count": 10,
+  "last_updated": "2026-03-12 13:27:20",
+  "article_count": 20,
   "articles": [
+    {
+      "title": "Силен земјотрес во Грција",
+      "summary": "Земјотрес со јачина од 5,1 степени според Рихтеровата скала ја погоди Грција. Според Европско-медитеранскиот сеизмолошки институт (EMSC) на својата оф...",
+      "link": "https://makfax.com.mk/svet/region/silen-zemjotres-vo-grczija/",
+      "published": "Thu, 12 Mar 2026 12:26:52 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "Поранешен израелски разузнавач: Судбината на војната зависи од 440 килограми збогатен ураниум од Иран",
+      "summary": "Израел го нападна Иран без реалистичен план за промена на режимот, а очекувањата дека воздушните напади би можеле да предизвикаат народно востание се ...",
+      "link": "https://makfax.com.mk/svet/poraneshen-izraelski-razuznavach-sudbinata-na-vojnata-zavisi-od-440-kilogrami-zbogaten-uranium-od-iran/",
+      "published": "Thu, 12 Mar 2026 12:20:11 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "Алиу: Насилство врз здравствен работник треба веднаш да се пријави, станува збор за кривично дело за кое е предвидена казна затвор",
+      "summary": "Министерот за здравство, Азир Алиу заедно со претседателката на Лекарската комора, Калина Гривчева Старделова, денеска се обратија на прес конференциј...",
+      "link": "https://makfax.com.mk/makedonija/aliu-nasilstvo-vrz-zdravstven-rabotnik-treba-vednash-da-se-prijavi-stanuva-zbor-za-krivichno-delo-za-koe-e-predvidena-kazna-zatvor/",
+      "published": "Thu, 12 Mar 2026 12:01:49 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "ЕКО авантура на Изворска Јуниор со успешна завршница и нови хоризонти",
+      "summary": "Едукативниот театарски караван „ЕКО авантура“, реализиран со поддршка од Кожувчанка Компанија, а во продукција на „Продукција Триангл“ и под режисерск...",
+      "link": "https://makfax.com.mk/ekonomija/eko-avantura-na-izvorska-junior-so-uspeshna-zavrshnicza-i-novi-horizonti/",
+      "published": "Thu, 12 Mar 2026 11:57:16 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "166 милиони денари повеќе во буџетот на Скопје: кружен тек кај Народна банка, две катни гаражи во Клинички",
+      "summary": "Советот на Град Скопје на денешната седница го усвои ребалансот на Буџетот со кој средствата се зголемуваат за дополнителни 166 милиони денари, намене...",
+      "link": "https://makfax.com.mk/makedonija/166-milioni-denari-poveke-vo-budhetot-na-skopje-kruzhen-tek-kaj-narodna-banka-dve-katni-garazhi-vo-klinichki/",
+      "published": "Thu, 12 Mar 2026 11:54:12 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Гаши на комеморацијата за трагедијата во Кочани: Македонија не ги изгуби само своите синови и ќерки, туку и дел од својата иднина",
+      "summary": "Претседателот на Собранието Африм Гаши на комеморативната седница по повод годишнината од трагедијата во Кочани порача дека настанот оставил длабока р...",
+      "link": "https://makfax.com.mk/makedonija/video-gashi-na-komemoraczijata-za-tragedijata-vo-kochani-makedonija-ne-gi-izgubi-samo-svoite-sinovi-i-kerki-tuku-i-del-od-svojata-idnina/",
+      "published": "Thu, 12 Mar 2026 11:49:38 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "Израелската војска тврди: Нападнат ирански нуклеарен објект кај Техеран",
+      "summary": "Израелската војска соопшти дека извршила напад врз ирански нуклеарен објект во близина на Техеран. Според Израелските одбранбени сили (ИДФ), станува з...",
+      "link": "https://makfax.com.mk/svet/izraelskata-vojska-tvrdi-napadnat-iranski-nuklearen-objekt-kaj-teheran/",
+      "published": "Thu, 12 Mar 2026 11:35:32 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "Зеленски во Букурешт на разговори за одбраната, енергијата и обновата на Украина",
+      "summary": "Украинскиот претседател Володимир Зеленски пристигна во официјална посета на Романија, потврди неговиот портпарол Сергиј Никифоров, пренесе „Украинска...",
+      "link": "https://makfax.com.mk/svet/zelenski-vo-bukuresht-na-razgovori-za-odbranata-energijata-i-obnovata-na-ukraina/",
+      "published": "Thu, 12 Mar 2026 11:30:58 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Кузеска: Мицкоски лаже, како што лажеше за името, сега лаже и за ЕУ",
+      "summary": "Политиките на Мицкоски може да се опишат само со еден збор: Лага, вели Богданка Кузеска од СДСМ. „Ветуваше дека ќе го врати името, дека ќе го поништи ...",
+      "link": "https://makfax.com.mk/makedonija/video-kuzeska-miczkoski-lazhe-kako-shto-lazheshe-za-imeto-sega-lazhe-i-za-eu/",
+      "published": "Thu, 12 Mar 2026 11:23:53 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
+    {
+      "title": "Жените во Македонија првото дете го раѓаат на 27 години: раѓањата на историски минимум, речиси трипати помалку од 1960",
+      "summary": "Во Македонија и натаму продолжува трендот на намалување на раѓањата. Најновите податоци на „Еуростат“ покажуваат дека стапката на фертилитет во земјат...",
+      "link": "https://makfax.com.mk/makedonija/zhenite-vo-makedonija-prvoto-dete-go-ragaat-na-27-godini-raganata-na-istoriski-minimum-rechisi-tripati-pomalku-od-1960/",
+      "published": "Thu, 12 Mar 2026 11:15:39 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-12 13:27:20",
+      "language": "unknown"
+    },
     {
       "title": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
       "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy.",
@@ -10,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -21,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -32,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -43,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -54,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -65,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -76,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -87,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -98,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     },
     {
@@ -109,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-12 12:48:47",
+      "fetched_at": "2026-03-12 13:27:20",
       "language": "unknown"
     }
   ]
