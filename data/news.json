@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 02:02:55",
+  "last_updated": "2026-03-16 05:09:38",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
       "language": "unknown"
     },
     {
@@ -109,7 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:37",
+      "language": "unknown"
+    },
+    {
+      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue.",
+      "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 23:14:40 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-16 05:09:38",
+      "language": "unknown"
+    },
+    {
+      "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+      "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
+      "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:31:48 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-16 05:09:38",
+      "language": "unknown"
+    },
+    {
+      "title": "Ukraine's urgent fight on the financial frontline",
+      "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
+      "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:06:14 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
@@ -120,51 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
       "title": "Ugandan opposition leader tells BBC he fled abroad fearing for his life",
-      "summary": "He says from an undisclosed location: \"It was clear that the regime wanted to eliminate me.\"",
+      "summary": "Bobi Wine says from an undisclosed location: \"It was clear that the regime wanted to eliminate me.\"",
       "link": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Mar 2026 21:56:34 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
-      "language": "unknown"
-    },
-    {
-      "title": "Sweden detains captain of Russian shadow fleet ship",
-      "summary": "The skipper of the Sea Owl One is suspected of producing forged documents when it was boarded by coast guard.",
-      "link": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 18:40:59 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
-      "language": "unknown"
-    },
-    {
-      "title": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
-      "summary": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says.",
-      "link": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 10:38:22 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
-      "language": "unknown"
-    },
-    {
-      "title": "US names six crew killed in refuelling plane crash in Iraq",
-      "summary": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
-      "link": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 08:08:30 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-16 02:02:55",
+      "fetched_at": "2026-03-16 05:09:38",
       "language": "unknown"
     }
   ]
