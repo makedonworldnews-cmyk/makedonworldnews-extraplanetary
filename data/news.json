@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18 00:02:27",
+  "last_updated": "2026-03-18 00:44:41",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -131,18 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Iranian security chief Ali Larijani killed in air strike",
-      "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
-      "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 22:49:03 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -153,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
+      "language": "unknown"
+    },
+    {
+      "title": "Iranian security chief Ali Larijani killed in air strike",
+      "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
+      "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 22:49:03 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -164,18 +164,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
-      "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
-      "summary": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
-      "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 01:14:04 GMT",
+      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
+      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea.",
+      "link": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 19:21:00 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
+      "language": "unknown"
+    },
+    {
+      "title": "Spanish king reopens debate on conquest of Mexico by acknowledging 'abuse'",
+      "summary": "King Felipe appears to have helped thaw frosty relations with Mexico while reviving a fierce debate over events 500 years ago.",
+      "link": "https://www.bbc.com/news/articles/c33j3ne2mjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 18:55:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-18 00:44:41",
+      "language": "unknown"
+    },
+    {
+      "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
+      "summary": "It comes weeks after a Republican lawmaker accused the justice department of a \"cover-up\" in releasing the Epstein files.",
+      "link": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 18:59:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
@@ -186,40 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     },
     {
-      "title": "Aspiring female Zambian politicians were asked for sexual favours, official says",
-      "summary": "These reports harm attempts to close the wide gender representation gap in Zambia, activists say.",
-      "link": "https://www.bbc.com/news/articles/cm28ldvj3jvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 13:31:08 GMT",
+      "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
+      "summary": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
+      "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 01:14:04 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
-      "summary": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks.",
-      "link": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 02:04:48 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
-      "language": "unknown"
-    },
-    {
-      "title": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
-      "summary": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger.",
-      "link": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Mar 2026 04:41:58 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-18 00:02:27",
+      "fetched_at": "2026-03-18 00:44:41",
       "language": "unknown"
     }
   ]
