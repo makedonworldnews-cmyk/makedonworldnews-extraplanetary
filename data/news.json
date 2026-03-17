@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17 02:01:45",
+  "last_updated": "2026-03-17 04:40:49",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -109,7 +109,51 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump's confidence is undimmed - but every Iran option comes with risk",
+      "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
+      "link": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 00:24:01 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-17 04:40:49",
+      "language": "unknown"
+    },
+    {
+      "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+      "summary": "Islamabad denies targeting any health facility and said its strikes were aimed at military installations.",
+      "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 03:17:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-17 04:40:49",
+      "language": "unknown"
+    },
+    {
+      "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+      "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems.",
+      "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 00:08:32 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-17 04:40:49",
+      "language": "unknown"
+    },
+    {
+      "title": "'Fire came from the sky and burned them' - life on the brink of civil war in South Sudan",
+      "summary": "Some 50,000 people are told to flee their homes as the army warns of a huge military offensive in Jonglei state.",
+      "link": "https://www.bbc.com/news/articles/cx2g4v9mzxro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 00:08:56 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -120,29 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
-      "language": "unknown"
-    },
-    {
-      "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
-      "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears.",
-      "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 06:10:55 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
-      "language": "unknown"
-    },
-    {
-      "title": "Iran hits key UAE oil port and Dubai airport",
-      "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked.",
-      "link": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 12:43:32 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -153,29 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
-      "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
-      "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?",
-      "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 00:31:48 GMT",
+      "title": "Sri Lanka declares Wednesdays off as Asian countries try to conserve fuel",
+      "summary": "This is the latest in a series of measures undertaken by Asian countries which rely on oil from the Gulf.",
+      "link": "https://www.bbc.com/news/articles/c4g5n58rlnzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 03:26:37 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
-      "title": "UN receives reports alleging torture of detainees in Venezuela continues",
-      "summary": "The UN is deeply concerned by allegations there have been incidents of torture after Nicolás Maduro's ouster.",
-      "link": "https://www.bbc.com/news/articles/c0e5v9n1qqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 19:08:13 GMT",
+      "title": "Utah bereavement author found guilty of fatally poisoning her husband",
+      "summary": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
+      "link": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Mar 2026 01:14:04 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
-      "language": "unknown"
-    },
-    {
-      "title": "Ecuador deploys 75,000 soldiers and police to combat drug gangs",
-      "summary": "Citizens of the most violent-wracked provinces have been warned the government is \"at war\" with the gangs.",
-      "link": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 11:58:42 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
-      "language": "unknown"
-    },
-    {
-      "title": "French national jailed for 10 years in Azerbaijan for spying",
-      "summary": "Martin Ryan was accused of collecting secret information about Baku's military co-operation with Turkey and Pakistan.",
-      "link": "https://www.bbc.com/news/articles/c2lr5j84gd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 11:47:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-17 02:01:45",
+      "fetched_at": "2026-03-17 04:40:49",
       "language": "unknown"
     }
   ]
