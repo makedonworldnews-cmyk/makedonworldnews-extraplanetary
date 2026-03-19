@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 22:51:20",
+  "last_updated": "2026-03-19 23:19:44",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
+      "language": "unknown"
+    },
+    {
+      "title": "US considers lifting sanctions on some Iranian oil",
+      "summary": "Treasury Secretary Scott Bessent broached waiving sanctions on oil already at sea, which would be a stunning reversal of longstanding American policy.",
+      "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 19:55:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -120,18 +131,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
-      "title": "How Europe sleepwalked into yet another energy crisis",
-      "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
-      "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 05:59:49 GMT",
+      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+      "summary": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
+      "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 21:52:36 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
+      "language": "unknown"
+    },
+    {
+      "title": "Teenager among first to be executed over Iran's anti-government protests",
+      "summary": "Saleh Mohammadi, a member of Iran's national wrestling team, was found guilty of killing police officers alongside two other men, state media say.",
+      "link": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 22:07:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -142,7 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
+      "language": "unknown"
+    },
+    {
+      "title": "New season of The Bachelorette cancelled after Taylor Frankie Paul domestic abuse allegations",
+      "summary": "The decision comes after footage emerged appearing to show Taylor Frankie Paul in an altercation with her ex-partner.",
+      "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 21:52:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -153,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -164,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -175,40 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Kevin Spacey and accusers settle before civil trial",
-      "summary": "The actor agrees an out-of-court settlement with three men who accused him of sexual assault.",
-      "link": "https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 09:27:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
-      "summary": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
-      "link": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 14:57:22 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Iran conflict looms large over Trump's meeting with Japan PM",
-      "summary": "The meeting with Sanae Takaichi comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz.",
-      "link": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 18:06:37 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 22:51:20",
+      "fetched_at": "2026-03-19 23:19:44",
       "language": "unknown"
     }
   ]
