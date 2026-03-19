@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19 23:19:44",
+  "last_updated": "2026-03-19 23:52:04",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+      "summary": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+      "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 22:41:40 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
@@ -153,29 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
-      "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
-      "summary": "News of the invitation emerges after the monarch acknowledged \"a lot of abuse\" during the Spanish conquest of Mexico.",
-      "link": "https://www.bbc.com/news/articles/cvglew9p891o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 14:00:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
-      "language": "unknown"
-    },
-    {
-      "title": "New season of The Bachelorette cancelled after Taylor Frankie Paul domestic abuse allegations",
-      "summary": "The decision comes after footage emerged appearing to show Taylor Frankie Paul in an altercation with her ex-partner.",
+      "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
+      "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
       "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 21:52:19 GMT",
+      "published": "Thu, 19 Mar 2026 22:24:51 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
@@ -186,7 +186,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
+      "language": "unknown"
+    },
+    {
+      "title": "US civil rights leader Cesar Chavez accused of sexual abuse",
+      "summary": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month.",
+      "link": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 21:37:45 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-19 23:52:04",
+      "language": "unknown"
+    },
+    {
+      "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
+      "summary": "News of the invitation emerges after the monarch acknowledged \"a lot of abuse\" during the Spanish conquest of Mexico.",
+      "link": "https://www.bbc.com/news/articles/cvglew9p891o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 14:00:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
-      "language": "unknown"
-    },
-    {
-      "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
-      "summary": "The former counter-terrorism head resigned on Tuesday over the war with Iran, saying the country posed \"no imminent threat\" to the US.",
-      "link": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 17:12:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
-      "language": "unknown"
-    },
-    {
-      "title": "Three Palestinian women killed in beauty salon during Iranian missile attack",
-      "summary": "Others were injured when the salon in the southern West Bank was hit, while a Thai worker was killed by falling shrapnel in Israel.",
-      "link": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 15:38:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-19 23:19:44",
+      "fetched_at": "2026-03-19 23:52:04",
       "language": "unknown"
     }
   ]
