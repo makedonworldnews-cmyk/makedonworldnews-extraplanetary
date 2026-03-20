@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20 00:53:00",
+  "last_updated": "2026-03-20 02:51:06",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
+      "language": "unknown"
+    },
+    {
+      "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+      "summary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
+      "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:04:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -153,18 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
       "title": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
       "summary": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
       "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 22:24:51 GMT",
+      "published": "Fri, 20 Mar 2026 01:41:58 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Former counter-terrorism head investigated by FBI over alleged leaks",
-      "summary": "The former counter-terrorism head resigned on Tuesday over the war with Iran, saying the country posed \"no imminent threat\" to the US.",
-      "link": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 17:12:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-20 00:53:00",
+      "fetched_at": "2026-03-20 02:51:06",
       "language": "unknown"
     }
   ]
