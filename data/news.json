@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-03-22 12:57:18",
+  "last_updated": "2026-03-22 14:09:41",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Авиоиндустријата во најтешка криза од пандемијата поради конфликтот на Блискиот Исток",
+      "summary": "Авиоиндустријата се соочува со најтешката криза од пандемијата на ковид-19, откако конфликтот на Блискиот Исток доведе до приземјување на бројни летов...",
+      "link": "https://makfax.com.mk/svet/avioindustrijata-vo-najteshka-kriza-od-pandemijata-poradi-konfliktot-na-bliskiot-istok/",
+      "published": "Sun, 22 Mar 2026 12:00:08 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 14:09:40",
+      "language": "unknown"
+    },
     {
       "title": "Хрватската влада на итна седница поради енергетската криза",
       "summary": "Поради нарушувањата на енергетскиот пазар предизвикани од конфликтот на Блискиот Исток, Владата на Хрватска одржува итна седница. Хрватскиот премиер, ...",
@@ -10,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -21,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -32,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -43,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -54,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -98,18 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
-      "language": "unknown"
-    },
-    {
-      "title": "„Ај медија“: Нема соработка со СДСМ, ниту со Зоран Башановиќ",
-      "summary": "Агенцијата „Eye Media“ ги демантира информациите дека има соработка со СДСМ и Зоран Башановиќ. „Во врска со текстовите објавени во медиумите во кои се...",
-      "link": "https://makfax.com.mk/makedonija/aj-medija-nema-sorabotka-so-sdsm-nitu-so-zoran-bashanovik/",
-      "published": "Sun, 22 Mar 2026 09:56:39 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:17",
+      "fetched_at": "2026-03-22 14:09:40",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
+      "language": "unknown"
+    },
+    {
+      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+      "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+      "link": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 12:15:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-      "summary": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
-      "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 01:04:57 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -175,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
+      "language": "unknown"
+    },
+    {
+      "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
+      "summary": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election",
+      "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 01:04:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Pentagon restrictions on press violate First Amendment, judge rules",
-      "summary": "The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pe...",
-      "link": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 16:11:58 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 12:57:18",
+      "fetched_at": "2026-03-22 14:09:41",
       "language": "unknown"
     }
   ]
