@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 00:54:03",
+  "last_updated": "2026-03-22 03:10:24",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
       "language": "unknown"
     },
     {
@@ -109,18 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "summary": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes.",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Mar 2026 23:01:07 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
       "title": "Trump at a crossroads as US weighs tough options in Iran",
       "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
       "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 22:12:04 GMT",
+      "published": "Sun, 22 Mar 2026 00:50:43 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
+      "language": "unknown"
+    },
+    {
+      "title": "National blackout hits Cuba for second time in a week",
+      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 02:02:40 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
@@ -142,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "summary": "\"Don't take this storm lightly,\" Hawaii Governor Josh Green warned on Saturday, as more rain is expected on Oahu and Maui.",
-      "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 22:01:45 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
@@ -164,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+      "summary": "\"Don't take this storm lightly,\" Hawaii Governor Josh Green warned on Saturday, as more rain is expected on Oahu and Maui.",
+      "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Mar 2026 22:01:45 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
-      "language": "unknown"
-    },
-    {
-      "title": "As Islamophobia rises, Australia's Muslims celebrate Eid",
-      "summary": "Recent events abroad and at home have fuelled an ongoing surge of Islamophobia in Australia.",
-      "link": "https://www.bbc.com/news/articles/cr410ezy312o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 22:36:13 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
-      "summary": "Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\".",
-      "link": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 11:26:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 00:54:03",
+      "fetched_at": "2026-03-22 03:10:24",
       "language": "unknown"
     }
   ]
