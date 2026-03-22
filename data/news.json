@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 21:38:53",
+  "last_updated": "2026-03-22 21:59:30",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -131,40 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
-      "language": "unknown"
-    },
-    {
-      "title": "National blackout hits Cuba for second time in a week",
-      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 16:59:26 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
-      "language": "unknown"
-    },
-    {
-      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 17:35:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump says ICE agents will assist airport security as DHS shutdown continues",
-      "summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
-      "link": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 18:15:59 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -175,7 +142,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
+      "language": "unknown"
+    },
+    {
+      "title": "National blackout hits Cuba for second time in a week",
+      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 16:59:26 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 21:59:30",
+      "language": "unknown"
+    },
+    {
+      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 17:35:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 21:59:30",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+      "summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "link": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 18:15:59 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 21:38:53",
+      "fetched_at": "2026-03-22 21:59:30",
       "language": "unknown"
     }
   ]
