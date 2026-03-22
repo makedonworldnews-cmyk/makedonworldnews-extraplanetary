@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 20:58:39",
+  "last_updated": "2026-03-22 21:38:53",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -120,18 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
-      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
-      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 17:35:19 GMT",
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+      "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:23:07 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -142,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 17:35:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "'We cannot be in peace', say Guthrie family as they renew appeal over missing mother",
-      "summary": "A seven-week nationwide search for 84-year-old Nancy Guthrie, the mother of TV anchor Savannah Guthrie has not identified any suspects.",
-      "link": "https://www.bbc.com/news/articles/c0q9zx4g1w9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 14:45:34 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -175,7 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Hawaii storms have caused $1bn in damage, governor says",
+      "summary": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
+      "link": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:24:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 21:38:53",
+      "language": "unknown"
+    },
+    {
+      "title": "'We cannot be in peace', say Guthrie family as they renew appeal over missing mother",
+      "summary": "A seven-week nationwide search for 84-year-old Nancy Guthrie, the mother of TV anchor Savannah Guthrie has not identified any suspects.",
+      "link": "https://www.bbc.com/news/articles/c0q9zx4g1w9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 14:45:34 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Russian attacks kill six in Ukraine, officials say",
-      "summary": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
-      "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 19:29:06 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Qatari and Turkish citizens die in military helicopter crash",
-      "summary": "Four Qatari military personnel, one Turkish serviceman and two technicians from a Turkish defence company were on board.",
-      "link": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 13:35:44 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-22 20:58:39",
+      "fetched_at": "2026-03-22 21:38:53",
       "language": "unknown"
     }
   ]
