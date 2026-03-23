@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23 21:53:19",
+  "last_updated": "2026-03-23 22:34:01",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:18",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -120,40 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
-      "title": "Colombian Air Force plane crashes with 125 people on board",
-      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
-      "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 19:04:15 GMT",
+      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+      "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat b...",
+      "link": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 21:13:47 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-      "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 20:21:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Slovenia becomes first EU country to introduce fuel rationing",
-      "summary": "Until further notice, motorists in Slovenia will be restricted to a maximum purchase of 50 litres of fuel per day.",
-      "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 17:45:25 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -164,7 +142,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
+      "language": "unknown"
+    },
+    {
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+      "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 20:21:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-23 22:34:01",
+      "language": "unknown"
+    },
+    {
+      "title": "Slovenia becomes first EU country to introduce fuel rationing",
+      "summary": "Until further notice, motorists in Slovenia will be restricted to a maximum purchase of 50 litres of fuel per day.",
+      "link": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 17:45:25 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-23 22:34:01",
+      "language": "unknown"
+    },
+    {
+      "title": "Colombian Air Force plane crashes with dozens on board",
+      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
+      "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 19:04:15 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
-      "summary": "The videos sparked widespread anger, leading to the hashtag #StopRapingWomen to trend on social media.",
-      "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Mar 2026 15:01:17 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-23 21:53:19",
+      "fetched_at": "2026-03-23 22:34:01",
       "language": "unknown"
     }
   ]
