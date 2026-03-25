@@ -1,16 +1,82 @@
 {
-  "last_updated": "2026-03-25 11:08:28",
+  "last_updated": "2026-03-25 12:07:14",
   "article_count": 20,
   "articles": [
     {
-      "title": "Уапсен возачот кој усмрти пешак синоќа во Марино",
-      "summary": "Вчера во 23:20 часот во СВР Скопје е пријавено дека на ул.„500“ во с.Марино, општина Илинден, патничко возило „киа“ со скопски регистарски ознаки, упр...",
+      "title": "Иран е речиси целосно без интернет веќе 26 дена",
+      "summary": "Речиси целата комуникација од Иран останува блокирана, а прекинот на интернетот влезе во својот 26-ти ден, објави NetBlocks. Организацијата што ја сле...",
+      "link": "https://makfax.com.mk/svet/iran-e-rechisi-czelosno-bez-internet-veke-26-dena/",
+      "published": "Wed, 25 Mar 2026 11:00:07 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 12:07:14",
+      "language": "unknown"
+    },
+    {
+      "title": "Данската премиерка поднесе оставка",
+      "summary": "Данската премиерка Мете Фредериксен поднесе оставка откако нејзината тројна коалиција претрпе тежок пораз на парламентарните избори, соопшти кралската...",
+      "link": "https://makfax.com.mk/svet/danskata-premierka-podnese-ostavka/",
+      "published": "Wed, 25 Mar 2026 10:41:44 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 12:07:14",
+      "language": "unknown"
+    },
+    {
+      "title": "„Го дестабилизиравте целиот регион“: Санчез со остри обвинувања кон САД и Израел",
+      "summary": "Шпанскиот премиер, Педро Санчез, пред Конгресот остро ја критикуваше воената акција на САД и Израел против Иран, која ја опиша како неправедна и незак...",
+      "link": "https://makfax.com.mk/svet/go-destabiliziravte-czeliot-region-sanchez-so-ostri-obvinuvana-kon-sad-i-izrael/",
+      "published": "Wed, 25 Mar 2026 10:21:46 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 12:07:14",
+      "language": "unknown"
+    },
+    {
+      "title": "ДУИ: Речиси 25 милиони евра потрошени за увоз на струја од почетокот на 2026 година",
+      "summary": "Демократската Унија за интеграција (ДУИ) објави дека од почетокот на 2026 година се потрошени речиси 25 милиони евра за увоз на струја. „ДУИ објавува ...",
+      "link": "https://makfax.com.mk/makedonija/dui-rechisi-25-milioni-evra-potrosheni-za-uvoz-na-struja-od-pochetokot-na-2026-godina/",
+      "published": "Wed, 25 Mar 2026 10:16:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 12:07:14",
+      "language": "unknown"
+    },
+    {
+      "title": "Мекларен ги реши проблемите од Кина",
+      "summary": "По проблемите што ги спречија возачите на Мекларен да стартуваат на Големата награда на Кина, тимот ги откри техничките проблеми на возилата на актуел...",
+      "link": "https://makfax.com.mk/sport/meklaren-gi-reshi-problemite-od-kina/",
+      "published": "Wed, 25 Mar 2026 10:12:10 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 12:07:14",
+      "language": "unknown"
+    },
+    {
+      "title": "Македонија домаќин на Светско првенство во риболов на крап – екипи од 30 држави доаѓаат во Маврово",
+      "summary": "Македонија и Мавровското езеро оваа година ќе бидат домаќини на Светско првенство во риболов на крап, едно од најзначајните натпреварувачки случувања ...",
+      "link": "https://makfax.com.mk/makedonija/makedonija-domakin-na-svetsko-prvenstvo-vo-ribolov-na-krap-ekipi-od-30-drzhavi-doagaat-vo-mavrovo/",
+      "published": "Wed, 25 Mar 2026 10:11:03 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 12:07:14",
+      "language": "unknown"
+    },
+    {
+      "title": "Уапсен возачот кој усмрти пешак синоќа во село Марино",
+      "summary": "Вчера во 23:20 часот во СВР Скопје е пријавено дека на улицата „500“ во село Марино, општина Илинден, патничко возило „киа“ со скопски регистарски озн...",
       "link": "https://makfax.com.mk/crna-hronika/uapsen-vozachot-koj-usmrti-peshak-sinoka-vo-marino/",
       "published": "Wed, 25 Mar 2026 10:07:57 +0000",
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -43,73 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
-      "language": "unknown"
-    },
-    {
-      "title": "Конференција на Народната банка: Стабилноста, иновацијата и отпорноста како столбови на економијата",
-      "summary": "„Во време на светски предизвици, одржливите и иновативни институции се најсигурното „сидро“ за економијата.“ Ова беше главната порака што беше испрате...",
-      "link": "https://makfax.com.mk/ekonomija/konferenczija-na-narodnata-banka-stabilnosta-inovaczijata-i-otpornosta-kako-stolbovi-na-ekonomijata/",
-      "published": "Wed, 25 Mar 2026 09:37:22 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) „Општина Аеродром незаконски ги скрати за 50% надоместоците за избирачките одбори“, велат од СДСМ",
-      "summary": "Спротивно на Изборниот законик и Правилникот на Државната изборна комисија, Советот на општина Аеродром на вчерашната седница одлучи да ги намали за 5...",
-      "link": "https://makfax.com.mk/makedonija/video-opshtina-aerodrom-nezakonski-gi-skrati-za-50-nadomestoczite-za-izbirachkite-odbori-velat-od-sdsm/",
-      "published": "Wed, 25 Mar 2026 09:35:16 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) По 55-тата година, правете ги овие три вежби и не се откажувајте: Тоа е најважната инвестиција во вашето тело",
-      "summary": "Жените по 55-годишна возраст треба да практикуваат одредени вежби за да ја одржат мускулната маса и распределбата на мастите. Природно губиме мускули ...",
-      "link": "https://makfax.com.mk/zanimlivosti/video-po-55-tata-godina-pravete-gi-ovie-tri-vezhbi-i-ne-se-otkazhuvajte-toa-e-najvazhnata-investiczija-vo-vasheto-telo/",
-      "published": "Wed, 25 Mar 2026 09:30:34 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
-      "language": "unknown"
-    },
-    {
-      "title": "Хербион пастили од исландски лишај – природна поддршка при суво и надразнето грло",
-      "summary": "Новите Хербион пастили од исландски лишај претставуваат традиционален хербален лек наменет за ублажување на иритација и сувост во грлото, како и за см...",
-      "link": "https://makfax.com.mk/soopstenija/herbion-pastili-od-islandski-lishaj-prirodna-poddrshka-pri-suvo-i-nadrazneto-grlo/",
-      "published": "Wed, 25 Mar 2026 09:20:18 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
-      "language": "unknown"
-    },
-    {
-      "title": "Изминатите два дена 1177 сообраќајни прекршоци, лишени од слобода 25 лица за безобѕирно возење",
-      "summary": "Во текот на изминатите два дена (23/24.03.2026) како резултат на редовните сообраќајни контроли што ги реализираат полициските службеници од сите сект...",
-      "link": "https://makfax.com.mk/makedonija/izminatite-dva-dena-1177-soobrakajni-prekrshoczi-lisheni-od-sloboda-25-licza-za-bezobzirno-vozene/",
-      "published": "Wed, 25 Mar 2026 09:18:37 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
-      "language": "unknown"
-    },
-    {
-      "title": "Италијански државен секретар поднесе оставка поради удел во ресторан поврзан со мафијата",
-      "summary": "Државниот секретар во италијанското Министерство за правда, Андреа Делмастро, поднесе оставка откако беше откриено дека имал удел во ресторан поврзан ...",
-      "link": "https://makfax.com.mk/svet/evropa/italijanski-drzhaven-sekretar-podnese-ostavka-poradi-udel-vo-restoran-povrzan-so-mafijata/",
-      "published": "Wed, 25 Mar 2026 09:17:27 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -153,18 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
       "title": "Dozens of bodies, mostly infants, discovered in Kenya mass grave",
       "summary": "Some of the 32 bodies, including 25 children, are believed to have come from local hospitals and mortuaries.",
       "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 08:41:22 GMT",
+      "published": "Wed, 25 Mar 2026 10:22:25 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -197,18 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
       "title": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
       "summary": "The 23-year-old is the third man to be charged in connection with the death of Chris Baghsarian.",
       "link": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 05:47:56 GMT",
+      "published": "Wed, 25 Mar 2026 11:06:41 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 11:08:28",
+      "fetched_at": "2026-03-25 12:07:14",
       "language": "unknown"
     }
   ]
