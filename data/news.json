@@ -1,16 +1,104 @@
 {
-  "last_updated": "2026-03-25 08:32:27",
+  "last_updated": "2026-03-25 09:08:52",
   "article_count": 20,
   "articles": [
     {
-      "title": "Поднесено обвинение за тешка кражба на кабли од кругот на скопска „Железара“",
+      "title": "(Фото) Непроодна една лента на Христијан Тодоровски-Карпош во Бутел, се расипа уште еден двокатен автобус",
+      "summary": "Крајната десна лента на булеварот Христијан Тодоровски-Карпош во Бутел утрово е непроодна оти се расипа уште еден двокатен автобус на ЈСП. Возачите во...",
+      "link": "https://makfax.com.mk/makedonija/foto-neproodna-edna-lenta-na-hristijan-todorovski-karposh-vo-butel-se-rasipa-ushte-eden-dvokaten-avtobus/",
+      "published": "Wed, 25 Mar 2026 08:00:57 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "„Америка никогаш повторно нема да се откаже од Месечината“: НАСА најави база на Месечината и нуклеарна мисија на Марс",
+      "summary": "Новиот шеф на НАСА, Џаред Исакман, ја менува насоката на американската вселенска агенција, а на настан во Вашингтон, тој презентираше амбициозна визиј...",
+      "link": "https://makfax.com.mk/svet/amerika-nikogash-povtorno-nema-da-se-otkazhe-od-mesechinata-nasa-najavi-baza-na-mesechinata-i-nuklearna-misija-na-mars/",
+      "published": "Wed, 25 Mar 2026 07:59:43 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Шефот на „Шел“ предупредува: Европа може да остане без гориво за неколку дена",
+      "summary": "Европа би можела да се соочи со недостиг на гориво уште следниот месец, бидејќи кризата на Блискиот Исток се продлабочува, предупреди шефот на „Шел“, ...",
+      "link": "https://makfax.com.mk/svet/shefot-na-shel-predupreduva-evropa-mozhe-da-ostane-bez-gorivo-za-nekolku-dena/",
+      "published": "Wed, 25 Mar 2026 07:59:16 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Луис Гарсија Плаза е новиот тренер на Севилја",
+      "summary": "Фудбалскиот клуб Севилја го назначи Луис Гарсија Плаза за тренер на првиот тим. Гарсија Плаза, кој го замени Матијас Алмеида на позицијата шеф на трен...",
+      "link": "https://makfax.com.mk/sport/luis-garsija-plaza-e-noviot-trener-na-sevilja/",
+      "published": "Wed, 25 Mar 2026 07:56:11 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Зошто Генерацијата Z отворено зборува за платите на работа?",
+      "summary": "Младите генерации вработени сè повеќе отворено зборуваат за платите, фундаментално менувајќи ја корпоративната култура и односите на работното место. ...",
+      "link": "https://makfax.com.mk/zanimlivosti/zoshto-generaczijata-z-otvoreno-zboruva-za-platite-na-rabota/",
+      "published": "Wed, 25 Mar 2026 07:52:06 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Јокиќ во Аризона со експресен трипл-дабл и кош за победа",
+      "summary": "Никола Јокиќ со експресен трипл-дабл и кош за победа го водеше Денвер до тримф во Аризона, над Феникс Санс со 125:123. Со своите поени на 11 секунди д...",
+      "link": "https://makfax.com.mk/sport/video-jokik-vo-arizona-so-ekspresen-tripl-dabl-i-kosh-za-pobeda/",
+      "published": "Wed, 25 Mar 2026 07:45:07 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Иран поставува нови услови за минување низ Ормускиот теснец",
+      "summary": "Иран ги информираше Советот за безбедност на Обединетите нации и Меѓународната поморска организација дека „ненепријателски бродови“ можат да минуваат ...",
+      "link": "https://makfax.com.mk/svet/iran-postavuva-novi-uslovi-za-minuvane-niz-ormuskiot-tesnecz/",
+      "published": "Wed, 25 Mar 2026 07:44:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Герасимовски: Исчистена дива депонија во Маџир Маало, собрани 12 тони отпад",
+      "summary": "Службите на општина Центар со камиони и механизација исчистија дива депонија во Маџир Маало. Расчистена е површина од околу 150 квадратни метри, при ш...",
+      "link": "https://makfax.com.mk/makedonija/gerasimovski-ischistena-diva-deponija-vo-madhir-maalo-sobrani-12-toni-otpad/",
+      "published": "Wed, 25 Mar 2026 07:42:10 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-25 09:08:52",
+      "language": "unknown"
+    },
+    {
+      "title": "Украле кабли од скопска „Железара“ вредни 196.500 денари, а оштетиле друг вреден 800.000 денари: поднесено обвинение за тешка кражба",
       "summary": "По спроведена истражна постапка, Основното јавно обвинителство Скопје поднесе Обвинителен акт против тројца соизвршители на кривично дело – Тешка краж...",
       "link": "https://makfax.com.mk/makedonija/podneseno-obvinenie-za-teshka-krazhba-na-kabli-od-krugot-na-skopska-zhelezara/",
       "published": "Wed, 25 Mar 2026 07:30:21 +0000",
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -21,117 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
-      "title": "(Видео) Вучиќ: Ако дојде до уништување на светот, нема да има сомнеж дека крајот започнал на 24 март 1999 година",
-      "summary": "Претседателот на Србија, Александар Вучиќ, изјави во Врање, на одбележувањето на 27-годишнината од бомбардирањето на СР Југославија од страна на НАТО,...",
-      "link": "https://makfax.com.mk/svet/region/video-vuchik-ako-dojde-do-unishtuvane-na-svetot-nema-da-ima-somnezh-deka-krajot-zapochnal-na-23-mart-1999-godina/",
-      "published": "Wed, 25 Mar 2026 07:27:34 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Радио Слободна Европа на македонски јазик престанува со работа",
-      "summary": "Македонскиот сервис на Радио Слободна Европа и паштунскиот, Радио Машал, ќе бидат затворени на 31 март 2026 година. „Затворањето на овие два сервиса е...",
-      "link": "https://makfax.com.mk/makedonija/radio-slobodna-evropa-na-makedonski-jazik-prestanuva-so-rabota/",
-      "published": "Wed, 25 Mar 2026 07:24:53 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Планот на Трамп за мир со Иран ги урна цените на нафтата, азиските берзи во пораст",
-      "summary": "Цените на нафтата паднаа за речиси 6 проценти во среда, додека азиските акции пораснаа по извештаите дека Доналд Трамп испратил мировен план до Иран. ...",
-      "link": "https://makfax.com.mk/svet/planot-na-tramp-za-mir-so-iran-gi-urna-czenite-na-naftata-aziskite-berzi-vo-porast/",
-      "published": "Wed, 25 Mar 2026 07:20:48 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "(Фото) Откако ја раскина свршувачката, актерот е во врска со модел од Швајцарија која е 21 година помлада од него",
-      "summary": "Актерот Орландо Блум (49) веќе неколку месеци е во тајна врска со моделот Луиза Ламел (28), со која започна романса откако раскина со пејачката Кејти ...",
-      "link": "https://makfax.com.mk/zanimlivosti/foto-otkako-ja-raskina-svrshuvachkata-akterot-e-vo-vrska-so-model-od-shvajczarija-koja-e-21-godina-pomlada-od-nego/",
-      "published": "Wed, 25 Mar 2026 07:14:09 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Сиена Милер за бременоста во четириесеттите години: „Многу е полесно“",
-      "summary": "Актерката Сиена Милер (44) отворено проговори за мајчинството на постара возраст, истакнувајќи дека искуството е многу полесно отколку кога првпат ста...",
-      "link": "https://makfax.com.mk/zanimlivosti/siena-miler-za-bremenosta-vo-chetiriesettite-godini-mnogu-e-polesno/",
-      "published": "Wed, 25 Mar 2026 07:05:14 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "(Фото/Видео) Ќерката на познатиот тренер е опсесија на многумина: Убава, влијателна и го следи својот татко насекаде",
-      "summary": "Прославениот тренер Пеп Гвардиола постигна победа во финалето на EFL Купот, а начинот на кој ја прослави привлече големо внимание на социјалните мрежи...",
-      "link": "https://makfax.com.mk/zanimlivosti/foto-video-kerkata-na-poznatiot-trener-e-opsesija-na-mnogumina-ubava-vlijatelna-i-go-sledi-svojot-tatko-nasekade/",
-      "published": "Wed, 25 Mar 2026 06:54:40 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Толку природна, а толку згодна: Најсексипилната актерка ги излуде обожавателите со стари фотографии",
-      "summary": "Актерката Џесика Алба процвета по разводот од Кеш Ворен, а распадот на нејзиниот брачен живот не ја вознемири многу. Зачудувачката убавица набрзо прон...",
-      "link": "https://makfax.com.mk/zanimlivosti/video-tolku-prirodna-a-tolku-zgodna-najseksipilnata-akterka-gi-izlude-obozhavatelite-so-stari-fotografii/",
-      "published": "Wed, 25 Mar 2026 06:47:48 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "(Фото) Ромео Бекам се соблече: Ја покажа својата најнова тетоважа, има над 70 од нив",
-      "summary": "Синот на Дејвид и Викторија Бекам, Ромео, обожава да привлекува внимание кон себе, главно преку социјалните мрежи, иако неговиот приватен живот е исто...",
-      "link": "https://makfax.com.mk/zanimlivosti/foto-romeo-bekam-se-sobleche-ja-pokazha-svojata-najnova-tetovazha-ima-nad-70-od-niv/",
-      "published": "Wed, 25 Mar 2026 06:42:40 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
-      "language": "unknown"
-    },
-    {
-      "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+      "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
       "summary": "In an interview with BBC Newsnight, five women abused by the disgraced financier describe the impact of their shared ordeal.",
       "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Mar 2026 06:00:23 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
-      "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
-      "summary": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century.",
+      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
+      "summary": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government.",
       "link": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 03:40:53 GMT",
+      "published": "Wed, 25 Mar 2026 07:59:41 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -142,18 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
-      "title": "Warning oil rise to $150 could trigger global recession",
+      "title": "Warning of global recession if oil price hits $150",
       "summary": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
       "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 07:15:54 GMT",
+      "published": "Wed, 25 Mar 2026 08:04:43 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-25 08:32:27",
+      "fetched_at": "2026-03-25 09:08:52",
       "language": "unknown"
     }
   ]
