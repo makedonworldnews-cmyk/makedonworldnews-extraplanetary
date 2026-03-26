@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26 01:03:55",
+  "last_updated": "2026-03-26 04:24:07",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -120,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Who wants what and why from US-Iran peace talks?",
+      "summary": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
+      "link": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 21:37:34 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-26 04:24:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+      "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+      "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 00:41:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -131,29 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
-      "language": "unknown"
-    },
-    {
-      "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
-      "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
-      "link": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 15:07:13 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
-      "language": "unknown"
-    },
-    {
-      "title": "'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC",
-      "summary": "The US congressman responded to a BBC Newsnight interview with a group of survivors of the late financier's abuse.",
-      "link": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 15:47:48 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
+      "language": "unknown"
+    },
+    {
+      "title": "'Men need to be perp-walked' after Epstein files release, US Congressman Massie tells BBC",
+      "summary": "The US congressman responded to a BBC Newsnight interview with a group of survivors of the late financier's abuse.",
+      "link": "https://www.bbc.com/news/articles/cd0rek7v7npo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 15:47:48 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
@@ -197,29 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     },
     {
-      "title": "Dozens of bodies, mostly infants, discovered in Kenya mass grave",
-      "summary": "Some of the 32 bodies, including 25 children, are believed to have come from local hospitals and mortuaries.",
-      "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 11:11:50 GMT",
+      "title": "Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
+      "summary": "The 35-year-old from Florida remains detained in Los Angeles after the 8 March shooting.",
+      "link": "https://www.bbc.com/news/articles/c8ejw8llwggo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Mar 2026 20:31:25 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
-      "language": "unknown"
-    },
-    {
-      "title": "Talk show host Stephen Colbert to write new Lord of the Rings film",
-      "summary": "Colbert, who is a Tolkien superfan, will adapt an early section of the first Lord of the Rings novel.",
-      "link": "https://www.bbc.com/news/articles/c33ldp22833o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Mar 2026 12:21:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-26 01:03:55",
+      "fetched_at": "2026-03-26 04:24:07",
       "language": "unknown"
     }
   ]
