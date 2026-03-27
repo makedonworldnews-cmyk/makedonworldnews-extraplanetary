@@ -1,16 +1,115 @@
 {
-  "last_updated": "2026-03-27 08:56:46",
-  "article_count": 10,
+  "last_updated": "2026-03-27 10:01:54",
+  "article_count": 20,
   "articles": [
     {
-      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-      "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
-      "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 17:57:41 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
+      "title": "Началник на израелската армија: Во опасност сме од воен колапс",
+      "summary": "Началникот на Генералштабот на израелската армија, генерал-потполковник Ејал Замир, предупреди дека Израелските одбранбени сили (ИДФ) наскоро би можел...",
+      "link": "https://makfax.com.mk/svet/nachalnik-na-izraelskata-armija-vo-opasnost-sme-od-voen-kolaps/",
+      "published": "Fri, 27 Mar 2026 09:01:48 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Гатузо: Босна и Херцеговина е Монт Еверест за нас",
+      "summary": "Италија ја победи Северна Ирска со 2:0 во првиот плејоф натпревар за Светското првенство и ќе игра против Босна и Херцеговина во Зеница на 31 март за ...",
+      "link": "https://makfax.com.mk/sport/gatuzo-bosna-i-herczegovina-e-mont-everest-za-nas/",
+      "published": "Fri, 27 Mar 2026 08:54:31 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Филипче во паника за да ја зачува фотелјата во СДС ја турка партијата кон бездна, велат од ВМРО-ДПМНЕ",
+      "summary": "Венко Филипче очајно се обидува да ја зачува својата фотелја во СДС, тоа е причината што целосно ја става СДС во функција на туѓи интереси и ја претво...",
+      "link": "https://makfax.com.mk/makedonija/filipche-vo-panika-za-da-ja-zachuva-foteljata-vo-sds-ja-turka-partijata-kon-bezdna-velat-od-vmro-dpmne/",
+      "published": "Fri, 27 Mar 2026 08:53:50 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "ЕУ ја обвинува Русија дека му помага на Иран",
+      "summary": "Европските сили ја обвинија Русија дека му помага на Иран да ги таргетира американските сили на Блискиот Исток, најавувајќи дека ќе го покренат прашањ...",
+      "link": "https://makfax.com.mk/svet/eu-ja-obvinuva-rusija-deka-mu-pomaga-na-iran/",
+      "published": "Fri, 27 Mar 2026 08:47:58 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Потписот на Трамп наскоро ќе се појави на американските долари, прв пат за актуелен претседател",
+      "summary": "Министерството за финансии објави во четврток дека потписот на претседателот Доналд Трамп наскоро ќе се појави на американските хартиени пари. Ова е н...",
+      "link": "https://makfax.com.mk/svet/potpisot-na-tramp-naskoro-ke-se-pojavi-na-banknotite-vo-amerikanski-dolari-prv-pat-za-aktuelen-pretsedatel/",
+      "published": "Fri, 27 Mar 2026 08:47:46 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Путин се сретнал со водечките руски олигарси: бара донации за војната во Украина",
+      "summary": "Рускиот претседател Владимир Путин побарал од олигарсите да донираат во државниот буџет за да ги стабилизира финансиите на земјата додека тој продолжу...",
+      "link": "https://makfax.com.mk/svet/putin-se-sretnal-so-vodechki-oligarsi-bara-donaczii-za-vojnata-vo-ukraina/",
+      "published": "Fri, 27 Mar 2026 08:39:25 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Арагчи предупреди: „Има нови цели“",
+      "summary": "Иран ги предупреди операторите на хотели на Блискиот Исток преку новинската агенција „Фарс“ и изјавата на министерот за надворешни работи Абас Арагчи ...",
+      "link": "https://makfax.com.mk/svet/aragchi-predupredi-ima-novi-czeli/",
+      "published": "Fri, 27 Mar 2026 08:34:42 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Анемична игра и убедлив пораз во Копенхаген",
+      "summary": "Сонот на македонските фудбалери дека можат пред се да изборат пласман во финалето, во рамките на баражот за пласмна на Мундијалот, на „Паркен“ стадион...",
+      "link": "https://makfax.com.mk/sport/anemichna-igra-i-ubedliv-poraz-vo-kopenhagen/",
+      "published": "Fri, 27 Mar 2026 08:33:22 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Веѓи за кои холивудските убавици се „луди“: како да се грижите за нив",
+      "summary": "Во светот долго време доминира трендот во обликувањето на веѓите што нагласува природна полнота, што парижанките, познати по својот ненаметлив, но раф...",
+      "link": "https://makfax.com.mk/zanimlivosti/vegi-za-koi-holivudskite-ubaviczi-se-ludi-kako-da-se-grizhite-za-niv/",
+      "published": "Fri, 27 Mar 2026 08:32:14 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Расте притисокот врз Сара Фергусон да сведочи за Џефри Епстин",
+      "summary": "Американски пратеник директно ја повикал Сара Фергусон да сведочи за нејзините „блиски лични и деловни врски“ со Џефри Епстин, според писмо кое ексклу...",
+      "link": "https://makfax.com.mk/svet/raste-pritisokot-vrz-sara-ferguson-da-svedochi-za-dhefri-epstin/",
+      "published": "Fri, 27 Mar 2026 08:25:58 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
@@ -21,18 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "summary": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
-      "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 03:42:48 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
@@ -43,18 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Women secretly filmed, then ridiculed and abused online",
-      "summary": "Women in Kenya and Ghana tell the BBC about being approached by a Russian man who later posts videos of them without their consent.",
-      "link": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 07:20:18 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
@@ -65,7 +142,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Nepal swears in ex-rapper as new prime minister",
+      "summary": "Balendra Shah won the election by a landslide promising change to Nepalis who are angry at corruption.",
+      "link": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 07:10:50 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Oscars moving to a new home outside Hollywood",
+      "summary": "The centrally located Peacock Theater in Los Angeles will host the 101st Academy Awards ceremony when it begins streaming on YouTube in 2029.",
+      "link": "https://www.bbc.com/news/articles/c9wq5g5p174o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 21:50:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+      "summary": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
+      "link": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 03:42:48 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
@@ -76,18 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
-      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
-      "summary": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.",
-      "link": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 00:44:24 GMT",
+      "title": "Whale swims off sandbank after big German rescue effort on Baltic coast",
+      "summary": "Rescue teams now hope the whale will swim out of the shallow waters of Lübeck Bay and into the wider sea.",
+      "link": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 08:00:28 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
@@ -98,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     },
     {
-      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
-      "summary": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
-      "link": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 17:16:06 GMT",
+      "title": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
+      "summary": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
+      "link": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 08:16:37 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 08:56:46",
+      "fetched_at": "2026-03-27 10:01:54",
       "language": "unknown"
     }
   ]
