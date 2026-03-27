@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27 22:04:12",
+  "last_updated": "2026-03-27 22:49:15",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
@@ -109,29 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
-      "language": "unknown"
-    },
-    {
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-      "link": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 13:25:57 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:14",
       "language": "unknown"
     },
     {
       "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-      "summary": "A hacker group shares Patel's purported resume and photos of him on its website, information, the FBI says, is \"historical in nature\".",
+      "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
       "link": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Mar 2026 19:21:19 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
+      "language": "unknown"
+    },
+    {
+      "title": "Tiger Woods charged with driving under influence after crash",
+      "summary": "Golfer Tiger Woods is charged with driving under the influence after a car crash in Florida, police say.",
+      "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 21:24:44 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
@@ -142,29 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
-      "language": "unknown"
-    },
-    {
-      "title": "Austria becomes latest to propose social media ban for children",
-      "summary": "The proposed under-14 ban follows similar steps in other European countries, including France and Spain.",
-      "link": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 17:21:42 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
       "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
       "summary": "Marco Rubio said US allies were open to helping escort ships through the Strait of Hormuz, which Iran has closed and threatened to charge fees for.",
       "link": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 20:30:26 GMT",
+      "published": "Fri, 27 Mar 2026 21:16:30 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
@@ -175,18 +164,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
-      "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
-      "summary": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
-      "link": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 03:14:10 GMT",
+      "title": "Trump orders paycheques for TSA workers as Congress stalls and airport chaos grinds on",
+      "summary": "The late-night vote was a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
+      "link": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 19:31:57 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
+      "language": "unknown"
+    },
+    {
+      "title": "Austria becomes latest to propose social media ban for children",
+      "summary": "The proposed under-14 ban follows similar steps in other European countries, including France and Spain.",
+      "link": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 17:21:42 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     },
     {
-      "title": "Palestinian man killed as death toll from West Bank settler violence climbs",
-      "summary": "Mohammad al-Malhi is the seventh Palestinian killed by a settler in a surge of violence since the start of the war with Iran.",
-      "link": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Mar 2026 12:30:10 GMT",
+      "title": "Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty",
+      "summary": "Two key supporters of Russia's war in Ukraine close ranks as Alexander Lukashenko visits Pyongyang.",
+      "link": "https://www.bbc.com/news/articles/c8957dxjvkxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 03:14:10 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-27 22:04:12",
+      "fetched_at": "2026-03-27 22:49:15",
       "language": "unknown"
     }
   ]
