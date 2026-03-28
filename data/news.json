@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-03-28 21:59:09",
+  "last_updated": "2026-03-28 22:38:43",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Спектакуларен спринт во Тексас – Мартин победи, Маркез, Диџа и Бецеки не ја завршија трката",
+      "summary": "Возачот на Априлија, Хорхе Мартин, постигна спектакуларна победа, во спринт трката во Остин, Тексас. Мартин, кој зад себе има кошмарна сезона, ја оств...",
+      "link": "https://makfax.com.mk/sport/spektakularen-sprint-vo-teksas-martin-pobedi-markez-didha-i-beczeki-ne-ja-zavrshija-trkata/",
+      "published": "Sat, 28 Mar 2026 21:00:31 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-03-28 22:38:43",
+      "language": "unknown"
+    },
     {
       "title": "Во пет напади во јужен Либан загинаа девет болничари",
       "summary": "Светската здравствена организација (СЗО) соопшти дека девет болничари се убиени, а седум други се ранети во пет одделни напади врз здравствени служби ...",
@@ -10,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -21,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -32,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -43,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -54,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -98,29 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
-      "title": "Детали за убиството во Охрид: Го задушил со голи раце, оти го оставил без наследство",
-      "summary": "Основното јавно обвинителство Охрид поведе истражна постапка за едно лице од тетовска Брвеница, кој од користољубие лишил од живот лице од Охрид. -Осн...",
-      "link": "https://makfax.com.mk/makedonija/detali-za-ubistvoto-vo-ohrid-go-zadushil-so-goli-racze-oti-go-ostavil-bez-nasledstvo/",
-      "published": "Sat, 28 Mar 2026 17:01:35 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
-      "language": "unknown"
-    },
-    {
-      "title": "Iran-backed Houthis join war with attack against Israel",
-      "summary": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
-      "link": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 20:51:57 GMT",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Mar 2026 20:36:03 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -175,18 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
       "title": "No Kings protests across the US rally against Donald Trump",
       "summary": "The demonstrations against the Trump administration are set to sweep cities across the US on Saturday.",
       "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 28 Mar 2026 18:53:43 GMT",
+      "published": "Sat, 28 Mar 2026 21:29:57 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-03-28 21:59:09",
+      "fetched_at": "2026-03-28 22:38:43",
       "language": "unknown"
     }
   ]
