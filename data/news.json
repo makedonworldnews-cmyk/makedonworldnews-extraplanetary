@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01 01:03:16",
+  "last_updated": "2026-04-01 01:47:10",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:15",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -175,18 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
+      "language": "unknown"
+    },
+    {
+      "title": "Woods to 'step away and seek treatment' after crash",
+      "summary": "Tiger Woods says he is \"stepping away for a period of time to seek treatment and focus on my health\" following an arrest after a car crash.",
+      "link": "https://www.bbc.com/sport/golf/articles/c87wjj424vro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 31 Mar 2026 23:44:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
       "title": "Judge temporarily halts construction of Trump's White House ballroom",
       "summary": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
       "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 31 Mar 2026 22:16:06 GMT",
+      "published": "Tue, 31 Mar 2026 23:46:01 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
-      "language": "unknown"
-    },
-    {
-      "title": "Wolf bites woman in shock German attack on busy Hamburg shopping street",
-      "summary": "It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.",
-      "link": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 31 Mar 2026 13:00:32 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-01 01:03:16",
+      "fetched_at": "2026-04-01 01:47:10",
       "language": "unknown"
     }
   ]
