@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02 22:47:51",
+  "last_updated": "2026-04-02 23:23:37",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
@@ -109,29 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:36",
       "language": "unknown"
     },
     {
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "summary": "Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.",
-      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 20:39:32 GMT",
+      "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+      "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
+      "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 16:09:24 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
-      "language": "unknown"
-    },
-    {
-      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
-      "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 13:41:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:37",
       "language": "unknown"
     },
     {
@@ -142,7 +131,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:37",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump removes US Attorney General Pam Bondi",
+      "summary": "Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.",
+      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 20:39:32 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-02 23:23:37",
+      "language": "unknown"
+    },
+    {
+      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
+      "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 13:41:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-02 23:23:37",
+      "language": "unknown"
+    },
+    {
+      "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+      "summary": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
+      "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 21:00:56 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-02 23:23:37",
       "language": "unknown"
     },
     {
@@ -153,29 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Baby shot dead in pram in New York City, police say",
-      "summary": "The seven-month-old child is the unintended victim of a suspected gang-related shooting, officials say.",
-      "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 15:20:02 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
-      "language": "unknown"
-    },
-    {
-      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
-      "summary": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
-      "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 11:55:37 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:37",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:37",
+      "language": "unknown"
+    },
+    {
+      "title": "Baby shot dead in pram in New York City, police say",
+      "summary": "The seven-month-old child is the unintended victim of a suspected gang-related shooting, officials say.",
+      "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 15:20:02 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-02 23:23:37",
       "language": "unknown"
     },
     {
@@ -197,29 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:37",
       "language": "unknown"
     },
     {
-      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-      "summary": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
-      "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 16:00:58 GMT",
+      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "summary": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
+      "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Apr 2026 11:55:37 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Four toddlers stabbed to death at Ugandan nursery school",
-      "summary": "The suspect is in custody but his motive is unknown, the police say in a brief statement.",
-      "link": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Apr 2026 15:13:08 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-02 22:47:51",
+      "fetched_at": "2026-04-02 23:23:37",
       "language": "unknown"
     }
   ]
