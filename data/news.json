@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03 21:58:27",
+  "last_updated": "2026-04-03 22:48:24",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:26",
+      "fetched_at": "2026-04-03 22:48:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Meet the elite US teams tasked with combat rescues",
+      "summary": "Air Force Pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 20:42:56 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
-      "summary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
-      "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Apr 2026 15:04:39 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     },
     {
-      "title": "Trump removes US Attorney General Pam Bondi",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Apr 2026 11:42:17 GMT",
+      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+      "summary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+      "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Apr 2026 15:04:39 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-03 21:58:27",
+      "fetched_at": "2026-04-03 22:48:24",
       "language": "unknown"
     }
   ]
