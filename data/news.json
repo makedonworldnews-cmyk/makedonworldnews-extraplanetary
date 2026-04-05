@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 18:31:12",
+  "last_updated": "2026-04-05 19:04:42",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -109,18 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
       "title": "US airman injured but safe after rescue from inside Iran, Trump says",
       "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
       "link": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 08:36:06 GMT",
+      "published": "Sun, 05 Apr 2026 16:46:33 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -131,7 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
+      "language": "unknown"
+    },
+    {
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Apr 2026 16:38:06 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -142,18 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
-      "language": "unknown"
-    },
-    {
-      "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
-      "summary": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
-      "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 23:15:48 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -175,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
+      "language": "unknown"
+    },
+    {
+      "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+      "summary": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
+      "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Apr 2026 23:15:48 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
-      "language": "unknown"
-    },
-    {
-      "title": "Russian attack on Ukraine market kills five",
-      "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 18:54:53 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-05 18:31:12",
+      "fetched_at": "2026-04-05 19:04:42",
       "language": "unknown"
     }
   ]
