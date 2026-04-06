@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07 01:02:29",
+  "last_updated": "2026-04-07 01:48:32",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -109,18 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:28",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
-      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-      "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
-      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 15:40:35 GMT",
+      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+      "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
+      "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 21:55:50 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump's Hormuz ultimatum nears - with little indication Iran is on board",
+      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 23:04:23 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
-      "language": "unknown"
-    },
-    {
-      "title": "Seven Eritrean players fail to return home after international match",
-      "summary": "Several footballers have absconded in the past leaving behind what rights groups call a repressive government.",
-      "link": "https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 17:31:33 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 01:02:29",
+      "fetched_at": "2026-04-07 01:48:32",
       "language": "unknown"
     }
   ]
