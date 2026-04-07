@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 00:56:14",
+  "last_updated": "2026-04-08 01:42:12",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:11",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -175,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
+      "language": "unknown"
+    },
+    {
+      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "summary": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
+      "link": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 23:15:33 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
-      "language": "unknown"
-    },
-    {
-      "title": "One dead as train travelling 99mph collides with lorry in France",
-      "summary": "The lorry driver is in custody after the train driver died during the collision in northern France.",
-      "link": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 12:31:01 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-08 00:56:14",
+      "fetched_at": "2026-04-08 01:42:12",
       "language": "unknown"
     }
   ]
