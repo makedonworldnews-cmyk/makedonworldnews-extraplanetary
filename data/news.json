@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-04-07 14:44:52",
+  "last_updated": "2026-04-07 16:19:57",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Алиу: Науката како двигател на подостапно здравство, одбележан 7 април, Светскиот ден на здравјето",
+      "summary": "Министерот за здравство, Азир Алиу, им го честита 7 Април – Светскиот ден на здравјето на сите здравствени работници, на денешното традиционално свече...",
+      "link": "https://makfax.com.mk/makedonija/aliu-naukata-kako-dvigatel-na-podostapno-zdravstvo-odbelezhan-7-april-svetskiot-den-na-zdravjeto/",
+      "published": "Tue, 07 Apr 2026 14:15:31 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Левица: Нашите војници да не бидат топовско место во туѓи војни",
+      "summary": "Левица поднесе Предлог-закон за изменување и дополнување на Законот за одбрана, кој утре е на дневен ред на собраниска седница, информираат од оваа па...",
+      "link": "https://makfax.com.mk/makedonija/levica-nashite-vojnici-da-ne-bidat-topovsko-mesto-vo-tugi-vojni/",
+      "published": "Tue, 07 Apr 2026 14:02:04 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Даночна измама, перење пари: обвинение за над 6,5 милиони евра штета на буџет",
+      "summary": "По спроведена темелна истражна постапка, јавен обвинител од ОЈО ГОКК до Основниот кривичен суд Скопје достави Обвинителен акт против 10 лица и Обвинит...",
+      "link": "https://makfax.com.mk/makedonija/danochna-izmama-perenje-pari-obvinenie-za-nad-65-milioni-evra-shteta-na-budhet/",
+      "published": "Tue, 07 Apr 2026 13:46:08 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Пукање пред израелскиот конзулат во Истанбул: има загинати и повредени",
+      "summary": "Денес се случи пукање пред зградата каде што се наоѓа израелскиот конзулат во Истанбул и, според првичните информации, три лица се „неутрализирани“, а...",
+      "link": "https://makfax.com.mk/svet/video-pukanje-pred-izraelskiot-konzulat-vo-istanbul-ima-zaginati-i-povredeni/",
+      "published": "Tue, 07 Apr 2026 13:36:39 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Иран со закана: Ако САД ги преминат црвените линии, ќе ги прошириме нападите надвор од регионот",
+      "summary": "Тензиите меѓу САД и Иран ескалираа со размена на остри закани. Американскиот претседател се закани дека ќе ја нападне иранската инфраструктура, додека...",
+      "link": "https://makfax.com.mk/svet/iran-so-zakana-ako-sad-gi-preminat-crvenite-linii-ke-gi-proshirime-napadite-nadvor-od-regionot/",
+      "published": "Tue, 07 Apr 2026 13:10:19 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Кузеска: Потврда за Орбан, пријателот на Мицкоски е скриена рака на Русија во ЕУ",
+      "summary": "Американскиот „New York Times“ го потврди она што го говори СДСМ. Пријателот на Мицкоски – Орбан е скриена рака на Русија во Европа и во НАТО и дека р...",
+      "link": "https://makfax.com.mk/makedonija/video-kuzeska-potvrda-za-orban-prijatelot-na-mickoski-e-skriena-raka-na-rusija-vo-eu/",
+      "published": "Tue, 07 Apr 2026 12:54:32 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Ѓорѓиевски: Граѓаните навремено да ги подмират обврските по основ на даноци",
+      "summary": "Градоначалникот на Град Скопје, Орце Ѓорѓиевски денеска на седница на Советот одговарајќи на советничко прашање посочи дека во изминатите неколку годи...",
+      "link": "https://makfax.com.mk/makedonija/gorgievski-graganite-navremeno-da-gi-podmirat-obvrskite-po-osnov-na-danoci/",
+      "published": "Tue, 07 Apr 2026 12:47:13 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
     {
       "title": "Tрамп: Цела една цивилизација ќе умре вечерва",
       "summary": "Американскиот претседател Доналд Трамп објави на својата платформа Truth Social порака за рокот што му го даде на Иран за повторно отворање на Ормуски...",
@@ -10,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -32,84 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
-      "title": "Градел без документација во Гостиварско: двајца приведени, одземени и градежни машини",
-      "summary": "Полициски службеници од ОВР Гостивар вчера во содејство со градежни инспектори од општина Гостивар, извршија увид во с.Форино, гостиварско, поради пос...",
-      "link": "https://makfax.com.mk/crna-hronika/gradel-bez-dokumentacija-vo-gostivarsko-dvajca-privedeni-odzemeni-i-gradezhni-mashini/",
-      "published": "Tue, 07 Apr 2026 11:58:01 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
+      "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
+      "summary": "No Israeli diplomats are currently in Turkey and the Istanbul consulate has been empty for the past two-and-a-half years.",
+      "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 13:03:54 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
-      "title": "Измамен тетовец: останал без пари и без работна виза за Германија",
-      "summary": "Вчера во 15:10 часот во СВР Тетово, 33-годишен маж од Тетово пријави дека бил измамен од С.Ѓ. од Охрид, вработена во приватна фирма за консталтинг. Сп...",
-      "link": "https://makfax.com.mk/crna-hronika/izmamen-tetovec-ostanal-bez-pari-i-bez-rabotna-viza-za-germanija/",
-      "published": "Tue, 07 Apr 2026 11:53:19 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
+      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+      "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
+      "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 14:10:00 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
-      "language": "unknown"
-    },
-    {
-      "title": "84-годишна скопјанка паднала во автобус: со тешки повреди е пренесена во болница",
-      "summary": "Во СВР Скопје вчера во 11:00 часот било пријавено дека во градски автобус на крстосница од ул.„Васил Ѓоргов“ и ул.„Франклин Рузвелт“ во Скопје, паднал...",
-      "link": "https://makfax.com.mk/crna-hronika/84-godishna-skopjanka-padnala-vo-avtobus-so-teshki-povredi-e-prenesena-vo-bolnica/",
-      "published": "Tue, 07 Apr 2026 11:49:47 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Прегазено 14-годишно девојче во Куманово",
-      "summary": "Вчера во 15:25 часот во СВР Куманово е пријавено дека на ул.„Христијан Тодоровски Карпош“ во Куманово, товарно возило „фолксваген транспортер“ со кума...",
-      "link": "https://makfax.com.mk/crna-hronika/pregazeno-14-godishno-devojche-vo-kumanovo/",
-      "published": "Tue, 07 Apr 2026 11:44:48 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Де Коло ја игра последната сезона во кариерата",
-      "summary": "Кошаркарот на Фенербахче и поранешен француски репрезентативец, Нандо де Коло, изјави дека ќе ја заврши кариерата на крајот од сезоната. „Не реков дек...",
-      "link": "https://makfax.com.mk/sport/de-kolo-ja-igra-poslednata-sezona-vo-karierata/",
-      "published": "Tue, 07 Apr 2026 11:42:14 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Фицо: Русија профитира од намерните штетни акции на Украина",
-      "summary": "Словачкиот премиер Роберт Фицо денес изјави дека Словачка ќе се соочи со „исклучително сериозни меѓународни предизвици“ во наредниот период и дека Рус...",
-      "link": "https://makfax.com.mk/svet/fico-rusija-profitira-od-namernite-shtetni-akcii-na-ukraina/",
-      "published": "Tue, 07 Apr 2026 11:41:23 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
-      "language": "unknown"
-    },
-    {
-      "title": "Апелација ја укина пресудата против Лидија Димова",
-      "summary": "Апелационен суд Скопје ја укина првостепената пресуда против Лидија Димова, поранешна директорка на Еразмус, и предметот го врати на повторно судење п...",
-      "link": "https://makfax.com.mk/makedonija/apelacija-ja-ukina-presudata-protiv-lidija-dimova/",
-      "published": "Tue, 07 Apr 2026 11:40:57 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:51",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -120,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -153,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
+      "summary": "Vietnam's communist party chief is now also the country's president - an unusual concentration of power.",
+      "link": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 10:59:53 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -164,18 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
-      "language": "unknown"
-    },
-    {
-      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
-      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
-      "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 07:29:55 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
@@ -186,40 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     },
     {
-      "title": "Nine policemen sentenced to death in India over Covid custody killings",
-      "summary": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
-      "link": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 21:21:13 GMT",
+      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 07:29:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
-      "language": "unknown"
-    },
-    {
-      "title": "Lil Nas X assault case to be dismissed if he completes mental health programme",
-      "summary": "The judge said the musician's behaviour when he was arrested in LA last year was \"aberrant from his normal conduct\".",
-      "link": "https://www.bbc.com/news/articles/cew7nqn5rqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 21:55:11 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
-      "language": "unknown"
-    },
-    {
-      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-      "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
-      "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 19:11:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-07 14:44:52",
+      "fetched_at": "2026-04-07 16:19:57",
       "language": "unknown"
     }
   ]
