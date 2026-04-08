@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 01:42:12",
+  "last_updated": "2026-04-08 03:04:16",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
@@ -109,18 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:11",
+      "fetched_at": "2026-04-08 03:04:15",
       "language": "unknown"
     },
     {
-      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-      "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
-      "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 17:15:34 GMT",
+      "title": "Iran ceasefire deal a temporary win for Trump - but it comes at a cost",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 00:45:08 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
+      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 00:37:00 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-08 03:04:16",
+      "language": "unknown"
+    },
+    {
+      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "summary": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+      "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Apr 2026 01:00:49 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -153,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -164,18 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
-      "language": "unknown"
-    },
-    {
-      "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
-      "summary": "US Vice-President JD Vance intervenes in the campaign to give Orbán a ringing endorsement in Budapest.",
-      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 18:11:38 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
-      "language": "unknown"
-    },
-    {
-      "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
-      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
-      "link": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Apr 2026 12:19:46 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-08 01:42:12",
+      "fetched_at": "2026-04-08 03:04:16",
       "language": "unknown"
     }
   ]
