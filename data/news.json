@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 00:59:40",
+  "last_updated": "2026-04-10 01:49:21",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -109,29 +109,51 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:39",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
-      "title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
-      "summary": "Lebanese officials had called for a ceasefire before talks begin.",
-      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 20:47:02 GMT",
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "summary": "Both sides have reason to end the war but share no common ground.",
+      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 23:01:47 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-      "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
-      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+      "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+      "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 22:27:36 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
+      "fetched_at": "2026-04-10 01:49:21",
+      "language": "unknown"
+    },
+    {
+      "title": "UK says Russia ran submarine operation over cables and pipelines",
+      "summary": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+      "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 17:09:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-10 01:49:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+      "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 22:33:48 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -142,18 +164,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
-      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-      "summary": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
-      "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 16:06:39 GMT",
+      "title": "US has let in 4,499 refugees since October - all but three were South African",
+      "summary": "Trump has given priority to Afrikaners, a white minority group he says is being persecuted. South Africa has objected to his characterisation.",
+      "link": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 19:31:52 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
+      "fetched_at": "2026-04-10 01:49:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
+      "summary": "Lebanese officials had called for a ceasefire before talks begin.",
+      "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 20:47:02 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -164,7 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
+      "fetched_at": "2026-04-10 01:49:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+      "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 01:59:34 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     },
     {
@@ -175,51 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Trapped miner rescued from flooded Mexican tunnel after 14 days",
-      "summary": "The 42-year-old gold miner was standing in waist-high water when rescuers found him in a flooded tunnel.",
-      "link": "https://www.bbc.com/news/articles/cly9z8w4q55o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 10:04:40 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
-      "language": "unknown"
-    },
-    {
-      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "summary": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-      "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 08:23:11 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Argentina passes bill loosening protection of its glaciers",
-      "summary": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions.",
-      "link": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 10:52:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Pioneering wildlife cameraman Doug Allan dies after falling ill in Nepal",
-      "summary": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 14:52:09 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-10 00:59:40",
+      "fetched_at": "2026-04-10 01:49:21",
       "language": "unknown"
     }
   ]
