@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 23:53:07",
+  "last_updated": "2026-04-12 00:28:20",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -109,18 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
-      "title": "Artemis crew home safely after completing historic mission to the Moon",
-      "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
-      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Apr 2026 07:53:46 GMT",
+      "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+      "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
+      "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 21:23:07 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -131,18 +131,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
-      "title": "Frontrunner for California governor denies sexual assault allegations",
-      "summary": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\".",
-      "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Apr 2026 14:24:24 GMT",
+      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+      "summary": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
+      "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 21:11:18 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
+      "language": "unknown"
+    },
+    {
+      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
+      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 07:53:46 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
-      "language": "unknown"
-    },
-    {
-      "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
-      "summary": "Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day.",
-      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Apr 2026 20:12:22 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     },
     {
-      "title": "Trump unveils giant gold-accented victory arch design for US capital",
-      "summary": "The new monument, if approved, would be taller than the US Capitol building and the Lincoln Memorial.",
-      "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Apr 2026 15:38:30 GMT",
+      "title": "Irish cabinet meeting to be held to discuss ongoing fuel protests",
+      "summary": "Hundreds of petrol stations in the Republic of Ireland have run out of fuel as the protests and blockades continued for a fifth day.",
+      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Apr 2026 20:12:22 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-11 23:53:07",
+      "fetched_at": "2026-04-12 00:28:20",
       "language": "unknown"
     }
   ]
