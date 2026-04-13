@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13 01:55:47",
+  "last_updated": "2026-04-13 05:22:33",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+      "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+      "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Apr 2026 02:52:39 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -131,18 +142,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
-      "title": "Civilians feared killed after reports of air strike on Nigerian market",
-      "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
-      "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 18:11:04 GMT",
+      "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+      "summary": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
+      "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Apr 2026 03:06:49 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Congressman Eric Swalwell quits California governor race amid sexual misconduct claims",
+      "summary": "Top Democratic allies intensified pressure on him to exit the gubernatorial race.",
+      "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Apr 2026 02:35:49 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -153,18 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
-      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
-      "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 11:53:37 GMT",
+      "title": "Civilians feared killed after reports of air strike on Nigerian market",
+      "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
+      "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 18:11:04 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
@@ -175,51 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
-      "summary": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
-      "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 07:22:28 GMT",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 11:53:37 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     },
     {
-      "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
-      "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
-      "link": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 00:30:44 GMT",
+      "title": "The Dutch village at risk of being demolished",
+      "summary": "Moerdijk has been earmarked for removal, to make way for a vast electricity substation.",
+      "link": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Apr 2026 23:20:52 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
-      "summary": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
-      "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 15:00:09 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-      "summary": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
-      "link": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Apr 2026 05:22:34 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-13 01:55:47",
+      "fetched_at": "2026-04-13 05:22:33",
       "language": "unknown"
     }
   ]
