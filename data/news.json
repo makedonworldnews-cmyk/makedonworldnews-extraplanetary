@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 22:08:21",
+  "last_updated": "2026-04-15 23:06:15",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:14",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
+      "language": "unknown"
+    },
+    {
+      "title": "Frank Gardner: What is China's role in the Iran war?",
+      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 18:54:06 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     },
     {
@@ -131,18 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     },
     {
       "title": "Nine killed in second Turkish school shooting in two days",
       "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
       "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 17:50:08 GMT",
+      "published": "Wed, 15 Apr 2026 20:10:49 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     },
     {
@@ -164,51 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     },
     {
-      "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
-      "summary": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
-      "link": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 15:36:25 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
-      "language": "unknown"
-    },
-    {
-      "title": "Fans overcharged by $1.72 each by 'monopoly' Ticketmaster owner",
+      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
       "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
       "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 20:07:54 GMT",
+      "published": "Wed, 15 Apr 2026 20:45:00 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
-      "language": "unknown"
-    },
-    {
-      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
-      "summary": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home.",
-      "link": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 10:00:41 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
-      "language": "unknown"
-    },
-    {
-      "title": "Magyar calls for fast handover of power in talks with Hungary's president",
-      "summary": "Péter Magyar, the man who ended Viktor Orbán's 16 years of continuous rule, wants the new parliament to convene in early May.",
-      "link": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Apr 2026 13:51:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     },
     {
@@ -219,7 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-15 22:08:21",
+      "fetched_at": "2026-04-15 23:06:15",
+      "language": "unknown"
+    },
+    {
+      "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
+      "summary": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
+      "link": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 15:36:25 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-15 23:06:15",
+      "language": "unknown"
+    },
+    {
+      "title": "South Korea jails American YouTuber for public nuisance",
+      "summary": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
+      "link": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 04:21:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-15 23:06:15",
       "language": "unknown"
     }
   ]
