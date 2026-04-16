@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-04-16 13:32:13",
+  "last_updated": "2026-04-16 14:45:45",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Алиу: Нови програми за специјализации и супспецијализации – реформа за поквалитетен и поефикасен здравствен систем",
+      "summary": "Министерот за здравство, Азир Алиу, заедно со проф. д-р Светозар Антовиќ, декан на Медицинскиот факултет во Скопје, проф. д-р Невзат Елези, декан на М...",
+      "link": "https://makfax.com.mk/makedonija/aliu-novi-programi-za-specijalizacii-i-supspecijalizacii-reforma-za-pokvaliteten-i-poefikasen-zdravstven-sistem/",
+      "published": "Thu, 16 Apr 2026 12:44:41 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Започнуваат конзерваторско-реставраторските зафати во црквата „Св. Константин и Елена“ во Мокрино",
+      "summary": "Со над 2 милионa денари, обезбедени преку унгарската кредитна линија, следната недела започнуваат конзерваторско-реставраторските зафати на ѕидното сл...",
+      "link": "https://makfax.com.mk/makedonija/zapochnuvaat-konzervatorsko-restavratorskite-zafati-vo-crkvata-sv-konstantin-i-elena-vo-mokrino/",
+      "published": "Thu, 16 Apr 2026 12:13:47 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Снимал на Криволак и објавувал видеа и слики на социјалните мрежи, полицијата го повика на разговор",
+      "summary": "Дваесет и едногодишен жител на Неготино снимал и фотографирал на Криволак, а потоа материјалот го објавувал на социјални мрежи. Според информациите на...",
+      "link": "https://makfax.com.mk/crna-hronika/snimal-na-krivolak-i-objavuval-videa-i-sliki-na-socijalnite-mrezhi-policijata-go-povika-na-razgovor/",
+      "published": "Thu, 16 Apr 2026 12:09:16 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Возило удри во бандера во Скопје: една жена тешко повредена, тројца со повреди",
+      "summary": "Една жена е тешко повредена, а тројца сопатници се здобиле со телесни повреди во сообраќајна несреќа што се случила вчера вечер во Скопје. Несреќата б...",
+      "link": "https://makfax.com.mk/crna-hronika/vozilo-udri-vo-bandera-vo-skopje-edna-zhena-teshko-povredena-trojca-so-povredi/",
+      "published": "Thu, 16 Apr 2026 11:53:26 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Мајка на ученик физички нападна учителка на родителска средба во Скопје",
+      "summary": "Мајка на ученик физички нападнала учителка на родителска средба во основното училиште „Браќа Миладиновци“ на подрачјето на Општина Аеродром. Според ин...",
+      "link": "https://makfax.com.mk/crna-hronika/majka-na-uchenik-fizichki-napadna-uchitelka-na-roditelska-sredba-vo-skopje/",
+      "published": "Thu, 16 Apr 2026 11:51:29 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Двајца мотоциклисти тешко повредени во две одделни сообраќајни несреќи во Скопје",
+      "summary": "Двајца мотоциклисти се здобиле со тешки телесни повреди во две одделни сообраќајни несреќи што се случиле во текот на вчерашниот ден во Скопје. Првата...",
+      "link": "https://makfax.com.mk/crna-hronika/dvajca-motociklisti-teshko-povredeni-vo-dve-oddelni-soobrakajni-nesreki-vo-skopje/",
+      "published": "Thu, 16 Apr 2026 11:50:34 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Млад прилепчанец во три дена одзел картичка од малолетник, крадел од жена и аптека",
+      "summary": "Полицијата поднесе кривична пријава против С.А. (24) од овој град поради сомнение за сторени кривични дела „разбојништво“, „тешка кражба на дрзок начи...",
+      "link": "https://makfax.com.mk/crna-hronika/mlad-prilepchanec-vo-tri-dena-odzel-kartichka-od-maloletnik-kradel-od-zhena-i-apteka/",
+      "published": "Thu, 16 Apr 2026 11:48:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
     {
       "title": "Од јуни Прилеп и Битола ќе бидат поврзани со воз, 150 денари ќе чини повратен билет",
       "summary": "Меѓуградски воз Прилеп-Битола ќе почне да функционира од јуни, а повратен билет ќе чини 150 денари. Новата врска меѓу овие два соседни града ја најави...",
@@ -10,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -32,84 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Утре и задутре симулациска вежба на македонската полиција на охридскиот аеродром",
-      "summary": "Министерството за внатрешни работи известува дека утре, 17 април, со почеток од 15.00 часот и задутре, 18 април, со почеток од 13.30 часот на меѓунаро...",
-      "link": "https://makfax.com.mk/makedonija/utre-i-zadutre-simulaciska-vezhba-na-makedonskata-policija-na-ohridskiot-aerodrom/",
-      "published": "Thu, 16 Apr 2026 11:16:41 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Иран објави видео со вештачка интелигенција на кое Исус го удира Трамп",
-      "summary": "Амбасадата на Иран во Таџикистан објави видео направено со вештачка интелигенција на кое Исус го удира американскиот претседател Доналд Трамп. Ова е р...",
-      "link": "https://makfax.com.mk/svet/iran-objavi-video-so-veshtachka-inteligencija-na-koe-isus-go-udira-tramp/",
-      "published": "Thu, 16 Apr 2026 11:11:09 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Британскиот совет ќе стане Национална агенција за Еразмус+",
-      "summary": "Mинистерството за образование на Обединетото Кралство објави дека Британскиот совет ќе ја преземе улогата на Национална агенција за Еразмус+. На 17 де...",
-      "link": "https://makfax.com.mk/makedonija/britanskiot-sovet-ke-stane-nacionalna-agencija-za-erazmus/",
-      "published": "Thu, 16 Apr 2026 11:03:10 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Јаневска: Новиот закон нуди многу повеќе можности за професорите, научниците, истражувачите и студентите",
-      "summary": "Високото образование и науката ќе добијат нова законска рамка која нуди многу повеќе можности за професорите, научниците, истражувачите и студентите з...",
-      "link": "https://makfax.com.mk/makedonija/janevska-noviot-zakon-nudi-mnogu-poveke-mozhnosti-za-profesorite-nauchnicite-istrazhuvachite-i-studentite/",
-      "published": "Thu, 16 Apr 2026 10:54:04 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Стаменкоска – Трајкоска: Расадник добива модерна и современо опремена градинка",
-      "summary": "Градоначалничката на Општина Кисела Вода, Бети Стаменкоска – Трајкоска, заедно со заменик-министерот за социјална политика, демографија и млади, Ѓоко ...",
-      "link": "https://makfax.com.mk/makedonija/stamenkoska-trajkoska-rasadnik-dobiva-moderna-i-sovremeno-opremena-gradinka/",
-      "published": "Thu, 16 Apr 2026 10:47:21 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Божиновска: Рубинот инспирација за иднината – уметност и геологија се споија со цел ресурсите да ги претвораме во знаење, вредност и иднина",
-      "summary": "Министерката за енергетика, рударство и минерални суровини, Сања Божиновска, заедно со амбасадорот на Република Словенија, Грегор Прескер, ја посетија...",
-      "link": "https://makfax.com.mk/makedonija/bozhinovska-rubinot-inspiracija-za-idninata-umetnost-i-geologija-se-spoija-so-cel-resursite-da-gi-pretvorame-vo-znaenje-vrednost-i-idnina/",
-      "published": "Thu, 16 Apr 2026 10:43:51 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "(Фото) Холандија донира специјализирани возила за МВР за превоз на мигранти и затвореници",
-      "summary": "Заменик министерот за внатрешни работи, Астрит Исени, и директорот на Бирото за јавна безбедност, Александар Јанев, денеска во Министерството за внатр...",
-      "link": "https://makfax.com.mk/makedonija/foto-holandija-donira-specijalizirani-vozila-za-mvr-za-prevoz-na-migranti-i-zatvorenici/",
-      "published": "Thu, 16 Apr 2026 10:40:13 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -131,18 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
-      "title": "South African opposition figure Malema sentenced to five years in prison",
-      "summary": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
-      "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Apr 2026 11:18:03 GMT",
+      "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+      "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+      "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 12:42:23 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -153,7 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "South African opposition figure Malema sentenced to five years in prison",
+      "summary": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
+      "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 12:36:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
-      "summary": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
-      "link": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Apr 2026 11:10:17 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -197,7 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
+      "language": "unknown"
+    },
+    {
+      "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
+      "summary": "Keba Seba is known for opposing French influence in Africa and backing West Africa's military leaders.",
+      "link": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 11:10:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Former US Marine pilot loses appeal against extradition from Australia",
-      "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
-      "link": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Apr 2026 02:17:38 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-16 13:32:13",
+      "fetched_at": "2026-04-16 14:45:45",
       "language": "unknown"
     }
   ]
