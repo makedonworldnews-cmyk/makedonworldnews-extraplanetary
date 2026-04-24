@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 02:02:16",
+  "last_updated": "2026-04-24 05:46:17",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -109,18 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:15",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
       "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
       "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
       "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 17:36:11 GMT",
+      "published": "Fri, 24 Apr 2026 03:03:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -131,7 +131,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
+      "language": "unknown"
+    },
+    {
+      "title": "Masked Iranian forces appear to seize ships in staged video",
+      "summary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
+      "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 18:15:28 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-24 05:46:17",
+      "language": "unknown"
+    },
+    {
+      "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
+      "summary": "Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.",
+      "link": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 00:21:32 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
@@ -142,84 +164,62 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
-      "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 11:26:01 GMT",
+      "title": "Meta says it will cut 8,000 jobs as AI spending soars",
+      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.",
+      "link": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 22:56:00 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
-      "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
-      "summary": "Opposition parties accused security forces but the official report does not say who was responsible.",
-      "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 15:33:36 GMT",
+      "title": "Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say",
+      "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+      "link": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 22:37:08 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
-      "title": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
-      "summary": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
-      "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 15:11:03 GMT",
+      "title": "Woman killed by bear in Polish forest, son and local government say",
+      "summary": "In an extremely rare fatal encounter, the 58-year-old was killed as she was walking in a mountainous area, her son told rescuers.",
+      "link": "https://www.bbc.com/news/articles/c20qrg4dyr3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 18:16:19 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
-      "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 08:37:14 GMT",
+      "title": "US government watchdog to investigate Epstein files release",
+      "summary": "The justice department's inspector general will review the withholding and overdue release of secret files.",
+      "link": "https://www.bbc.com/news/articles/cvg0rkvjlvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Apr 2026 20:40:19 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     },
     {
-      "title": "South African police chief suspended over $20m health contract",
-      "summary": "Cyril Ramaphosa said the suspension was because of the critical role Fannie Masemola plays in fighting crime.",
-      "link": "https://www.bbc.com/news/articles/cvglxkjwr5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 16:05:20 GMT",
+      "title": "White House memo claims mass AI theft by Chinese firms",
+      "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.",
+      "link": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 00:58:58 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
-      "language": "unknown"
-    },
-    {
-      "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
-      "summary": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
-      "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 13:54:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
-      "language": "unknown"
-    },
-    {
-      "title": "Warner Bros shareholders approve Paramount's $111bn takeover",
-      "summary": "The approval came as Donald Trump is to attend a dinner with billionaire Paramount backers the Ellisons.",
-      "link": "https://www.bbc.com/news/articles/cgj09ny0dq6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 23 Apr 2026 16:15:45 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-24 02:02:16",
+      "fetched_at": "2026-04-24 05:46:17",
       "language": "unknown"
     }
   ]
