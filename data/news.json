@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 21:09:39",
+  "last_updated": "2026-04-25 21:54:35",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:34",
       "language": "unknown"
     },
     {
@@ -120,18 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
-      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 25 Apr 2026 12:29:37 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -142,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -153,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -164,7 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
+      "language": "unknown"
+    },
+    {
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "link": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Apr 2026 19:22:31 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -175,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
+      "language": "unknown"
+    },
+    {
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Apr 2026 12:29:37 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
-      "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 16:04:29 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-25 21:09:39",
+      "fetched_at": "2026-04-25 21:54:35",
       "language": "unknown"
     }
   ]
