@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 01:50:27",
+  "last_updated": "2026-04-25 03:21:04",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -131,7 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
+      "language": "unknown"
+    },
+    {
+      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "summary": "On Friday morning, souring relations between Europe and the United States reared its Medusa-like head again, writes the BBC's Europe editor.",
+      "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 25 Apr 2026 00:10:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -142,29 +153,51 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
-      "title": "Who is making decisions in Iran?",
-      "summary": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
-      "link": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 16:38:51 GMT",
+      "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+      "summary": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
+      "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 23:28:09 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
-      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
-      "summary": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
-      "link": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 17:20:48 GMT",
+      "title": "Meeting with the King would 'demonstrate human dignity', says Epstein survivor",
+      "summary": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the US.",
+      "link": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 23:00:21 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
+      "language": "unknown"
+    },
+    {
+      "title": "China car giant BYD says it can thrive without US",
+      "summary": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+      "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 21:25:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-25 03:21:04",
+      "language": "unknown"
+    },
+    {
+      "title": "US to allow firing squads, gas, and electrocution for federal executions",
+      "summary": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime.",
+      "link": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Apr 2026 22:15:15 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -175,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
-      "summary": "The British Israeli man says he was detained after someone took offence at his kippah embroidered with Israeli and Palestinian flags.",
-      "link": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 16:20:10 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Pirates hijack oil tanker off the coast of Somalia",
-      "summary": "Piracy, once notorious in this stretch of the Indian Ocean, has made a comeback in recent years.",
-      "link": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 17:04:01 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Mandelson under formal investigation by EU's anti-fraud office",
-      "summary": "The EU's anti-fraud office confirms it has \"sufficient information\" to launch an investigation, but does not say if it involves fraud.",
-      "link": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Apr 2026 16:18:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-04-25 01:50:27",
+      "fetched_at": "2026-04-25 03:21:04",
       "language": "unknown"
     }
   ]
