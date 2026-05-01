@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 23:35:27",
+  "last_updated": "2026-05-02 00:32:23",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
+      "language": "unknown"
+    },
+    {
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 22:06:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -131,7 +142,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+      "summary": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+      "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 19:30:36 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-02 00:32:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "summary": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+      "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 21:44:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -142,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -153,18 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Turkish police arrest more than 500 people at May Day rallies",
-      "summary": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
-      "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 16:14:58 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -175,7 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "summary": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
+      "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 16:14:58 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-      "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
-      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 10:12:57 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
-      "summary": "The former One Direction singer has taken to Instagram to update fans as he cuts his world tour dates",
-      "link": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 17:23:42 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
-      "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 04:11:53 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 23:35:27",
+      "fetched_at": "2026-05-02 00:32:23",
       "language": "unknown"
     }
   ]
