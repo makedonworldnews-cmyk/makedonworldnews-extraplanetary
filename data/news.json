@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-05-01 16:08:25",
+  "last_updated": "2026-05-01 17:15:01",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Кога е идеалното време за вежбање? Не е исто за секого",
+      "summary": "Вечната дилема во светот на фитнесот е: дали е подобро да се тренира наутро или навечер? Се дебатира со години, но новото истражување има многу попаме...",
+      "link": "https://makfax.com.mk/zanimlivosti/koga-e-idealnoto-vreme-za-vezhbanje-ne-e-isto-za-sekogo/",
+      "published": "Fri, 01 May 2026 15:06:18 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 17:15:01",
+      "language": "unknown"
+    },
+    {
+      "title": "Пентагон потпиша договори со седум AI гиганти",
+      "summary": "SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft и Amazon Web Services ќе бидат интегрирани во мрежните средини на Пентагон со ниво на влијание 6...",
+      "link": "https://makfax.com.mk/svet/pentagon-potpisha-dogovori-so-sedum-ai-giganti/",
+      "published": "Fri, 01 May 2026 15:00:24 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 17:15:01",
+      "language": "unknown"
+    },
+    {
+      "title": "Иран испрати нов предлог на САД за прекин на војната",
+      "summary": "Иран им го испрати на Соединетите Американски Држави, преку пакистански медијатори, својот најнов предлог за прекин на војната, во време кога преговор...",
+      "link": "https://makfax.com.mk/svet/iran-isprati-nov-predlog-na-sad-za-prekin-na-vojnata/",
+      "published": "Fri, 01 May 2026 14:42:00 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 17:15:01",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Голем пожар во Тоскана: 3.000 луѓе евакуирани, пожарот продолжува да се шири",
+      "summary": "Италијанските пожарникари се борат со голем шумски пожар во Тоскана кој гори со денови, разгорен од силни ветрови, што доведе до превентивна евакуациј...",
+      "link": "https://makfax.com.mk/svet/evropa/video-golem-pozhar-vo-toskana-3-000-luge-evakuirani-pozharot-prodolzhuva-da-se-shiri/",
+      "published": "Fri, 01 May 2026 14:31:00 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 17:15:01",
+      "language": "unknown"
+    },
+    {
+      "title": "СДСМ: Мицкоски однапред подготвува алиби за неуспехот во јуни!",
+      "summary": "„Христијан Мицкоски денеска повторно ја најави својата нова стратегија: кога во јуни ќе се покаже дека нема напредок во реформите, виновен ќе биде СДС...",
+      "link": "https://makfax.com.mk/makedonija/sdsm-mickoski-odnapred-podgotvuva-alibi-za-neuspehot-vo-juni/",
+      "published": "Fri, 01 May 2026 14:30:49 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 17:15:01",
+      "language": "unknown"
+    },
+    {
+      "title": "(Фото) Крива Паланка – разеленета, цветна и уредена",
+      "summary": "Денес, на социјалните мрежи, градоначалникот на Крива Паланка, Сашко Митовски објави серија впечатливи фотографии од раззеленетиот и цветен град, прек...",
+      "link": "https://makfax.com.mk/makedonija/foto-kriva-palanka-razeleneta-cvetna-i-uredena/",
+      "published": "Fri, 01 May 2026 14:10:00 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 17:15:01",
+      "language": "unknown"
+    },
     {
       "title": "(Фото) Пожар во помошен објект во селото Ангелци кај Струмица",
       "summary": "Денес, во 14.25 часот во село Ангелци, ТППЕ Струмица со едно противпожарно возило и пет пожарникари-спасители интервенираше на гаснење на запален помо...",
@@ -10,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -43,73 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
-      "language": "unknown"
-    },
-    {
-      "title": "Тројца уапсени, вкупно четири пријави за семејно насилство во последното деноноќие",
-      "summary": "Вчера во 17:10 часот, во Велес, полициски службеници од СВР Велес лишија од слобода 36-годишен велешанец, постапувајќи по претходна пријава дека и се ...",
-      "link": "https://makfax.com.mk/crna-hronika/trojca-uapseni-vkupno-chetiri-prijavi-za-semejno-nasilstvo-vo-poslednoto-denonokie/",
-      "published": "Fri, 01 May 2026 13:04:40 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
-      "language": "unknown"
-    },
-    {
-      "title": "Лишени од слобода седум возачи за безобѕирно управување возило, петмина возеле без дозвола",
-      "summary": "Во текот на изминатото деноноќие на целата територија на државата, полициските службеници лишија од слобода седум возачи за безобѕирно управување вози...",
-      "link": "https://makfax.com.mk/crna-hronika/lisheni-od-sloboda-sedum-vozachi-za-bezobzirno-upravuvanje-vozilo-petmina-vozele-bez-dozvola/",
-      "published": "Fri, 01 May 2026 12:53:22 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
-      "language": "unknown"
-    },
-    {
-      "title": "Една од најубавите жени на светот пресече: „Никогаш повеќе не би можела да живеам со маж“",
-      "summary": "Шарлиз Терон со децении е тивка мака за мажите, излегувајќи со бројни познати момци, но… Живеењето со некој нов? Дефинитивно не! Актерката Шарлиз Теро...",
-      "link": "https://makfax.com.mk/zanimlivosti/edna-od-najubavite-zheni-na-svetot-preseche-nikogash-poveke-ne-bi-mozhela-da-zhiveam-so-mazh/",
-      "published": "Fri, 01 May 2026 12:43:43 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
-      "language": "unknown"
-    },
-    {
-      "title": "(Фотогалерија) „За плата се бориме, не се молиме“ – протест на Сојузот на синдикатите на Македонија",
-      "summary": "Денеска во Скопје се одржа протест на Сојузот на синдикатите на Македонија под мотото „За плата се бориме, не се молиме“. Илјадници учесници од различ...",
-      "link": "https://makfax.com.mk/makedonija/fotogalerija-za-plata-se-borime-ne-se-molime-protest-na-sojuzot-na-sindikatite-na-makedonija/",
-      "published": "Fri, 01 May 2026 12:30:03 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
-      "language": "unknown"
-    },
-    {
-      "title": "„Њујорк тајмс“: Прошталната порака на Епстин беше скриена од јавноста",
-      "summary": "Прошталната порака, наводно напишана од Џефри Епстин во затвор во Менхетен, се чува во тајност речиси седум години. Таа е заклучена во судница во Њујо...",
-      "link": "https://makfax.com.mk/svet/njujork-tajms-proshtalnata-poraka-na-epstin-beshe-skriena-od-javnosta/",
-      "published": "Fri, 01 May 2026 12:22:20 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
-      "language": "unknown"
-    },
-    {
-      "title": "Претрес во струмичко, пронајдена дрога, лишени од слобода четири лица",
-      "summary": "На 29.04.2026 во 23:15 часот во село Муртино, струмичко, полициски службеници од СВР Струмица ги лишија од слобода С.З.(36), Д.В.(21), Б.М.(20) и С.А....",
-      "link": "https://makfax.com.mk/crna-hronika/pretres-vo-strumichko-pronajdena-droga-lisheni-od-sloboda-chetiri-lica/",
-      "published": "Fri, 01 May 2026 12:16:51 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:24",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -120,18 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
       "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
       "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
       "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 11:05:14 GMT",
+      "published": "Fri, 01 May 2026 14:42:59 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -197,18 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
       "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
       "summary": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
       "link": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 09:37:26 GMT",
+      "published": "Fri, 01 May 2026 14:47:46 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 16:08:25",
+      "fetched_at": "2026-05-01 17:15:01",
       "language": "unknown"
     }
   ]
