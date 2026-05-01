@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 02:08:27",
+  "last_updated": "2026-05-01 06:15:57",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -109,73 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+      "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 04:08:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
       "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
       "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 16:38:58 GMT",
+      "published": "Fri, 01 May 2026 04:11:53 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 18:05:26 GMT",
+      "title": "Venice Biennale jury resigns days before start of exhibition",
+      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 23:44:00 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
-      "language": "unknown"
-    },
-    {
-      "title": "US House votes to end record shutdown over immigration enforcement",
-      "summary": "The vote provides funding for most Department of Homeland Security agencies, except for two subagencies responsible for immigration enforcement.",
-      "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 20:53:36 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
-      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 20:14:48 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-      "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 20:15:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
-      "language": "unknown"
-    },
-    {
-      "title": "Belgium plans to nationalise nuclear power plants",
-      "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
-      "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 19:50:29 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
@@ -186,40 +153,73 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
-      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 20:34:26 GMT",
+      "title": "China scraps tariffs for all but one African nation",
+      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+      "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 00:02:57 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
-      "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
-      "summary": "Christopher Okello Onyum had pleaded insanity but this was dismissed by the judge.",
-      "link": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 15:56:04 GMT",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 18:05:26 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     },
     {
-      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-      "summary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
-      "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 14:32:23 GMT",
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
+      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 20:14:48 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-01 02:08:27",
+      "fetched_at": "2026-05-01 06:15:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Trainee driver crashes bus into River Seine",
+      "summary": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
+      "link": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 15:34:09 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 06:15:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Belgium plans to nationalise nuclear power plants",
+      "summary": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
+      "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 19:50:29 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 06:15:57",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump signs bill to end record shutdown over immigration enforcement",
+      "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
+      "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 02:21:47 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-01 06:15:57",
       "language": "unknown"
     }
   ]
