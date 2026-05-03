@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 02:01:20",
+  "last_updated": "2026-05-03 06:05:31",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -120,7 +120,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
+      "language": "unknown"
+    },
+    {
+      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 23:19:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-03 06:05:31",
+      "language": "unknown"
+    },
+    {
+      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+      "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 23:17:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-03 06:05:31",
+      "language": "unknown"
+    },
+    {
+      "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+      "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 02 May 2026 17:55:06 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -131,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -142,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -153,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -164,29 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
-      "link": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 17:01:47 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
-      "summary": "Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59.",
-      "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 09:08:43 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 02 May 2026 23:03:03 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-03 02:01:20",
+      "fetched_at": "2026-05-03 06:05:31",
       "language": "unknown"
     }
   ]
