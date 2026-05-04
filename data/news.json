@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-05-04 16:26:46",
+  "last_updated": "2026-05-04 18:19:27",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Јужнокорејски брод нападнат во Ормускиот теснец; Иран: Пукавме кон американски разорувач",
+      "summary": "Јужна Кореја денес објави дека истражува разузнавачки информации дека брод под знамето на Јужна Кореја бил нападнат во Ормускиот теснец. Министерствот...",
+      "link": "https://makfax.com.mk/svet/juzhnokorejski-brod-napadnat-vo-ormuskiot-tesnec-iran-pukavme-kon-amerikanski-razoruvach/",
+      "published": "Mon, 04 May 2026 16:07:36 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "Сиљановска-Давкова на панел со Макрон и Мелони: ЕУ да ја преиспита својата политика на проширување низ призма на Западен Балкан, имајќи ја предвид безбедносната димензија",
+      "summary": "Претседателката Гордана Сиљановска-Давкова денеска во Ереван учествуваше на панел-дискусијата организирана од страна на францускиот претседател Емануе...",
+      "link": "https://makfax.com.mk/makedonija/siljanovska-davkova-na-panel-so-makron-i-meloni-eu-da-ja-preispita-svojata-politika-na-proshiruvanje-niz-prizma-na-zapaden-balkan-imajki-ja-predvid-bezbednosnata-dimenzija/",
+      "published": "Mon, 04 May 2026 15:40:29 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "„Safe City“ од проект за безбедност на граѓаните, ВМРО-ОКГ го претвора во проект за контрола на граѓаните, велат од СДСМ",
+      "summary": "Граѓаните добиваат лажни пораки од „Safe City“ со измами и фишинг линкови. Се шири нова голема измама преку системот што владата го промовираше како „...",
+      "link": "https://makfax.com.mk/makedonija/safe-city-od-proekt-za-bezbednost-na-graganite-vmro-okg-go-pretvora-vo-proekt-za-kontrola-na-graganite-velat-od-sdsm/",
+      "published": "Mon, 04 May 2026 15:24:32 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "Жителите на Дубаи повикани во засолништа поради ракетна закана",
+      "summary": "Министерството за внатрешни работи на Обединетите Арапски Емирати издаде предупредување за потенцијална ракетна закана и ги повика граѓаните да побара...",
+      "link": "https://makfax.com.mk/svet/zhitelite-na-dubai-povikani-vo-zasolnishta-poradi-raketna-zakana/",
+      "published": "Mon, 04 May 2026 15:18:32 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "Словенците меѓу најсреќните во Европа: втори по задоволство од животот",
+      "summary": "Жителите на Словенија се на второ место во ЕУ по општото задоволство од животот, објави денес Заводот за статистика (SURS). Статистичката анализа е об...",
+      "link": "https://makfax.com.mk/svet/slovencite-megu-najsreknite-vo-evropa-vtori-po-zadovolstvo-od-zhivotot/",
+      "published": "Mon, 04 May 2026 14:56:04 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "Танкер погоден во Ормускиот теснец; Револуционерната гарда испрати предупредување до бродовите",
+      "summary": "Претседателот на САД, Доналд Трамп, објави дека Соединетите Американски Држави денес ќе започнат операции за ослободување на бродовите заглавени во Ор...",
+      "link": "https://makfax.com.mk/svet/tanker-pogoden-vo-ormuskiot-tesnec-revolucionernata-garda-isprati-predupreduvanje-do-brodovite/",
+      "published": "Mon, 04 May 2026 14:42:33 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
     {
       "title": "Канадскиот премиер: Ова е пресвртница, Европа ќе изгради нов светски поредок",
       "summary": "Европа нема да се покори на побрутална иднина, но може да стане основа од која ќе се обнови меѓународниот поредок, изјави денес канадскиот премиер Мар...",
@@ -10,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
@@ -43,95 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
-      "title": "Зеленски се закани на Москва: Украински дронови би можеле да ја гаѓаат Парадата на победата на 9 Мај",
-      "summary": "Украинскиот претседател Володимир Зеленски изјави дека украински дронови би можеле да ја погодат руската Парада на победата на 9 мај во Москва, додека...",
-      "link": "https://makfax.com.mk/svet/zelenski-se-zakani-na-moskva-ukrainski-dronovi-bi-mozhele-da-ja-gagaat-paradata-na-pobedata-na-9-maj/",
-      "published": "Mon, 04 May 2026 13:26:10 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Од полноќ дизелот поскапува за 2, а бензините за 2,5 денари по литар",
-      "summary": "Регулаторната комисија за енергетика донесе одлука за зголемување на малопродажните цени на нафтените деривати во просек за 3,47 отсто во однос на пре...",
-      "link": "https://makfax.com.mk/ekonomija/od-polnok-dizelot-poskapuva-za-2-a-benzinite-za-25-denari-po-litar/",
-      "published": "Mon, 04 May 2026 13:17:08 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Левица оддаде почит на Гоце Делчев: Неговото дело да биде водилка за политичко делување, а не само протоколарно чествување",
-      "summary": "Делегација на Левица денеска положи свежо цвеќе на гробот на Гоце Делчев во црквата „Свети Спас“, по повод одбележувањето на годишнината од неговата с...",
-      "link": "https://makfax.com.mk/makedonija/levica-oddade-pochit-na-goce-delchev-negovoto-delo-da-bide-vodilka-za-politichko-deluvanje-a-ne-samo-protokolarno-chestvuvanje/",
-      "published": "Mon, 04 May 2026 13:12:54 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "За Муцунски вестите за олеснувања за Србите на грчките граници се естрада: Дискусии има, но официјално никој нема добиено одговор",
-      "summary": "Политичка естрада се за министерот за надворешни работи, Тимчо Муцунски, олеснувањата за државјаните на Србија кои ќе патуваат за Грција за кои викенд...",
-      "link": "https://makfax.com.mk/makedonija/za-mucunski-vestite-za-olesnuvanja-za-srbite-na-grchkite-granici-se-estrada-diskusii-ima-no-oficijalno-nikoj-nema-dobieno-odgovor/",
-      "published": "Mon, 04 May 2026 12:59:35 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Двајца патници тешко повредени откако автобус минал преку испакнат дел од патот во Свети Николе",
-      "summary": "Двајца патници се здобиле со тешки телесни повреди откако автобус со велешки регистарски ознаки минал преку испакнат дел од патот на улицата „Филип Вт...",
-      "link": "https://makfax.com.mk/crna-hronika/dvajca-patnici-teshko-povredeni-otkako-avtobus-minal-preku-ispaknat-del-od-patot-vo-sveti-nikole/",
-      "published": "Mon, 04 May 2026 12:49:44 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Уапсена 29-годишна скопјанка откако била затекната со повредено новороденче пред дом во Карпош",
-      "summary": "Полицијата приведе 29-годишна жена од Скопје поради сомнение за кривично дело „запуштање и малтретирање на малолетно лице“, откако била затекната со п...",
-      "link": "https://makfax.com.mk/crna-hronika/uapsena-29-godishna-skopjanka-otkako-bila-zateknata-so-povredeno-novorodenche-pred-dom-vo-karposh/",
-      "published": "Mon, 04 May 2026 12:46:28 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-      "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 09:49:05 GMT",
+      "title": "Two killed after car driven into crowd in German city Leipzig, mayor says",
+      "summary": "The suspect was detained, Mayor Jung said, adding that authorities were not yet clear on the motivation.",
+      "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 16:13:26 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
       "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
       "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 13:29:22 GMT",
+      "published": "Mon, 04 May 2026 16:07:57 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
@@ -142,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 09:49:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
-      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 23:19:05 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
@@ -175,51 +175,51 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
-      "title": "North Korean side to make rare trip to South Korea",
-      "summary": "A team of North Korean footballers will make a rare visit to South Korea later this month.",
-      "link": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 05:58:28 GMT",
+      "title": "GameStop makes $55.5bn takeover offer for eBay",
+      "summary": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
+      "link": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 15:12:39 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
-      "language": "unknown"
-    },
-    {
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
-      "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 13:43:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
       "title": "New alliances shakes up Nigerian political landscape",
       "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
       "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 13:41:37 GMT",
+      "published": "Mon, 04 May 2026 15:47:31 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     },
     {
-      "title": "Police officer lowered into crocodile-infested river to recover human remains",
-      "summary": "Police suspect the human remains belong to a businessman swept away by floodwater last week.",
-      "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 03 May 2026 15:47:59 GMT",
+      "title": "Three dead after monster truck crashes into crowd",
+      "summary": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
+      "link": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 04 May 2026 07:45:13 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-04 16:26:46",
+      "fetched_at": "2026-05-04 18:19:27",
+      "language": "unknown"
+    },
+    {
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
+      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 03 May 2026 23:19:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-04 18:19:27",
       "language": "unknown"
     }
   ]
