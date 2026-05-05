@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-05-05 18:58:19",
+  "last_updated": "2026-05-05 20:19:03",
   "article_count": 20,
   "articles": [
+    {
+      "title": "ВЛЕН: Во завршна фаза е обединувањето во единствен политички субјект",
+      "summary": "ВЛЕН е во завршна фаза на обединување во единствен политички субјект, со што дополнително ја зацврстува својата позиција како доминантна сила на полит...",
+      "link": "https://makfax.com.mk/makedonija/vlen-vo-zavrshna-faza-e-obedinuvanjeto-vo-edinstven-politichki-subjekt/",
+      "published": "Tue, 05 May 2026 18:08:36 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Трамп: Иран треба да го крене белото знаме",
+      "summary": "Претседателот на Соединетите Американски Држави, Доналд Трамп, оцени дека иранската војска повеќе не е способна да води војна и рече дека Техеран „тре...",
+      "link": "https://makfax.com.mk/svet/tramp-iran-treba-da-go-krene-beloto-zname/",
+      "published": "Tue, 05 May 2026 17:53:10 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Трамп: Подготвен сум да ја уништам иранската економија затоа што сакам да победам",
+      "summary": "Претседателот на САД, Доналд Трамп, изјави дека е подготвен дополнително да ја дестабилизира иранската економија „затоа што сака да победи“, додека ма...",
+      "link": "https://makfax.com.mk/svet/tramp-podgotven-sum-da-ja-unishtam-iranskata-ekonomija-zatoa-shto-sakam-da-pobedam/",
+      "published": "Tue, 05 May 2026 17:35:32 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Сиљановска-Давкова: Денес, повеќе од кога било, нашата обврска е да го чуваме, негуваме и унапредуваме македонскиот јазик.",
+      "summary": "Претседателката Сиљановска-Давкова упати порака по повод Денот на македонскиот стандарден јазик. „Денеска, на 5 мај, Денот на македонскиот стандарден ...",
+      "link": "https://makfax.com.mk/makedonija/siljanovska-davkova-denes-poveke-od-koga-bilo-nashata-obvrska-e-da-go-chuvame-neguvame-i-unapreduvame-makedonskiot-jazik/",
+      "published": "Tue, 05 May 2026 17:32:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Димитровски од Ереван: Меѓународното право не секогаш се почитувало во однос на нашата држава",
+      "summary": "Заменик министерот за надворешни работи и надворешна трговија, Зоран Димитровски, денес учествуваше на третата едиција на форумот „Ереван Дијалог“, шт...",
+      "link": "https://makfax.com.mk/makedonija/dimitrovski-od-erevan-megunarodnoto-pravo-ne-sekogash-se-pochituvalo-vo-odnos-na-nashata-drzhava/",
+      "published": "Tue, 05 May 2026 17:30:12 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
+    {
+      "title": "По години застој, мостот што ќе ги поврзува општините Аеродром и Гази Баба наскоро во функција",
+      "summary": "По години застој, одложувања и нерешени административни пречки, мостот „Генерал Михајло Апостолски“, кој ги поврзува општините Аеродром и Гази Баба, в...",
+      "link": "https://makfax.com.mk/makedonija/po-godini-zastoj-mostot-shto-ke-gi-povrzuva-opshtinite-aerodrom-i-gazi-baba-naskoro-vo-funkcija/",
+      "published": "Tue, 05 May 2026 17:25:48 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Средба Хоџа – Јумакли: Зајакнување на билатералната соработка со Турција",
+      "summary": "Министерот за животна средина и просторно планирање, Муамет Хоџа, оствари средба со министерот за земјоделство и шумарство на Република Турција, Ибрах...",
+      "link": "https://makfax.com.mk/makedonija/sredba-hodha-jumakli-zajaknuvanje-na-bilateralnata-sorabotka-so-turcija/",
+      "published": "Tue, 05 May 2026 17:00:11 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-05 20:19:03",
+      "language": "unknown"
+    },
     {
       "title": "(Видео) Блу Ајви (14) ги мачеше асистентите на црвениот тепих, одби да ги извади очилата",
       "summary": "БлуАјви го имаше своето деби на Мет Гала и, на само 14 години, ги засени сите присутни. Најстарата ќерка на Бијонсе и Џеј Зи вчера се појави на познат...",
@@ -10,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -32,84 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Трамп објави фотографија од шефот на централната банка како паѓа во ѓубре",
-      "summary": "Американскиот претседател, Доналд Трамп, објави фотографија на својата социјална мрежа на која Џером Пауел, шефот на Федералните резерви (централна ба...",
-      "link": "https://makfax.com.mk/svet/tramp-objavi-fotografija-od-shefot-na-centralnata-banka-kako-paga-vo-gubre/",
-      "published": "Tue, 05 May 2026 15:54:34 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Падна романската влада",
-      "summary": "Опозиционите партии на Романија ја соборија прозападната конзервативна влада на премиерот Илие Болојан бидејќи се противат на неговите политики за ште...",
-      "link": "https://makfax.com.mk/svet/padna-romanskata-vlada/",
-      "published": "Tue, 05 May 2026 15:50:31 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Утре променливо облачно време, со температура до 27 степени",
-      "summary": "Времето утре ќе биде променливо облачно со сончеви периоди. Ќе дува слаб до умерен, а наместа долж Повардарието повремено засилен ветер од јужен праве...",
-      "link": "https://makfax.com.mk/makedonija/utre-promenlivo-oblachno-vreme-so-temperatura-do-27-stepeni/",
-      "published": "Tue, 05 May 2026 15:36:28 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Иран му одговори на Трамп: „Какви глупости“",
-      "summary": "Мохамад Мокбер, советник на иранскиот врховен лидер, остро ги коментираше обидите на Доналд Трамп да го отвори Ормутскиот теснец, велејќи дека америка...",
-      "link": "https://makfax.com.mk/svet/iran-mu-odgovori-na-tramp-kakvi-gluposti/",
-      "published": "Tue, 05 May 2026 15:07:39 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Иран повторно ги нападна Емиратите со ракети",
-      "summary": "Обединетите Арапски Емирати повторно беа под директен напад од Иран. Министерството за одбрана потврди дека системите за воздушна одбрана во моментов ...",
-      "link": "https://makfax.com.mk/svet/iran-povtorno-gi-napadna-emiratite-so-raketi/",
-      "published": "Tue, 05 May 2026 14:45:56 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Проширувањето на ОУ „Гоце Делчев“ во Горно Лисиче ќе биде готово за девет месеци",
-      "summary": "Не е доволно само да кажеме дека децата и младите се нашето најголемо богатство, туку треба вака, на дело да покажеме дека вложуваме во нивната иднина...",
-      "link": "https://makfax.com.mk/makedonija/proshiruvanjeto-na-ou-goce-delchev-vo-gorno-lisiche-ke-bide-gotovo-za-devet-meseci/",
-      "published": "Tue, 05 May 2026 14:40:34 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Пет кандидати на интервју за член на ДКСК",
-      "summary": "Комисијата за прашања на изборите и именувањата одржа седница на која спроведе интервјуа со пријавените кандидати за член на Државната комисија за спр...",
-      "link": "https://makfax.com.mk/makedonija/pet-kandidati-na-intervju-za-chlen-na-dksk/",
-      "published": "Tue, 05 May 2026 14:35:53 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:18",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-05 18:58:19",
+      "fetched_at": "2026-05-05 20:19:03",
       "language": "unknown"
     }
   ]
