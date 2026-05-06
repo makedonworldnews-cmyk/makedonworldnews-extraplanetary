@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07 00:34:52",
+  "last_updated": "2026-05-07 01:32:39",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:51",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -120,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump's hopes for an Iran peace deal come with caveats",
+      "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 17:32:04 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-07 01:32:39",
+      "language": "unknown"
+    },
+    {
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 19:58:04 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -153,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -164,29 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
-      "language": "unknown"
-    },
-    {
-      "title": "German police raid neo-Nazi criminal youth groups",
-      "summary": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
-      "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 11:34:56 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
-      "language": "unknown"
-    },
-    {
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "summary": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
-      "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 11:53:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     },
     {
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 09:35:39 GMT",
+      "title": "German police raid neo-Nazi criminal youth groups",
+      "summary": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
+      "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 11:34:56 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-07 00:34:52",
+      "fetched_at": "2026-05-07 01:32:39",
       "language": "unknown"
     }
   ]
