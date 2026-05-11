@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11 01:27:04",
+  "last_updated": "2026-05-11 03:24:19",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:03",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -142,18 +142,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 13:56:43 GMT",
+      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+      "summary": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "link": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 00:40:45 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
+      "language": "unknown"
+    },
+    {
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "summary": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
+      "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 11 May 2026 01:22:00 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
-      "language": "unknown"
-    },
-    {
-      "title": "Lebanon says Israeli strikes killed 39",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 21:23:14 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
+      "language": "unknown"
+    },
+    {
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 10 May 2026 13:56:43 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
-      "language": "unknown"
-    },
-    {
-      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-      "summary": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
-      "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 03:09:45 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-11 01:27:04",
+      "fetched_at": "2026-05-11 03:24:19",
       "language": "unknown"
     }
   ]
