@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 22:41:41",
+  "last_updated": "2026-05-14 23:52:34",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:40",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -131,18 +131,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
+      "language": "unknown"
+    },
+    {
+      "title": "Cuba says CIA chief visited Havana as energy crisis worsens",
+      "summary": "The reported visit came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 21:39:10 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
       "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "summary": "Two children are among at least 12 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+      "summary": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
       "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 14 May 2026 13:16:32 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
-      "language": "unknown"
-    },
-    {
-      "title": "Cuba tells US to lift blockade instead of offering aid as energy crisis worsens",
-      "summary": "The Communist-run island has seen rare protests over worsening power cuts due to shortages of fuel.",
-      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 14 May 2026 20:24:59 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -186,18 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
-      "title": "'We didn't die': Pilot recounts crash landing in Atlantic with 10 aboard",
-      "summary": "The 11 survivors spent roughly five hours on a life raft, before being rescued by the US Air Force off Florida coast.",
-      "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 14 May 2026 18:38:42 GMT",
+      "title": "Five Italians die during cave dive in Maldives",
+      "summary": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
+      "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 20:48:26 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     },
     {
-      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-      "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts.",
-      "link": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 14 May 2026 11:44:22 GMT",
+      "title": "'We didn't die': Pilot recounts crash landing in Atlantic with 10 aboard",
+      "summary": "The 11 survivors spent roughly five hours on a life raft before being rescued by the US Air Force off Florida coast.",
+      "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 18:38:42 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-14 22:41:41",
+      "fetched_at": "2026-05-14 23:52:34",
       "language": "unknown"
     }
   ]
