@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-05-23 17:13:33",
+  "last_updated": "2026-05-23 18:14:49",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Земјотрес со јачина од 3,5 степени почувствуван во Скопје",
+      "summary": "EMSC попладнево првично објави информација за земјотрес во североисточниот дел на Македонија, во близина на Куманово. Според прелиминарните податоци н...",
+      "link": "https://makfax.com.mk/makedonija/zemjotres-so-jachina-od-35-stepeni-pochuvstvuvan-vo-skopje/",
+      "published": "Sat, 23 May 2026 16:08:13 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-05-23 18:14:49",
+      "language": "unknown"
+    },
     {
       "title": "МЗ најави нова стратегија за сексуално и репродуктивно здравје 2026 – 2030",
       "summary": "Во тек е процедурата за усвојување нова стратегија за сексуално и репродуктивно здравје за периодот 2026 – 2030, придружена со акциски план за имплеме...",
@@ -10,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -21,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -32,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -43,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -54,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -98,29 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
-      "title": "ДУИ бара истрага за имотот и капиталот на директорот на НОМАГАС, Недим Рама",
-      "summary": "Демократска унија за интеграција денеска објави нови информации поврзани со директорот на НОМАГАС, Недим Рама, оценувајќи дека случајот отвора сериозн...",
-      "link": "https://makfax.com.mk/makedonija/dui-bara-istraga-za-imotot-i-kapitalot-na-direktorot-na-nomagas-nedim-rama/",
-      "published": "Sat, 23 May 2026 10:11:23 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
-      "language": "unknown"
-    },
-    {
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "title": "At least 82 killed in Chinese coal mine explosion, state media reports",
       "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 13:40:31 GMT",
+      "published": "Sat, 23 May 2026 15:18:40 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 17:13:33",
+      "fetched_at": "2026-05-23 18:14:49",
       "language": "unknown"
     }
   ]
