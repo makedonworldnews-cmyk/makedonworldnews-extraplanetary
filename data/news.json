@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 03:31:11",
+  "last_updated": "2026-05-23 07:24:43",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
@@ -109,18 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:42",
       "language": "unknown"
     },
     {
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 19:40:14 GMT",
+      "title": "At least 82 dead in Chinese coal mine explosion, state media reports",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 05:19:01 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
+      "language": "unknown"
+    },
+    {
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "summary": "Ukraine says it hit Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 04:05:03 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-23 07:24:43",
+      "language": "unknown"
+    },
+    {
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+      "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 03:53:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
@@ -142,40 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false...",
-      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 20:52:35 GMT",
+      "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+      "summary": "Latest polls suggest the centre-right figure is the only candidate who can defeat Marine Le Pen or Jean-Luc Mélenchon.",
+      "link": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 23:07:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
-      "language": "unknown"
-    },
-    {
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "summary": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
-      "link": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 17:54:11 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
-      "language": "unknown"
-    },
-    {
-      "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
-      "link": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 21:47:47 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
@@ -186,40 +186,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enou...",
-      "link": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 20:59:28 GMT",
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false...",
+      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 20:52:35 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
-      "title": "Sabalenka cuts media short as French Open players protest",
-      "summary": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money...",
-      "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 14:59:34 GMT",
+      "title": "Rubio visits India to sell energy as Iran oil shock persists",
+      "summary": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
+      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 03:55:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     },
     {
-      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
-      "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
-      "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 22 May 2026 16:10:21 GMT",
+      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
+      "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 22 May 2026 22:32:12 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-23 03:31:11",
+      "fetched_at": "2026-05-23 07:24:43",
       "language": "unknown"
     }
   ]
