@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 01:39:13",
+  "last_updated": "2026-05-24 03:47:14",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -109,18 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:12",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
       "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
       "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 22:10:24 GMT",
+      "published": "Sun, 24 May 2026 01:18:31 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
+      "language": "unknown"
+    },
+    {
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 23:34:33 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-24 03:47:14",
+      "language": "unknown"
+    },
+    {
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 23:24:03 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -153,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -164,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
-      "language": "unknown"
-    },
-    {
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
-      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 20:07:01 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
-      "language": "unknown"
-    },
-    {
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
-      "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 11:36:09 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-24 01:39:13",
+      "fetched_at": "2026-05-24 03:47:14",
       "language": "unknown"
     }
   ]
