@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27 01:52:05",
+  "last_updated": "2026-05-27 04:47:59",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
+      "language": "unknown"
+    },
+    {
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 00:10:03 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -131,7 +142,62 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
+      "language": "unknown"
+    },
+    {
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "summary": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
+      "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 23:15:47 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-27 04:47:59",
+      "language": "unknown"
+    },
+    {
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "summary": "The spy agency's head will set out threats facing the UK and the measures she believes need to be taken to confront them on Wednesday.",
+      "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 23:42:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-27 04:47:59",
+      "language": "unknown"
+    },
+    {
+      "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
+      "summary": "Israel says it was targeting a Hamas commander whose predecessor was killed in a similar strike earlier in May.",
+      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 22:50:46 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-27 04:47:59",
+      "language": "unknown"
+    },
+    {
+      "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
+      "summary": "The country has recorded more than 60,000 suspected cases of measles in just over two months.",
+      "link": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 01:34:42 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-27 04:47:59",
+      "language": "unknown"
+    },
+    {
+      "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
+      "summary": "Ten people were injured and an unknown number are missing after a tank ruptured at a paper mill in Longview, Washington.",
+      "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 22:07:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
@@ -142,84 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     },
     {
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
-      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 19:40:35 GMT",
+      "title": "White House erects UFC cage ahead of US 250th anniversary celebrations",
+      "summary": "Workers were seen assembling domed arches and a staging area on the South Lawn in preparation for next month's event.",
+      "link": "https://www.bbc.com/news/articles/cz622647eg3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 00:17:31 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
-      "language": "unknown"
-    },
-    {
-      "title": "Why temperature records are being not only broken but smashed",
-      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
-      "link": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 17:57:28 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
-      "language": "unknown"
-    },
-    {
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 20:25:50 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
-      "language": "unknown"
-    },
-    {
-      "title": "South African president mounts legal challenge against report that could lead to impeachment",
-      "summary": "Cyril Ramaphosa argues that the authors of the report \"misconceived\" their mandate.",
-      "link": "https://www.bbc.com/news/articles/cy72213v2elo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 17:24:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
-      "language": "unknown"
-    },
-    {
-      "title": "Internet starts coming back in Iran after months-long blackout",
-      "summary": "Internet access has been cut off in the country since the start of the war in late February.",
-      "link": "https://www.bbc.com/news/articles/c1w22y1n74do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 16:38:05 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
-      "language": "unknown"
-    },
-    {
-      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
-      "summary": "The governor of Ituri said the more time they lose, the closer the province is to disaster.",
-      "link": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 11:22:04 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
-      "language": "unknown"
-    },
-    {
-      "title": "China executes man for poisoning billionaire gaming tycoon",
-      "summary": "The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.",
-      "link": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 08:55:55 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-27 01:52:05",
+      "fetched_at": "2026-05-27 04:47:59",
       "language": "unknown"
     }
   ]
