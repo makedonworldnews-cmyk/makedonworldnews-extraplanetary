@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28 02:08:34",
+  "last_updated": "2026-05-28 06:38:51",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:50",
+      "language": "unknown"
+    },
+    {
+      "title": "US strikes Iran targets for second time in three days",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 02:58:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     },
     {
@@ -120,29 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     },
     {
-      "title": "Trump says US 'not satisfied' with Iran deal yet",
-      "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
-      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 17:37:33 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
-      "language": "unknown"
-    },
-    {
-      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
       "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
       "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 21:06:19 GMT",
+      "published": "Thu, 28 May 2026 00:28:45 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     },
     {
@@ -164,7 +164,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:51",
+      "language": "unknown"
+    },
+    {
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "summary": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
+      "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 04:01:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-28 06:38:51",
+      "language": "unknown"
+    },
+    {
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 02:47:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-28 06:38:51",
+      "language": "unknown"
+    },
+    {
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
+      "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 02:14:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     },
     {
@@ -175,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
-      "language": "unknown"
-    },
-    {
-      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
-      "link": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 12:42:43 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
-      "language": "unknown"
-    },
-    {
-      "title": "One killed and nine missing after chemical explosion at US paper mill",
-      "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington.",
-      "link": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 03:02:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
-      "language": "unknown"
-    },
-    {
-      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
-      "summary": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water.",
-      "link": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 12:25:31 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-05-28 02:08:34",
+      "fetched_at": "2026-05-28 06:38:51",
       "language": "unknown"
     }
   ]
