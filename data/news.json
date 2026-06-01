@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01 01:41:56",
+  "last_updated": "2026-06-01 04:02:49",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:55",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -120,18 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 18:13:39 GMT",
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 01 Jun 2026 01:53:03 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 22:54:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -153,18 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
-      "title": "Polls close in Colombia presidential election that may reshape relations with US",
-      "summary": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 21:08:21 GMT",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 18:13:39 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
-      "language": "unknown"
-    },
-    {
-      "title": "Brazil monitors two patients for possible Ebola infection",
-      "summary": "If confirmed, they would be the first infection cases outside Africa, since the outbreak began in DR Congo.",
-      "link": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 31 May 2026 19:07:47 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-01 01:41:56",
+      "fetched_at": "2026-06-01 04:02:49",
       "language": "unknown"
     }
   ]
