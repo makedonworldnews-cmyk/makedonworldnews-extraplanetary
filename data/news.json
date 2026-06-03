@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 01:24:00",
+  "last_updated": "2026-06-03 04:07:50",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:23:59",
+      "fetched_at": "2026-06-03 04:07:49",
       "language": "unknown"
     },
     {
@@ -120,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
+      "language": "unknown"
+    },
+    {
+      "title": "US and Iran launch new strikes as ceasefire negotiations stall",
+      "summary": "US launches fresh strikes on Iran and oil tanker as Tehran says it attacked US air bases.",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 01:18:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-03 04:07:50",
+      "language": "unknown"
+    },
+    {
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
+      "link": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 23:33:34 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     },
     {
@@ -131,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     },
     {
@@ -142,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
-      "language": "unknown"
-    },
-    {
-      "title": "US says it fired missile at Iran-bound oil tanker",
-      "summary": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 21:49:00 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     },
     {
@@ -175,29 +186,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     },
     {
-      "title": "Two arrested after four migrant farm workers killed in Italy minivan fire",
-      "summary": "CCTV images showed two people blocking the van's doors from the outside and throwing liquid inside to start a fire.",
-      "link": "https://www.bbc.com/news/articles/cvgzr2zxedno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 18:58:10 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
-      "summary": "Republican Congressman Tom Kean Jr has not been seen for months but is expected to win Tuesday's election.",
+      "title": "Mysteriously missing New Jersey congressman wins primary after Trump endorsement",
+      "summary": "Republican Congressman Tom Kean Jr has not been seen for months but won his party's nomination for re-election.",
       "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 17:40:56 GMT",
+      "published": "Wed, 03 Jun 2026 02:04:59 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
+      "language": "unknown"
+    },
+    {
+      "title": "Watch: Man attacked by bear at steel works in Japan",
+      "summary": "Watch: Man attacked by bear at steel works in Japan",
+      "link": "https://www.bbc.co.uk/programmes/p0npr053?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 03 Jun 2026 00:58:09 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Canada formally requests 16-year renewal of North American free trade pact",
-      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
-      "link": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 02 Jun 2026 19:30:47 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-03 01:24:00",
+      "fetched_at": "2026-06-03 04:07:50",
       "language": "unknown"
     }
   ]
