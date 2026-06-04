@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 23:58:24",
+  "last_updated": "2026-06-05 01:17:21",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -153,7 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 23:11:15 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -164,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Here's why election results in the second largest US city are so slow",
+      "summary": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+      "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 04 Jun 2026 22:20:24 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
-      "language": "unknown"
-    },
-    {
-      "title": "Kushner-backed luxury resort plan sparks protests in Albania",
-      "summary": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
-      "link": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 14:33:21 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
-      "language": "unknown"
-    },
-    {
-      "title": "John Bolton expected to plead guilty in classified documents case, sources confirm",
-      "summary": "Trump's former advisor turned critic had reached a deal with prosecutors, two people said.",
-      "link": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 19:28:06 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-04 23:58:24",
+      "fetched_at": "2026-06-05 01:17:21",
       "language": "unknown"
     }
   ]
