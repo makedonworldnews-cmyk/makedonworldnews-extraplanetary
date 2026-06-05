@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-06-05 03:32:40",
+  "last_updated": "2026-06-05 08:04:31",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Променливо облачно време со температура до 32 степени",
+      "summary": "Времето денеска ќе биде променливо облачно со сончеви периоди. Претежно во планинските региони ќе има појава на нестабилност со пороен дожд, грмежи и ...",
+      "link": "https://makfax.com.mk/makedonija/promenlivo-oblachno-vreme-so-temperatura-do-32-stepeni/",
+      "published": "Fri, 05 Jun 2026 06:00:37 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-05 08:04:30",
+      "language": "unknown"
+    },
     {
       "title": "Историски договор во Евролигата – Франциско се сели во Асвел",
       "summary": "Веќе неколку недели во Франција се најавува нов голем кошаркарски проект, Асвел ќе биде тимот во кој ќе се инвестираат огромни пари, а вечерва започна...",
@@ -10,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -21,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -32,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -43,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -54,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
@@ -98,40 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
-      "language": "unknown"
-    },
-    {
-      "title": "ЕУ испраќа дополнителни 100 милиони евра помош за либанската армија",
-      "summary": "Европската унија ќе испрати дополнителни 100 милиони евра финансиска поддршка за либанската армија, која работи во рамките на кревко примирје, изјави ...",
-      "link": "https://makfax.com.mk/svet/eu-ispraka-dopolnitelni-100-milioni-evra-pomosh-za-libanskata-armija/",
-      "published": "Thu, 04 Jun 2026 17:22:21 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:30",
       "language": "unknown"
     },
     {
       "title": "Zelensky proposes face-to-face talks in open letter to Putin",
       "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
       "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:32:35 GMT",
+      "published": "Fri, 05 Jun 2026 05:20:57 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
       "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
       "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 20:37:46 GMT",
+      "published": "Fri, 05 Jun 2026 01:44:16 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
@@ -142,18 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
       "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
       "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
       "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 21:34:49 GMT",
+      "published": "Fri, 05 Jun 2026 05:44:44 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
@@ -164,7 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
+      "language": "unknown"
+    },
+    {
+      "title": "China's Xi Jinping to make rare visit to North Korea",
+      "summary": "Xi will be in North Korea from 8-9 June, a rare visit to the isolated regime that is a longstanding ally of Beijing.",
+      "link": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 05:17:13 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
@@ -175,18 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Here's why election results in the second largest US city are so slow",
-      "summary": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
-      "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 22:20:24 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-05 03:32:40",
+      "fetched_at": "2026-06-05 08:04:31",
       "language": "unknown"
     }
   ]
