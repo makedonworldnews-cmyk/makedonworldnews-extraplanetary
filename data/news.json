@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 00:52:29",
+  "last_updated": "2026-06-08 02:01:57",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:56",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -142,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
+      "language": "unknown"
+    },
+    {
+      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
+      "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 23:00:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
-      "language": "unknown"
-    },
-    {
-      "title": "Hundreds of captives freed from Boko Haram mountain hideout",
-      "summary": "The group includes many women and children who were abducted in March from an area close to Cameroon.",
-      "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 07 Jun 2026 14:00:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     },
     {
-      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
-      "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 06 Jun 2026 23:25:20 GMT",
+      "title": "Hundreds of captives freed from Boko Haram mountain hideout",
+      "summary": "The group includes many women and children who were abducted in March from an area close to Cameroon.",
+      "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 07 Jun 2026 14:00:16 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-08 00:52:29",
+      "fetched_at": "2026-06-08 02:01:57",
       "language": "unknown"
     }
   ]
