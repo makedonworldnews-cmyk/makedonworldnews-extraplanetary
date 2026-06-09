@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-06-09 02:12:41",
+  "last_updated": "2026-06-09 06:37:54",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Без струја дел од Центар",
+      "summary": "Од ЕВН Македонија известуваат дека без електрична енергија ќе останат: – во периодот од 08.30 до 15.30 часот, дел од корисниците од улица Ѓорѓи Скриже...",
+      "link": "https://makfax.com.mk/makedonija/bez-struja-del-od-centar/",
+      "published": "Tue, 09 Jun 2026 04:35:39 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Израелска војска: Пресретнавме дрон од Јемен",
+      "summary": "Израелските воздухопловни сили пресретнаа дрон од Јемен над јужен Израел, соопшти војската рано утрово. Војската на Икс соопшти дека инцидентот во воз...",
+      "link": "https://makfax.com.mk/svet/izraelska-vojska-presretnavme-dron-od-jemen/",
+      "published": "Tue, 09 Jun 2026 04:33:12 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Најсилниот земјотрес во последните речиси 150 години ја погоди Куба",
+      "summary": "Историски земјотрес го погоди северозападниот брег на Куба во понеделник, според официјалните извештаи, погодувајќи делови од островот, Мексико и Флор...",
+      "link": "https://makfax.com.mk/svet/video-najsilniot-zemjotres-vo-poslednite-rechisi-150-godini-ja-pogodi-kuba/",
+      "published": "Tue, 09 Jun 2026 04:25:41 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Четворица убиени, 15 повредени во руските напади врз Харков",
+      "summary": "Во руските воздушни напади врз регионот Харков во источна Украина загинаа четири лица, а околу 15 се повредени, изјави вчера гувернерот на регионот Ол...",
+      "link": "https://makfax.com.mk/svet/chetvorica-ubieni-15-povredeni-vo-ruskite-napadi-vrz-harkov/",
+      "published": "Tue, 09 Jun 2026 04:21:22 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Трамп: Не верувам дека Израел повторно ќе војува со Иран",
+      "summary": "Американскиот претседател Доналд Трамп изјави дека не верува дека Израел повторно ќе војува со Иран. Во краткиот разговор со дописникот Џејмс Метјуз, ...",
+      "link": "https://makfax.com.mk/svet/tramp-ne-veruvam-deka-izrael-povtorno-ke-vojuva-so-iran/",
+      "published": "Tue, 09 Jun 2026 04:18:20 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Дел од Центар денеска без вода",
+      "summary": "Од ЈП Водовод и Канализација известуваат дека денеска поради затварање на вод по барање на нивен корисник, бидејки имат внатрешен проблем на улица Дам...",
+      "link": "https://makfax.com.mk/makedonija/del-od-centar-deneska-bez-voda-3/",
+      "published": "Tue, 09 Jun 2026 04:14:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Претпладне сончево и топло, попладне локална нестабилност со пороен дожд",
+      "summary": "Сончево и топло со мала до умерена облачност. Ќе дува слаб до умерен ветер од југоисточен правец. Попладне ќе има локална нестабилност со пороен дожд,...",
+      "link": "https://makfax.com.mk/makedonija/pretpladne-sonchevo-i-toplo-popladne-lokalna-nestabilnost-so-poroen-dozhd/",
+      "published": "Tue, 09 Jun 2026 04:09:56 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
     {
       "title": "Трамп: Му реков на Биби да внимава што прави",
       "summary": "Американскиот претседател Доналд Трамп изјави дека го предупредил израелскиот премиер Бенјамин Нетанјаху да не дозволи конфликтот со Иран да прерасне ...",
@@ -10,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -32,84 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Дивок Ориги замина во пензија",
-      "summary": "Поранешниот напаѓач на Ливерпул, Дивок Ориги, официјално стави крај на својата кариера. Ориги припаѓа на оние важни, но не премногу експонирани играчи...",
-      "link": "https://makfax.com.mk/sport/divok-origi-zamina-vo-penzija/",
-      "published": "Mon, 08 Jun 2026 18:59:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Улици под вода по невремето во Битола, службите на терен низ целиот град",
-      "summary": "Големите количини на дожд кои попладнево паднаа во Битола предизвикаа проблеми во нормалното функционирање во делови од градот. Веднаш на терен излего...",
-      "link": "https://makfax.com.mk/makedonija/ulici-pod-voda-po-nevremeto-vo-bitola-sluzhbite-na-teren-niz-celiot-grad/",
-      "published": "Mon, 08 Jun 2026 18:55:46 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Тимбер ќе го пропушти Мундијалот",
-      "summary": "Јуриен Тимбер ќе го пропушти Светското првенство. Дефанзивецот на холандската репрезентација и на Арсенал не успеа соодветно да се опорави од повредат...",
-      "link": "https://makfax.com.mk/sport/timber-ke-go-propushti-mundijalot/",
-      "published": "Mon, 08 Jun 2026 18:53:57 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Иран ги осуди новите санкции на ЕУ: Лицемерни се и засновани на лаги",
-      "summary": "Иран остро ги осуди новите санкции што Европската Унија денеска ги воведе против ирански поединци и организации. Заменик-министерот за надворешни рабо...",
-      "link": "https://makfax.com.mk/svet/iran-gi-osudi-novite-sankcii-na-eu-licemerni-se-i-zasnovani-na-lagi/",
-      "published": "Mon, 08 Jun 2026 18:45:59 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "САД му забранија влез во земјата на најдобриот африкански судија",
-      "summary": "На судијата Омар Абдулкадир Артан, избран од ФИФА да го суди Светското првенство, му беше одбиен влезот во Соединетите Држави по пристигнувањето. Иако...",
-      "link": "https://makfax.com.mk/sport/sad-mu-zabranija-vlez-vo-zemjata-na-najdobriot-afrikanski-sudija/",
-      "published": "Mon, 08 Jun 2026 18:45:57 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Астролозите најавуваат еден од најсреќните денови во годината: Седум знаци ќе имаат најмногу среќа",
-      "summary": "На 9 јуни ќе се случи конјункција на Венера, планетата на љубовта, и Јупитер, планетата на среќата и изобилството, а астролозите сметаат дека тоа е ед...",
-      "link": "https://makfax.com.mk/zanimlivosti/astrolozite-najavuvaat-eden-od-najsreknite-denovi-vo-godinata-sedum-znaci-ke-imaat-najmnogu-sreka/",
-      "published": "Mon, 08 Jun 2026 18:30:43 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Бајден откри детали од непријатното возење со Меланија Трамп во своите мемоари",
-      "summary": "Поранешната прва дама на САД, Џил Бајден, во своите нови мемоари „View from the East Wing“ откри детали од заедничкото возење со Меланија Трамп на ден...",
-      "link": "https://makfax.com.mk/zanimlivosti/bajden-otkri-detali-od-neprijatnoto-vozenje-so-melanija-tramp-vo-svoite-memoari/",
-      "published": "Mon, 08 Jun 2026 18:10:14 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:40",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -131,18 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
-      "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
-      "summary": "The web of fractious alliances and dysfunctional ceasefires shows how destabilised the region remains.",
+      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
       "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 08 Jun 2026 23:50:59 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -164,29 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
-      "link": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 10:28:40 GMT",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
+      "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 03:08:54 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
-      "language": "unknown"
-    },
-    {
-      "title": "Malawians repatriated from South Africa amid xenophobia concerns",
-      "summary": "Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.",
-      "link": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 11:19:58 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -197,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -208,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     },
     {
@@ -219,7 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-09 02:12:41",
+      "fetched_at": "2026-06-09 06:37:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Somali referee Artan barred from entering US",
+      "summary": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to ...",
+      "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 08 Jun 2026 21:42:25 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-09 06:37:54",
       "language": "unknown"
     }
   ]
