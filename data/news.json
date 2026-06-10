@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 00:45:24",
+  "last_updated": "2026-06-10 02:00:53",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:23",
+      "fetched_at": "2026-06-10 02:00:52",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -131,7 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
+      "language": "unknown"
+    },
+    {
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 22:00:24 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -175,18 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
-      "language": "unknown"
-    },
-    {
-      "title": "I have right papers and visa - barred referee Artan",
-      "summary": "Somali referee Omar Artan says he was subjected to an 11-hour immigration interview before being denied entry to the United States for the World Cup d...",
-      "link": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 13:43:54 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     },
     {
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
-      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 18:35:59 GMT",
+      "title": "I have right papers and visa - barred referee Artan",
+      "summary": "Somali referee Omar Artan says he was subjected to an 11-hour immigration interview before being denied entry to the United States for the World Cup d...",
+      "link": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 13:43:54 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-10 00:45:24",
+      "fetched_at": "2026-06-10 02:00:53",
       "language": "unknown"
     }
   ]
