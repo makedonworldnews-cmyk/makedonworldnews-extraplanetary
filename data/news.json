@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20 02:07:18",
+  "last_updated": "2026-06-20 06:39:24",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:17",
+      "fetched_at": "2026-06-20 06:39:23",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
@@ -142,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
+      "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 03:13:18 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
@@ -153,40 +164,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
-      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-      "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
-      "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 04:30:47 GMT",
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 02:33:30 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
-      "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 14:45:57 GMT",
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
+      "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 03:12:47 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
-      "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
-      "summary": "The man was allegedly struck by his 81-year-old opponent, who has since been arrested, the public prosecutor says.",
-      "link": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 17:30:24 GMT",
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+      "summary": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grac...",
+      "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 00:23:46 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
-      "language": "unknown"
-    },
-    {
-      "title": "Zimbabwe MPs pass bill to extend president's time in power",
-      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
-      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 08:03:32 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 02:07:18",
+      "fetched_at": "2026-06-20 06:39:24",
       "language": "unknown"
     }
   ]
