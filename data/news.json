@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-06-20 12:41:38",
+  "last_updated": "2026-06-20 14:19:21",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Тешка сообраќајна несреќа на патот Куманово – Свети Николе: повредени десет лица",
+      "summary": "Десет лица се повредени, од кои две се здобиле со тешки телесни повреди, во сообраќајна несреќа што се случила синоќа на регионалниот пат Куманово – С...",
+      "link": "https://makfax.com.mk/crna-hronika/teshka-soobrakajna-nesreka-na-patot-kumanovo-sveti-nikole-povredeni-deset-lica/",
+      "published": "Sat, 20 Jun 2026 12:00:55 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 14:19:21",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Мицкоски во понеделник на нова средба со претставници на маркетите, најави десеткратно зголемување на казните за нефер практики",
+      "summary": "Премиерот Христијан Мицкоски најави десеткратно зголемување на казните за маркетите кои применуваат нефер трговски практики, како и нов состанок со пр...",
+      "link": "https://makfax.com.mk/ekonomija/video-mickoski-vo-ponedelnik-na-nova-sredba-so-pretstavnici-na-marketite-najavi-desetkratno-zgolemuvanje-na-kaznite-za-nefer-praktiki/",
+      "published": "Sat, 20 Jun 2026 11:51:36 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 14:19:21",
+      "language": "unknown"
+    },
+    {
+      "title": "(Фото+видео) „Летечка Бела куќа“: Трамп го претстави авионот што му го подари Катар",
+      "summary": "Американскиот претседател Доналд Трамп го претстави новиот авион „Боинг 747-8“ кој во иднина ќе служи како „Ер Форс Ван“. Станува збор за луксузно лет...",
+      "link": "https://makfax.com.mk/svet/foto-video-letechka-bela-kuka-tramp-go-pretstavi-avionot-shto-mu-go-podari-katar/",
+      "published": "Sat, 20 Jun 2026 11:08:27 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 14:19:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Боливија прогласи вонредна состојба по речиси 50 дена протести, најмалку 14 загинати",
+      "summary": "Претседателот на Боливија, Родриго Паз, прогласи вонредна состојба во земјата по речиси 50 дена антивладини протести и блокади на патишта кои предизви...",
+      "link": "https://makfax.com.mk/svet/bolivija-proglasi-vonredna-sostojba-po-rechisi-50-dena-protesti-najmalku-14-zaginati/",
+      "published": "Sat, 20 Jun 2026 10:58:04 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 14:19:21",
+      "language": "unknown"
+    },
+    {
+      "title": "Австрија воведе нови сообраќајни правила: казни до 2.180 евра за недозволен влез во градски зони",
+      "summary": "Возачите кои ова лето ќе патуваат низ Австрија треба да обрнат посебно внимание на новите сообраќајни правила, бидејќи прекршувањата можат да резултир...",
+      "link": "https://makfax.com.mk/svet/avstrija-vovede-novi-soobrakajni-pravila-kazni-do-2-180-evra-za-nedozvolen-vlez-vo-gradski-zoni/",
+      "published": "Sat, 20 Jun 2026 10:54:02 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 14:19:21",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Мицкоски најави пад на цените на горивата од понеделник – дизелот поевтин за 7, а бензинот за 4 денари",
+      "summary": "Премиерот Христијан Мицкоски очекува сериозно поевтинување на нафтените деривати во земјава веќе од следната недела. Според неговите проценки, во поне...",
+      "link": "https://makfax.com.mk/ekonomija/video-mickoski-najavi-pad-na-cenite-na-gorivata-od-ponedelnik-dizelot-poevtin-za-7-a-benzinot-za-4-denari/",
+      "published": "Sat, 20 Jun 2026 10:43:18 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-20 14:19:21",
+      "language": "unknown"
+    },
     {
       "title": "(Видео) Владината реконструкција пред пратениците до 1 јули",
       "summary": "Премиерот Христијан Мицкоски денеска изјави дека процесот на реконструкција на Владата ќе биде формализиран до крајот на месецов и очекува до 1 јули п...",
@@ -10,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -43,84 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
-      "title": "Холандија ослабена вечерва – Тимбер нема да игра, Де Јонг е неизвесен",
-      "summary": "Холандската фудбалска репрезентација има неколку мали проблеми пред натпреварот со Шведска. Можеби ќе настапат без Френки де Јонг, а секако нема да иг...",
-      "link": "https://makfax.com.mk/sport/holandija-oslabena-vecherva-timber-nema-da-igra-de-jong-e-neizvesen/",
-      "published": "Sat, 20 Jun 2026 10:04:30 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Стојаноски: Македонија бележи раст од 7,6% на индустриското производство",
-      "summary": "Македонија бележи раст од 7,6 проценти на индустриското производство во 2026 година во споредба со претходната година, додека кумулативниот раст се на...",
-      "link": "https://makfax.com.mk/ekonomija/video-stojanoski-makedonija-belezhi-rast-od-76-na-industriskoto-proizvodstvo/",
-      "published": "Sat, 20 Jun 2026 10:03:22 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
-      "language": "unknown"
-    },
-    {
-      "title": "„Ова Светско првенство е фијаско за фудбалот“",
-      "summary": "Легендарниот Ули Хенес е целосно разочаран од Светското првенство во Соединетите Американски Држави, Канада и Мексико. Поранешниот фудбалер и долгогод...",
-      "link": "https://makfax.com.mk/sport/ova-svetsko-prvenstvo-e-fijasko-za-fudbalot/",
-      "published": "Sat, 20 Jun 2026 09:58:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Петрушевски: Филипче не се крие дека сака да дојде на власт за да изврши национално предавство",
-      "summary": "„Венко Филипче не само што не се разликува од Зоран Заев, туку е негова надградена верзија“ – ова денеска на прес-конференција го истакна пратеникот о...",
-      "link": "https://makfax.com.mk/makedonija/video-petrushevski-filipche-ne-se-krie-deka-saka-da-dojde-na-vlast-za-da-izvrshi-nacionalno-predavstvo/",
-      "published": "Sat, 20 Jun 2026 09:57:09 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
-      "language": "unknown"
-    },
-    {
-      "title": "ССМ: За четиричлено семејство во јуни потребни се најмалку 68.654 денари за основни трошоци",
-      "summary": "На едно четиричлено семејство во Македонија во јуни му се потребни најмалку 68.654 денари за да ги покрие основните месечни трошоци, покажуваат најнов...",
-      "link": "https://makfax.com.mk/ekonomija/ssm-za-chetirichleno-semejstvo-vo-juni-potrebni-se-najmalku-68-654-denari-za-osnovni-troshoci/",
-      "published": "Sat, 20 Jun 2026 09:11:35 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Товарни вагони излетаа од шините и паднаа од мост во Минхен",
-      "summary": "Само неколку часа по страотната железничка несреќа во Велика Британија, во која загина еден машиновозач, а 89 лица беа повредени, се случи нова железн...",
-      "link": "https://makfax.com.mk/top/video-tovarni-vagoni-izletaa-od-shinite-i-padnaa-od-most-vo-minhen/",
-      "published": "Sat, 20 Jun 2026 08:37:54 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
-      "language": "unknown"
-    },
-    {
-      "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
-      "summary": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon.",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "summary": "Several people are reported killed in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 project...",
       "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 20 Jun 2026 08:53:53 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-20 12:41:38",
+      "fetched_at": "2026-06-20 14:19:21",
       "language": "unknown"
     }
   ]
