@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-06-24 17:59:03",
+  "last_updated": "2026-06-24 20:03:03",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Путин: Руската авијациска технологија ја надмина западната",
+      "summary": "Русија беше принудена и успеа целосно да ја замени увезената авијациска опрема со домашно производство, изјави претседателот на Руската Федерација, Вл...",
+      "link": "https://makfax.com.mk/svet/italijanskiot-minister-za-odbrana-rute-ja-zamajuva-svetskata-javnost-so-toa-shto-kazhuva-lagi-za-epskiot-bes/",
+      "published": "Wed, 24 Jun 2026 17:36:44 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Вкупно девет пожари регистрирани до 18 часот во државата, активен е пожарот во Штип",
+      "summary": "На територијата на државата до 18:00 часот се регистрирани вкупно 9 пожари на отворен простор, соопшти ЦУК. Од нив, 1 пожар е активен, 1 пожар е ставе...",
+      "link": "https://makfax.com.mk/makedonija/vkupno-9-pozhari-registrirani-do-18-chasot-vo-drzhavata-aktiven-e-pozharot-vo-shtip/",
+      "published": "Wed, 24 Jun 2026 16:56:24 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Од Србија екстрадиран 19-годишникот кој прегази жена во Капиштец, определен му е притвор",
+      "summary": "Денеска (24.06.2026) од Република Србија во нашата земја екстрадиран е Саит Саитов (19) од Скопје, соопшти МВР. Тој беше баран со меѓународна потерниц...",
+      "link": "https://makfax.com.mk/makedonija/od-srbija-ekstradiran-19-godishnikot-koj-pregazi-zhena-vo-kapishtec-opredelen-mu-e-pritvor/",
+      "published": "Wed, 24 Jun 2026 16:45:25 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Генералниот директор на СЗО: Температурите во Европа растат двојно побрзо од просекот, потребна е акција за климатските промени",
+      "summary": "Генералниот директор на Светската здравствена организација (СЗО), Тедрос Аданом Гебрејесус, денес изјави дека температурите во Европа растат двојно по...",
+      "link": "https://makfax.com.mk/svet/generalniot-direktor-na-szo-temperaturite-vo-evropa-rastat-dvojno-pobrzo-od-prosekot-potrebna-e-akcija-za-klimatskite-promeni/",
+      "published": "Wed, 24 Jun 2026 16:38:12 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Алиу: Во Брисел го потпишавме договорот за учество во „EU4Health“- европска поддршка за реформите во здравството",
+      "summary": "Министерот за здравство, Азир Алиу, заедно со еврокомесарот за здравство, Оливер Вархеј, денеска во Брисел го потпишаа договорот за учество на Републи...",
+      "link": "https://makfax.com.mk/makedonija/aliu-vo-brisel-go-potpishavme-dogovorot-za-uchestvo-vo-eu4health-evropska-poddrshka-za-reformite-vo-zdravstvoto/",
+      "published": "Wed, 24 Jun 2026 16:18:22 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
+    {
+      "title": "„Невообичаена закана“: Трамп ја продолжи вонредната состојба на национално ниво за Западен Балкан",
+      "summary": "Соединетите Американски Држави ја продолжија националната вонредна состојба поврзана со Западен Балкан за уште една година, оценувајќи дека активности...",
+      "link": "https://makfax.com.mk/svet/region/nevoobichaena-zakana-tramp-ja-prodolzhi-vonrednata-sostojba-na-nacionalno-nivo-za-zapaden-balkan/",
+      "published": "Wed, 24 Jun 2026 16:07:48 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
     {
       "title": "„Се „вариме“ во нашите домови“: Брутален топлотен бран во Европа, Французите веќе најавуваат нов",
       "summary": "Тежок топлотен бран ја зафати Европа, предизвикувајќи бројни проблеми од Франција и Велика Британија до Италија, а метеоролозите најавуваат дека врвот...",
@@ -10,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -43,84 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
-      "title": "Викендов авионска дезинсекција против комарци во Скопје",
-      "summary": "Градот Скопје известува дека претстојниов викенд, односно на 27.06.2026 година (сабота) и на 28.06.2026 година (недела), во раните утрински часови ќе ...",
-      "link": "https://makfax.com.mk/makedonija/vikendov-avionska-dezinsekcija-protiv-komarci-vo-skopje/",
-      "published": "Wed, 24 Jun 2026 15:02:16 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Јамалов: Рекордните резултати на МВР во борбата против криминалот и корупцијата се доказ дека интерпелацијата е неоснована",
-      "summary": "На денешната собраниска седница се обрати пратеникот од редовите на ВМРО-ДПМНЕ, Александар Јамалов кој истакна дека резултатите на Министерството за в...",
-      "link": "https://makfax.com.mk/makedonija/jamalov-rekordnite-rezultati-na-mvr-vo-borbata-protiv-kriminalot-i-korupcijata-se-dokaz-deka-interpelacijata-e-neosnovana/",
-      "published": "Wed, 24 Jun 2026 14:56:52 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Брaсинга: Струшките вечери на поезијата имаат одек што трае долго по фестивалот",
-      "summary": "Холандската поетеса Анеке Брасинга, добитничка на највисокото признание „Златен венец“ на Струшките вечери на поезијата денеска на прес-конференција и...",
-      "link": "https://makfax.com.mk/kultura/brasinga-strushkite-vecheri-na-poezijata-imaat-odek-shto-trae-dolgo-po-festivalot/",
-      "published": "Wed, 24 Jun 2026 14:47:28 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Ердоган: Ако мирот дојде во регионот на Блискиот Исток, тоа ќе биде и покрај провокациите од Израел",
-      "summary": "Претседателот на Турција, Реџеп Таип Ердоган, денес изјави дека Израел се спротивставува дури и на најмалата можност за мир и дека ако мирот дојде во ...",
-      "link": "https://makfax.com.mk/svet/erdogan-ako-mirot-dojde-vo-regionot-na-bliskiot-istok-toa-ke-bide-i-pokraj-provokaciite-od-izrael/",
-      "published": "Wed, 24 Jun 2026 14:40:58 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Средба на Сиљановска-Давкова со Луис Гарсија Монтеро, директор на Институтот „Сервантес“",
-      "summary": "Во пресрет на вечерашното отворање на „Струшките вечери на поезијата“, претседателката Гордана Сиљановска-Давкова го прими Луис Гарсија Монтеро, дирек...",
-      "link": "https://makfax.com.mk/kultura/sredba-na-siljanovska-davkova-so-luis-garsija-montero-direktor-na-institutot-servantes/",
-      "published": "Wed, 24 Jun 2026 14:16:20 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Бочварски за Тошковски: Партизација на полицијата, политички притисоци и злоупотреби",
-      "summary": "Пратеникот на СДСМ, Благој Бочварски, на денешната собраниска расправа за интерпелацијата на министерот за внатрешни работи Панче Тошковски, оцени дек...",
-      "link": "https://makfax.com.mk/makedonija/bochvarski-za-toshkovski-partizacija-na-policijata-politichki-pritisoci-i-zloupotrebi/",
-      "published": "Wed, 24 Jun 2026 14:14:11 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Power outages hit France as record heatwave set to peak",
-      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "title": "Power outages hit France as it records hottest day since measurements began",
+      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 13:44:08 GMT",
+      "published": "Wed, 24 Jun 2026 17:29:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -131,18 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
       "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
       "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
       "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 12:32:00 GMT",
+      "published": "Wed, 24 Jun 2026 17:31:48 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
+      "language": "unknown"
+    },
+    {
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+      "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 15:50:22 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Bondi Beach shooting hero pleads not guilty to alleged assault on his father",
-      "summary": "Ahmed al Ahmed tackled one of the gunmen who killed 15 people at a Jewish event in December.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q33gdgjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 04:06:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-06-24 17:59:03",
+      "fetched_at": "2026-06-24 20:03:03",
       "language": "unknown"
     }
   ]
