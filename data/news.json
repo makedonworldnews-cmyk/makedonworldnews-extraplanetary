@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 01:43:09",
+  "last_updated": "2026-07-01 03:57:33",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:32",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:33",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:33",
       "language": "unknown"
     },
     {
@@ -142,7 +142,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 01:45:58 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-01 03:57:33",
+      "language": "unknown"
+    },
+    {
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+      "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 23:24:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-01 03:57:33",
       "language": "unknown"
     },
     {
@@ -153,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:33",
       "language": "unknown"
     },
     {
@@ -164,7 +186,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "summary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 23:49:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-01 03:57:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "summary": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 01:13:36 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-01 03:57:33",
       "language": "unknown"
     },
     {
@@ -175,51 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
-      "language": "unknown"
-    },
-    {
-      "title": "Firefighters struggle to contain deadly Greek wildfire",
-      "summary": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 20:25:53 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
-      "language": "unknown"
-    },
-    {
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 19:39:29 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
-      "language": "unknown"
-    },
-    {
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 18:59:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
-      "language": "unknown"
-    },
-    {
-      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-      "summary": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
-      "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 21:24:15 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-01 01:43:09",
+      "fetched_at": "2026-07-01 03:57:33",
       "language": "unknown"
     }
   ]
