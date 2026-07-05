@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-07-05 16:43:48",
+  "last_updated": "2026-07-05 17:53:23",
   "article_count": 20,
   "articles": [
+    {
+      "title": "(Видео) Голем пожар во Кисела Вода",
+      "summary": "Голем пожар избувна попладнево во објект на Јужен булевар во скопската населба Кисела Вода, а густ црн чад се гледа од повеќе делови на главниот град....",
+      "link": "https://makfax.com.mk/makedonija/video-golem-pozhar-vo-kisela-voda/",
+      "published": "Sun, 05 Jul 2026 15:16:03 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-05 17:53:23",
+      "language": "unknown"
+    },
+    {
+      "title": "По пет месеци Иран и Катар ја обновуваат поморската трговија",
+      "summary": "Поморската трговија помеѓу Иран и Катар е обновена по речиси петмесечна пауза, изјави денеска иранскиот трговски аташе во Доха, Абас Абдолхани. Тој ис...",
+      "link": "https://makfax.com.mk/svet/po-pet-meseci-iran-i-katar-ja-obnovuvaat-pomorskata-trgovija/",
+      "published": "Sun, 05 Jul 2026 14:54:31 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-05 17:53:23",
+      "language": "unknown"
+    },
     {
       "title": "Во Солун по големиот пожар се шири отровен облак и загаден воздух, еден е приведен",
       "summary": "Токсичен облак што го прекри Солун е последица на големиот пожар што избувна во областа Ореокастро, а загадениот воздух во текот на денот се очекува д...",
@@ -10,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -21,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -32,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -43,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -54,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -65,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -76,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -87,40 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Украина нападна трафостаници во Крим",
-      "summary": "Украина во текот на ноќта нападна неколку трафостаници во Крим, како резултат на што полуостровот што се наоѓа под руска окупација остана без електрич...",
-      "link": "https://makfax.com.mk/svet/ukraina-napadna-trafostanici-vo-krim/",
-      "published": "Sun, 05 Jul 2026 11:07:22 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Пронајдени 116 грама хашиш при претрес во гостиварско",
-      "summary": "Полициски службеници од СВР Тетово спроведоа акција во гостиварското село Здуње, при што беа пронајдени околу 116 грама хашиш, а едно лице е лишено од...",
-      "link": "https://makfax.com.mk/crna-hronika/pronajdeni-116-grama-hashish-pri-pretres-vo-gostivarsko/",
-      "published": "Sun, 05 Jul 2026 11:00:28 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:47",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
       "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 12:29:18 GMT",
+      "published": "Sun, 05 Jul 2026 15:48:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
+      "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
+      "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 14:59:10 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
-      "language": "unknown"
-    },
-    {
-      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
-      "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 02:26:54 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-05 16:43:48",
+      "fetched_at": "2026-07-05 17:53:23",
       "language": "unknown"
     }
   ]
