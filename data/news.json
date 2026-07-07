@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 01:35:59",
+  "last_updated": "2026-07-07 03:21:39",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:58",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
+      "language": "unknown"
+    },
+    {
+      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 23:55:53 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -131,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
+      "language": "unknown"
+    },
+    {
+      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent...",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 00:46:03 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -142,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -153,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 18:50:44 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
-      "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 23:31:04 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-07 01:35:59",
+      "fetched_at": "2026-07-07 03:21:39",
       "language": "unknown"
     }
   ]
