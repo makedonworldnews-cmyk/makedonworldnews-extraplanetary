@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 00:36:00",
+  "last_updated": "2026-07-16 01:38:27",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -131,18 +131,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 23:17:27 GMT",
+      "title": "Argentina face fine for Falklands banner in semi-final win",
+      "summary": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of thei...",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 22:49:47 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
+      "language": "unknown"
+    },
+    {
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+      "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 23:02:37 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -153,7 +164,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
+      "language": "unknown"
+    },
+    {
+      "title": "US military to start testosterone testing, Hegseth says",
+      "summary": "\"We owe our warriors the absolute best medical care in the world, and this program delivers on that obligation,\" Hegseth said in a video.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 22:46:02 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-16 01:38:27",
+      "language": "unknown"
+    },
+    {
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 23:02:49 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -164,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -175,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 11:44:28 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
-      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
-      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 10:50:09 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Venezuela government to launch formal talks with opposition members",
-      "summary": "The opposition says the aim of the talks is to strengthen the democratic institutions and the electoral system.",
-      "link": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 15 Jul 2026 12:21:21 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-16 00:36:00",
+      "fetched_at": "2026-07-16 01:38:27",
       "language": "unknown"
     }
   ]
