@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 01:28:24",
+  "last_updated": "2026-07-18 02:59:29",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -109,29 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
-      "language": "unknown"
-    },
-    {
-      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 18:33:12 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
-      "language": "unknown"
-    },
-    {
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 19:04:09 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -142,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
+      "language": "unknown"
+    },
+    {
+      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "summary": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 18:33:12 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-18 02:59:29",
+      "language": "unknown"
+    },
+    {
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 17 Jul 2026 19:04:09 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-18 01:28:24",
+      "fetched_at": "2026-07-18 02:59:29",
       "language": "unknown"
     }
   ]
