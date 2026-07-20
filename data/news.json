@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-07-20 22:13:06",
+  "last_updated": "2026-07-20 23:34:17",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Објавено со што е загадена водата во Гостивар, жителите ја пиеле од 25 јуни кога биле поставени пумпи од канал",
+      "summary": "Основното јавно обвинителство Гостивар вечерва донесе наредба за спроведување истражна постапка против три лица за Тешки дела против животната средина...",
+      "link": "https://makfax.com.mk/makedonija/objaveno-so-shto-e-zagadena-vodata-vo-gostivar-zhitelite-ja-piele-od-25-juni-koga-bile-postaveni-pumpi-od-kanal/",
+      "published": "Mon, 20 Jul 2026 20:14:14 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-20 23:34:16",
+      "language": "unknown"
+    },
     {
       "title": "(Видео) Читач на усни: Трамп ја повторуваше истата реченица на секој шпански играч",
       "summary": "Доналд Трамп вчера им го додели трофејот и медалите на победниците на Светското првенство, шпанската репрезентација. Американскиот претседател, исто т...",
@@ -10,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -21,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -32,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -43,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -54,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -65,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -76,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -87,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
@@ -98,40 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:16",
       "language": "unknown"
     },
     {
-      "title": "Мали работи што ја одржуваат љубовта: Зошто вниманието вреди повеќе од големите гестови",
-      "summary": "Во романтичните врски, често зборуваме за големи изјави, романтични изненадувања и посебни моменти, но експертите за врски нагласуваат дека стабилната...",
-      "link": "https://makfax.com.mk/zanimlivosti/mali-raboti-shto-ja-odrzhuvaat-ljubovta-zoshto-vnimanieto-vredi-poveke-od-golemite-gestovi/",
-      "published": "Mon, 20 Jul 2026 16:54:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
-      "language": "unknown"
-    },
-    {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 17:20:37 GMT",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Jul 2026 21:09:31 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
       "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
       "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
       "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 17:33:02 GMT",
+      "published": "Mon, 20 Jul 2026 21:30:19 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -142,18 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
       "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
       "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
       "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 17:21:27 GMT",
+      "published": "Mon, 20 Jul 2026 21:03:24 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-20 22:13:06",
+      "fetched_at": "2026-07-20 23:34:17",
       "language": "unknown"
     }
   ]
