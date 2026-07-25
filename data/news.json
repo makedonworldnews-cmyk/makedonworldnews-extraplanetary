@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 01:08:54",
+  "last_updated": "2026-07-25 02:14:11",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:10",
       "language": "unknown"
     },
     {
@@ -120,18 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 18:51:17 GMT",
+      "published": "Sat, 25 Jul 2026 00:06:53 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
+      "language": "unknown"
+    },
+    {
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 23:01:06 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
@@ -175,18 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
-      "language": "unknown"
-    },
-    {
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 22:49:59 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
@@ -197,7 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
+      "language": "unknown"
+    },
+    {
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 24 Jul 2026 22:49:59 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
-      "language": "unknown"
-    },
-    {
-      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-      "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 24 Jul 2026 16:08:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-25 01:08:54",
+      "fetched_at": "2026-07-25 02:14:11",
       "language": "unknown"
     }
   ]
