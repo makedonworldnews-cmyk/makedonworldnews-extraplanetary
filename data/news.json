@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 22:04:46",
+  "last_updated": "2026-07-27 23:21:05",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:04",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:04",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:04",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -109,29 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
-      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
       "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
       "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 17:50:42 GMT",
+      "published": "Mon, 27 Jul 2026 20:34:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ev...",
-      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 15:59:27 GMT",
+      "title": "Wildfire witnesses describe 'wall of flames', fear and stress",
+      "summary": "Local and visitors tell the BBC of disbelief and anxiety as wildfires force more than 300,000 people to evacuate.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 19:50:35 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Jul 2026 21:10:56 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
-      "language": "unknown"
-    },
-    {
-      "title": "South Africa investigates death of Nigerian who collapsed during arrest",
-      "summary": "Initial reports from a post-mortem said he had \"abrasions on his back and chest\", investigators say.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 14:26:50 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-27 22:04:46",
+      "fetched_at": "2026-07-27 23:21:05",
       "language": "unknown"
     }
   ]
