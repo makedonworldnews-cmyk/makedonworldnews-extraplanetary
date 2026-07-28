@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-07-28 15:21:08",
+  "last_updated": "2026-07-28 17:40:18",
   "article_count": 20,
   "articles": [
+    {
+      "title": "(Видео) Камера го сними моментот на силниот земјотрес во Јапонија",
+      "summary": "Безбедносна камера на Универзитетот во Кумамото го снимила моментот на силното потресување за време на денешниот силен земјотрес што го погоди југозап...",
+      "link": "https://makfax.com.mk/svet/video-kamera-go-snimi-momentot-na-silniot-zemjotres-vo-japonija/",
+      "published": "Tue, 28 Jul 2026 15:35:33 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "Има загинати по земјотресот во Јапонија",
+      "summary": "Има загинати при уривањето на трговскиот центар „Aeon Mall Kumamoto“ во јапонскиот град Кумамото, по силниот земјотрес со јачина од 7,1 степени што го...",
+      "link": "https://makfax.com.mk/svet/ima-zaginati-po-zemjotresot-vo-japonija/",
+      "published": "Tue, 28 Jul 2026 15:28:22 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "СДСМ: Сега официјално признаваат ризик од хепатит А и Е во Гостивар",
+      "summary": "По епидемијата поради загадена вода во Гостивар, властите сега официјално признаваат ризик од хепатит А и Е и други заразни заболувања, реагира СДСМ. ...",
+      "link": "https://makfax.com.mk/makedonija/sdsm-sega-oficijalno-priznavaat-rizik-od-hepatit-a-i-e-vo-gostivar/",
+      "published": "Tue, 28 Jul 2026 15:07:23 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "Додека ДПМНЕ се фали со „историски“ капитални инвестиции, Гостивар го разоткри колапсот на нивното управување, велат од Левица",
+      "summary": "Само неколку дена откако Гостивар беше ставен пред ризик од хепатит А, жолтица и други заразни заболувања поради фекално загадената вода, ДПМНЕ објави...",
+      "link": "https://makfax.com.mk/makedonija/dodeka-dpmne-se-fali-so-istoriski-kapitalni-investicii-gostivar-go-razotkri-kolapsot-na-nivnoto-upravuvanje-velat-od-levica/",
+      "published": "Tue, 28 Jul 2026 14:17:35 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "Граѓаните да не отвораат лажни пораки, наводно испратени од „Безбеден град“ и да не споделуваат лични податоци, порачува МВР",
+      "summary": "Министерството за внатрешни работи ја информира јавноста дека изминатиов период е забележана појава на фишинг напади кои се изведуваат преку лажни СМС...",
+      "link": "https://makfax.com.mk/makedonija/graganite-da-ne-otvoraat-lazhni-poraki-navodno-isprateni-od-bezbeden-grad-i-da-ne-spodeluvaat-lichni-podatoci-porachuva-mvr/",
+      "published": "Tue, 28 Jul 2026 13:56:54 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "Франција ги евакуира туристичките места, уште 4.000 луѓе ги напуштија загрозените подрачја",
+      "summary": "Француските власти денес наредија евакуација на туристичките места на атлантскиот брег, од каде што речиси 4.000 луѓе мораа да ја напуштат загрозената...",
+      "link": "https://makfax.com.mk/svet/francija-gi-evakuira-turistichkite-mesta-ushte-4-000-luge-gi-napushtija-zagrozenite-podrachja/",
+      "published": "Tue, 28 Jul 2026 13:49:01 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Силен земјотрес во Јапонија: урнати куќи, оштетени мостови, експлозија во трговски центар",
+      "summary": "Силен земјотрес денес го погоди југозападниот дел на Јапонија, предизвикувајќи уривање на бројни згради, избувнување пожари и најмалку 50 лица хоспита...",
+      "link": "https://makfax.com.mk/svet/video-silen-zemjotres-vo-japonija-urnati-kuki-oshteteni-mostovi-eksplozija-vo-trgovski-centar/",
+      "published": "Tue, 28 Jul 2026 13:36:07 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "Обезбедени над 10 милиони евра за откуп на оризова арпа и грозје вранец, соопшти Владата",
+      "summary": "Владата донесе Одлуката со која се менуваат и дополнуваат условите за користење на средствата од компензационите фондови. Постојната кредитна линија ш...",
+      "link": "https://makfax.com.mk/ekonomija/obezbedeni-nad-10-milioni-evra-za-otkup-na-orizova-arpa-i-grozje-vranec-soopshti-vladata/",
+      "published": "Tue, 28 Jul 2026 13:26:28 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
     {
       "title": "Во jули исплатени над 560 милиони денари за надоместоци за боледување, најголем дел за породилни отсуства, соопшти фондот",
       "summary": "Фондот за здравствено осигурување во јули исплатил над 560 милиони денари за надоместоци за боледување а најголем дел од средствата според соопштеното...",
@@ -10,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
@@ -21,106 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
-      "title": "Скопјанец сакал да смири тепачка, завршил со убодна рана",
-      "summary": "Утрово во 01:27 часот во СВР Скопје било пријавено дека кај „Фонтана“ на подрачјето на Центар во Скопје има повредено лице со остар предмет. Полициски...",
-      "link": "https://makfax.com.mk/crna-hronika/skopjanec-sakal-da-smiri-tepachka-zavrshil-so-ubodna-rana/",
-      "published": "Tue, 28 Jul 2026 12:58:46 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Општина Кисела Вода субвенционира набавка на пелети и печки на пелети",
-      "summary": "Општина Кисела Вода објави два јавни повика за субвенции при набавка на пелети и печки на пелети, наменети за домаќинствата од општината. Средствата о...",
-      "link": "https://makfax.com.mk/makedonija/opshtina-kisela-voda-subvencionira-nabavka-na-peleti-i-pechki-na-peleti/",
-      "published": "Tue, 28 Jul 2026 12:38:18 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Багеи: Иран нема да им дозволи на САД да одредат кога ќе започне или заврши војната",
-      "summary": "Портпаролот на иранското Министерство за надворешни работи, Есмаил Багеи, денес изјави дека Иран нема да им дозволи на Соединетите Американски Држави ...",
-      "link": "https://makfax.com.mk/svet/bagei-iran-nema-da-im-dozvoli-na-sad-da-odredat-koga-ke-zapochne-ili-zavrshi-vojnata/",
-      "published": "Tue, 28 Jul 2026 12:35:47 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Штипјанец ја нападнал мајка си, тетовка ја претепала свекрвата: неколку случаи на семејно насилство",
-      "summary": "Вчера во 16:40 часот, полициски службеници од ОВР Неготино го лишиле од слобода Д.Ѓ.(51) од Неготино, постапувајќи по претходна пријава од неговата 47...",
-      "link": "https://makfax.com.mk/crna-hronika/shtipjanec-ja-napadnal-majka-si-tetovka-ja-pretepala-svekrvata-nekolku-sluchai-na-semejno-nasilstvo/",
-      "published": "Tue, 28 Jul 2026 12:09:49 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "По поскапувањата во јули, Мицкоски следната недела очекува поголемо намалување на цените на дизелот и на бензините",
-      "summary": "Цената на горивата на почетокот на август ќе се намали по двете поскапувања во јули. Премиерот Христијан Мицкоски денес, при посетата на Илинден, кажа...",
-      "link": "https://makfax.com.mk/makedonija/po-poskapuvanjata-vo-juli-mickoski-slednata-nedela-ochekuva-pogolemo-namaluvanje-na-cenite-na-dizelot-i-na-benzinite/",
-      "published": "Tue, 28 Jul 2026 12:00:42 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Клековски денес призна и за жолтица во Гостивар, време е кривично да одговара, бара СДСМ",
-      "summary": "Министерот за здравство Сашо Клековски денеска изјави дека акутната фаза на епидемијата во Гостивар постепено се смирува, а фокусот сега е на навремен...",
-      "link": "https://makfax.com.mk/makedonija/video-klekovski-denes-prizna-i-za-zholtica-vo-gostivar-vreme-e-krivichno-da-odgovara-bara-sdsm/",
-      "published": "Tue, 28 Jul 2026 11:54:18 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Општина Крушево: Водата за пиење е исправна и безбедна за употреба",
-      "summary": "Општина Крушево информира дека, согласно резултатите од трите последователни лабораториски испитувања извршени од страна на Центарот за јавно здравје ...",
-      "link": "https://makfax.com.mk/makedonija/opshtina-krushevo-vodata-za-pienje-e-ispravna-i-bezbedna-za-upotreba/",
-      "published": "Tue, 28 Jul 2026 11:48:44 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Земјоделското производство расте, акумулациите од 8 достигнаа над 70 проценти исполнетост, кажа Мицкоски",
-      "summary": "Претседателот на Владата Христијан Мицкоски денеска одговарајќи на новинарско прашање во однос на резултатите во земјоделството, во делот на наводнува...",
-      "link": "https://makfax.com.mk/ekonomija/zemjodelskoto-proizvodstvo-raste-akumulaciite-od-8-dostignaa-nad-70-procenti-ispolnetost-kazha-mickoski/",
-      "published": "Tue, 28 Jul 2026 11:38:36 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Zelensky to press Trump on air defences while in Washington",
-      "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 10:41:41 GMT",
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:25:13 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
@@ -153,51 +153,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
-      "title": "Zidane confirmed as France head coach",
-      "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 09:03:49 GMT",
+      "title": "Mancini reappointed Italy boss after Pirlo controversy",
+      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technica...",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:54:00 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 09:45:10 GMT",
+      "title": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+      "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
+      "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 12:27:48 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
-      "title": "Ariana Grande sues hackers who leaked music and videos",
-      "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 08:37:12 GMT",
+      "title": "French Navy carries out 'shooting drill' mid interview",
+      "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 13:53:26 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
-      "language": "unknown"
-    },
-    {
-      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-      "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 01:53:58 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
@@ -208,18 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     },
     {
-      "title": "Zoo staff rescue near-extinct snails from remote rock",
-      "summary": "Just 21 Madeiran land snails were found clinging to a rock on Portugal's Bugio Island, say conservationists.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 08:50:20 GMT",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 01:53:58 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-28 15:21:08",
+      "fetched_at": "2026-07-28 17:40:18",
+      "language": "unknown"
+    },
+    {
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 15:11:28 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-28 17:40:18",
       "language": "unknown"
     }
   ]
