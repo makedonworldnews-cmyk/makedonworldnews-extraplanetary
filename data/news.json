@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 01:38:39",
+  "last_updated": "2026-07-29 03:08:13",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -109,7 +109,51 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
+      "language": "unknown"
+    },
+    {
+      "title": "Watch: The moment quake hit Japan",
+      "summary": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+      "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 15:32:37 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-29 03:08:13",
+      "language": "unknown"
+    },
+    {
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 00:51:45 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-29 03:08:13",
+      "language": "unknown"
+    },
+    {
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 23:25:53 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-29 03:08:13",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 00:50:33 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -120,62 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Uefa and PM criticise Infantino World Cup plan",
-      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 15:36:29 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-      "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 18:19:57 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-      "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 16:37:02 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 15:11:28 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 05:01:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -186,7 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
+      "language": "unknown"
+    },
+    {
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 15:11:28 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-29 03:08:13",
+      "language": "unknown"
+    },
+    {
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 05:01:19 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
-      "summary": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 04:59:36 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-07-29 01:38:39",
+      "fetched_at": "2026-07-29 03:08:13",
       "language": "unknown"
     }
   ]
