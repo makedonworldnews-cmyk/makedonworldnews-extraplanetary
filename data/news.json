@@ -1,7 +1,62 @@
 {
-  "last_updated": "2026-07-30 05:32:59",
+  "last_updated": "2026-07-30 08:10:06",
   "article_count": 20,
   "articles": [
+    {
+      "title": "СДСМ: По седум градови со отровна вода, сега и водата во Елшани и Велестово не е за пиење",
+      "summary": "По седум градови со отровна вода, по Лепенец и Вардар, по Башино Село, сега и водата од изворите во Елшани и Велестово во Охрид не е за пиење, обвини ...",
+      "link": "https://makfax.com.mk/makedonija/sdsm-po-sedum-gradovi-so-otrovna-voda-sega-i-vodata-vo-elshani-i-velestovo-ne-e-za-pienje/",
+      "published": "Thu, 30 Jul 2026 06:00:59 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-30 08:10:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Масовен руски напад врз Украина, Полска ги подигна авионите",
+      "summary": "Во текот на ноќта, Русија започна голем напад врз Украина со десетици балистички и крстосувачки ракети и стотици беспилотни летала. Киев, Лавов, Криви...",
+      "link": "https://makfax.com.mk/svet/masoven-ruski-napad-vrz-ukraina-polska-gi-podigna-avionite/",
+      "published": "Thu, 30 Jul 2026 05:54:41 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-30 08:10:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Трамп и Нетанјаху разговараа во Белата куќа: „Опцијата е нов напад врз Иран“",
+      "summary": "Претседателот на САД, Доналд Трамп, и израелскиот премиер Бенџамин Нетанјаху се сретнаа во Белата куќа за да разговараат за начините за запирање на ну...",
+      "link": "https://makfax.com.mk/svet/tramp-i-netanjahu-razgovaraa-vo-belata-kuka-opcijata-e-nov-napad-vrz-iran/",
+      "published": "Thu, 30 Jul 2026 05:50:22 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-30 08:10:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Пијанистката Пегораро прозвучи со совршена убавина на „Охридско лето“",
+      "summary": "Вечер што долго ќе се памети остави зад себе харизматичната и виртуозна италијанска пијанистка Кристиана Пегорано која синоќа настапи на фестивалската...",
+      "link": "https://makfax.com.mk/kultura/pijanistkata-pegoraro-prozvuchi-so-sovrshena-ubavina-na-ohridsko-leto/",
+      "published": "Thu, 30 Jul 2026 05:46:06 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-30 08:10:05",
+      "language": "unknown"
+    },
+    {
+      "title": "Сончево време со температура до 39 степени",
+      "summary": "Времето денеска ќе биде сончево и топло со мала локална облачност. Ќе дува слаб до умерен ветер од југоисточен правец. Минималната температура ќе биде...",
+      "link": "https://makfax.com.mk/makedonija/sonchevo-vreme-so-temperatura-do-39-stepeni/",
+      "published": "Thu, 30 Jul 2026 05:43:37 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-07-30 08:10:05",
+      "language": "unknown"
+    },
     {
       "title": "Дванаесетгодишно момче од Србија е спасено од морето во близина на Ханиоти",
       "summary": "Дванаесетгодишно момче од Србија денес е извлечено во несвест од морето во близина на Ханиоти на Халкидики, Грција, по што е вратено во живот со реани...",
@@ -10,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:05",
       "language": "unknown"
     },
     {
@@ -21,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:05",
       "language": "unknown"
     },
     {
@@ -32,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:05",
       "language": "unknown"
     },
     {
@@ -43,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:05",
       "language": "unknown"
     },
     {
@@ -54,73 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:05",
       "language": "unknown"
     },
     {
-      "title": "Ја полеал сопругата со бензин по расправија и ја запалил, па ја гасел со вода: обид за убиство во Бугарија",
-      "summary": "Обвинителството во Бугарија поднесе обвинение против 48-годишен маж кој е осомничен дека се обидел да ја убие својата сопруга полевајќи ја со бензин и...",
-      "link": "https://makfax.com.mk/svet/region/ja-poleal-soprugata-so-benzin-po-raspravija-i-ja-zapalil-pa-ja-gasel-so-voda-obid-za-ubistvo-vo-bugarija/",
-      "published": "Wed, 29 Jul 2026 18:14:24 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Поранешниот вицепремиер за добро владеење Фетаи, назначен за специјален пратеник за ЕУ",
-      "summary": "Поранешниот вицепремиер за добро владеење Арбен Фетаи денеска во објава на Фејсбук соопшти дека Владата на вчерашната седница го назначила за специјал...",
-      "link": "https://makfax.com.mk/makedonija/poraneshniot-vicepremier-za-dobro-vladeenje-fetai-naznachen-za-specijalen-pratenik-za-eu/",
-      "published": "Wed, 29 Jul 2026 17:22:56 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Медведев: Западот моментално ја тестира силата на Русија, воведени се околу 30.000 санкции",
-      "summary": "Заменик-претседателот на Советот за безбедност на Русија, Дмитриј Медведев, денес изјави дека западните земји моментално ја тестираат силата на Русија...",
-      "link": "https://makfax.com.mk/svet/medvedev-zapadot-momentalno-ja-testira-silata-na-rusija-vovedeni-se-okolu-30-000-sankcii/",
-      "published": "Wed, 29 Jul 2026 16:59:37 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
-      "language": "unknown"
-    },
-    {
-      "title": "„Киев не може да има предност во однос на Западен Балкан“: Mаѓар против забрзано членство на Украина во ЕУ",
-      "summary": "Иако по заминувањето на Виктор Орбан од власт се очекуваше Унгарија да го деблокира европскиот пат на Украина, новата влада на премиерот Петер Маѓар в...",
-      "link": "https://makfax.com.mk/svet/%e2%80%9ekiev-ne-mozhe-da-ima-prednost-vo-odnos-na-zapaden-balkan%e2%80%9c-magar-protiv-zabrzano-chlenstvo-na-ukraina-vo-eu/",
-      "published": "Wed, 29 Jul 2026 16:34:02 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Двајца пожарникари загинаа во голем пожар на Крит",
-      "summary": "Двајца пожарникари загинаа во голем шумски пожар, кој избувна попладнево на југот на Крит, во областа Ретимно. Според првичните информации, двајца при...",
-      "link": "https://makfax.com.mk/svet/region/dvajca-pozharnikari-zaginaa-vo-golem-pozhar-na-krit/",
-      "published": "Wed, 29 Jul 2026 16:15:45 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
-      "language": "unknown"
-    },
-    {
-      "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
-      "summary": "The US military called the strikes \"a powerful response\" to Tuesday's firing by Iran on US bases in Jordan.",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "The US military says it launched a \"heavy\" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces.",
       "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 01:58:28 GMT",
+      "published": "Thu, 30 Jul 2026 05:36:27 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-07-30 05:32:59",
+      "fetched_at": "2026-07-30 08:10:06",
       "language": "unknown"
     }
   ]
