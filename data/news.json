@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-08-01 11:26:02",
+  "last_updated": "2026-08-01 12:58:39",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Министерство за здравство: Состојбата со епидемијата во Гостивар е стабилна",
+      "summary": "Состојбата со епидемијата во Гостивар е стабилна и континуирано се следи од надлежните здравствени институции, информира Министерството за здравство. ...",
+      "link": "https://makfax.com.mk/top/ministerstvo-za-zdravstvo-sostojbata-so-epidemijata-vo-gostivar-e-stabilna/",
+      "published": "Sat, 01 Aug 2026 10:24:10 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 12:58:39",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Конески: УМС доби нов Извршен комитет, ќе бидеме посветени на креирање нови иницијативи и политики за младите",
+      "summary": "Одлуката за вработување на уште 300 приватни специјализанти е значаен чекор кон создавање посилно, поквалитетно и подостапно јавно здравство, но и пор...",
+      "link": "https://makfax.com.mk/makedonija/video-koneski-ums-dobi-nov-izvrshen-komitet-ke-bideme-posveteni-na-kreiranje-novi-inicijativi-i-politiki-za-mladite/",
+      "published": "Sat, 01 Aug 2026 10:20:49 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 12:58:39",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Мицкоски очекува проширување на истрагата за водата во Гостивар",
+      "summary": "Во Гостивар продолжува процесот на хиперхлорирање на водата, а премиерот Христијан Мицкоски очекува наскоро граѓаните да добијат вода која ќе може да ...",
+      "link": "https://makfax.com.mk/makedonija/video-mickoski-ochekuva-proshiruvanje-na-istragata-za-vodata-vo-gostivar/",
+      "published": "Sat, 01 Aug 2026 10:15:37 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 12:58:39",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Манасиевски: Скандалот со водата во Гостивар е последица на децениска негрижа на локалната власт која ја предводи СДС, заедно со ДУИ и Таравари",
+      "summary": "„Денес Венко Филипче има став за секоја тема и секојдневно дели лекции за тоа како треба да функционира здравствениот систем. Но, каде беше истиот тој...",
+      "link": "https://makfax.com.mk/makedonija/video-manasievski-skandalot-so-vodata-vo-gostivar-e-posledica-na-deceniska-negrizha-na-lokalnata-vlast-koja-ja-predvodi-sds-zaedno-so-dui-i-taravari/",
+      "published": "Sat, 01 Aug 2026 10:07:02 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 12:58:39",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Мицкоски: Индустриското производство во јуни порасна 6,5 отсто, се намалуваат државниот и јавниот долг",
+      "summary": "Индустриското производство во јуни годинава бележи раст од 6,5 отсто, додека во вториот квартал растот изнесува 4 отсто, соопшти премиерот Христијан М...",
+      "link": "https://makfax.com.mk/ekonomija/video-mickoski-industriskoto-proizvodstvo-vo-juni-porasna-65-otsto-se-namaluvaat-drzhavniot-i-javniot-dolg/",
+      "published": "Sat, 01 Aug 2026 10:02:45 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 12:58:39",
+      "language": "unknown"
+    },
+    {
+      "title": "Зеленски: Украина остана без ракети за пресретнување за системите „Патриот“ по рускиот напад",
+      "summary": "Украинскиот претседател Володимир Зеленски предупреди дека Украина останала без ракети за пресретнување за системите за противвоздушна одбрана „Патрио...",
+      "link": "https://makfax.com.mk/svet/zelenski-ukraina-ostana-bez-raketi-za-presretnuvanje-za-sistemite-patriot-po-ruskiot-napad/",
+      "published": "Sat, 01 Aug 2026 09:29:27 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 12:58:39",
+      "language": "unknown"
+    },
     {
       "title": "(Видео) Серафимовска Борозан: Поради тендер патриотите Клековски и Мицкоски отруена е цела Македонија",
       "summary": "Во над 50 населени места во Македонија водата не е безбедна за пиење, а листата расте секој ден, кажа денеска на прес-конференција Маја Серафимовска Б...",
@@ -10,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -43,95 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
-      "title": "Ултиматум на Реал до Винисиус: Потпиши или ќе бидеш продаден",
-      "summary": "Реал Мадрид и Винисиус Жуниор стигнаа до точка што лесно може да биде почеток на крајот за Бразилецот во „Кралскиот клуб“. Раководството на Реал, како...",
-      "link": "https://makfax.com.mk/sport/ultimatum-na-real-do-vinisius-potpishi-ili-ke-bidesh-prodaden/",
-      "published": "Sat, 01 Aug 2026 08:24:59 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
-      "language": "unknown"
-    },
-    {
-      "title": "Речиси сите мигранти кои влегоа во Сеута се вратија во Мароко, тврди шпанскиот министер за надворешни работи",
-      "summary": "Речиси сите мигранти кои успеале да влезат во шпанската енклава Сеута се вратиле во Мароко, изјави шпанскиот министер за надворешни работи, Хозе Мануе...",
-      "link": "https://makfax.com.mk/svet/rechisi-site-migranti-koi-vlegoa-vo-seuta-se-vratija-vo-maroko-tvrdi-shpanskiot-minister-za-nadvoreshni-raboti/",
-      "published": "Sat, 01 Aug 2026 08:22:05 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
-      "language": "unknown"
-    },
-    {
-      "title": "Инфантино го призна поразот – Се откажа од проектот со кој го налути целиот свет",
-      "summary": "Претседателот на ФИФА, Џани Инфантино, се откажа од предлогот за продажба на дел од комерцијалните права за Светското првенство на приватни инвеститор...",
-      "link": "https://makfax.com.mk/sport/infantino-go-prizna-porazot-se-otkazha-od-proektot-so-koj-go-naluti-celiot-svet/",
-      "published": "Sat, 01 Aug 2026 08:15:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
-      "language": "unknown"
-    },
-    {
-      "title": "Три лица уапсени при обид да подигнат кредит од 900 илјади денари со фалсификувани документи",
-      "summary": "Три лица од Скопје се лишени од слобода поради обид за подигнување кредит од банка со фалсификувана документација, соопшти Министерството за внатрешни...",
-      "link": "https://makfax.com.mk/top/tri-lica-uapseni-pri-obid-da-podignat-kredit-od-900-iljadi-denari-so-falsifikuvani-dokumenti/",
-      "published": "Sat, 01 Aug 2026 08:06:47 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
-      "language": "unknown"
-    },
-    {
-      "title": "САД и Израел наводно разгледуваат големи напади врз иранската енергетска инфраструктура",
-      "summary": "Соединетите Американски Држави и Израел планираат интензивна воздушна кампања врз иранската енергетска инфраструктура, а нападите би можеле да започна...",
-      "link": "https://makfax.com.mk/svet/sad-i-izrael-navodno-razgleduvaat-golemi-napadi-vrz-iranskata-energetska-infrastruktura/",
-      "published": "Sat, 01 Aug 2026 07:47:33 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
-      "language": "unknown"
-    },
-    {
-      "title": "„10 Дена Крушевска Република“ стартува вечерва, Крушево се подготвува за Илинден",
-      "summary": "Со кревање на знамето на Крушевската Република на Гумење и свечена програма, вечерва во Крушево почнува традиционалната манифестација „10 Дена Крушевс...",
-      "link": "https://makfax.com.mk/makedonija/vo-krushevo-pochnuva-manifestacijata-10-dena-krushevska-republika/",
-      "published": "Sat, 01 Aug 2026 07:40:41 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
-      "language": "unknown"
-    },
-    {
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infan...",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 05:42:31 GMT",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 10:11:39 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+      "title": "Uefa has 'lost confidence' in Fifa leadership",
+      "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 09:51:05 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 11:26:02",
+      "fetched_at": "2026-08-01 12:58:39",
       "language": "unknown"
     }
   ]
