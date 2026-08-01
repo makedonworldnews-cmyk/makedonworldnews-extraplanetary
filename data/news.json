@@ -1,16 +1,93 @@
 {
-  "last_updated": "2026-08-01 12:58:39",
+  "last_updated": "2026-08-01 14:07:23",
   "article_count": 20,
   "articles": [
     {
+      "title": "Побарувачката за изнајмување станови падна за 14 отсто во вториот квартал",
+      "summary": "Во вториот квартал од годинава во Регистарот на цени и закупнини се евидентирани 2.148 договори за закуп, што е за 17 проценти помалку во однос на прв...",
+      "link": "https://makfax.com.mk/ekonomija/pobaruvachkata-za-iznajmuvanje-stanovi-padna-za-14-otsto-vo-vtoriot-kvartal/",
+      "published": "Sat, 01 Aug 2026 12:06:09 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Многу топло време до крајот на следната седмица, УХМР најавува температури над 40°C",
+      "summary": "Управата за хидрометеоролошки работи информира дека под влијание на топла воздушна маса од југ во деновите од продолжениот викенд и до крајот на следн...",
+      "link": "https://makfax.com.mk/makedonija/mnogu-toplo-vreme-do-krajot-na-slednata-sedmica-uhmr-najavuva-temperaturi-nad-40c/",
+      "published": "Sat, 01 Aug 2026 12:01:06 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
+      "title": "По убод од крлеж во Грција поминала шест недели во кома, денес живее со трајни последици",
+      "summary": "Педесет и едногодишната Викторија Стелас од Велс секојдневно се соочува со губење на меморијата и епилептични напади, откако по убод од крлеж за време...",
+      "link": "https://makfax.com.mk/svet/po-ubod-od-krlezh-vo-grcija-pominala-shest-nedeli-vo-koma-denes-zhivee-so-trajni-posledici/",
+      "published": "Sat, 01 Aug 2026 12:00:04 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Николоски: Распределни 47 социјални станови во Дебар, грижата за ранливите категории семејства е приоритет на Владата",
+      "summary": "Владата продолжува со политиките за обезбедување достоинствени услови за живот на граѓаните од ранливите категории. Денеска во Дебар беа распределени ...",
+      "link": "https://makfax.com.mk/ekonomija/nikoloski-raspredelni-47-socijalni-stanovi-vo-debar-grizhata-za-ranlivite-kategorii-semejstva-e-prioritet-na-vladata/",
+      "published": "Sat, 01 Aug 2026 11:50:33 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Хоџа: Завршен проектот на Дижонска 15, МЖСПП продолжува со инвестиции во водоводната и канализациската инфраструктура во Чаир",
+      "summary": "Завршена е изградбата на новата водоводна и канализациона мрежа на улицата Фаик Коница (поранешна Дижонска 15) во Општина Чаир, проект реализиран со ф...",
+      "link": "https://makfax.com.mk/makedonija/hodha-zavrshen-proektot-na-dizhonska-15-mzhspp-prodolzhuva-so-investicii-vo-vodovodnata-i-kanalizaciskata-infrastruktura-vo-chair/",
+      "published": "Sat, 01 Aug 2026 11:27:19 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
+      "title": "Претседателката Сиљановска – Давкова се сретна со српскиот премиер Мацут",
+      "summary": "Претседателката Гордана Сиљановска – Давкова во вила „Билјана“ во Охрид оствари средба со српскиот премиер Ѓуро Мацут. „ Во вилата „Билјана“ се сретна...",
+      "link": "https://makfax.com.mk/makedonija/pretsedatelkata-siljanovska-davkova-se-sretna-so-srpskiot-premier-macut/",
+      "published": "Sat, 01 Aug 2026 11:22:28 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Ѓорѓиевски: Градскиот парк го враќа својот сјај",
+      "summary": "Екипите на јавните претпријатија на Град Скопје го расчистија првиот дел од Градскиот парк од последиците на силното невреме што пред неколку дена го ...",
+      "link": "https://makfax.com.mk/makedonija/video-gorgievski-gradskiot-park-go-vraka-svojot-sjaj/",
+      "published": "Sat, 01 Aug 2026 11:16:39 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-01 14:07:23",
+      "language": "unknown"
+    },
+    {
       "title": "Министерство за здравство: Состојбата со епидемијата во Гостивар е стабилна",
       "summary": "Состојбата со епидемијата во Гостивар е стабилна и континуирано се следи од надлежните здравствени институции, информира Министерството за здравство. ...",
-      "link": "https://makfax.com.mk/top/ministerstvo-za-zdravstvo-sostojbata-so-epidemijata-vo-gostivar-e-stabilna/",
+      "link": "https://makfax.com.mk/makedonija/ministerstvo-za-zdravstvo-sostojbata-so-epidemijata-vo-gostivar-e-stabilna/",
       "published": "Sat, 01 Aug 2026 10:24:10 +0000",
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -32,106 +109,29 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Манасиевски: Скандалот со водата во Гостивар е последица на децениска негрижа на локалната власт која ја предводи СДС, заедно со ДУИ и Таравари",
-      "summary": "„Денес Венко Филипче има став за секоја тема и секојдневно дели лекции за тоа како треба да функционира здравствениот систем. Но, каде беше истиот тој...",
-      "link": "https://makfax.com.mk/makedonija/video-manasievski-skandalot-so-vodata-vo-gostivar-e-posledica-na-deceniska-negrizha-na-lokalnata-vlast-koja-ja-predvodi-sds-zaedno-so-dui-i-taravari/",
-      "published": "Sat, 01 Aug 2026 10:07:02 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Мицкоски: Индустриското производство во јуни порасна 6,5 отсто, се намалуваат државниот и јавниот долг",
-      "summary": "Индустриското производство во јуни годинава бележи раст од 6,5 отсто, додека во вториот квартал растот изнесува 4 отсто, соопшти премиерот Христијан М...",
-      "link": "https://makfax.com.mk/ekonomija/video-mickoski-industriskoto-proizvodstvo-vo-juni-porasna-65-otsto-se-namaluvaat-drzhavniot-i-javniot-dolg/",
-      "published": "Sat, 01 Aug 2026 10:02:45 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Зеленски: Украина остана без ракети за пресретнување за системите „Патриот“ по рускиот напад",
-      "summary": "Украинскиот претседател Володимир Зеленски предупреди дека Украина останала без ракети за пресретнување за системите за противвоздушна одбрана „Патрио...",
-      "link": "https://makfax.com.mk/svet/zelenski-ukraina-ostana-bez-raketi-za-presretnuvanje-za-sistemite-patriot-po-ruskiot-napad/",
-      "published": "Sat, 01 Aug 2026 09:29:27 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Серафимовска Борозан: Поради тендер патриотите Клековски и Мицкоски отруена е цела Македонија",
-      "summary": "Во над 50 населени места во Македонија водата не е безбедна за пиење, а листата расте секој ден, кажа денеска на прес-конференција Маја Серафимовска Б...",
-      "link": "https://makfax.com.mk/makedonija/video-serafimovska-borozan-poradi-tender-patriotite-klekovski-i-mickoski-otruena-e-cela-makedonija/",
-      "published": "Sat, 01 Aug 2026 09:25:57 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Колони на границите: до еден час чекање на Табановце и Богородица",
-      "summary": "Сообраќајот на државните патишта во земјава утрово се одвива непречено и по суви коловози, информира Авто-мото сојузот на Македонија (АМСМ). Интензите...",
-      "link": "https://makfax.com.mk/makedonija/koloni-na-granicite-do-eden-chas-chekanje-na-tabanovce-i-bogorodica/",
-      "published": "Sat, 01 Aug 2026 08:44:05 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Интер се засили со Кристијан Ромеро",
-      "summary": "Актуелниот шампион на Италија, Интер, договори големо засилување во одбраната. Аргентинскиот стопер Кристијан Ромеро, кој пристигнува од Тотенхем, тре...",
-      "link": "https://makfax.com.mk/sport/inter-se-zasili-so-kristijan-romero/",
-      "published": "Sat, 01 Aug 2026 08:43:56 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Бразилската ѕвезда доаѓа во Арсенал за 100 милиони евра",
-      "summary": "Шампионот на Англија, Арсенал, успеа да ги убеди челниците на Њукасл во врска со трансферот на Бруно Гимараеш. Прашање на денови е кога Бразилецот офи...",
-      "link": "https://makfax.com.mk/sport/brazilskata-zvezda-doaga-vo-arsenal-za-100-milioni-evra/",
-      "published": "Sat, 01 Aug 2026 08:31:59 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
       "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 10:11:39 GMT",
+      "published": "Sat, 01 Aug 2026 11:00:05 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
-      "title": "Uefa has 'lost confidence' in Fifa leadership",
-      "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 01 Aug 2026 09:51:05 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -142,18 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
       "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
       "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 08:24:09 GMT",
+      "published": "Sat, 01 Aug 2026 11:52:29 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-01 12:58:39",
+      "fetched_at": "2026-08-01 14:07:23",
       "language": "unknown"
     }
   ]
