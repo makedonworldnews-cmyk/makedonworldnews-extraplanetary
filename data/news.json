@@ -1,7 +1,106 @@
 {
-  "last_updated": "2026-08-03 13:48:57",
+  "last_updated": "2026-08-03 16:05:53",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Се превртел четирицикл кај Ресен, тешко повредени возачот и 9-годишно дете",
+      "summary": "Две лица, меѓу кои и 9-годишно дете, се здобиле со тешки телесни повреди при превртување на четирицикл во атарот на ресенското село Јанковец. Како што...",
+      "link": "https://makfax.com.mk/crna-hronika/se-prevrtel-chetiricikl-kaj-resen-teshko-povredeni-vozachot-i-9-godishno-dete/",
+      "published": "Mon, 03 Aug 2026 13:57:54 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "МВР трага по жена од Словенија која влегла во државата преку Табановце, и’ се изгубила секаква трага",
+      "summary": "Полицијата трага по 73-годишна државјанка на Словенија, за која е пријавено дека е недостапна откако влегла во државата. Од Министерството за внатрешн...",
+      "link": "https://makfax.com.mk/crna-hronika/mvr-traga-po-zhena-od-slovenija-koja-vlegla-vo-drzhavata-preku-tabanovce-i-se-izgubila-sekakva-traga/",
+      "published": "Mon, 03 Aug 2026 13:49:08 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Полицијата разговара со лице осомничено за пожарите во Кавадаречко, огнот повторно се разгори",
+      "summary": "Пожарот во атарот на селото Раец во Кавадаречко, кој избувна синоќа на пет локации, повторно се разгори поради високите температури и силниот ветер, с...",
+      "link": "https://makfax.com.mk/makedonija/video-policijata-razgovara-so-lice-osomnicheno-za-pozharite-vo-kavadarechko-ognot-povtorno-se-razgori/",
+      "published": "Mon, 03 Aug 2026 13:20:16 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Поради опасна бактерија, водата во Гостивар се’ уште не треба да се користи за пиење и готвење – се очекува стабилизирање следната седмица",
+      "summary": "Водата во Гостивар сè уште не е безбедна за пиење и готвење, иако состојбата постепено се подобрува, изјави директорот на Дирекцијата за заштита и спа...",
+      "link": "https://makfax.com.mk/makedonija/poradi-opasna-bakterija-vodata-vo-gostivar-se-ushte-ne-treba-da-se-koristi-za-pienje-i-gotvenje-se-ochekuva-stabiliziranje-slednata-sedmica/",
+      "published": "Mon, 03 Aug 2026 12:58:52 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Секој четврти Јапонец верува дека вештачката интелигенција ќе може да ги замени пријателите и семејството",
+      "summary": "Речиси секој четврти Јапонец верува дека напредната вештачка интелигенција во иднина би можела да ги замени пријателите и членовите на семејството, по...",
+      "link": "https://makfax.com.mk/zanimlivosti/sekoj-chetvrti-japonec-veruva-deka-veshtachkata-inteligencija-ke-mozhe-da-gi-zameni-prijatelite-i-semejstvoto/",
+      "published": "Mon, 03 Aug 2026 12:46:47 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Русија и Северна Кореја градат мост, Украина стравува од нови воени испораки",
+      "summary": "Русија и Северна Кореја го привршуваат новиот патен мост меѓу двете земји, кој официјално е наменет за зајакнување на трговијата, но во Украина страву...",
+      "link": "https://makfax.com.mk/svet/rusija-i-severna-koreja-gradat-most-ukraina-stravuva-od-novi-voeni-isporaki/",
+      "published": "Mon, 03 Aug 2026 12:38:27 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Ако го мине Хибернијан, Шкендија ќе игра против Гетеборг или Гент",
+      "summary": "Попладнево на ждрепката во Нион, Шкендија го дозна името на противникот во плеј-офот за пласман во главната фаза, во Конференциската лига. Шкендија, д...",
+      "link": "https://makfax.com.mk/sport/ako-go-mine-hibernijan-shkendija-ke-igra-protiv-geteborg-ili-gent/",
+      "published": "Mon, 03 Aug 2026 12:38:06 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Хулијан Алварез ја затвори вратата за трансфер во Барселона",
+      "summary": "Барселона се обидува, но како што стојат работите нема да го добие Хулијан Алварез. Сагата околу аргентинскиот напаѓач тргна во неочекувана насока, пи...",
+      "link": "https://makfax.com.mk/sport/hulijan-alvarez-ja-zatvori-vratata-za-transfer-vo-barselona/",
+      "published": "Mon, 03 Aug 2026 12:19:00 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Најмалку тројца загинаа, а 13 се повредени по пад на дрон во руско летувалиште",
+      "summary": "Најмалку три лица загинаа, а 13 се повредени, меѓу кои и деца, по пад на остатоци од дрон во туристичкото место Архипо-Осиповка на руското црноморско ...",
+      "link": "https://makfax.com.mk/svet/video-najmalku-trojca-zaginaa-a-13-se-povredeni-po-pad-na-dron-vo-rusko-letuvalishte/",
+      "published": "Mon, 03 Aug 2026 11:51:59 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
     {
       "title": "Два хороскопски знаци ги очекува турбулентен почеток на август",
       "summary": "Почетокот на август за два хороскопски знаци може да донесе повеќе предизвици, недоразбирања и неочекувани промени, според хороскопските толкувања. За...",
@@ -10,128 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Министерството за здравство: Доењето е најдобриот почеток за здрав раст и развој на секое дете",
-      "summary": "По повод Светската недела на доење, што годинава се одбележува под мотото „Доење за одржлив почеток во животот – да го зајакнеме тоа што функционира“,...",
-      "link": "https://makfax.com.mk/makedonija/ministerstvoto-za-zdravstvo-doenjeto-e-najdobriot-pochetok-za-zdrav-rast-i-razvoj-na-sekoe-dete/",
-      "published": "Mon, 03 Aug 2026 11:33:25 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Иран: Нема преговори со САД",
-      "summary": "Иран денеска соопшти дека во моментов нема преговори со Соединетите Американски Држави, ниту се планирани какви било средби, демантирајќи ги тврдењата...",
-      "link": "https://makfax.com.mk/svet/iran-nema-pregovori-so-sad/",
-      "published": "Mon, 03 Aug 2026 11:30:13 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Нападнати две малолетни лица од Скопје во апартман во Охрид",
-      "summary": "Две малолетни лица од Скопје биле физички нападнати во апартман на кеј „Македонија“ во Охрид, соопшти Министерството за внатрешни работи. Настанот бил...",
-      "link": "https://makfax.com.mk/crna-hronika/napadnati-dve-maloletni-lica-od-skopje-vo-apartman-vo-ohrid/",
-      "published": "Mon, 03 Aug 2026 11:27:10 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Тотенхем во офанзива за потписот на Коди Гакпо",
-      "summary": "Тотенхем сериозно се засилува за новата сезона, која во Англија ќе започне за нешто повеќе од две недели. Тотенхем, кој веќе потроши 267 милиони евра ...",
-      "link": "https://makfax.com.mk/sport/totenhem-vo-ofanziva-za-potpisot-na-kodi-gakpo/",
-      "published": "Mon, 03 Aug 2026 11:25:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "„Талогот“ од говорот на Мицкоски предизвика размена на обвинувања меѓу СДСМ и ВМРО-ДПМНЕ",
-      "summary": "СДСМ и ВМРО-ДПМНЕ денеска разменија остри обвинувања по говорот на премиерот Христијан Мицкоски на одбележувањето на Илинден во Пелинце. Премиерот по ...",
-      "link": "https://makfax.com.mk/makedonija/talogot-od-govorot-na-mickoski-predizvika-razmena-na-obvinuvanja-megu-sdsm-i-vmro-dpmne/",
-      "published": "Mon, 03 Aug 2026 11:18:34 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Њукасл плати 30 милиони евра за чешки голман",
-      "summary": "Њукасл Јунајтед го официјализираше своето петто засилување во летниот преоден рок. Голот на „страчките“ ќе го брани чешкиот репрезентативец Лукаш Хорн...",
-      "link": "https://makfax.com.mk/sport/njukasl-plati-30-milioni-evra-za-cheshki-golman/",
-      "published": "Mon, 03 Aug 2026 11:15:00 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "„Лекип“ изненади со изборот на најголемиот фаворит за „Златната топка“",
-      "summary": "Крилниот напаѓач на Пари Сен Жермен, Хвича Кваратцкелија, го искористи летото за интензивни подготовки со цел да влезе во новата сезона со јасна цел, ...",
-      "link": "https://makfax.com.mk/sport/lekip-iznenadi-so-izborot-na-najgolemiot-favorit-za-zlatnata-topka/",
-      "published": "Mon, 03 Aug 2026 11:03:59 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Сузуки е блиску до трансфер во ПСЖ",
-      "summary": "ПСЖ ги интензивираше преговорите за доведување на јапонскиот голман Зајон Сузуки од Парма и сака што поскоро да го заврши трансферот. Францускиот шамп...",
-      "link": "https://makfax.com.mk/sport/suzuki-e-blisku-do-transfer-vo-pszh/",
-      "published": "Mon, 03 Aug 2026 10:53:58 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Спор меѓу менаџерски агенции го заглави трансферот на Диоманде во Реал",
-      "summary": "Официјалната објава за трансферот на Јан Диоманде во Реал Мадрид е одложена поради спор меѓу две менаџерски агенции. Спорот е помеѓу „Максидел Менаџме...",
-      "link": "https://makfax.com.mk/sport/spor-megu-menadherski-agencii-go-zaglavi-transferot-na-diomande-vo-real/",
-      "published": "Mon, 03 Aug 2026 10:03:04 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
       "title": "Iran denies Trump's claim that new talks will begin on Monday",
       "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 10:23:35 GMT",
+      "published": "Mon, 03 Aug 2026 12:44:09 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 03:32:21 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
@@ -142,7 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 03:32:21 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
@@ -153,18 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
-      "language": "unknown"
-    },
-    {
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 07:30:52 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
@@ -175,7 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 12:20:11 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
@@ -186,18 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
-      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
-      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 11:07:13 GMT",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 07:30:52 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
@@ -208,18 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     },
     {
-      "title": "Malaysian boy on trial for allegedly murdering girl in school",
-      "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 01:43:16 GMT",
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 11:07:13 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-03 13:48:57",
+      "fetched_at": "2026-08-03 16:05:53",
       "language": "unknown"
     }
   ]
