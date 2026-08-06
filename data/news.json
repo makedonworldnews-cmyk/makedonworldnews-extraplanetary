@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06 02:11:20",
+  "last_updated": "2026-08-06 05:40:26",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -109,51 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:19",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 21:21:51 GMT",
+      "published": "Thu, 06 Aug 2026 01:19:59 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
-      "language": "unknown"
-    },
-    {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 18:19:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 20:01:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
-      "language": "unknown"
-    },
-    {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violatio...",
-      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 20:03:36 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -164,29 +131,62 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-      "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missio...",
-      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 11:19:24 GMT",
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 18:19:51 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 12:33:43 GMT",
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
+      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 23:28:06 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
+      "language": "unknown"
+    },
+    {
+      "title": "Drone carrying explosives found at German airport, police say",
+      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 20:01:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-06 05:40:26",
+      "language": "unknown"
+    },
+    {
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 06 Aug 2026 02:33:33 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-06 05:40:26",
+      "language": "unknown"
+    },
+    {
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violatio...",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 05 Aug 2026 20:03:36 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-06 02:11:20",
+      "fetched_at": "2026-08-06 05:40:26",
       "language": "unknown"
     }
   ]
