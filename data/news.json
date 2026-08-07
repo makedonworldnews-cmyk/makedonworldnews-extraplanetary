@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 23:29:03",
+  "last_updated": "2026-08-08 00:07:47",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -109,29 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 21:19:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
-      "language": "unknown"
-    },
-    {
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 14:20:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -142,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
+      "language": "unknown"
+    },
+    {
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 21:19:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-08 00:07:47",
+      "language": "unknown"
+    },
+    {
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 14:20:27 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -175,7 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
+      "language": "unknown"
+    },
+    {
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 22:07:00 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-08 00:07:47",
+      "language": "unknown"
+    },
+    {
+      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 07 Aug 2026 21:05:45 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -186,29 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declini...",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 21:16:52 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
-      "language": "unknown"
-    },
-    {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 09:22:03 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-07 23:29:03",
+      "fetched_at": "2026-08-08 00:07:47",
       "language": "unknown"
     }
   ]
