@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 20:52:32",
+  "last_updated": "2026-08-08 21:24:19",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:31",
+      "fetched_at": "2026-08-08 21:24:19",
+      "language": "unknown"
+    },
+    {
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -164,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
-      "language": "unknown"
-    },
-    {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 08 Aug 2026 18:06:25 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
+      "language": "unknown"
+    },
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 08 Aug 2026 18:06:25 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
-      "language": "unknown"
-    },
-    {
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 07 Aug 2026 21:19:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-08 20:52:32",
+      "fetched_at": "2026-08-08 21:24:19",
       "language": "unknown"
     }
   ]
