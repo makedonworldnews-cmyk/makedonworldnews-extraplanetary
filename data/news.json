@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 01:03:15",
+  "last_updated": "2026-08-12 01:53:32",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:14",
+      "fetched_at": "2026-08-12 01:53:31",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
@@ -142,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
+      "language": "unknown"
+    },
+    {
+      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 23:31:18 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
@@ -153,29 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
       "title": "Russia releases former US Marine reported in poor health",
-      "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
+      "summary": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family s...",
       "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 17:02:22 GMT",
+      "published": "Tue, 11 Aug 2026 23:33:45 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
-      "language": "unknown"
-    },
-    {
-      "title": "Lebanon parliament votes to abolish death penalty",
-      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 15:24:07 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
@@ -186,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
+      "language": "unknown"
+    },
+    {
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 15:24:07 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
-      "language": "unknown"
-    },
-    {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 14:50:10 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 01:03:15",
+      "fetched_at": "2026-08-12 01:53:32",
       "language": "unknown"
     }
   ]
