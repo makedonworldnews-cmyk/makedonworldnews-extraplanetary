@@ -1,7 +1,106 @@
 {
-  "last_updated": "2026-08-12 12:38:40",
+  "last_updated": "2026-08-12 13:29:24",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Стојаноски: СДС ги меша инфлацијата со реалниот раст",
+      "summary": "СДС ги меша инфлацијата со реалниот раст – додека тие зборуваат за „колапс“, растат индустријата, извозот и капиталните инвестиции, изјави Бојан Стоја...",
+      "link": "https://makfax.com.mk/ekonomija/stojanoski-sds-gi-mesha-inflacijata-so-realniot-rast/",
+      "published": "Wed, 12 Aug 2026 11:21:03 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "„Зошто власта бега од анализа на водата во целата држава и објава на резултатите“, прашуваат од СДСМ",
+      "summary": "„Пет недели Гостивар нема безбедна вода за пиење. Во повеќе од 50 населени места низ државата водата не е безбедна. Во околината на Рашче тлее нова по...",
+      "link": "https://makfax.com.mk/makedonija/zoshto-vlasta-bega-od-analiza-na-vodata-vo-celata-drzhava-i-objava-na-rezultatite-prashuvaat-od-sdsm/",
+      "published": "Wed, 12 Aug 2026 11:18:18 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Влен: Недим Рама го пријавил својот имот, ДУИ се крие зад соопштенија составени од прашалници",
+      "summary": "ДУИ денес повторно се обиде да конструира афера таму каде што има јавно пријавени, законски и целосно проверливи инвестиции. Од податоци што Недим Рам...",
+      "link": "https://makfax.com.mk/makedonija/vlen-nedim-rama-go-prijavil-svojot-imot-dui-se-krie-zad-soopshtenija-sostaveni-od-prashalnici/",
+      "published": "Wed, 12 Aug 2026 11:11:31 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Битка за трофејот во Супер купот на УЕФА",
+      "summary": "Европскиот шампион Пари Сен Жермен и победникот на Лигата на Европа, Астон Вила, ќе се борат за трофејот од Суперкупот на УЕФА. Кој ќе биде поуспешен ...",
+      "link": "https://makfax.com.mk/sport/bitka-za-trofejot-vo-super-kupot-na-uefa/",
+      "published": "Wed, 12 Aug 2026 11:07:18 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "„Политико“: Зеленски направи голема политичка грешка на Балканот",
+      "summary": "Посетата на украинскиот претседател Володимир Зеленски на Србија минатата недела предизвика низа бурни реакции низ целиот Балкан. Зеленски се сретна с...",
+      "link": "https://makfax.com.mk/svet/region/politiko-zelenski-napravi-golema-politichka-greshka-na-balkanot/",
+      "published": "Wed, 12 Aug 2026 11:06:25 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) „Обвинителството да ги истражи документите за загадена вода по кои Филипче и Младеновска не реагирале“, бара Андоновски",
+      "summary": "„СДС и актуелното раководство се последни кои можат да зборуваат и критикуваат за ситуацијата во Гостивар со водата. А зошто, бидејќи за периодот доде...",
+      "link": "https://makfax.com.mk/makedonija/video-obvinitelstvoto-da-gi-istrazhi-dokumentite-za-zagadena-voda-po-koi-filipche-i-mladenovska-ne-reagirale-bara-andonovski/",
+      "published": "Wed, 12 Aug 2026 11:05:07 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "(Видео) Манасиевски: Филипче со другарите за да дојде на власт подготвен е да прави се",
+      "summary": "„Кога станува збор за СДС и актуелното раководство, другарите на Венко Филипче секојдневно сведочиме на лаги, манипулации, ширење на паника, како и на...",
+      "link": "https://makfax.com.mk/makedonija/video-manasievski-filipche-so-drugarite-za-da-dojde-na-vlast-podgotven-e-da-pravi-se/",
+      "published": "Wed, 12 Aug 2026 10:55:32 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Николоски на средба со претставници на една од најголемите туристички групации во Европа: „Постои потенцијал за нови инвестиции“",
+      "summary": "Заменик претседателот на Владата и министер за транспорт Александар Николоски оствари работна средба со претставници на меѓународната туристичка група...",
+      "link": "https://makfax.com.mk/ekonomija/nikoloski-na-sredba-so-pretstavnici-na-edna-od-najgolemite-turistichki-grupacii-vo-evropa-postoi-potencijal-za-novi-investicii/",
+      "published": "Wed, 12 Aug 2026 10:40:36 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
+    {
+      "title": "Како затемнувањето на сонцето и метеорскиот дожд ќе влијаат на секој хороскопски знак",
+      "summary": "Доаѓаат затемнување на сонцето и метеорски дожд кои сериозно би можеле да ја потресат нашата рутина, а еве како астролозите го толкуваат овој небесен ...",
+      "link": "https://makfax.com.mk/zanimlivosti/kako-zatemnuvanjeto-na-sonceto-i-meteorskiot-dozhd-ke-vlijaat-na-sekoj-znak/",
+      "published": "Wed, 12 Aug 2026 10:39:42 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-12 13:29:24",
+      "language": "unknown"
+    },
     {
       "title": "Левица: ДПМНЕ лаже дека ги решија проблемите на струмичките земјоделци – откупувачите сè уште ја диктираат цената!",
       "summary": "„Серафимовски нема со што да се фали и нека не се обидува да им ги мачка очите на струмичките земјоделци со некаков неформален договор со откупувачите...",
@@ -10,106 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Прогласена епидемија на западнонилска треска во пет општини и неколку населби во Скопје, еден пациент почина",
-      "summary": "Епидемија на западнонилска треска е прогласена во општините Кисела Вода, Гази Баба, Аеродром, Бутел и Илинден, како и зафатени населби како Драчево, П...",
-      "link": "https://makfax.com.mk/makedonija/proglasena-epidemija-na-zapadnonilska-treska-vo-shest-opshtini-vo-skopje-eden-pacient-pochina/",
-      "published": "Wed, 12 Aug 2026 10:24:06 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Стојчевски: Со Мицкоски, младите се заборавени, понижени и тепани од криминалната власт",
-      "summary": "„Денеска е Меѓународен Ден на младите! Силен потсетник за значењето на младите, најголемиот потенцијал на една држава. Тие се прогресивната сила – дви...",
-      "link": "https://makfax.com.mk/makedonija/video-stojchevski-so-mickoski-mladite-se-zaboraveni-ponizheni-i-tepani-od-kriminalnata-vlast/",
-      "published": "Wed, 12 Aug 2026 09:57:09 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Завршува топлотниот бран: Од утре локално невреме и пад на температурите",
-      "summary": "УХМР за наредните денови најави пороен дожд, грмежи и локално невреме. Утре и во петок наместа ќе биде нестабилно со пороен дожд, грмежи и засилен вет...",
-      "link": "https://makfax.com.mk/makedonija/zavrshuva-toplotniot-bran-od-utre-lokalno-nevreme-i-pad-na-temperaturite/",
-      "published": "Wed, 12 Aug 2026 09:43:40 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Општина Аеродром: Се модернизира ООУ „Гоце Делчев“ – нови училници и топлински пумпи",
-      "summary": "Градоначалникот на Општина Аеродром, Дејан Митески, заедно со својот тим, денес изврши увид во тековните градежни активности во ООУ „Гоце Делчев“ во Г...",
-      "link": "https://makfax.com.mk/makedonija/opshtina-aerodrom-se-modernizira-oou-goce-delchev-novi-uchilnici-i-toplinski-pumpi/",
-      "published": "Wed, 12 Aug 2026 09:39:46 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Шпанија под опсада од туристи поради затемнувањето на сонцето",
-      "summary": "Според проценките на шпанските власти, околу 460.000 луѓе отпатувале во Шпанија за да го набљудуваат целосното затемнување на сонцето денес, а хотелит...",
-      "link": "https://makfax.com.mk/svet/shpanija-pod-opsada-od-turisti-poradi-zatemnuvanjeto-na-sonceto/",
-      "published": "Wed, 12 Aug 2026 09:38:42 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Траект кај Бали во пламен: едно лице загина, потрагата по преживеани е во тек",
-      "summary": "Едно лице загина, а 172 беа спасени откако избувна пожар на ферибот што пловеше од Бали рано во среда. Несреќата се случи во морето покрај островот Ло...",
-      "link": "https://makfax.com.mk/svet/video-traekt-kaj-bali-vo-plamen-edno-lice-zagina-potragata-po-prezhiveani-e-vo-tek/",
-      "published": "Wed, 12 Aug 2026 09:34:49 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Се ожени Кристијано Роналдо",
-      "summary": "Еден од најдобрите фудбалери на 21 век, Кристијано Роналдо, се ожени со долгогодишната девојка Џорџина Родригез. Двојката ја круниса својата 10-годишн...",
-      "link": "https://makfax.com.mk/sport/se-ozheni-kristijano-ronaldo/",
-      "published": "Wed, 12 Aug 2026 09:32:59 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "ЕУ испраќа 2 милиони евра за Колумбија по катастрофалниот земјотрес",
-      "summary": "Европската Унија ќе испрати два милиони евра помош за Колумбија за да ѝ помогне да се опорави од катастрофалниот земјотрес што ја погоди јужноамерикан...",
-      "link": "https://makfax.com.mk/svet/eu-ispraka-2-milioni-evra-za-kolumbija-po-katastrofalniot-zemjotres/",
-      "published": "Wed, 12 Aug 2026 09:23:16 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
-      "language": "unknown"
-    },
-    {
-      "title": "Путин се заканува дека ќе заплени европски бродови поради санкциите: „Ќе возвратиме со иста мера“",
-      "summary": "Претседателот на Русија, Владимир Путин, денеска се закани дека ќе заплени бродови од европските земји. Неговата објава е одговор на плановите за прод...",
-      "link": "https://makfax.com.mk/svet/putin-se-zakanuva-deka-ke-zapleni-evropski-brodovi-poradi-sankciite-ke-vozvratime-so-ista-mera/",
-      "published": "Wed, 12 Aug 2026 09:20:32 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:39",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -120,7 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -153,18 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
-      "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
       "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
       "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 12 Aug 2026 09:55:40 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-12 12:38:40",
+      "fetched_at": "2026-08-12 13:29:24",
       "language": "unknown"
     }
   ]
