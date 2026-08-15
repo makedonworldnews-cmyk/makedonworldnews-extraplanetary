@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15 21:29:55",
+  "last_updated": "2026-08-15 21:48:54",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -120,18 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
-      "language": "unknown"
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 16:02:49 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -142,7 +131,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 16:02:49 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-15 21:48:54",
+      "language": "unknown"
+    },
+    {
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 15 Aug 2026 19:41:57 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
-      "language": "unknown"
-    },
-    {
-      "title": "South Korea proposes talks to officially end war with North",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 14:40:15 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -175,18 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
       "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 15 Aug 2026 17:42:36 GMT",
+      "published": "Sat, 15 Aug 2026 19:34:22 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-15 21:29:55",
+      "fetched_at": "2026-08-15 21:48:54",
       "language": "unknown"
     }
   ]
