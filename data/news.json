@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 21:50:42",
+  "last_updated": "2026-08-16 22:10:09",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:08",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
@@ -120,40 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-      "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 17:44:23 GMT",
+      "published": "Sun, 16 Aug 2026 19:50:36 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
-      "language": "unknown"
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 12:37:21 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
-      "language": "unknown"
-    },
-    {
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 18:46:12 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
@@ -164,18 +153,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 10:53:50 GMT",
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 18:46:12 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
+      "language": "unknown"
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 12:37:21 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
@@ -197,7 +197,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
+      "language": "unknown"
+    },
+    {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 10:53:50 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
-      "language": "unknown"
-    },
-    {
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 15:25:38 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-16 21:50:42",
+      "fetched_at": "2026-08-16 22:10:09",
       "language": "unknown"
     }
   ]
