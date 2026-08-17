@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-08-17 21:21:43",
+  "last_updated": "2026-08-17 21:48:56",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Бруно не е на продажба",
+      "summary": "Манчестер Јунајтед нема да го продаде Бруно Фернандеш ова лето по никоја цена, објави „Скај Спортс“. Галатасарај е заинтересиран за 31-годишниот капит...",
+      "link": "https://makfax.com.mk/sport/bruno-ne-e-na-prodazhba/",
+      "published": "Mon, 17 Aug 2026 19:35:04 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-17 21:48:55",
+      "language": "unknown"
+    },
+    {
+      "title": "Диего Мореира во Милан",
+      "summary": "Фудбалскиот клуб Милан го договори трансферот на Диего Мореира. Клубот од „Сан Сиро“ на Стразбур ќе му плати 45 милиони евра, дополнителни пет милиони...",
+      "link": "https://makfax.com.mk/sport/diego-moreira-vo-milan/",
+      "published": "Mon, 17 Aug 2026 19:31:16 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-17 21:48:55",
+      "language": "unknown"
+    },
+    {
+      "title": "Принцезата Јуџин го откри името на ќерката, ѝ оддаде посебна почит на кралицата Елизабета",
+      "summary": "Принцезата Јуџин и нејзиниот сопруг Џек Бруксбанк го објавија името на нивната ќерка, која се роди пред две недели. Девојчето, нивното трето дете и по...",
+      "link": "https://makfax.com.mk/zanimlivosti/princezata-judhin-go-otkri-imeto-na-kerkata-%d1%9d-oddade-posebna-pochit-na-kralicata-elizabeta/",
+      "published": "Mon, 17 Aug 2026 19:24:14 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-17 21:48:55",
+      "language": "unknown"
+    },
+    {
+      "title": "Неочекувано, се пензионира Никола Калиниќ",
+      "summary": "Српскиот кошаркар Никола Калиниќ одлучи да ја заврши кариерата. Веста дека 34-годишниот кошаркар се повлекува од активната кариера дојде како гром од ...",
+      "link": "https://makfax.com.mk/sport/neochekuvano-se-penzionira-nikola-kalinik/",
+      "published": "Mon, 17 Aug 2026 19:23:11 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-17 21:48:55",
+      "language": "unknown"
+    },
     {
       "title": "Трамп: Иран сака договор, но не под условите на САД",
       "summary": "Американскиот претседател Доналд Трамп денеска изјави дека Иран сака да постигне договор со САД за неговата нуклеарна програма, но сè уште не е подгот...",
@@ -10,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:55",
       "language": "unknown"
     },
     {
@@ -21,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:55",
       "language": "unknown"
     },
     {
@@ -32,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:55",
       "language": "unknown"
     },
     {
@@ -43,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:55",
       "language": "unknown"
     },
     {
@@ -54,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:55",
       "language": "unknown"
     },
     {
@@ -65,62 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
-      "language": "unknown"
-    },
-    {
-      "title": "Нови седум осомничени за транспорт на марихуана од Македонија во Србија: Дрогата била прикриена како храна, перници и јоргани",
-      "summary": "Досегашниот тек на истрагата, што од февруари годинава се води во обвинителството за гонење на организиран криминал и корупција, за организиран трансп...",
-      "link": "https://makfax.com.mk/top/novi-sedum-osomnicheni-za-transport-na-marihuana-od-makedonija-vo-srbija-drogata-bila-prikriena-kako-hrana-pernici-i-jorgani/",
-      "published": "Mon, 17 Aug 2026 15:59:19 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
-      "language": "unknown"
-    },
-    {
-      "title": "Венецуела бара враќање на 31 тон злато од Велика Британија",
-      "summary": "Владата на Венецуела и дел од опозицијата постигнаа договор за заедничко барање за враќање на 31 тон злато во вредност од 4 милијарди долари, кое се н...",
-      "link": "https://makfax.com.mk/svet/venecuela-bara-vrakanje-na-31-ton-zlato-od-velika-britanija/",
-      "published": "Mon, 17 Aug 2026 15:47:06 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
-      "language": "unknown"
-    },
-    {
-      "title": "Работна средба на Шасивари со претставници на Проектот на Европската Унија за владеење на правото",
-      "summary": "Министерот за правда Јетон Шасивари одржа работна средба со претставници на Проектот на Европската Унија за владеење на правото, на која беа разгледан...",
-      "link": "https://makfax.com.mk/makedonija/rabotna-sredba-na-shasivari-so-pretstavnici-na-proektot-na-evropskata-unija-za-vladeenje-na-pravoto/",
-      "published": "Mon, 17 Aug 2026 15:42:37 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
-      "language": "unknown"
-    },
-    {
-      "title": "За една ноќ, казнети 63 возачи за возење под дејство на алкохол, осуммина уапсени",
-      "summary": "Синоќа полицијата казни 63 возачи за возење под дејство на алкохол на територија на цела држава, уапсени се осум возаччи. „Во текот на измината вечер ...",
-      "link": "https://makfax.com.mk/makedonija/za-edna-nok-kazneti-63-vozachi-za-vozenje-pod-dejstvo-na-alkohol-osummmina-uapseni/",
-      "published": "Mon, 17 Aug 2026 15:17:06 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:55",
       "language": "unknown"
     },
     {
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations...",
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 16:26:34 GMT",
+      "published": "Mon, 17 Aug 2026 19:25:05 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -131,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -142,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -153,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -164,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -175,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -186,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -197,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -208,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     },
     {
@@ -219,7 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-17 21:21:43",
+      "fetched_at": "2026-08-17 21:48:56",
       "language": "unknown"
     }
   ]
