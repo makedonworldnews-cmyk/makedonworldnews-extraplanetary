@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18 02:23:37",
+  "last_updated": "2026-08-18 03:56:49",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -120,18 +120,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 13:16:50 GMT",
+      "title": "Russia warns UK over supplying drones to Ukraine",
+      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 01:16:41 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
+      "language": "unknown"
+    },
+    {
+      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 23:42:38 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-18 03:56:49",
+      "language": "unknown"
+    },
+    {
+      "title": "Norway's king admitted to hospital and put on sick leave",
+      "summary": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 21:34:26 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -142,29 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
-      "language": "unknown"
-    },
-    {
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 18:00:55 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
-      "language": "unknown"
-    },
-    {
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 18:03:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -175,7 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
+      "language": "unknown"
+    },
+    {
+      "title": "French PM heckled over wildfire response as blazes continue across Europe",
+      "summary": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 18:00:55 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-18 03:56:49",
+      "language": "unknown"
+    },
+    {
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "summary": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 13:16:50 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
-      "language": "unknown"
-    },
-    {
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 16:02:58 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
-      "language": "unknown"
-    },
-    {
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 10:39:24 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-18 02:23:37",
+      "fetched_at": "2026-08-18 03:56:49",
       "language": "unknown"
     }
   ]
