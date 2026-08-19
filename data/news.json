@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 04:32:57",
+  "last_updated": "2026-08-19 05:26:40",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -109,18 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 22:11:07 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -131,18 +120,51 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 17:15:39 GMT",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade de...",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 02:41:36 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-19 05:26:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Ke...",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 03:00:35 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-19 05:26:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Husband and mother-in-law charged over Indian bride's death",
+      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+      "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 03:04:07 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -153,18 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 17:54:46 GMT",
+      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 03:12:06 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
@@ -175,51 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
-      "title": "US announces new sanctions on top ICC figures",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 20:21:49 GMT",
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 17:15:39 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     },
     {
-      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 16:00:30 GMT",
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 18 Aug 2026 17:54:46 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 12:04:11 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 00:07:37 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-19 04:32:57",
+      "fetched_at": "2026-08-19 05:26:40",
       "language": "unknown"
     }
   ]
