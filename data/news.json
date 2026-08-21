@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-08-21 10:51:46",
+  "last_updated": "2026-08-21 11:28:11",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Хуманитарен концерт „Заедно за подобро утре“ утре во Велес",
+      "summary": "На 22 август (сабота), во Спарта Ивент Центар во Велес, ќе се одржи хуманитарниот концерт „Together for a Better Tomorrow – Заедно за подобро утре“, п...",
+      "link": "https://makfax.com.mk/zanimlivosti/humanitaren-koncert-zaedno-za-podobro-utre-utre-vo-veles/",
+      "published": "Fri, 21 Aug 2026 09:21:50 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
+    {
+      "title": "AI Tech Summit „Filip Avramchev“ повторно ги носи глобалните ВИ лидери во Скопје",
+      "summary": "Скопје повторно ќе биде место за средба на технологијата, вештачката интелигенција, бизнисот и човечкиот потенцијал. На 22 и 23 септември во објектот ...",
+      "link": "https://makfax.com.mk/ekonomija/ai-tech-summit-filip-avramchev-povtorno-gi-nosi-globalnite-vi-lideri-vo-skopje/",
+      "published": "Fri, 21 Aug 2026 09:21:00 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
+    {
+      "title": "„Герасимовски да одговори зошто центарци ќе плаќаат 6,6 милиони денари за мобилна апликација, а притоа вели дека е бесплатна“, прашува ВМРО-ДПМНЕ",
+      "summary": "„Господине Герасимовски ја читаме вашата вчерашна реакција на прес-конференцијата на ОК Центар и не можеме да си поверуваме со каква леснотија ширите ...",
+      "link": "https://makfax.com.mk/makedonija/gerasimovski-da-odgovori-zoshto-centarci-ke-plakaat-66-milioni-denari-za-mobilna-aplikacija-a-pritoa-veli-deka-e-besplatna-prashuva-vmro-dpmne/",
+      "published": "Fri, 21 Aug 2026 09:12:20 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
+    {
+      "title": "Ѓорѓиевски: Сите возила на Град Скопје и јавните претпријатија под GPS контрола – помали трошоци, поголеми заштеди",
+      "summary": "Сите службени возила со кои располагаат Град Скопје и јавните претпријатија се опремени со GPS уреди и се следат преку современ мониторинг центар, изв...",
+      "link": "https://makfax.com.mk/makedonija/gorgievski-site-vozila-na-grad-skopje-i-javnite-pretprijatija-pod-gps-kontrola-pomali-troshoci-pogolemi-zashtedi/",
+      "published": "Fri, 21 Aug 2026 09:09:15 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
+    {
+      "title": "Алварез може да си оди, но не во Барселона",
+      "summary": "Сагата околу Хулијан Алварез трае цела лето. Играчот сака да оди во Барселона, но Атлетико не му дозволува. Сега во приказната влезе англискиот првак,...",
+      "link": "https://makfax.com.mk/sport/alvarez-mozhe-da-si-odi-no-ne-vo-barselona/",
+      "published": "Fri, 21 Aug 2026 09:03:05 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
+    {
+      "title": "Четворица музичари, 25 години пријателство, eдна вечер што никогаш повеќе нема да се повтори: Jazz Extravaganza на 22 август во Public Room",
+      "summary": "Што се случува кога четворица врвни музичари кои се познаваат речиси 25 години ќе престанат да ја следат мапата и ќе ѝ дозволат на музиката сама да го...",
+      "link": "https://makfax.com.mk/kultura/chetvorica-muzichari-25-godini-prijatelstvo-edna-vecher-shto-nikogash-poveke-nema-da-se-povtori-jazz-extravaganza-na-22-avgust-vo-public-room/",
+      "published": "Fri, 21 Aug 2026 09:00:15 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
     {
       "title": "Српски фудбалер уапсен во Португалија со кокаин вреден над 70 милиони евра",
       "summary": "Српскиот фудбалер Урош Милошевиќ (31), во средата, бил уапсен во Португалија, откако полицијата го запре во комбе на автопатот А6. Во возилото биле пр...",
@@ -10,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -21,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -32,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -43,73 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
-      "language": "unknown"
-    },
-    {
-      "title": "Актуелната Дина Јашари се потпишува на тематската песна за Лефти и Рајти",
-      "summary": "Целосен авторски проект, инспириран од сликовниците на Наташа Дукоска, продуцирана од наша, македонска продуцентска куќа, анимиран од македонско студи...",
-      "link": "https://makfax.com.mk/zanimlivosti/aktuelnata-dina-jashari-se-potpishuva-na-tematskata-pesna-za-lefti-i-rajti/",
-      "published": "Fri, 21 Aug 2026 08:08:59 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
-      "language": "unknown"
-    },
-    {
-      "title": "„СДС е единствената опозициска партија во историјата на политиката која не бара избори бидејќи е свесна дека ќе ги изгуби“, реагира ВМРО-ДПМНЕ",
-      "summary": "„Со месеци СДС и нејзиниот формален претседател Филипче, преку соопштенија и прес-конференции велат дека граѓаните не веруваат во Владата предводена о...",
-      "link": "https://makfax.com.mk/makedonija/sds-e-edinstvenata-opoziciska-partija-vo-istorijata-na-politikata-koja-ne-bara-izbori-bidejki-e-svesna-deka-ke-gi-izgubi-reagira-vmro-dpmne/",
-      "published": "Fri, 21 Aug 2026 08:05:38 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Руски авион навлегол во финскиот воздушен простор?",
-      "summary": "Финското Министерство за одбрана пријави сомневања дека руски авион вчера го нарушил финскиот воздушен простор над западниот Фински Залив. Покрената е...",
-      "link": "https://makfax.com.mk/svet/ruski-avion-navlegol-vo-finskiot-vozdushen-prostor/",
-      "published": "Fri, 21 Aug 2026 07:53:07 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
-      "language": "unknown"
-    },
-    {
-      "title": "Брајтон одби 60 милиони евра за Минтех",
-      "summary": "Ливерпул му испрати на Брајтон понуда вредна околу 58 милиони евра за Јанкуба Минтех (22). Челниците на Брајтон експресно ја одбиле понудата, објавија...",
-      "link": "https://makfax.com.mk/sport/brajton-odbi-60-milioni-evra-za-minteh/",
-      "published": "Fri, 21 Aug 2026 07:47:13 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
-      "language": "unknown"
-    },
-    {
-      "title": "Претседателката Гордана Сиљановска-Давкова на свеченото отворање на 20. Медитерански игри во Италија",
-      "summary": "Претседателката Гордана Сиљановска-Давкова денеска ќе присуствува на свеченото отворање на 20. Медитерански игри, коишто се одржуваат во Таранто, Итал...",
-      "link": "https://makfax.com.mk/makedonija/pretsedatelkata-gordana-siljanovska-davkova-na-svechenoto-otvoranje-na-20-mediteranski-igri-vo-italija/",
-      "published": "Fri, 21 Aug 2026 07:44:14 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Меси по истрага на МЛС лигата",
-      "summary": "Лионел Меси е под истрага од страна на Дисциплинската комисија на МЛС поради дуелот со Квин Саливан за време на натпреварот Интер Мајами-Филаделфија Ј...",
-      "link": "https://makfax.com.mk/sport/video-mesi-po-istraga-na-mls-ligata/",
-      "published": "Fri, 21 Aug 2026 07:39:02 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:45",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -120,18 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
-      "language": "unknown"
-    },
-    {
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 18:55:14 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -142,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -153,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -164,18 +153,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
-      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:33:27 GMT",
+      "title": "Meghan could return to acting once back in UK",
+      "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 02:52:29 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
+      "language": "unknown"
+    },
+    {
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 04:27:13 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
@@ -186,40 +186,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
       "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+      "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
       "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 21 Aug 2026 05:30:18 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
-      "title": "Japan executes man who killed five in Pachinko parlour fire",
-      "summary": "This is the first time since June 2025 that the country has enacted capital punishment.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:49:27 GMT",
+      "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
+      "summary": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:33:32 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     },
     {
-      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 20:08:29 GMT",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 02:33:27 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-08-21 10:51:46",
+      "fetched_at": "2026-08-21 11:28:11",
       "language": "unknown"
     }
   ]
