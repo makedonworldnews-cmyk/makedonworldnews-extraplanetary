@@ -1,7 +1,84 @@
 {
-  "last_updated": "2026-09-02 19:20:47",
+  "last_updated": "2026-09-02 21:55:07",
   "article_count": 20,
   "articles": [
+    {
+      "title": "Израелски министер: Нема решение за Газа без иселување на Палестинците",
+      "summary": "Израелскиот министер за одбрана Израел Кац повторно се заложи за иселување на Палестинците од Појасот Газа, тврдејќи дека без масовна миграција нема т...",
+      "link": "https://makfax.com.mk/svet/izraelski-minister-nema-reshenie-za-gaza-bez-iseluvanje-na-palestincite/",
+      "published": "Wed, 02 Sep 2026 19:12:13 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Познато е кој ќе ја наследи десетката на Меси",
+      "summary": "По пензионирањето на Лионел Меси од репрезентацијата на Аргентина, едно од прашањата што се поставува е кој ќе ја носи десетката? Се чини, дека селект...",
+      "link": "https://makfax.com.mk/sport/poznato-e-koj-ke-ja-nasledi-desetkata-na-mesi/",
+      "published": "Wed, 02 Sep 2026 18:59:05 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "По Јилдиз и Тирам мора на операција",
+      "summary": "Играчот од средниот ред на Јувентус, Кефрен Тирам, оди на операција и тимот ќе мора да игра без негова помош во значителен дел од сезоната. На почеток...",
+      "link": "https://makfax.com.mk/sport/po-jildiz-i-tiram-mora-na-operacija/",
+      "published": "Wed, 02 Sep 2026 18:47:05 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Стефан Ристовски пред трансфер во Вардар",
+      "summary": "Стефан Ристовски би можел да се врати во клубот каде што ја започна својата професионална кариера. Искусниот 34-годишен дефанзивец е блиску до договор...",
+      "link": "https://makfax.com.mk/sport/stefan-ristovski-pred-transfer-vo-vardar/",
+      "published": "Wed, 02 Sep 2026 18:36:05 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Мурињо воведе пет строги правила во Реал",
+      "summary": "Жозе Мурињо се врати во Реал Мадрид ова лето, а намерата на претседателот на клубот Флорентино Перез е познатиот португалски тренер да ги смири страст...",
+      "link": "https://makfax.com.mk/sport/murinjo-vovede-pet-strogi-pravila-vo-real/",
+      "published": "Wed, 02 Sep 2026 18:24:03 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Рубио за тајната посета на шефот на ЦИА на Москва: Беше главно рутинска",
+      "summary": "Американскиот државен секретар Марко Рубио изјави дека неодамнешната тајна посета на директорот на ЦИА, Џон Ретклиф, на Москва била главно од рутинска...",
+      "link": "https://makfax.com.mk/svet/rubio-za-tajnata-poseta-na-shefot-na-cia-na-moskva-beshe-glavno-rutinska/",
+      "published": "Wed, 02 Sep 2026 17:54:02 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Трамп: Треба ли Ормускиот Теснец да го наречеме Трампов Теснец?",
+      "summary": "Американскиот претседател Доналд Трамп предложи Ормускиот Теснец, една од клучните точки во актуелната војна против Иран што ја започнаа САД и Израел,...",
+      "link": "https://makfax.com.mk/svet/tramp-treba-li-ormuskiot-tesnec-da-go-narecheme-trampov-tesnec/",
+      "published": "Wed, 02 Sep 2026 17:43:59 +0000",
+      "source_name": "МАКФАКС",
+      "region": "🏔️ Балкан",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
     {
       "title": "Русија повика германски дипломат на разговор: Постапките на Берлин ќе наидат на силен одговор",
       "summary": "Руското Министерство за надворешни работи во средата повика на разговор германски дипломат за да ги отфрли „целосно измислените“ обвинувања на Германи...",
@@ -10,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -21,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -32,84 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Четири хороскопски знаци ги чека тежок финансиски септември",
-      "summary": "Септември носи сериозни финансиски предизвици за четири хороскопски знаци – Овен, Бик, Стрелец и Риби. Според астролошките прогнози, најголемите ризиц...",
-      "link": "https://makfax.com.mk/zanimlivosti/chetiri-horoskopski-znaci-gi-cheka-tezhok-finansiski-septemvri/",
-      "published": "Wed, 02 Sep 2026 15:32:29 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Меџити: Меморандум со Универзитетот „Мајка Тереза“, соработка за здравјето и развојот на децата",
-      "summary": "Градоначалникот на Општина Чаир, Изет Меџити, потпиша меморандум за соработка меѓу Општина Чаир и Универзитетот „Мајка Тереза“, со цел обединување на ...",
-      "link": "https://makfax.com.mk/makedonija/medhiti-memorandum-so-univerzitetot-majka-tereza-sorabotka-za-zdravjeto-i-razvojot-na-decata/",
-      "published": "Wed, 02 Sep 2026 15:06:26 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Ердоган остро ја предупреди Грција: Престанете да ги вооружувате островите",
-      "summary": "Турскиот претседател Реџеп Таип Ердоган ја предупреди Грција да се откаже од, како што оцени, погрешниот пат и да престане да ги вооружува островите с...",
-      "link": "https://makfax.com.mk/svet/region/erdogan-ostro-ja-predupredi-grcija-prestanete-da-gi-vooruzhuvate-ostrovite/",
-      "published": "Wed, 02 Sep 2026 14:36:28 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Непал го обновува системот за предупредување, последниот пат доцнеше 41 минута",
-      "summary": "Една недела откако поплавите предизвикани од уривање на глечер убија повеќе од илјада луѓе, Непал планира да го обнови системот за рано предупредување...",
-      "link": "https://makfax.com.mk/svet/nepal-go-obnovuva-sistemot-za-predupreduvanje-posledniot-pat-docneshe-41-minuta/",
-      "published": "Wed, 02 Sep 2026 14:14:32 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Напади во Германија: Вчера експлозија во електрана, денес нова саботажа",
-      "summary": "Еден ден по експлозијата во трафостаницата до термоцентралата на истокот од Германија, саботажа беше извршена и денес во трафостаницата на западот од ...",
-      "link": "https://makfax.com.mk/svet/se-stanuva-napnato-vo-germanija-vchera-eksplozija-vo-elektranata-denes-nova-sabotazha/",
-      "published": "Wed, 02 Sep 2026 14:07:41 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "Французите спречиле Мбапе да биде киднапиран",
-      "summary": "Француската полиција го истражува случајот на 18-годишниот Клемен Л., кој на 21 август 2026 година во Нантер беше обвинет за организирање разбојничка ...",
-      "link": "https://makfax.com.mk/sport/francuzite-sprechile-mbape-da-bide-kidnapiran/",
-      "published": "Wed, 02 Sep 2026 13:50:03 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "(Видео) Во септември, светска и македонска премиера на филмот „Нема да ви се верува што се случи претходно“",
-      "summary": "По светската премиера во официјалната конкуренција на Меѓународниот филмски фестивал во Олденбург, македонскиот долгометражен филм „Нема да ви се веру...",
-      "link": "https://makfax.com.mk/kultura/video-vo-septemvri-svetska-i-makedonska-premiera-na-filmot-nema-da-vi-se-veruva-shto-se-sluchi-prethodno/",
-      "published": "Wed, 02 Sep 2026 13:37:42 +0000",
-      "source_name": "МАКФАКС",
-      "region": "🏔️ Балкан",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
+      "language": "unknown"
+    },
+    {
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 17:33:45 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -131,7 +142,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -153,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -164,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -175,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -186,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -197,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     },
     {
@@ -208,18 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
-      "language": "unknown"
-    },
-    {
-      "title": "What we know about reported strike on Iran wedding celebrations",
-      "summary": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
-      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 10:33:47 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-02 19:20:47",
+      "fetched_at": "2026-09-02 21:55:07",
       "language": "unknown"
     }
   ]
