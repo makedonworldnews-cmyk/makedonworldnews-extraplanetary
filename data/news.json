@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 00:39:19",
+  "last_updated": "2026-09-12 02:39:33",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -120,7 +120,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 20:34:29 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-12 02:39:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Passenger train derails in France leaving at least 44 injured",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 21:25:32 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-12 02:39:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Arrest made over the death of black woman found hanged from tree",
+      "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 12 Sep 2026 00:31:16 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -131,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -142,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 12:04:46 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -164,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
+      "language": "unknown"
+    },
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 12:04:46 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -175,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 06:33:15 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 21:07:19 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
-      "language": "unknown"
-    },
-    {
-      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
-      "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 11 Sep 2026 08:54:20 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-12 00:39:19",
+      "fetched_at": "2026-09-12 02:39:33",
       "language": "unknown"
     }
   ]
