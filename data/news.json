@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19 23:12:11",
+  "last_updated": "2026-09-20 01:09:56",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -109,29 +109,40 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:10",
+      "fetched_at": "2026-09-20 01:09:56",
+      "language": "unknown"
+    },
+    {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capi...",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "published": "Sat, 19 Sep 2026 23:00:27 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:01:38 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -142,7 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -153,7 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -164,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
-      "language": "unknown"
-    },
-    {
-      "title": "Millions without power as Cuba hit by latest major blackout",
-      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 10:27:37 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
-      "language": "unknown"
-    },
-    {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 20:17:50 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-19 23:12:11",
+      "fetched_at": "2026-09-20 01:09:56",
       "language": "unknown"
     }
   ]
