@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19 02:35:59",
+  "last_updated": "2026-09-19 07:02:12",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:58",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -120,18 +120,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 18:04:38 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -142,7 +131,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
+      "language": "unknown"
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 04:27:11 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-19 07:02:12",
+      "language": "unknown"
+    },
+    {
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "summary": "Residents later received the all-clear after explosions were reported in the capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 04:20:47 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-19 07:02:12",
+      "language": "unknown"
+    },
+    {
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 18:04:38 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -153,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -164,7 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -175,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Dozens of suspected illegal miners die in Nigerian custody",
-      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 15:47:28 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
-      "language": "unknown"
-    },
-    {
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:59:42 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-19 02:35:59",
+      "fetched_at": "2026-09-19 07:02:12",
       "language": "unknown"
     }
   ]
