@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22 22:10:57",
+  "last_updated": "2026-09-23 00:58:06",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -109,18 +109,51 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:56",
+      "fetched_at": "2026-09-23 00:58:06",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+      "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 21:50:31 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-23 00:58:06",
+      "language": "unknown"
+    },
+    {
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 06:03:22 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
       "title": "US to build two military bases in Greenland under new deal with Denmark",
       "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
       "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 18:43:29 GMT",
+      "published": "Tue, 22 Sep 2026 21:36:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
+      "language": "unknown"
+    },
+    {
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 20:59:00 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -131,7 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -142,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -153,18 +186,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Eleven injured in shooting outside Turkish school",
-      "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 10:42:47 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
@@ -175,51 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
-      "title": "Top South African policeman charged with sexual offences",
-      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 16:54:41 GMT",
+      "title": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 21:09:25 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     },
     {
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 15:17:37 GMT",
+      "title": "Eleven injured in shooting outside Turkish school",
+      "summary": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 10:42:47 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting...",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 16:57:55 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
-      "language": "unknown"
-    },
-    {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 14:16:42 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-22 22:10:57",
+      "fetched_at": "2026-09-23 00:58:06",
       "language": "unknown"
     }
   ]
