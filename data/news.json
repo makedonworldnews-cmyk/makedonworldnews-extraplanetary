@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28 01:22:00",
+  "last_updated": "2026-09-28 03:49:00",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -109,29 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 07:44:11 GMT",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 21:16:31 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 14:09:22 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -142,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -153,7 +142,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
+      "language": "unknown"
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 14:09:22 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -164,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
-      "language": "unknown"
-    },
-    {
-      "title": "One dead as nor'easter storm pummels New York and New Jersey",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 12:34:26 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -186,7 +175,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
+      "language": "unknown"
+    },
+    {
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 16:02:17 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-28 03:49:00",
+      "language": "unknown"
+    },
+    {
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 07:44:11 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
@@ -197,29 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     },
     {
-      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
-      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 26 Sep 2026 23:04:08 GMT",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 23:37:26 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
-      "language": "unknown"
-    },
-    {
-      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
-      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 27 Sep 2026 16:35:41 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 01:22:00",
+      "fetched_at": "2026-09-28 03:49:00",
       "language": "unknown"
     }
   ]
