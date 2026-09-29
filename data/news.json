@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28 23:56:33",
+  "last_updated": "2026-09-29 03:41:40",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
+      "language": "unknown"
+    },
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 01:18:24 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -120,7 +131,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
+      "language": "unknown"
+    },
+    {
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 20:50:03 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -131,18 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
-      "language": "unknown"
-    },
-    {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 17:26:21 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -153,7 +164,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "summary": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 22:27:33 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-29 03:41:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 28 Sep 2026 17:26:21 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -164,7 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -175,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
-      "language": "unknown"
-    },
-    {
-      "title": "Four bodies found after avalanche hits Himalayan climbing group",
-      "summary": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 16:13:44 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
-      "language": "unknown"
-    },
-    {
-      "title": "Plan for controversial Sydney data centre scrapped after push-back",
-      "summary": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 12:47:09 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
-      "language": "unknown"
-    },
-    {
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 28 Sep 2026 18:11:07 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-09-28 23:56:33",
+      "fetched_at": "2026-09-29 03:41:40",
       "language": "unknown"
     }
   ]
