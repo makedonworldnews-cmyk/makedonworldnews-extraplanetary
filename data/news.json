@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01 01:44:43",
+  "last_updated": "2026-10-01 04:29:32",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -109,7 +109,18 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
+      "language": "unknown"
+    },
+    {
+      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+      "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 02:29:04 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -120,7 +131,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -131,18 +142,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
       "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before judges from a lower court paused the execution.",
+      "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 23:42:10 GMT",
+      "published": "Thu, 01 Oct 2026 01:45:09 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
+      "language": "unknown"
+    },
+    {
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 00:08:23 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -153,7 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -164,18 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 17:11:08 GMT",
+      "title": "California bans child marriage, a practice still legal in 32 US states",
+      "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 00:57:04 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
-      "language": "unknown"
-    },
-    {
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 11:36:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
-      "language": "unknown"
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "summary": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 15:04:32 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-01 01:44:43",
+      "fetched_at": "2026-10-01 04:29:32",
       "language": "unknown"
     }
   ]
