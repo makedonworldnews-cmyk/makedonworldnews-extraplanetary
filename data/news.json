@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 23:40:41",
+  "last_updated": "2026-10-11 02:30:29",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:40",
+      "fetched_at": "2026-10-11 02:30:28",
       "language": "unknown"
     },
     {
@@ -120,7 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
+      "language": "unknown"
+    },
+    {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Oct 2026 00:21:52 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-11 02:30:29",
+      "language": "unknown"
+    },
+    {
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:13:08 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     },
     {
@@ -131,18 +153,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
-      "language": "unknown"
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 21:27:10 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     },
     {
@@ -153,18 +164,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     },
     {
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 19:08:17 GMT",
+      "published": "Sat, 10 Oct 2026 23:19:55 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     },
     {
@@ -175,7 +186,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
+      "language": "unknown"
+    },
+    {
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headt...",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     },
     {
@@ -186,7 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     },
     {
@@ -197,29 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
-      "language": "unknown"
-    },
-    {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 12:29:31 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
-      "language": "unknown"
-    },
-    {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breac...",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 10:06:23 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-10 23:40:41",
+      "fetched_at": "2026-10-11 02:30:29",
       "language": "unknown"
     }
   ]
