@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16 23:54:30",
+  "last_updated": "2026-10-17 02:09:53",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -120,7 +120,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 23:07:38 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -131,7 +142,51 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 21:05:05 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-17 02:09:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 23:54:35 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-17 02:09:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 23:07:18 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-17 02:09:53",
+      "language": "unknown"
+    },
+    {
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 23:20:37 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -142,18 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
-      "language": "unknown"
-    },
-    {
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 14:36:39 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -164,18 +208,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
-      "language": "unknown"
-    },
-    {
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 14:21:32 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     },
     {
@@ -186,40 +219,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
-      "language": "unknown"
-    },
-    {
-      "title": "Albanian protests turn violent: What we know",
-      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a diffe...",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 14:33:32 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
-      "language": "unknown"
-    },
-    {
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 14:57:51 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
-      "language": "unknown"
-    },
-    {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 08:45:54 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-16 23:54:30",
+      "fetched_at": "2026-10-17 02:09:53",
       "language": "unknown"
     }
   ]
