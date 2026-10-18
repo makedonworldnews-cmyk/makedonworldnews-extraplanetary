@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 23:19:58",
+  "last_updated": "2026-10-19 01:23:40",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -120,29 +120,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
       "title": "What we know so far about deadly fire at Canadian military base",
       "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 21:16:42 GMT",
+      "published": "Sun, 18 Oct 2026 21:37:56 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:20:15 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports fro...",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
       "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 21:00:22 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -153,18 +164,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
-      "language": "unknown"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:16:14 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -175,29 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 12:16:14 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
-      "language": "unknown"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 20:53:00 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
@@ -208,18 +197,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     },
     {
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 19:19:16 GMT",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 01:10:25 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-18 23:19:58",
+      "fetched_at": "2026-10-19 01:23:40",
+      "language": "unknown"
+    },
+    {
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 20:53:00 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-19 01:23:40",
       "language": "unknown"
     }
   ]
