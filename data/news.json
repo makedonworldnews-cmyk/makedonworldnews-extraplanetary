@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 01:23:40",
+  "last_updated": "2026-10-19 03:29:48",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -109,7 +109,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -120,18 +120,29 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 21:37:56 GMT",
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 22:22:51 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
+      "language": "unknown"
+    },
+    {
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -142,7 +153,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
+      "language": "unknown"
+    },
+    {
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -153,7 +175,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
+      "language": "unknown"
+    },
+    {
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:28:45 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -164,29 +197,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 19:53:27 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
-      "language": "unknown"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:16:14 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
@@ -197,29 +208,18 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     },
     {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 19:53:27 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
-      "language": "unknown"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 20:53:00 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-10-19 01:23:40",
+      "fetched_at": "2026-10-19 03:29:48",
       "language": "unknown"
     }
   ]
