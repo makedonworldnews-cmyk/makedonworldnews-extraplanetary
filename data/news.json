@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11 00:21:28",
+  "last_updated": "2026-11-11 03:52:55",
   "article_count": 20,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -21,7 +21,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -32,7 +32,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -43,7 +43,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -54,7 +54,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -76,7 +76,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -87,7 +87,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -98,7 +98,7 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -109,40 +109,62 @@
       "source_name": "МАКФАКС",
       "region": "🏔️ Балкан",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
+      "language": "unknown"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed ...",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-11-11 03:52:55",
+      "language": "unknown"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-11-11 03:52:55",
+      "language": "unknown"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 01:14:40 GMT",
+      "source_name": "BBC News",
+      "region": "🌍 World",
+      "category": "Новости",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 22:17:45 GMT",
+      "published": "Wed, 11 Nov 2026 02:41:16 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:18:07 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
-      "language": "unknown"
-    },
-    {
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 17:03:16 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -153,18 +175,7 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
-      "language": "unknown"
-    },
-    {
-      "title": "Spain's king and queen attend memorial service for rail crash victims",
-      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 20:46:40 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
@@ -175,51 +186,40 @@
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 15:21:18 GMT",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 17:03:16 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 21:21:55 GMT",
+      "title": "Spain's king and queen attend memorial service for rail crash victims",
+      "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 20:46:40 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     },
     {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 22:52:15 GMT",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 18:33:51 GMT",
       "source_name": "BBC News",
       "region": "🌍 World",
       "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
-      "language": "unknown"
-    },
-    {
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Nov 2026 13:23:54 GMT",
-      "source_name": "BBC News",
-      "region": "🌍 World",
-      "category": "Новости",
-      "fetched_at": "2026-11-11 00:21:28",
+      "fetched_at": "2026-11-11 03:52:55",
       "language": "unknown"
     }
   ]
